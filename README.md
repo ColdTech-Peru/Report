@@ -292,39 +292,27 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-**Hipótesis 1: Adopción del Producto**
 
-Creemos que los negocios de alimentos y bebidas adoptarán nuestra plataforma para gestionar sus equipos de refrigeración, utilizándola regularmente para el monitoreo y la gestión de tareas.
-Sabremos que hemos tenido éxito cuando la mayoría de nuestros usuarios activos semanales utilicen tanto la función de monitoreo en tiempo real como la de gestión de servicios durante los primeros meses de suscripción.
+**Hypothesis Statement \#1 – Segment \#1: : Empresas con alta dependencia de sistemas de refrigeración**
 
----
+ Creemos que, si las empresas con alta dependencia de sistemas de refrigeración cuentan con una plataforma web que les permita monitorear en tiempo real la temperatura, el rendimiento y el consumo energético de sus equipos, entonces podrán detectar anomalías con mayor anticipación, reducir fallas críticas y disminuir pérdidas operativas.
 
-**Hipótesis 2: Mitigación de Pérdidas**
+**Hypothesis Statement \#2 – Segment \#1: Preventive Alerts and Maintenance Management**  
+ Creemos que, si estas empresas reciben alertas preventivas y disponen de un historial de funcionamiento y mantenimiento de sus equipos, entonces podrán tomar decisiones más oportunas, mejorar la planificación del mantenimiento y optimizar la continuidad de sus operaciones.
 
-Creemos que, al proporcionar monitoreo en tiempo real y alertas tempranas, reduciremos significativamente las pérdidas de inventario de nuestros clientes relacionadas con fallos en la refrigeración.
-Sabremos que hemos tenido éxito cuando una gran parte de nuestros clientes que reporten pérdidas de inventario confirmen que la alerta de nuestra plataforma les permitió actuar a tiempo para mitigar el daño, reflejándose en una notable reducción de pérdidas en sus registros.
+**Hypothesis Statement \#3 – Segment \#2:  Empresas de mantenimiento** Creemos que, si las empresas de mantenimiento cuentan con acceso centralizado a la información técnica, historial de funcionamiento y alertas de los equipos de sus clientes, entonces podrán responder de manera más rápida, organizar mejor sus servicios y ofrecer un mantenimiento más eficiente y preventivo.
 
----
+**Hypothesis Statement \#4 – Integrated Digital Solution**  
+ Creemos que, si se integra en una sola plataforma el monitoreo en tiempo real, las alertas preventivas, el historial de funcionamiento y la gestión del mantenimiento, entonces los usuarios percibirán la solución como más útil y confiable que los métodos manuales o reactivos que utilizan actualmente.
 
-**Hipótesis 3: Eficiencia del Servicio**
+**Hypothesis Statement \#5 – Business Value**  
+ Creemos que, si la plataforma ayuda a prevenir fallas, reducir pérdidas de productos y mejorar el uso de los recursos energéticos, entonces las empresas usuarias estarán más dispuestas a adoptar la solución y a incorporarla como parte de su operación diaria.
 
-Creemos que nuestra plataforma optimizará la cadena de servicio, reduciendo sustancialmente el tiempo promedio de respuesta y resolución de un problema de refrigeración.
-Sabremos que hemos tenido éxito cuando los técnicos de servicio registren que el tiempo desde la solicitud hasta la finalización de un servicio se ha acortado notablemente en comparación con sus procesos manuales, y esta mejora se refleje en los informes generados por nuestra plataforma.
+**Hypothesis Statement \#6 – Initial Adoption**  
+ Creemos que, si la solución se implementa inicialmente en empresas de Lima que dependen directamente de la cadena de frío, entonces será más factible validar la propuesta de valor, obtener retroalimentación temprana y ajustar la plataforma según las necesidades reales del mercado objetivo.
 
----
-
-**Hipótesis 4: Satisfacción del Cliente**
-
-Creemos que la centralización de la gestión y la transparencia del proceso de servicio mejorarán la satisfacción de los clientes con el mantenimiento de sus equipos.
-Sabremos que hemos tenido éxito cuando obtengamos una alta puntuación promedio en las encuestas de satisfacción del cliente relacionadas con la coordinación de servicios, y recibamos testimonios que resalten la facilidad y la claridad del proceso.
-
----
-
-**Hipótesis 5: Retención y Valor a Largo Plazo**
-
-Creemos que la propuesta de valor de nuestra plataforma, centrada en la automatización y el ahorro, incentivará la retención a largo plazo de los clientes.
-Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes continúen utilizando la plataforma después de los primeros meses, y veamos que renuevan sus suscripciones de forma recurrente.
-
+**Hypothesis Statement \#7 – Success Criteria**  
+ Creemos que la solución será exitosa si los usuarios logran reducir incidencias críticas, mejorar el control de sus equipos, optimizar la gestión del mantenimiento y percibir una mejora en la eficiencia operativa gracias al uso de la plataforma.
 #### 1.2.2.4 Lean UX Canvas
 
 <figure style="page-break-inside: avoid; text-align: center;">
