@@ -347,41 +347,15 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 ## 1.3 Segmentos objetivos
 
-**Segmento Objetivo 1:
+La solución propuesta está dirigida a dos segmentos principales relacionados con la gestión y el mantenimiento de equipos de refrigeración. Ambos segmentos participan directamente en la operación de la cadena de frío y presentan necesidades específicas que justifican el desarrollo de una plataforma digital orientada al monitoreo en tiempo real, la prevención de fallas y la optimización del mantenimiento. De acuerdo con el enfoque del proyecto, estos segmentos se describen considerando sus características demográficas y su relación con el problema identificado.
 
-**Aspectos demográficos:**
-- **Tipo de negocio:** Pequeñas, medianas y grandes empresas.
-- **Rubro:** Alimentario, farmacéutico, restauración y comercio minorista.
-- **Nivel de necesidad:** Alta dependencia de sistemas de refrigeración.
+**Segmento \#1: Empresas con alta dependencia de sistemas de refrigeración**  
+ Este segmento está conformado por negocios y organizaciones que requieren equipos de refrigeración para conservar productos y garantizar la continuidad de sus operaciones. Aquí se incluyen supermercados, minimarkets, restaurantes, laboratorios, boticas, empresas del sector alimentario y empresas del sector farmacéutico. En términos demográficos, se trata principalmente de propietarios, administradores, jefes de operaciones o encargados de logística, generalmente adultos en edad laboral, ubicados en zonas urbanas y con actividad económica formal. Su principal necesidad es reducir pérdidas por fallas en los equipos, mantener condiciones adecuadas de conservación y optimizar el consumo energético y los costos operativos.
 
-**Aspectos geográficos:**
-- **Nacionalidad:** Peruana.
-- **Zona geográfica:** Urbana.
-- **Departamento:** Lima.
+**Segmento \#2: Empresas de mantenimiento**  
+ Este segmento está conformado por empresas y técnicos especializados en instalación, revisión y mantenimiento de equipos de refrigeración. Incluye pequeñas y medianas empresas de servicio técnico, así como proveedores que atienden a negocios que dependen de la cadena de frío. En términos demográficos, está integrado principalmente por técnicos, supervisores y responsables de servicio, generalmente adultos en edad laboral con conocimientos operativos y técnicos del sector. Su principal necesidad es contar con herramientas digitales que les permitan organizar mejor sus servicios, acceder al historial técnico de los equipos, mejorar sus tiempos de respuesta y ofrecer un servicio más eficiente y preventivo a sus clientes.
 
-**Aspectos psicográficos:**
-- **Motivación:** Evitar pérdidas económicas por fallas en la refrigeración y reducir costos operativos.
-- **Valores:** La eficiencia, la calidad del inventario y el control de las operaciones.
-- **Intereses:** La adopción de tecnología para optimizar la gestión y asegurar la tranquilidad en la operación diaria.
 
----
-
-**Segmento Objetivo 2:
-
-**Aspectos demográficos:**
-- **Tipo de negocio:** Profesionales independientes y compañías de servicio técnico.
-- **Rubro:** Mantenimiento y reparación de equipos de refrigeración.
-- **Nivel de necesidad:** Alta demanda de organización y eficiencia en sus procesos.
-
-**Aspectos geográficos:**
-- **Nacionalidad:** Peruana.
-- **Zona geográfica:** Urbana.
-- **Departamento:** Lima.
-
-**Aspectos psicográficos:**
-- **Motivación:** Incrementar la productividad, reducir el tiempo en tareas administrativas y mejorar la calidad de su servicio.
-- **Valores:** La profesionalidad, la eficiencia y la tecnología como herramienta para facilitar su trabajo.
-- **Intereses:** Contar con una plataforma que centralice la información, automatice la generación de reportes y mejore la comunicación con sus clientes.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
