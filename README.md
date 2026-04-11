@@ -313,16 +313,37 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 **Hypothesis Statement \#7 – Success Criteria**  
  Creemos que la solución será exitosa si los usuarios logran reducir incidencias críticas, mejorar el control de sus equipos, optimizar la gestión del mantenimiento y percibir una mejora en la eficiencia operativa gracias al uso de la plataforma.
+ 
 #### 1.2.2.4 Lean UX Canvas
 
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/lean-ux-canvas.png"
-       alt="Lean UX Canvas:"
-       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Lean UX Canvas.
-  </figcaption>
-</figure>
+(luego lo hago en lucichart)
+
+**1\. Business Problem**  
+ Las empresas que dependen de sistemas de refrigeración no cuentan con una solución integrada para monitorear sus equipos en tiempo real y gestionar el mantenimiento de forma preventiva, lo que genera fallas, pérdidas y mayores costos operativos.
+
+**2\. Business Outcomes**  
+ Reducir fallas críticas, disminuir pérdidas de productos, optimizar el consumo energético y mejorar la eficiencia en la gestión del mantenimiento.
+
+**3\. Users**  
+ Empresas con alta dependencia de sistemas de refrigeración.  
+ Empresas de mantenimiento de equipos de refrigeración.
+
+**4\. User Benefits**  
+ Los negocios podrán supervisar el estado de sus equipos, prevenir fallas y tomar decisiones oportunas.  
+ Las empresas de mantenimiento podrán organizar mejor sus servicios, acceder al historial técnico y responder con mayor rapidez.
+
+**5\. Solutions**  
+ Plataforma web con monitoreo en tiempo real mediante sensores IoT, alertas preventivas, historial de funcionamiento y gestión del mantenimiento.
+
+**6\. Hypotheses**  
+ Si las empresas cuentan con monitoreo en tiempo real y alertas preventivas, entonces podrán reducir fallas y pérdidas operativas.  
+ Si las empresas de mantenimiento acceden a información centralizada, entonces podrán brindar un servicio más eficiente y preventivo.
+
+**7\. What’s the most important thing we need to learn first?**  
+ Validar si los usuarios realmente consideran valioso contar con una plataforma que centralice el monitoreo y la gestión del mantenimiento de sus equipos de refrigeración.
+
+**8\. What’s the least amount of work we need to do to learn the next most important thing?**  
+ Diseñar un prototipo inicial y validarlo con entrevistas y pruebas con empresas de ambos segmentos para recoger retroalimentación temprana.
 
 ## 1.3 Segmentos objetivos
 
