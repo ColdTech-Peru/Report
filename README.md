@@ -266,102 +266,29 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 #### 1.2.2.2 Lean UX Assumption
 
-# Business Outcomes
+**Problem Assumptions**  
+ Se asume que muchas empresas que dependen de sistemas de refrigeración no cuentan con herramientas digitales que les permitan monitorear en tiempo real el estado de sus equipos. También se asume que la gestión actual del mantenimiento suele ser reactiva, por lo que las fallas se detectan tarde, generando pérdidas de productos, mayores costos operativos y consumo energético innecesario.
 
--	**Reducir las pérdidas de inventario:** La plataforma de FrostShield previene fallas térmicas, minimizando el descarte de productos y aumentando la rentabilidad de los negocios.
-- **Aumentar la eficiencia operativa:** Los técnicos pueden gestionar sus tareas de forma más inteligente y atender a más clientes en menos tiempo, lo que se traduce en una mayor productividad.
-- **Mejorar la fidelización de clientes:** Un servicio proactivo y transparente fortalece la confianza con los clientes, lo que lleva a una mayor retención y a relaciones comerciales a largo plazo.
-- **Optimizar los costos de mantenimiento:** La plataforma permite pasar de un modelo de mantenimiento reactivo, costoso e impredecible, a uno predictivo, que reduce los gastos en reparaciones de emergencia.
-- **Posicionar el liderazgo en el mercado:** Al ofrecer una solución tecnológica innovadora, el proyecto permite a los proveedores de servicio diferenciarse de su competencia y captar nuevos clientes de manera más efectiva.
-- **Generar ingresos recurrentes:** El modelo de negocio, basado en suscripciones y servicios de valor añadido, asegura un flujo de ingresos constante y escalable para la empresa.
-- **Disminuir el consumo energético:** El monitoreo en tiempo real del consumo de energía permite identificar y corregir ineficiencias, lo que se traduce en ahorros significativos para los negocios.
-- **Facilitar la toma de decisiones:** Los dueños de negocios tienen acceso a datos precisos y en tiempo real sobre el rendimiento de sus equipos, lo que les permite tomar decisiones más informadas para optimizar su operación.
+**User Assumptions – Segment \#1: Empresas con alta dependencia de sistemas de refrigeración**
 
-# User Outcomes
+ Se asume que este segmento necesita conocer en tiempo real el estado de sus equipos para reducir riesgos operativos. Asimismo, se considera que valora recibir alertas preventivas ante cambios de temperatura, fallas de funcionamiento o consumo energético inusual. Finalmente, se asume que estas empresas estarían interesadas en contar con un historial de funcionamiento y mantenimiento que les permita tomar mejores decisiones y evitar pérdidas.
 
-## ¿Quién será nuestro usuario?
+**User Assumptions – Segment \#2:  Empresas de mantenimiento**
 
-Nuestros usuarios clave son de tres tipos:
-- Negocios que dependen de la cadena de frío, como restaurantes, supermercados y laboratorios, para quienes una falla es una amenaza directa a su rentabilidad.
-- Técnicos especializados en refrigeración que necesitan herramientas para gestionar su trabajo de manera más eficiente.
-- Proveedores de equipos que buscan diferenciarse ofreciendo un servicio postventa de vanguardia.
+ Se asume que las empresas de mantenimiento necesitan una herramienta digital que centralice la información técnica de los equipos de sus clientes. También se considera que un acceso rápido al historial de funcionamiento, alertas y mantenimientos previos puede mejorar su tiempo de respuesta y la calidad del servicio. Además, se asume que este segmento ve valor en ofrecer un servicio más preventivo y organizado como ventaja competitiva frente a otros proveedores.
 
-## ¿Dónde encaja nuestro producto en su vida?
+**Solution Assumptions**  
+ Se asume que una aplicación web integrada con sensores IoT puede ayudar a resolver el problema al ofrecer monitoreo en tiempo real, alertas preventivas, historial de funcionamiento y gestión del mantenimiento en una sola plataforma. También se considera que centralizar esta información facilitará el control de los equipos, la prevención de fallas y una mejor planificación operativa tanto para las empresas usuarias como para los proveedores de mantenimiento.
 
-La plataforma se integra como una herramienta esencial para la gestión diaria de nuestros usuarios. 
-- Para los negocios, es una capa de seguridad que les garantiza la continuidad operativa y previene pérdidas. 
-- Para los técnicos, se convierte en su asistente personal para organizar clientes y visitas. 
-- Sirve como un registro centralizado y accesible que facilita auditorías y la toma de decisiones.
+**Value Assumptions**  
+ Se asume que la principal propuesta de valor para el Segmento \#1 será la reducción de pérdidas, la mejora del control operativo y la optimización del consumo energético. En el caso del Segmento \#2, se asume que el valor estará en mejorar la gestión de sus servicios, aumentar su eficiencia y ofrecer un servicio técnico más confiable y diferenciado.
 
-## ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+**Adoption Assumptions**  
+ Se asume que los primeros usuarios con mayor interés en adoptar la solución serán empresas ubicadas en Lima que dependan directamente de la cadena de frío y que ya hayan experimentado problemas por fallas en sus equipos o deficiencias en su mantenimiento. También se considera probable que las empresas de mantenimiento con interés en modernizar sus operaciones sean parte del segmento inicial de adopción.
 
-- Un desafío crítico es la precisión de los datos. Si las lecturas no son confiables, la plataforma pierde su valor. 
-- Para resolverlo, implementaremos sensores certificados y algoritmos de validación de datos que corrijan lecturas erróneas. 
-- Otro problema es la resistencia inicial de usuarios no tecnológicos. 
-- Esto se abordará con una interfaz simple y un proceso de “onboarding” intuitivo, además de tutoriales en video para facilitar la adopción.
+**Success Assumptions**  
+ Se asume que la solución será percibida como útil si permite reducir fallas críticas, disminuir pérdidas por productos dañados, mejorar la programación del mantenimiento y brindar mayor visibilidad sobre el estado de los equipos. Del mismo modo, se considerará valiosa si ayuda a que los proveedores de mantenimiento gestionen mejor sus servicios y respondan de manera más eficiente ante incidencias.
 
-## ¿Cómo y Cuándo es usado nuestro producto?
-
-- La plataforma es multiplataforma (web y móvil), lo que la hace accesible tanto desde una oficina como en el campo. 
-- Negocios la consultan para monitorear el estado de sus equipos
-- Los técnicos la utilizan para gestionar sus tareas.
-- También funciona de manera automática en segundo plano, enviando alertas inmediatas al detectar una anomalía, lo que permite una respuesta rápida incluso fuera del horario laboral.
-
-## ¿Qué características son importantes para la app?
-
-Las características clave incluyen: 
-- Monitoreo en tiempo real, alertas automatizadas y un historial técnico detallado. 
-- La plataforma también integra un calendario de mantenimiento y un módulo exclusivo para técnicos. 
-- Integración de IA para recomendaciones predictivas. 
-- Sistema de gestión de roles para múltiples usuarios y ubicaciones son esenciales.
-
-## ¿Cómo debe verse nuestro producto y cómo comportarse?
-
-- El diseño de la plataforma debe transmitir confianza y claridad. 
-- La interfaz será minimalista y centrada en la acción, mostrando la información más relevante de un vistazo. 
-- La experiencia de usuario debe ser fluida, con una navegación intuitiva y notificaciones inmediatas que no saturen al usuario, sino que lo mantengan siempre informado y en control.
-
-## ¿Qué valor busca el cliente?
-
-- El cliente busca simplificar la gestión de sus equipos y pasar de ser un gestor reactivo a uno proactivo. 
-- Los negocios desean seguridad operativa, saber que sus equipos están protegidos de fallas inesperadas y pérdidas. 
-- También buscan optimizar sus costos a través de la eficiencia energética y una mejor trazabilidad del rendimiento de sus sistemas.
-
-## ¿Qué beneficios adicionales obtendrá el cliente?
-
-- Obtendrán visibilidad total y remota de sus activos.
-- Soporte técnico más ágil gracias a la información centralizada
-- Reducción significativa de los costos operativos.
-- La plataforma proporcionará reportes personalizados que no podrían generar de forma manual.
-
-## ¿Cómo atraeremos usuarios?
-
-- Se implementará una estrategia de marketing de nicho que se dirija a la audiencia correcta a través de LinkedIn y correos.
-- Exploraremos alianzas estratégicas con proveedores de equipos para ofrecer la plataforma como un valor añadido en sus ventas. 
-- Prueba gratuita de 14 días para que los usuarios experimenten el valor del producto de primera mano, sin compromiso.
-
-## ¿Cómo generaremos ingresos?
-
-- Suscripción mensual, escalonada según el número de equipos y el nivel de funcionalidad. 
-- Modelo freemium para captar a usuarios más pequeños
-- Publicidad dirigida para marcas que deseen llegar a nuestra base de usuarios.
-
-## ¿Cuál es nuestra competencia y cómo la superamos?
-
-- Nuestra competencia son soluciones genéricas de gestión de mantenimiento y nuestra ventaja es la especialización. 
-- La plataforma está diseñada exclusivamente para la refrigeración, lo que nos permite ofrecer funciones avanzadas como la detección de anomalías en tiempo real y la automatización de acciones, que ninguna otra herramienta genérica puede igualar.
-
-## ¿Cuál es nuestro mayor riesgo?
-
-- Resistencia al cambio del personal tradicional.
-- Lentitud en la adopción inicial.
-- Desconfianza en la precisión de los datos.
-
-## ¿Cómo lo resolveremos?
-
-- Implementaremos algoritmos de validación robustos para asegurar la precisión de los datos.
-- Ofreceremos capacitación continua y soporte dedicado para facilitar la adopción.
-- comenzaremos con una estrategia de integración progresiva, enfocándonos en los equipos más comunes y trabajando con sensores certificados para generar una base de confianza sólida.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
