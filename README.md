@@ -242,6 +242,26 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 #### 1.2.2.1 Lean UX Problem Statements
 
+**Dominio del problema**  
+ El problema se ubica en la gestión y supervisión de equipos de refrigeración dentro de negocios que dependen de la cadena de frío. Actualmente, muchas empresas operan sin un sistema digital que les permita monitorear en tiempo real variables críticas como la temperatura, el rendimiento y el consumo energético, lo que dificulta la prevención de fallas y la correcta planificación del mantenimiento.
+
+**Alcance del problema**  
+ Este problema afecta la continuidad operativa de los negocios, ya que una falla en los equipos de refrigeración puede generar interrupciones en el servicio, deterioro de productos y mayores costos de operación. Su alcance es especialmente relevante en empresas que requieren conservar productos en condiciones controladas de temperatura, como ocurre en los sectores alimentario, comercial y farmacéutico.
+
+**Segmentos de cliente (actores involucrados)**  
+ **Segmento \#1:** Empresas con alta dependencia de sistemas de refrigeración, que buscan reducir pérdidas y optimizar su operación.  
+ **Segmento \#2:** Empresas de mantenimiento, que necesitan herramientas digitales para mejorar la gestión de sus servicios y ofrecer un valor agregado a sus clientes.
+
+**Puntos de dolor**  
+ **Segmento \#1:** Las empresas que dependen de sistemas de refrigeración enfrentan fallas inesperadas, pérdidas de productos, consumo energético elevado y falta de visibilidad sobre el estado real de sus equipos. Además, suelen gestionar el mantenimiento de manera reactiva, lo que incrementa los riesgos operativos y los costos no planificados.
+
+**Segmento \#2:** Las empresas de mantenimiento tienen dificultades para organizar sus servicios, realizar seguimiento del estado de los equipos y acceder al historial técnico de cada cliente. Esto limita su capacidad de respuesta, reduce la eficiencia de sus operaciones y dificulta ofrecer un servicio más preventivo y diferenciado.
+
+**Brecha detectada**  
+ Existe una brecha en el mercado debido a la falta de una solución integrada que permita centralizar el monitoreo en tiempo real, la generación de alertas preventivas, el historial de funcionamiento y la gestión del mantenimiento de equipos de refrigeración. Muchas organizaciones aún dependen de controles manuales o de acciones correctivas después de ocurrida la falla, lo cual reduce su capacidad de anticipación y respuesta.
+
+**Impactos y riesgos del problema**  
+ La falta de control y monitoreo sobre los equipos de refrigeración puede generar pérdidas económicas por productos dañados, gastos de reparación de emergencia, aumento del consumo energético y afectación en la continuidad del servicio. Además, representa un riesgo para la calidad operativa de las empresas y para la eficiencia del trabajo de los proveedores de mantenimiento, quienes no cuentan con información centralizada ni oportuna para actuar de manera preventiva. 
 
 
 #### 1.2.2.2 Lean UX Assumption
