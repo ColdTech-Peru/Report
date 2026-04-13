@@ -423,18 +423,20 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
 
 ## 2.1. Competidores
 
-**Competidor 1:** 
-
-
----
-
-**Competidor 2:**
-
+**Competidor 1: Copeland**  
+Copeland es una empresa reconocida en el sector de la refrigeración comercial e industrial. Sus soluciones combinan hardware, sensores y plataformas digitales que permiten monitorear equipos a distancia, optimizar el consumo energético y anticipar fallas. Es una opción sólida para grandes empresas que buscan eficiencia y control avanzado en sus operaciones.
 
 ---
 
-**Competidor 3:**
+**Competidor 2: Monnit**  
+Monnit se enfoca en ofrecer soluciones IoT simples y accesibles. A través de sensores inalámbricos, permite a los negocios monitorear variables como temperatura y humedad en tiempo real. Su principal ventaja es la facilidad de uso y rápida implementación, lo que la hace atractiva para pequeñas y medianas empresas.
 
+---
+
+**Competidor 3: ELPRO**  
+ELPRO está orientado principalmente a sectores exigentes como el farmacéutico y laboratorios. Sus soluciones destacan por su alta precisión y por ayudar a cumplir normativas estrictas en la cadena de frío. Es una alternativa confiable cuando la calidad y el control son críticos.
+
+---
 
 ### 2.1.1. Análisis competitivo
 
@@ -444,74 +446,141 @@ Sabremos que hemos tenido éxito cuando la gran mayoría de nuestros clientes co
   </tr>
   <tr>
     <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
-    <td colspan="5"> Con el objetivo de evaluar y comparar funcionalidades, tecnología, precios y estrategias de marketing de los principales competidores para identificar nuestras fortalezas y debilidades, detectar oportunidades negocio y identificar puntos que nos hagan diferenciar de la competencia. </td>
+    <td colspan="5"> Este análisis se realiza para entender mejor el mercado, comparar lo que ofrecen otras soluciones y encontrar oportunidades que permitan a Frigora diferenciarse y aportar mayor valor a sus usuarios. </td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td colspan="2"> </td>
+    <td> Frigora </td>
+    <td> Copeland </td>
+    <td> Monnit </td>
+    <td> ELPRO </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    
+    <td> Frigora es una plataforma que busca simplificar la gestión de sistemas de refrigeración, permitiendo monitorear equipos en tiempo real y contactar técnicos cuando sea necesario. </td>
+    <td> Ofrece soluciones completas para grandes sistemas de refrigeración con enfoque en eficiencia y control. </td>
+    <td> Proporciona sensores y una plataforma sencilla para monitoreo ambiental en tiempo real. </td>
+    <td> Brinda soluciones de monitoreo altamente precisas para entornos donde el control es crítico. </td>
   </tr>
   <tr>
-
+    <td>Ventaja competitiva</td>
+    <td> Integra en un solo lugar el monitoreo, la gestión y la posibilidad de resolver problemas rápidamente con técnicos. </td>
+    <td> Alta capacidad tecnológica y experiencia en el sector industrial. </td>
+    <td> Fácil de instalar, usar y mantener. </td>
+    <td> Alto nivel de confiabilidad y cumplimiento de estándares. </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil de Marketing</td>
-   
+    <td> Mercado Objetivo </td>
+    <td> Negocios como restaurantes, minimarkets, farmacias y técnicos independientes. </td>
+    <td> Grandes empresas y cadenas comerciales. </td>
+    <td> Pequeñas y medianas empresas. </td>
+    <td> Empresas farmacéuticas y laboratorios. </td>
   </tr>
   <tr>
-   
+    <td> Estrategias de Marketing </td>
+    <td> Uso de redes sociales, demostraciones gratuitas y alianzas locales. </td>
+    <td> Estrategias B2B y relaciones con grandes industrias. </td>
+    <td> Venta directa online y enfoque en facilidad de uso. </td>
+    <td> Participación en ferias y cumplimiento de certificaciones. </td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto</td>
-  
+    <td> Productos & Servicios </td>
+    <td> Monitoreo en tiempo real, alertas, historial de equipos y conexión con técnicos. </td>
+    <td> Sistemas avanzados que combinan hardware y software para control de refrigeración. </td>
+    <td> Sensores IoT junto a una plataforma de monitoreo en la nube. </td>
+    <td> Equipos y software para monitoreo con alta precisión. </td>
   </tr>
   <tr>
     <td> Precios & Costos </td>
-
+    <td> Modelo accesible con versión gratuita y pagos según uso. </td>
+    <td> Soluciones costosas orientadas a empresas grandes. </td>
+    <td> Suscripciones económicas. </td>
+    <td> Costos más altos debido a su especialización. </td>
   </tr>
   <tr> 
-    
+    <td>Canales de distribución</td>
+    <td> Plataforma web y aplicación móvil. </td>
+    <td> Soluciones empresariales y plataformas digitales. </td>
+    <td> Web y aplicación móvil. </td>
+    <td> Web y aplicación móvil. </td>
   </tr>
   <tr>
     <td rowspan="4"> Análisis SWOT </td>
     <td> Fortalezas </td>
-    
+    <td> Plataforma completa y fácil de entender. </td>
+    <td> Tecnología avanzada y gran experiencia. </td>
+    <td> Bajo costo y facilidad de uso. </td>
+    <td> Alta precisión y confiabilidad. </td>
   </tr>
   <tr>
     <td> Debilidades </td>
-   
+    <td> Depende de que los usuarios adopten la plataforma. </td>
+    <td> Puede ser complejo y costoso para muchos negocios. </td>
+    <td> Menor cantidad de funcionalidades avanzadas. </td>
+    <td> Enfocado a un nicho específico. </td>
   </tr>
   <tr>
     <td> Oportunidades </td>
-    
+    <td> Crecimiento de la digitalización y uso de IoT en negocios. </td>
+    <td> Expansión en más industrias. </td>
+    <td> Aumento de adopción de tecnología IoT. </td>
+    <td> Mayor regulación en cadena de frío. </td>
   </tr>
   <tr>
     <td> Amenazas </td>
-
+    <td> Competencia de soluciones ya posicionadas. </td>
+    <td> Nuevas startups más flexibles. </td>
+    <td> Competidores con más funciones. </td>
+    <td> Alternativas más económicas. </td>
   </tr>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Hemos identificado diversas estrategias y tácticas para diferenciarnos y competir efectivamente con otros actores del mercado de la gestión y monitoreo de sistemas de refrigeración. A continuación se detallan las principales:
+Hemos identificado diversas estrategias y tácticas para diferenciarnos y competir de manera efectiva en el mercado de la refrigeración. A continuación, se presentan las principales:
 
 1. **Estrategias de Diferenciación:**
 
+**Solución Integral para Refrigeración Comercial:**  
+Frigora busca ser más que una herramienta de monitoreo, integrando también la gestión y la solución de problemas en un mismo lugar. Esto permite a los usuarios no solo detectar fallas, sino actuar rápidamente.
 
-**Interfaz Intuitiva y Fácil de Usar:** La plataforma prioriza una interfaz intuitiva y accesible para técnicos y negocios sin experiencia tecnológica.
+**Trazabilidad Completa de Equipos:**  
+Cada equipo cuenta con un historial claro de uso, fallas y mantenimientos, lo que facilita el control y mejora la toma de decisiones.
+
+**Interfaz Intuitiva y Fácil de Usar:**  
+La plataforma está diseñada para ser simple, incluso para usuarios sin experiencia tecnológica, reduciendo la barrera de entrada.
 
 2. **Tácticas de Marketing:**
 
+**Marketing Digital y Demostraciones Gratuitas:**  
+Se buscará llegar a los negocios mediante redes sociales y pruebas gratuitas que permitan conocer el valor de la plataforma sin compromiso.
+
+**Educación del Usuario:**  
+Se generará contenido que ayude a los usuarios a entender la importancia del monitoreo y el mantenimiento preventivo.
+
+**Fidelización de Usuarios:**  
+Se implementarán beneficios para usuarios recurrentes con el fin de mantener su preferencia en el tiempo.
 
 3. **Estrategias de Precios:**
 
+**Modelo Freemium:**  
+Se ofrece una versión gratuita para facilitar la adopción inicial.
+
+**Pagos según uso:**  
+Los usuarios solo pagan por servicios adicionales, reduciendo el riesgo y facilitando la decisión de compra.
 
 4. **Expansión y Adaptabilidad:**
+
+**Enfoque Regional Inicial:**  
+Frigora iniciará en Lima, con la intención de expandirse progresivamente a otras ciudades.
+
+**Alianzas Locales:**  
+Se buscará trabajar con técnicos y proveedores locales, fortaleciendo la red de servicios y adaptándose mejor al mercado.
 
 
 ## 2.2. Entrevistas
