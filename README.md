@@ -524,16 +524,35 @@ Se buscará trabajar con técnicos y proveedores locales, fortaleciendo la red d
 
 ### 2.2.1. Diseño de entrevistas
 
-En esta sección, se han planteado diversas preguntas dirigidas a nuestros segmentos objetivos con el objetivo de obtener información relevante, como opiniones o descripciones. Estos datos serán fundamentales para el desarrollo de nuestra solución.
+En esta sección, se han planteado diversas preguntas dirigidas a nuestros segmentos objetivos con el objetivo de obtener información relevante, como opiniones, necesidades y experiencias. Estos datos serán fundamentales para el desarrollo de nuestra solución.
 
-**Preguntas para el Segmento Objetivo 1 - **
+**Preguntas para el Segmento Objetivo 1 - Negocios con equipos de refrigeración**
 
-1.
+1. ¿Qué tipo de equipos de refrigeración usas en tu negocio?
+2. ¿Con qué frecuencia sueles tener problemas con estos equipos?
+3. Cuando ocurre una falla, ¿qué es lo primero que haces?
+4. ¿Te resulta difícil encontrar un técnico confiable cuando lo necesitas?
+5. ¿Qué tanto te afecta una falla en tus equipos (por ejemplo, pérdidas o retrasos)?
+6. ¿Sueles hacer mantenimiento preventivo o solo cuando algo falla?
+7. ¿Cómo llevas el control del mantenimiento de tus equipos?
+8. ¿Te gustaría poder monitorear tus equipos o recibir alertas antes de que fallen?
+9. ¿Qué te gustaría que tenga una herramienta que te ayude con esto?
+10. ¿Pagarías por una solución que te ayude a evitar fallas? ¿Qué precio te parecería razonable?
 
+---
 
-**Preguntas para el Segmento Objetivo 2 - **
+**Preguntas para el Segmento Objetivo 2 - Empresas de mantenimiento**
 
-1. 
+1. ¿Qué tipo de trabajos técnicos realizas con mayor frecuencia?
+2. ¿Cómo sueles conseguir nuevos clientes actualmente?
+3. ¿Qué es lo más complicado de gestionar tu trabajo día a día como técnico?
+4. ¿Cómo organizas tus citas o servicios?
+5. ¿Prefieres hacer mantenimiento preventivo o correctivo? ¿Por qué?
+6. ¿Qué problemas sueles tener con los clientes?
+7. ¿Te gustaría recibir solicitudes de trabajo técnico de forma más organizada?
+8. ¿Qué herramientas usas actualmente para tu trabajo?
+9. ¿Te ayudaría tener información previa del equipo antes de atender un servicio técnico?
+10. ¿Usarías una plataforma que te conecte con más clientes? ¿Qué tendría que tener para que te convenza?
 
 ### 2.2.2. Registro de entrevistas
 ## Segmento objetivo #1: Negocios con equipos de refrigeración
@@ -647,118 +666,13 @@ En esta sección se presentan las fichas de User Personas construidas a partir d
 
 <br>
 
-**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+**Segmento Objetivo 2: Empresas de mantenimiento**
 
 ![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento2.png)
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el User Task Matrix, construido a partir de los User Persona que representan a los dos segmentos clave identificados:
 
-Segmento 1: Negocios con equipos de refrigeración (representado por Alicia Vargas).
-
-Segmento 2: Técnicos y empresas de mantenimiento (representado por Luis Paredes).
-
-Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas, y cada una fue evaluada según su frecuencia y nivel de importancia para los respectivos perfiles.
-
-<table>
-  <tr>
-    <th rowspan="2">Tarea / Task</th>
-    <th colspan="2">Alicia Vargas</th>
-    <th colspan="2">Luis Paredes</th>
-  </tr>
-  <tr>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-  </tr>
-  <tr>
-    <td>Verificar temperatura de equipos</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Registrar consumo energético</td>
-    <td>Media</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Coordinar servicios de mantenimiento</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Contactar técnicos o proveedores</td>
-    <td>Media</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Realizar mantenimiento preventivo o solicitarlo</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Revisar estado físico de los equipos</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Generar reportes técnicos</td>
-    <td>Baja</td>
-    <td>Baja</td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Organizar agenda de mantenimientos</td>
-    <td>Baja</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Supervisar cumplimiento de normas sanitarias</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Baja</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Controlar inventario de productos refrigerados</td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Comunicar incidencias a clientes o equipo</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-</table>
-
-<br>
-
-**Análisis:**
-
-A través del User Task Matrix, podemos identificar las frecuencias e importancias entre los diferentes segmentos que presentamos y usar esta información como guía.
-
-Las tareas clave con mayor frecuencia e importancia en ambos segmentos son verificar temperaturas de equipos, coordinar servicios de mantenimiento, revisar estado físico de los equipos y realizar mantenimiento preventivo o solicitarlo, lo que evidencia una necesidad común de control y prevención en la gestión de refrigeración. Sin embargo, Alicia Vargas prioriza el control del inventario y la operación del negocio, mientras que Luis Paredes se enfoca en aspectos técnicos, reportes y comunicación de incidencias. Ambos grupos coinciden en la necesidad de contar con una solución que les permita monitorear el estado de los equipos, prevenir fallas y mejorar la eficiencia operativa.
 
 ### 2.3.3. User Journey Mapping
 
@@ -788,7 +702,7 @@ En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender
 
 <br>
 
-**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+**Segmento Objetivo 2: Empresas de mantenimiento**
 
 ![UserJourneyMapping-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
 
