@@ -1,6 +1,6 @@
 <div align = "center">
  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src="assets/upc.png">
+ <img style="height: 200px" src="assets/chapter01/upc.png">
   <h2>Carrera: Ingeniería de Software</h2>
   <h2>Periodo: 2026-10</h2>
 <br>
