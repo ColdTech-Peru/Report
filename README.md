@@ -218,7 +218,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u202321264                                   										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años y curso la carrera de Ingeniería de Software. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas. En este proyecto apoyaré con todos los conocimientos que he adquirido en los últimos años.   												|
-| **Foto**                  | <img src="assets/chapter01/AlejandroGalindo.jpg" alt="" width="200" height="200"> |
+| **Foto**                  | <img src="assets/chapter01/AlejandroGalindo.png" alt="" width="200" height="200"> |
 
 ---
 
@@ -672,11 +672,112 @@ En esta sección se presentan las fichas de User Personas construidas a partir d
 
 ### 2.3.2. User Task Matrix
 
+En esta sección se presenta el User Task Matrix, construido a partir de los User Persona que representan a los dos segmentos clave identificados:
 
+Segmento 1: Negocios con equipos de refrigeración (representado por Renato Gonzales).
+
+Segmento 2: Empresas de mantenimiento (representado por André Ramirez).
+
+Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas, y cada una fue evaluada según su frecuencia y nivel de importancia para los respectivos perfiles.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th rowspan="2">Tarea / Task</th>
+      <th colspan="2">Renato</th>
+      <th colspan="2">André</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Revisar estado de los equipos de refrigeración</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Recibir alertas de fallas o anomalías</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Contactar a un técnico para mantenimiento</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Programar mantenimiento preventivo</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Revisar historial de mantenimiento de equipos</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Registrar servicios realizados</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Organizar agenda de servicios técnicos</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Recibir solicitudes de nuevos trabajos</td>
+      <td>-</td>
+      <td>-</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Evaluar el estado de equipos antes del servicio</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Monitorear múltiples equipos desde una plataforma</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Calificar el servicio recibido / realizado</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.3.3. User Journey Mapping
 
-En esta sección se presentan los User Journey Maps de los dos segmentos objetivo: Alicia Vargas, propietaria de un mini-market, y Luis Paredes, técnico especializado en refrigeración. Cada mapa refleja el recorrido actual que estos usuarios realizan para cumplir sus objetivos sin contar aún con una solución tecnológica integrada, mostrando los puntos críticos, emociones, tareas clave y oportunidades de mejora. Estos recorridos nos permiten entender los desafíos que enfrentan los usuarios día a día.
+En esta sección se presentan los User Journey Maps de los dos segmentos objetivo: Renato Gonzales, propietario de un mini-market, y André Ramirez, técnico de una empresa de mantenimiento especializad en refrigeración. Cada mapa refleja el recorrido actual que estos usuarios realizan para cumplir sus objetivos sin contar aún con una solución tecnológica integrada, mostrando los puntos críticos, emociones, tareas clave y oportunidades de mejora. Estos recorridos nos permiten entender los desafíos que enfrentan los usuarios día a día.
 
 <br>
 
