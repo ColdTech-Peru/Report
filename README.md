@@ -799,13 +799,13 @@ En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender
 
 **Segmento Objetivo 1: Negocios con equipos de refrigeración**
 
-![UserJourneyMapping-Segmento1](assets/chapter02/EmpathyMap-Segmento1.png)
+![EmpathyMap-Segmento1](assets/chapter02/EmpathyMap-Segmento1.png)
 
 <br>
 
 **Segmento Objetivo 2: Empresas de mantenimiento**
 
-![UserJourneyMapping-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
+![EmpathyMap-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
 
 ## 2.4. Big Picture Event Storming
 
