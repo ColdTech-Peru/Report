@@ -1223,46 +1223,51 @@ URL:
 
 
 ### 4.6.2. Software Architecture Context Diagram
-<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter05/context-diagram.png" />
+<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/FrigoraContextDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Context Diagram.
   </figcaption>
 
 ### 4.6.3. Software Architecture Container Diagrams
-<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="assets/chapter05/containers-diagram.png" />
+<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="assets/chapter04/FrigoraContainerDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Container Diagrams.
+    <strong>Figura 2:</strong> Container Diagrams.
   </figcaption>
 
 ### 4.6.4. Software Architecture Components Diagrams
-<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/apirest-diagram.png" />
+<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ApiRestComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> API REST Component Diagrams.
+    <strong>Figura 3:</strong> API REST Component Diagrams.
   </figcaption>
 
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/assetsmanagement-component.png" />
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/AssetsManagementComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 2:</strong> Assets Management BC Component Diagrams.
+    <strong>Figura 4:</strong> Assets Management BC Component Diagrams.
   </figcaption>
 
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/dashboard-component.png" />
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/DashboardComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 3:</strong> Dashboard BC Component Diagrams.
+    <strong>Figura 5:</strong> Dashboard BC Component Diagrams.
   </figcaption>
 
-   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/monitoring-component.png" />
+   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/MonitoringComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 4:</strong> Monitoring BC Component Diagrams.
+    <strong>Figura 6:</strong> Monitoring BC Component Diagrams.
   </figcaption>
 
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/reporting-component.png" />
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ReportingComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 5:</strong> Reporting BC Component Diagrams.
+    <strong>Figura 7:</strong> Reporting BC Component Diagrams.
   </figcaption>
 
-   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/services-component.png" />
+   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ServicesComponentDiagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 6:</strong> Services BC Component Diagrams.
+    <strong>Figura 8:</strong> Services BC Component Diagrams.
+  </figcaption>
+
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/TechniciansComponentDiagram.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Technicians BC Component Diagrams.
   </figcaption>
 
 ## 4.7. Software Object-Oriented Design
