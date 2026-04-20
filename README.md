@@ -4,7 +4,7 @@
   <h2>Carrera: Ingeniería de Software</h2>
   <h2>Periodo: 2026-10</h2>
 <br>
-  <h2>Curso: Aplicaciones Web</h2>
+  <h2>Curso: Desarrollo de Aplicaciones Open Source</h2>
   <h2>Codigo del Curso: 1ASI0729</h2>
   <h2>NRC: 11959</h2>
   <h2>Profesor: Hugo Allan Mori Paiva</h2>
@@ -42,9 +42,9 @@
 
 ## Project Report Collaboration Insights
 
-- **URL de la organización del proyecto:** <br>
+- **URL de la organización del proyecto: https://github.com/ColdTech-Peru** <br>
   
-- **URL del repositorio del reporte:** <br>
+- **URL del repositorio del reporte: https://github.com/ColdTech-Peru/Report** <br>
   
 - **URL del repositorio de la Landing Page:** <br>
   
@@ -55,7 +55,7 @@
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
 **TB1:** Las tareas asignadas a la TB1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub:
-e.
+
   
 
 
@@ -187,12 +187,14 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 **ABET – EAC - Student Outcome 5**
 
-**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+**Logro del Curso**: *Al finalizar el curso, el estudiante comunica resultados y proceso de ingeniería aplicado para el ciclo de desarrollo y despliegue de una solución web distribuida bajo una arquitectura orientada a servicios, que satisface requisitos para empresas o público en general, con un enfoque innovador e inclusivo, desplegada sobre plataformas Server Side o Cloud, haciendo uso de tecnologías open-source basadas en el lenguaje de programación Java para la lógica de lado servidor y tecnologías open-source para los componentes de la aplicación.*
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico                                                                             | Acciones realizadas                                                      | Conclusiones                   |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b> | <ul><li><b>TB1</b>: Como equipo, </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b>:  </li></ul> | <ul><li><b>TB1</b>:  <br>  |
 
 # Capitulo 1: Introducción
 
