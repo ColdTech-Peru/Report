@@ -230,7 +230,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u202311912                           										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Mi nombre es Cumba Rengifo Leonardo Raul, tengo 20 años y curso la carrera de Ingeniería de Software.Me quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA o como arquitecto de sofware            .   												|
-| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="200"> |
+| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="250"> |
 
 ---
 
@@ -332,7 +332,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
  
 #### 1.2.2.4 Lean UX Canvas
 
-<img src="assets/chapter01/1-2-2-4.png" alt="" width="200" height="200"> 
+<img src="assets/chapter01/1-2-2-4.png" alt="" width="400" height="400"> 
 
 
 Link del miro:
