@@ -333,7 +333,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 #### 1.2.2.4 Lean UX Canvas
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/assets/chapter01/1-2-2-4.png"
+  <img src="assets/chapter01/1-2-2-4.png"
        alt="Lean UX Canvas:"
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
