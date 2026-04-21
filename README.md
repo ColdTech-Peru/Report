@@ -924,46 +924,39 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
-El diseño del logo de Frigora busca transmitir los conceptos de protección, tecnología y monitoreo constante. Se eligió como elemento central un escudo estilizado con un copo de nieve integrado, simbolizando la protección de la cadena de frío. El escudo representa confianza y seguridad, mientras que el copo de nieve refleja el enfoque en la refrigeración. De manera complementaria, las líneas suaves y geométricas refuerzan la idea de precisión, estabilidad y eficiencia tecnológica.
+En este apartado se detalla la evolución de las interfaces y los procedimientos de la aplicación Frigora. El diseño busca ser atractivo y fácil de usar, empleando colores llamativos y un diseño espacioso adaptado a cada dispositivo. Se ha priorizado una clasificación de herramientas por categorías específicas para no abrumar al usuario con exceso de información.
 
 ### 4.1.1. General Style Guidelines
-- Branding:
-(En proceso...)
+
+- Branding: Frigora es una aplicación para empresas dependientes de sistemas de refrigeración y mantenimientos del mismo, el objetivo es optimizar el proceso de supervisión y mantenimiento de los aparatos de refrigeración mediante tecnología iot. Asimismo la startup usara conceptos de buenas practicas de UX/UI, pruebas gratuitas para los usuarios y constante actualización para el buen funcionamiento de la aplicación.
 
 - Typography:
 La tipografía seleccionada es Roboto Serif, por su claridad, legibilidad y llamativa, ideal para interfaces digitales enfocadas en datos técnicos. Para el cuerpo de texto, se utiliza Inter 14px con un interlineado de 1.5, garantizando una lectura fluida. Los tamaños se adaptan en contexto web según la jerarquía: títulos, subtítulos y párrafos.
-   - Escala:
-    <div align="center">
-      <img src="assets/chapter01/GSG_Escala.png" alt="escala" width="250" height="200">
-    </div>
-    
-   - Weights:
-    <div align="center">
-      <img src="assets/chapter01/GSG_Weights.png" alt="weights" width="150" height="250">
-    </div>
-    
-   - Nomenclatura:
-    <div align="center">
-      <img src="assets/chapter01/GSG_Nomenclatura.png" alt="nomenclatura" width="250" height="200">
-    </div>
-    
-   - Example:
-    <div align="center">
-      <img src="assets/chapter01/GSG_Example.png" alt="example" width="500" height="1000">
-    </div>
   
 - Colors:
+Los colores para la aplicación Frigora se decidieron tomando en cuenta el core de negocio, que es mantenimiento a aparatos electrónicos de refrigeración, por lo tanto se tomara variantes de color azul que combina con el tema central y un color blanco que ayuda a la limpieza visual del usuario.
 
+<img width="422" height="177" alt="image" src="https://github.com/user-attachments/assets/8bda3081-fc25-46c5-bb47-d8b573d370d2" />
+<img width="422" height="186" alt="image" src="https://github.com/user-attachments/assets/7eb1ac80-ee1b-4594-9415-606b6ce705e9" />
+<img width="422" height="175" alt="image" src="https://github.com/user-attachments/assets/8c9f3c2b-64ff-4b4a-830b-a1d4a168b17d" />
 
 - Spacing:
 El espaciado está diseñado para ofrecer una experiencia clara y ordenada, facilitando la lectura de datos técnicos y alertas:
-  - Entre secciones principales: mínimo 20px para marcar el cambio de contexto.
-  - Entre encabezados y párrafos: 16px para reforzar jerarquía visual.
-  - Entre párrafos consecutivos: 14px para mantener continuidad y evitar bloques densos.
-  - Espaciado de botones e inputs: mínimo 10px entre elementos para garantizar usabilidad.
+o	Entre secciones principales: mínimo 20px para marcar el cambio de contexto.
+o	Entre encabezados y párrafos: 16px para reforzar jerarquía visual.
+o	Entre párrafos consecutivos: 14px para mantener continuidad y evitar bloques densos.
+o	Espaciado de botones e inputs: mínimo 10px entre elementos para garantizar usabilidad.
 
 - Tono de comunicación:
+- 
+| Dimensión              | Nivel Adoptado    |
+| :--------------------- | :---------------- |
+| Divertido/Serio        | Medio-Serio       |
+| Formal/Casual          | Semi-Formal       |
+| Respetuoso/Irreverente | Muy Respetuoso    |
+| Entusiasta/Sereno      | Sereno y Empático |
 
+Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan profesional.
 
 - Lenguaje aplicado:
   - Claro y directo, evitando tecnicismos complejos cuando no son necesarios.
@@ -972,57 +965,36 @@ El espaciado está diseñado para ofrecer una experiencia clara y ordenada, faci
 
 ### 4.1.2. Web Style Guidelines
 
+#### **Diseño Responsive**
+
+Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se emplea CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
+
+| Dispositivo | Ancho mínimo | Ejemplo de uso           |
+| :---------- | :----------- | :----------------------- |
+| Mobile      | ≥ 320px      | Teléfonos                |
+| Tablet      | ≥ 768px      | iPad / tablets genéricas |
+| Laptop      | ≥ 1024px     | Monitores y laptops      |
+| Widescreen  | ≥ 1440px     | Pantallas grandes o TV   |
+
+#### **Navegación**
+
+Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
+
+#### **Imágenes**
+
+Emplearemos los formatos de imagen JPEG y PNG para garantizar una calidad visual óptima. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
+
+#### **Interacción del Usuario**
+
+Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas.
 
 
-  <div align="center">
-    <img src="assets/chapter01/WSG_Colors.png" alt="colors.png" width="250" height="500">
-  </div>
-
-- Tipografía:
-Se respetará la relación tipográfica establecida en los General Style Guidelines.
-
-- Responsive Design Standards:
-IceTrack está diseñado como una aplicación mobile-first, adaptándose fluidamente a distintos dispositivos:
-
-  - Mobile (360px – 768px)
-    - Navegación tipo hamburguesa.
-    - Cards apiladas en columna.
-    - Botones grandes y legibles.
-
-  - Tablet (769px – 1024px)
-    - Layout en 2 columnas.
-    - Menú lateral colapsable.
-
-  - Desktop (1025px en adelante)
-    - Menú principal siempre visible.
-    - Layout de 3 columnas en dashboards y secciones de métricas.
-
-- Interactivity
-  - Botones:
-    - Bordes redondeados en 12px.
-    - Hover: cambio de fondo a azul claro o sombra suave.
-    - Feedback claro al una animación sutil.
-
-  - Transiciones y animaciones:
-    - Duración: 200–300ms.
-    - Curva: ease-in-out.
-
-- Accessibility
-  - Todo ícono debe tener alternativa textual (aria-label o alt).
-  - Navegación totalmente compatible con teclado (Tab, Enter, Esc).
-  - Fuente mínima: 16px para garantizar legibilidad.
-  - Colores con contraste suficiente para cumplir con WCAG AA.
-
-- UI Consistency
-  - Iconografía uniforme, estilo outline con grosor consistente.
-  - Botones y formularios con la misma geometría y espaciado.
-  - Uso consistente de colores: azul para acciones, rojo solo para alertas.
-  - Estándar de espaciado basado en múltiplos de 8px para mantener ritmo visual.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
-Se utilizaran diversos métodos para organizar la información según su relevancia, y su presentación visual se ha realizado de las siguientes maneras:
+ Se utilizaran diversos métodos para organizar la información según su relevancia, y su presentación visual se ha realizado de las siguientes maneras:
+
 
 - Organización Jerárquica: Se usara en el dashboard principal, donde se prioriza mostrar primero las alertas críticas, luego los indicadores de consumo energético, y en reportes históricos.
 
@@ -1032,13 +1004,48 @@ Se utilizaran diversos métodos para organizar la información según su relevan
 
 ### 4.2.2. Labeling Systems
 
+En Frigora, el sistema de etiquetado ha sido pensado para la claridad de los usuarios. Todas las etiquetas en la navegación, en los reportes o en la gestión de equipos, priorizan la simplicidad, la consistencia semántica y un lenguaje directo, profesional y fácil de comprender.
+
+Principios clave del sistema de etiquetado:
+
+Las etiquetas evitarán tecnicismos innecesarios y ambigüedades. Se emplearán términos comunes que puedan ser entendidos tanto por empresarios como por técnicos.
+
+Un mismo concepto siempre se representará con la misma palabra en todos los entornos.
+
+Las etiquetas se limitarán a 1–3 palabras, descriptivas y directas.
+
+Las etiquetas más críticas tendrán un mayor peso visual en la jerarquía tipográfica definida en la guía de estilo.
+
+Etiquetas principales por área:
+
+Navegación global: Inicio, Equipos, Servicios, Reportes, Alertas, Administración, Ayuda.
+
+
+Landing Page: Bienvenido a Frigora, Soluciones, Funcionalidades, Casos de uso, Contáctanos.
+
+
+Gestión de equipos: Añadir equipo, Control remoto, Ajustar temperatura, Historial.
+
+
+Servicios de mantenimiento: Solicitudes, Progreso, Confirmación, Historial.
+
+
+Reportes y métricas: Consumo, Comparar, Descargar, Desempeño técnico.
+
+Acciones del usuario:
+
+Crear cuenta, Iniciar sesión, Solicitar servicio, Ver reporte, Configurar alerta, Descargar PDF, Cerrar sesión.
+
+Asociaciones entre etiquetas:
+
+“Equipo crítico”, “Alerta preventiva”, “Reporte generado”.
 
 ### 4.2.3. SEO Tags and Meta Tags
 - Landing Page
   - Title: Gestión inteligente de equipos de refrigeración.
   - Meta Description: Optimiza la gestión de tu cadena de frío con monitoreo en tiempo real, alertas automáticas y mantenimiento predictivo, protegiendo tu inventario y reduciendo pérdidas.
   - Meta Keywords: gestión de refrigeración, mantenimiento predictivo, monitoreo en tiempo real, cadena de frío, eficiencia energética, equipos de refrigeración
-  - Meta Author: Frostshield 
+  - Meta Author: Frigora 
 
 - Web Application:
   - Title: Monitoreo y gestión de tus equipos de refrigeración
@@ -1047,7 +1054,7 @@ Se utilizaran diversos métodos para organizar la información según su relevan
   - Meta Author: Frostshield 
 
 ### 4.2.4. Searching Systems
-Las decisiones de búsqueda en IceTrack están orientadas a garantizar que los usuarios —empresarios, técnicos y proveedores— encuentren rápidamente la información crítica de sus equipos y servicios, sin sentirse abrumados por grandes volúmenes de datos.
+Las decisiones de búsqueda en Frigora están orientadas a garantizar que los usuarios —empresarios, técnicos y proveedores— encuentren rápidamente la información crítica de sus equipos y servicios, sin sentirse abrumados por grandes volúmenes de datos.
 
 - Opciones de Búsqueda
   - Barra de búsqueda
@@ -1080,6 +1087,24 @@ Las decisiones de búsqueda en IceTrack están orientadas a garantizar que los u
   - Revisiones y comentarios: Cada resultado puede incluir reseñas o comentarios de técnicos/clientes sobre el desempeño y la calidad del servicio.
 
 ### 4.2.5. Navigation Systems
+
+La estructura de navegación en Frigora está diseñada para ofrecer una experiencia de usuario fluida, asegurando acceso rápido a funcionalidades críticas y manteniendo coherencia visual con la identidad de la marca.
+Páginas principales 
+
+
+Inicio: Dashboard con estado general de equipos y alertas críticas.
+
+
+Funcionalidades: Descripción de herramientas clave como monitoreo en tiempo real, alertas automáticas y reportes.
+
+
+Beneficios: Explicación de ventajas competitivas (ahorro energético, reducción de pérdidas, eficiencia operativa).
+
+
+Nosotros: Información sobre la misión, visión y el equipo de IceTrack.
+
+
+Contacto: Formulario de contacto y datos de soporte.
 
 
 ## 4.3. Landing Page UI Design
