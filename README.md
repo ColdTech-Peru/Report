@@ -1291,7 +1291,7 @@ URL:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img width="2669" height="1621" alt="Diagrama de Clases" src="" />
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/frigora-class-diagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Class Diagram.
   </figcaption>
