@@ -224,6 +224,20 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 ---
 
+
+| **Integrante**            | **Cumba Rengifo Leonardo Raul**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202311912                           										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Cumba Rengifo Leonardo Raul, tengo 20 años y curso la carrera de Ingeniería de Software.Me quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA o como arquitecto de sofware            .   												|
+| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="200"> |
+
+---
+
+
+
+
+
 </div>
 
 ## 1.2 Solution Profile
