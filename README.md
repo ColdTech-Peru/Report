@@ -332,8 +332,11 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
  
 #### 1.2.2.4 Lean UX Canvas
 
-<img src="assets/chapter01/1-2-2-4.png" alt="" width="400" height="400"> 
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/assets/chapter01/1-2-2-4.png"
+       alt="Lean UX Canvas:"
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
 
 Link del miro:
 https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438
