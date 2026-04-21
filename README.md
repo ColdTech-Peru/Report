@@ -318,7 +318,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
  
 #### 1.2.2.4 Lean UX Canvas
 
-
+<img src="assets/chapter01/1-2-2-4.png" alt="" width="200" height="200"> 
 
 
 Link del miro:
