@@ -1271,6 +1271,10 @@ Los wireframes de la plataforma integran una arquitectura de información estrat
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 
+El presente Wireflow representa la arquitectura de navegación y la lógica de interacción de la plataforma. Este diagrama combina la estructura de las pantallas con el flujo de decisiones del usuario, permitiendo visualizar el recorrido completo desde el acceso inicial hasta la gestión operativa de activos, el monitoreo de alertas y la ejecución de órdenes de trabajo. Su objetivo es garantizar una navegación intuitiva y una distribución de información eficiente, asegurando que los procesos críticos de supervisión térmica sean fluidos y lógicos.
+
+<img width="1599" height="561" alt="image" src="https://github.com/user-attachments/assets/b8557b3c-47e5-4edd-9764-331ab5674a4b" />
+
 ### 4.4.3. Web Applications Mock-ups
 
 ## Login
@@ -1317,6 +1321,7 @@ Los wireframes de la plataforma integran una arquitectura de información estrat
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
 
 
 ## 4.5. Web Applications Prototyping
