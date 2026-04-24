@@ -1224,21 +1224,100 @@ Ofrece un formulario simple y directo con campos bien organizados para que los i
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+Los wireframes de la plataforma integran una arquitectura de información estratégica que prioriza la usabilidad y la jerarquía visual mediante el uso de espacios en blanco (whitespace) para evitar la saturación y formas (shapes) que delimitan bloques lógicos de contenido. Basado en principios de diseño inclusivo, el sistema garantiza la accesibilidad a través de iconos descriptivos y un lenguaje directo, asegurando que los procesos de registro e ingreso sean intuitivos, minimicen la carga cognitiva y ofrezcan una experiencia de usuario fluida y profesional desde el primer contacto.
 
+## Login
+
+<img width="940" height="668" alt="image" src="https://github.com/user-attachments/assets/f8eba668-5b29-4317-92bd-d07570c62406" />
+
+## Register
+
+<img width="933" height="662" alt="image" src="https://github.com/user-attachments/assets/638e27ee-ab38-4c2a-b0cb-565c98138df8" />
+
+## Dashboard
+
+<img width="818" height="581" alt="image" src="https://github.com/user-attachments/assets/4add6717-b7ce-44db-ba1a-60bddde802f5" />
+
+## Sitios y Equipos
+
+<img width="914" height="644" alt="image" src="https://github.com/user-attachments/assets/f17af867-75d0-4660-95c3-9a97eac66073" />
+
+
+## Detalle de Equipos
+
+<img width="788" height="562" alt="image" src="https://github.com/user-attachments/assets/fa74beef-af78-462f-87a9-a087be9657c1" />
+
+
+## Alertas
+
+<img width="666" height="472" alt="image" src="https://github.com/user-attachments/assets/6dd4799b-df2d-46cb-b0c6-a48e536ef4ba" />
+
+
+## Ordenes
+
+<img width="662" height="478" alt="image" src="https://github.com/user-attachments/assets/416899ae-b828-4542-9130-dea0a0bc9535" />
+
+
+## Reportes
+
+<img width="664" height="474" alt="image" src="https://github.com/user-attachments/assets/e6e5b72f-bd00-4726-b76d-3cf081dbfd58" />
+
+
+## Administracion
+
+<img width="770" height="542" alt="image" src="https://github.com/user-attachments/assets/269d62b2-093a-4afe-bc41-87ac98364dc5" />
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-<img width="2576" height="916" alt="" />
+
 
 ### 4.4.3. Web Applications Mock-ups
 
+## Login
+
+<img width="1165" height="723" alt="image" src="https://github.com/user-attachments/assets/8de5c432-6eb8-4df9-b261-7ce80cc77db1" />
+
+
+## Register
+
+<img width="1170" height="730" alt="image" src="https://github.com/user-attachments/assets/80abd5c1-c90a-4b35-9882-868495678a23" />
+
+## Dashboard
+
+<img width="1171" height="720" alt="image" src="https://github.com/user-attachments/assets/b3a42712-8580-4887-bfcb-36213852cb8b" />
+
+## Sitios y Equipos
+
+<img width="1175" height="727" alt="image" src="https://github.com/user-attachments/assets/8d014062-4521-41d8-93d6-18b7df16c8e4" />
+
+
+## Detalle de Equipos
+
+<img width="1172" height="722" alt="image" src="https://github.com/user-attachments/assets/2bfb1b77-2225-4266-9392-bfe2b8f67803" />
+
+
+## Alertas
+
+<img width="1165" height="727" alt="image" src="https://github.com/user-attachments/assets/fdb90bda-b9f1-434c-bf08-98a8f1da0903" />
+
+
+## Ordenes
+
+<img width="1086" height="794" alt="image" src="https://github.com/user-attachments/assets/4bda5c9b-8a1b-4bee-bad3-8a9db3b1c7a4" />
+
+
+## Reportes
+
+<img width="1082" height="675" alt="image" src="https://github.com/user-attachments/assets/3ded40c0-93de-407d-8b8e-de7db880d80a" />
+
+
+## Administracion
+
+<img width="1081" height="674" alt="image" src="https://github.com/user-attachments/assets/9f813615-b974-4ee9-8584-ef3f3347fc6b" />
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
-<img width="2576" height="1682" alt="Web Applications User Flow Diagram" src="" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Web Applications User Flow Diagram.
-  </figcaption>
+
 
 ## 4.5. Web Applications Prototyping
 
