@@ -20,6 +20,7 @@
 | <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
 | :-----------------------------------: | :-----------------------------------: |
 |   Galindo Montero, Alejandro Manuel   |              u202321264               |
+|   Perez Tuesta,  Gabriel   |              u202321281               |
 
 
 </div>
@@ -234,7 +235,15 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 ---
 
+| **Integrante**            | **Perez Tuesta, Gabriel**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202321281                           										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Gabriel Perez Tuesta, tengo 23 años y curso la carrera de Ingeniería de Software. Me gustaria enfocarme en el desarrollo web y movil, tengo conocimientos promedios en Javascript, React, Vue y Next JS         .   												|
+| **Foto**                  | <img width="200" height="200" src="https://github.com/user-attachments/assets/98296ec4-9fb6-456c-a507-544377c1f691" />
+ |
 
+---
 
 
 
