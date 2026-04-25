@@ -891,8 +891,9 @@ Las historias de usuario para este proyecto se crearon en colaboración con el e
 
 Para mantener la organización, las historias se agruparon en épicas según sus funcionalidades. Los criterios de aceptación de cada historia se definieron utilizando la sintaxis Gherkin, asegurando que el equipo comprendiera el problema desde la perspectiva del usuario final.
 
-Para facilitar la planificación, el seguimiento y la priorización de las tareas, el equipo utilizó la plataforma Trello.
 
+**Épicas del Sistema**
+Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.
 
 | **ID de Epic** | **Título** | **Descripción** |
 | :---: | :--- | :--- |
@@ -903,6 +904,8 @@ Para facilitar la planificación, el seguimiento y la priorización de las tarea
 | **EP-05** | Sistema de Alertas y Notificaciones | Esta epic está dedicada a la creación de un sistema robusto que envía alertas automáticas a clientes y empresarios sobre fallas, necesidades de mantenimiento y el progreso de los servicios. |
 | **EP-07** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
 
+
+**User Stories**
 
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Epic** |
 | :--- | :--- | :--- | :--- | :---: |
