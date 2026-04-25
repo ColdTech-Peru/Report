@@ -565,16 +565,20 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 ### Entrevista 1:
 
-- **Nombres y apellidos:** 
-- **Edad:** 59
-- **Distrito:** Lima
+- **Nombres y apellidos:** Mauricio Mego 
+- **Edad:** 24
+- **Distrito:** Magdalena del Mar
 
-![Interview-1-segment-1.png]()
+![Interview-1-segment-1.png](assets/chapter02/entrevista-segmento1.png)
 
 - **Inicio:** 0:00
-- **Duración:** 3:48 min
-- **URL:** [``]I)
-- **Resumen:** 
+- **Duración:** 3:54 min
+- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y)
+- **Resumen:** Mauricio administra un negocio de alimentos junto a su padre, en el que almacenan carnes, pescados y otros productos que requieren refrigeración. Para ellos, es fundamental que sus equipos de refrigeración funcionen correctamente, ya que de ello dependen sus ingresos. Durante la entrevista, comentó que en una ocasión sufrió una pérdida considerable debido a una falla en los equipos ocasionada por la falta de mantenimiento.
+
+Además, menciona que cada semana debe revisar personalmente el estado de los equipos y, en caso de detectar algún problema, tiene que contactar a un técnico externo para solucionarlo. Considera que sería muy útil contar con alertas automáticas, ya que le permitirían reducir esa preocupación constante y confiar más en el monitoreo del sistema.
+
+En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frigora, ya que responde a sus necesidades y le ayudaría a mantener sus equipos de refrigeración en buen estado sin tantas preocupaciones. 
 
 ---
 
@@ -1663,6 +1667,58 @@ URL de la Landing Page desplegada en Github Pages:
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table border="1">
+  <tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2026-04-23</td>
+  </tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">1:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Presencial (Universidad Peruana de Ciencias Aplicadas - sede San Miguel)</td>
+  </tr>
+  <tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Alejandro Galindo</td>
+  </tr>
+  <tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandro Galindo, Walter Fajardo, Leonardo Cumba, Joaquin Cuentas, Gabriel Perez</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 1 Review Summary</td>
+    <td colspan="8">Durante este sprint se avanzó en la definición inicial de la plataforma y se establecieron lineamientos clave para el desarrollo de la landing page.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En este sprint, el equipo compartió ideas sobre la plataforma web, incluyendo el rubro, segmentos objetivo, beneficios y funcionalidades principales. Las tareas se organizaron de manera eficiente y se lograron avances visibles tanto en el informe como en la landing page.</td>
+  </tr>
+  <tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">El objetivo principal es desarrollar la landing page de la plataforma, garantizando su adaptabilidad a distintos dispositivos, coherencia visual y soporte multilenguaje. Se busca brindar una experiencia clara, atractiva y accesible para los usuarios. Esto se validará cuando el usuario pueda cambiar el idioma fácilmente, navegar sin errores visuales y verificar que los elementos gráficos y textuales estén correctamente alineados.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">15</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">10</td>
+  </tr>
+</table>
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1670,7 +1726,48 @@ Durante este primer Sprint, el equipo se enfocó principalmente en el desarrollo
 Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
 
 <table border="1">
-
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Diseño visual y maquetación web (Landing Page)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Implementación técnica del cambio de idioma (Multilenguaje funcional)<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Galindo Montero, Alejandro Manuel</td>
+    <td>AlejandroG12970</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fajardo, Walter</td>
+    <td>walterfajardo</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cumba, Leonardo</td>
+    <td>LeonardoC72</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cuentas, Joaquin</td>
+    <td>joaCUPE</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Perez, Gabriel</td>
+    <td>Gabyoko</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
 </table>
 
 #### 5.2.1.3. Sprint Backlog 1
