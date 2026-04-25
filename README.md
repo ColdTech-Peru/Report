@@ -1314,15 +1314,14 @@ El presente Wireflow representa la arquitectura de navegación y la lógica de i
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<img width="1510" height="829" alt="image" src="https://github.com/user-attachments/assets/eaa2feb0-4592-4554-921d-f47f8df9d228" />
 
 
 ## 4.5. Web Applications Prototyping
 
 La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación IceTrack antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
 
-URL: 
-
----
+URL: https://github.com/ColdTech-Peru/Report
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
