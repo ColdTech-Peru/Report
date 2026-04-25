@@ -239,7 +239,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 ---
 
-| **Integrante**            | ** Fajardo Monrroy, Walter Luis**        									    |
+| **Integrante**            | Fajardo Monrroy, Walter Luis        									    |
 | :------------------------ | :-------------------------------------------------------------------------------- |
 | **Código del Estudiante** | u202221632                           										|
 | **Carrera**               | Ingeniería de Software                       										|
