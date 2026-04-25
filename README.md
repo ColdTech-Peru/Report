@@ -972,9 +972,33 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
   </figcaption>
 </figure>
 
-| Orden | User Story ID | Titulo                                                        | Descripcion                                                                                                                                                                                                   | Story Points |
-| :---: | :-----------: | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: |
-
+| **Orden** | **User Story ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-07 |
+| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-07 |
+| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-07 |
+| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-07 |
+| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-07 |
+| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-07 |
+| 7 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | 3 | EP-01 |
+| 8 | **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | 2 | EP-01 |
+| 9 | **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos en la plataforma para incluirlos en mi equipo de trabajo y gestionar sus perfiles. | 5 | EP-01 |
+| 10 | **US-13** | Consultar el perfil de un técnico | Como empresario, quiero ver el perfil de cada técnico, incluyendo sus datos y métricas de rendimiento. | 2 | EP-01 |
+| 11 | **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración en la plataforma para mantener un registro y control detallado de cada uno. | 5 | EP-02 |
+| 12 | **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | 3 | EP-02 |
+| 13 | **US-06** | Solicitar y gestionar servicios de mantenimiento y reparación | Como cliente, quiero solicitar servicios de mantenimiento y reparación para mis equipos, y recibir confirmación. | 5 | EP-03 |
+| 14 | **US-09** | Recepción de alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas automáticas cuando un cliente solicite un servicio de reparación o mantenimiento. | 3 | EP-05 |
+| 15 | **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para asegurar que se realice el trabajo adecuadamente. | 3 | EP-03 |
+| 16 | **US-07** | Dar seguimiento al progreso del servicio | Como cliente, quiero seguir el avance de mi servicio solicitado para saber en qué etapa se encuentra y cuándo estará completado. | 3 | EP-03 |
+| 17 | **US-11** | Realizar seguimiento a solicitudes de servicio | Como empresario, quiero realizar un seguimiento detallado a las solicitudes de servicio de mis técnicos, para saber cómo van. | 3 | EP-03 |
+| 18 | **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | 5 | EP-05 |
+| 19 | **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas. | 5 | EP-05 |
+| 20 | **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas para el mantenimiento preventivo de los equipos. | 5 | EP-05 |
+| 21 | **US-08** | Ver reporte de servicio realizado | Como cliente, quiero ver el reporte de servicio detallado para saber qué reparaciones se hicieron en mi equipo. | 3 | EP-04 |
+| 22 | **US-10** | Ver historial de servicios | Como empresario, quiero ver el historial de servicios realizados para cada cliente y equipo, para llevar un control detallado. | 3 | EP-04 |
+| 23 | **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | 3 | EP-04 |
+| 24 | **US-05** | Analizar el consumo energético de equipos | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia y tomar decisiones informadas. | 8 | EP-04 |
+| 25 | **US-15** | Generar reporte de desempeño de técnicos | Como empresario, quiero generar reportes sobre el desempeño de mis técnicos para evaluar su eficiencia y productividad. | 8 | EP-04 |
 
 # Capítulo IV: Product Design
 
