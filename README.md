@@ -893,6 +893,17 @@ Para mantener la organización, las historias se agruparon en épicas según sus
 
 Para facilitar la planificación, el seguimiento y la priorización de las tareas, el equipo utilizó la plataforma Trello.
 
+
+| **ID de Epic** | **Título** | **Descripción** |
+| :---: | :--- | :--- |
+| **EP-01** | Gestión de Cuentas de Usuario | Esta epic se centra en todo lo necesario para que los usuarios puedan crear, acceder y administrar sus perfiles de forma segura en la plataforma. |
+| **EP-02** | Gestión y Monitoreo de Equipos | Esta epic abarca la funcionalidad para que los clientes agreguen, editen y monitoreen sus equipos de refrigeración, facilitando su control. |
+| **EP-03** | Proceso de Solicitudes de Servicio | Esta epic cubre el ciclo completo de las solicitudes de servicio, desde que un cliente pide una reparación o mantenimiento hasta que el trabajo se completa y se le da seguimiento. |
+| **EP-04** | Análisis e Informes de Datos | Esta epic se encarga de la generación de reportes clave sobre el rendimiento de los equipos, el consumo energético y la eficiencia de los servicios, permitiendo un análisis detallado. |
+| **EP-05** | Sistema de Alertas y Notificaciones | Esta epic está dedicada a la creación de un sistema robusto que envía alertas automáticas a clientes y empresarios sobre fallas, necesidades de mantenimiento y el progreso de los servicios. |
+| **EP-07** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
+
+
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Epic** |
 | :--- | :--- | :--- | :--- | :---: |
 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | **Escenario 1: Crear cuenta exitosamente**<br>Dado que el nuevo usuario tiene todos los datos correctos,<br>Cuando completa el registro,<br>Entonces su cuenta es creada correctamente.<br><br>**Escenario 2: Intento de crear cuenta con email ya registrado**<br>Dado que el nuevo usuario intenta registrarse con un correo ya registrado,<br>Cuando envía el formulario,<br>Entonces el sistema muestra un mensaje indicando que el correo ya existe. | EP-01 |
@@ -920,6 +931,10 @@ Para facilitar la planificación, el seguimiento y la priorización de las tarea
 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | **Escenario 1: Acceso a misión**<br>Dado que accede a la información,<br>Cuando revisa el contenido corporativo,<br>Entonces encuentra una descripción clara.<br><br>**Escenario 2: Acceso a visión**<br>Dado que accede a la información institucional,<br>Cuando revisa el contenido estratégico,<br>Entonces encuentra la visión a futuro. | EP-07 |
 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | **Escenario 1: Canal de contacto**<br>Dado que está interesado en contactar,<br>Cuando busca información,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección al canal adecuado**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a un canal funcional (ej. formulario). | EP-07 |
 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | **Escenario 1: Visibilidad del acceso**<br>Dado que un usuario registrado visita la página principal,<br>Cuando busca cómo ingresar,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección a la plataforma**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a la página de inicio de sesión. | EP-07 |
+
+
+
+
 
 
 ## 3.3. Impact Mapping.
