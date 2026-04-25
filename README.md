@@ -1140,14 +1140,12 @@ El wireframe del landing page de IceTrack se diseñó para guiar la creación de
 
 El objetivo principal de este wireframe es asegurar que el diseño final sea lógico, atractivo y, sobre todo, que guíe al usuario hacia una acción clara, como registrarse o contactar a la empresa.
 
-<figure style="page-break-inside: avoid; text-align: center;">
-	<div align="center">
-    	<img src="assets/chapter04/LandingPageWireframe.png" height="50%">
-  	</div>
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Wireframe del Landing Page.
-  </figcaption>
-</figure>
+
+
+
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/Wireframelandig1.png" />
+
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/Wireframelandig2.png" />
 
 ### 4.3.2. Landing Page Mock-up
 
