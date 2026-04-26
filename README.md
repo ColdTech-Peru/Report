@@ -562,6 +562,7 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 10. ¿Usarías una plataforma que te conecte con más clientes? ¿Qué tendría que tener para que te convenza?
 
 ### 2.2.2. Registro de entrevistas
+
 ## Segmento objetivo #1: Negocios con equipos de refrigeración
 
 ### Entrevista 1:
@@ -638,11 +639,15 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 #### **Entrevista 2:**
 
-- **Nombres y apellidos:** 
-- **Distrito:** 
-- **Duración:** 
-- **Resumen:** 
-- **Url:**
+- **Nombres y apellidos: Mark Josue Febres Reategui**
+- **Edad:** 23 años
+- **Distrito: San Miguel**
+  
+  <img width="1336" height="533" alt="image" src="https://github.com/user-attachments/assets/e4a68f98-014d-4d29-8e5e-1788b7f291cf" />
+
+- **Duración: 3:33 minutos** 
+- **Resumen: Mark representa al Proveedor de Servicios con años de experiencia en el campo. Actualmente lidera un equipo de técnicos y se encarga tanto de la captación de clientes como de la logística operativa. Su enfoque es práctico y orientado a resultados, valorando la estabilidad de los equipos de sus clientes para evitar llamadas de emergencia fuera de horario. La entrevista al segmento de mantenimiento revela una dependencia crítica de procesos manuales y una falta de información técnica previa al servicio. Los especialistas destacan que la ausencia de telemetría en tiempo real genera ineficiencias operativas y sobrecostos. Se concluye que existe una alta disposición para adoptar la plataforma Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo, factores clave para transicionar con éxito de un modelo reactivo a uno preventivo. ** 
+- **Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
 
 #### Entrevista 3:
 
