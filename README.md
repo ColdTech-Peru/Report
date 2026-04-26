@@ -871,7 +871,7 @@ En esta sección se presenta el trabajo realizado durante la sesión de Big Pict
 **Segmento objetivo #1: Negocios con equipos de refrigeración**
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/To-Be-Scenario-segment-1.jpg"
+  <img src="assets/chapter04/seg1tobe.png"
        alt="To Be Scenario Mapping Segmento 1: Negocios con equipos de refrigeración"
        style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
@@ -897,8 +897,8 @@ Las historias de usuario para este proyecto se crearon en colaboración con el e
 Para mantener la organización, las historias se agruparon en épicas según sus funcionalidades. Los criterios de aceptación de cada historia se definieron utilizando la sintaxis Gherkin, asegurando que el equipo comprendiera el problema desde la perspectiva del usuario final.
 
 
-**Épicas del Sistema**
-Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.
+**Épicas del Sistema**<br>
+Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.<br>
 
 | **ID de Epic** | **Título** | **Descripción** |
 | :---: | :--- | :--- |
@@ -907,10 +907,10 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 | **EP-03** | Proceso de Solicitudes de Servicio | Esta epic cubre el ciclo completo de las solicitudes de servicio, desde que un cliente pide una reparación o mantenimiento hasta que el trabajo se completa y se le da seguimiento. |
 | **EP-04** | Análisis e Informes de Datos | Esta epic se encarga de la generación de reportes clave sobre el rendimiento de los equipos, el consumo energético y la eficiencia de los servicios, permitiendo un análisis detallado. |
 | **EP-05** | Sistema de Alertas y Notificaciones | Esta epic está dedicada a la creación de un sistema robusto que envía alertas automáticas a clientes y empresarios sobre fallas, necesidades de mantenimiento y el progreso de los servicios. |
-| **EP-07** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
+| **EP-06** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
 
 
-**User Stories**
+**User Stories**<br>
 
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Epic** |
 | :--- | :--- | :--- | :--- | :---: |
@@ -933,14 +933,17 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 | **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | **Escenario 1: Acceso a información**<br>Dado que el empresario necesita ver clientes pendientes,<br>Cuando accede a la funcionalidad,<br>Entonces puede visualizar clientes y servicios.<br><br>**Escenario 2: Filtrado de servicios**<br>Dado que el empresario quiere enfocarse en servicios específicos,<br>Cuando aplica un filtro por estado,<br>Entonces la lista se actualiza. | EP-04 |
 | **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | **Escenario 1: Acceso a la lista**<br>Dado que el empresario quiere consultar los equipos,<br>Cuando accede al listado,<br>Entonces puede visualizarlos.<br><br>**Escenario 2: Filtrado de equipos**<br>Dado que el empresario necesita encontrar equipos específicos,<br>Cuando aplica filtros,<br>Entonces la lista se actualiza mostrando resultados. | EP-02 |
 | **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | **Escenario 1: Problema reportado**<br>Dado que el técnico detecta una complicación,<br>Cuando se genera un evento interno,<br>Entonces se envía una notificación que requiere acción del cliente.<br><br>**Escenario 2: Notificación sobre progreso**<br>Dado que el servicio está en ejecución,<br>Cuando el estado cambia,<br>Entonces se envía una notificación. | EP-05 |
-| **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | **Escenario 1: Propuesta visible**<br>Dado que un visitante llega a la página principal,<br>Cuando carga,<br>Entonces se le presenta una frase que explica la propuesta.<br><br>**Escenario 2: Contenido orientado**<br>Dado que el visitante pertenece a la gestión de equipos,<br>Cuando revisa la propuesta,<br>Entonces encuentra conceptos de gestión inteligente. | EP-07 |
-| **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | **Escenario 1: Negocios de refrigeración**<br>Dado que un visitante explora soluciones,<br>Cuando revisa el contenido,<br>Entonces encuentra descripciones dirigidas a negocios de refrigeración.<br><br>**Escenario 2: Empresas proveedoras**<br>Dado que explora soluciones,<br>Cuando revisa,<br>Entonces encuentra información para empresas de mantenimiento. | EP-07 |
-| **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | **Escenario 1: Acceso a funcionalidades**<br>Dado que consulta características,<br>Cuando revisa la lista,<br>Entonces identifica opciones clave.<br><br>**Escenario 2: Descripciones orientadas al valor**<br>Dado que lee las descripciones,<br>Cuando evalúa cada una,<br>Entonces comprende el beneficio que aporta. | EP-07 |
-| **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | **Escenario 1: Acceso a misión**<br>Dado que accede a la información,<br>Cuando revisa el contenido corporativo,<br>Entonces encuentra una descripción clara.<br><br>**Escenario 2: Acceso a visión**<br>Dado que accede a la información institucional,<br>Cuando revisa el contenido estratégico,<br>Entonces encuentra la visión a futuro. | EP-07 |
-| **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | **Escenario 1: Canal de contacto**<br>Dado que está interesado en contactar,<br>Cuando busca información,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección al canal adecuado**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a un canal funcional (ej. formulario). | EP-07 |
-| **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | **Escenario 1: Visibilidad del acceso**<br>Dado que un usuario registrado visita la página principal,<br>Cuando busca cómo ingresar,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección a la plataforma**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a la página de inicio de sesión. | EP-07 |
-
-
+| **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | **Escenario 1: Propuesta visible**<br>Dado que un visitante llega a la página principal,<br>Cuando carga,<br>Entonces se le presenta una frase que explica la propuesta.<br><br>**Escenario 2: Contenido orientado**<br>Dado que el visitante pertenece a la gestión de equipos,<br>Cuando revisa la propuesta,<br>Entonces encuentra conceptos de gestión inteligente. | EP-06 |
+| **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | **Escenario 1: Negocios de refrigeración**<br>Dado que un visitante explora soluciones,<br>Cuando revisa el contenido,<br>Entonces encuentra descripciones dirigidas a negocios de refrigeración.<br><br>**Escenario 2: Empresas proveedoras**<br>Dado que explora soluciones,<br>Cuando revisa,<br>Entonces encuentra información para empresas de mantenimiento. | EP-06 |
+| **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | **Escenario 1: Acceso a funcionalidades**<br>Dado que consulta características,<br>Cuando revisa la lista,<br>Entonces identifica opciones clave.<br><br>**Escenario 2: Descripciones orientadas al valor**<br>Dado que lee las descripciones,<br>Cuando evalúa cada una,<br>Entonces comprende el beneficio que aporta. | EP-06 |
+| **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | **Escenario 1: Acceso a misión**<br>Dado que accede a la información,<br>Cuando revisa el contenido corporativo,<br>Entonces encuentra una descripción clara.<br><br>**Escenario 2: Acceso a visión**<br>Dado que accede a la información institucional,<br>Cuando revisa el contenido estratégico,<br>Entonces encuentra la visión a futuro. | EP-06 |
+| **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | **Escenario 1: Canal de contacto**<br>Dado que está interesado en contactar,<br>Cuando busca información,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección al canal adecuado**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a un canal funcional (ej. formulario). | EP-06 |
+| **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | **Escenario 1: Visibilidad del acceso**<br>Dado que un usuario registrado visita la página principal,<br>Cuando busca cómo ingresar,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección a la plataforma**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a la página de inicio de sesión. | EP-06 |
+| **TS-01** | Gestión de alertas críticas vía API | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario. | **Escenario 1: Envío de notificación al detectar falla**<br>Dado que se procesa una alerta crítica desde un equipo,<br>Cuando se genera una notificación al usuario,<br>Entonces se envía la alerta.<br><br>**Escenario 2: Falla detectada sin notificación activa**<br>Dado que el servicio de notificaciones está deshabilitado,<br>Cuando se genera la alerta crítica,<br>Entonces no se envía la notificación, y se registra en el historial. | EP-05 |
+| **TS-02** | Creación de solicitudes de mantenimiento (API) | Como desarrollador, quiero implementar una API que me permita crear solicitudes de mantenimiento para que los negocios reporten necesidades de soporte técnico. | **Escenario 1: Creación exitosa de solicitud**<br>Dado que se envía una solicitud POST a `/api/v1/service-requests` con los datos del equipo y la descripción del problema,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 201 y se guarda la solicitud en el sistema.<br><br>**Escenario 2: Datos incompletos en la solicitud**<br>Dado que se envía una solicitud a `/api/v1/service-requests` sin un campo obligatorio,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 400 con el mensaje "Invalid data". | EP-03 |
+| **TS-03** | Registro de intervenciones técnicas por API RESTful | Como desarrollador, quiero registrar las intervenciones técnicas realizadas a través de la API para llevar un seguimiento detallado del mantenimiento. | **Escenario 1: Registro exitoso**<br>Dado que se envía una solicitud POST a `/api/v1/interventions` con los datos del técnico y equipo,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 201 y el registro se almacena.<br><br>**Escenario 2: Registro con técnico no existente**<br>Dado que el ID del técnico no existe,<br>Cuando se realiza la solicitud POST a `/api/v1/interventions`,<br>Entonces se recibe una respuesta 404 con el mensaje "Technician not found". | EP-03 |
+| **TS-04** | Registrar nuevo usuario a través de API RESTful | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro. | **Escenario 1: Registro exitoso**<br>Dado que el endpoint `/api/v1/users` está disponible,<br>Cuando se envía una solicitud POST con datos válidos,<br>Entonces el sistema responde con 201 y devuelve el usuario registrado.<br><br>**Escenario 2: Registro con email existente**<br>Dado un correo ya registrado,<br>Cuando se intenta registrar nuevamente,<br>Entonces se devuelve un 400 con mensaje "Email already registered". | EP-01 |
+| **TS-05** | Consulta de estado de servicios por API | Como desarrollador, mi objetivo es crear un endpoint para que clientes y empresarios puedan consultar el estado de una solicitud de servicio en tiempo real. | **Escenario 1: Consulta exitosa del estado**<br>Dado que se envía una solicitud GET a `/api/v1/requests/{id}` con un ID válido,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 200 y se devuelve el estado actual de la solicitud.<br><br>**Escenario 2: Consulta con ID inexistente**<br>Dado que el ID de la solicitud no existe,<br>Cuando se realiza la consulta,<br>Entonces se recibe una respuesta 404 con el mensaje "Request not found". | EP-03 |
 
 
 
@@ -948,8 +951,9 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 ## 3.3. Impact Mapping.
 El equipo desarrolló un Impact Mapping en colaboración utilizando la herramienta UXPressia. Este mapa se creó para conectar los objetivos de negocio directamente con los requisitos funcionales de la plataforma.
 
+<br>**Segmento 1 - Negocios con equipos de refrigeración**<br>
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/impactmap.png"
+  <img src="assets/chapter04/Impact1.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
@@ -957,16 +961,28 @@ El equipo desarrolló un Impact Mapping en colaboración utilizando la herramien
   </figcaption>
 </figure>
 
+<br>**Segmento 2 - Empresas de mantenimiento**<br>
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Impact2.png"
+       alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Impact Mapping.
+  </figcaption>
+</figure>
+
+
+
 ## 3.4. Product Backlog.
 Para el desarrollo de nuestra plataforma, hemos creado un Product Backlog que funciona como una lista completa de todas las funcionalidades, características e incluso tareas técnicas necesarias para avanzar en el proyecto.
 
-Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5, 8, 13, 21) para estimar el esfuerzo de cada tarea. Esta escala de Story Points nos ayuda a priorizar y planificar de la siguiente manera:
+Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5, 8, 13, 21) para estimar el esfuerzo de cada tarea. Esta escala de Story Points nos ayuda a priorizar y planificar de la siguiente manera:<br>
 
-1: Tareas sencillas y rápidas.
-2: Tareas de complejidad moderada.
-3: Tareas que requieren más tiempo y esfuerzo.
-5: Tareas complejas.
-8: Tareas de alta complejidad que impactan varias áreas del proyecto.
+1: Tareas sencillas y rápidas.<br>
+2: Tareas de complejidad moderada.<br>
+3: Tareas que requieren más tiempo y esfuerzo.<br>
+5: Tareas complejas.<br>
+8: Tareas de alta complejidad que impactan varias áreas del proyecto.<br>
 
 <figure style="page-break-inside: avoid; text-align: center;">
   <img src="assets/chapter01/trello.png"
@@ -977,33 +993,43 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
   </figcaption>
 </figure>
 
-| **Orden** | **User Story ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
+Link del Backlog en trello: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIc41d50b3166de3cd176b5b3c82be8c51F5BBF481/frigora-product-backlog
+
+
+| **Orden** | **ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-07 |
-| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-07 |
-| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-07 |
-| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-07 |
-| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-07 |
-| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-07 |
-| 7 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | 3 | EP-01 |
-| 8 | **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | 2 | EP-01 |
-| 9 | **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos en la plataforma para incluirlos en mi equipo de trabajo y gestionar sus perfiles. | 5 | EP-01 |
-| 10 | **US-13** | Consultar el perfil de un técnico | Como empresario, quiero ver el perfil de cada técnico, incluyendo sus datos y métricas de rendimiento. | 2 | EP-01 |
-| 11 | **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración en la plataforma para mantener un registro y control detallado de cada uno. | 5 | EP-02 |
-| 12 | **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | 3 | EP-02 |
-| 13 | **US-06** | Solicitar y gestionar servicios de mantenimiento y reparación | Como cliente, quiero solicitar servicios de mantenimiento y reparación para mis equipos, y recibir confirmación. | 5 | EP-03 |
-| 14 | **US-09** | Recepción de alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas automáticas cuando un cliente solicite un servicio de reparación o mantenimiento. | 3 | EP-05 |
-| 15 | **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para asegurar que se realice el trabajo adecuadamente. | 3 | EP-03 |
-| 16 | **US-07** | Dar seguimiento al progreso del servicio | Como cliente, quiero seguir el avance de mi servicio solicitado para saber en qué etapa se encuentra y cuándo estará completado. | 3 | EP-03 |
-| 17 | **US-11** | Realizar seguimiento a solicitudes de servicio | Como empresario, quiero realizar un seguimiento detallado a las solicitudes de servicio de mis técnicos, para saber cómo van. | 3 | EP-03 |
-| 18 | **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | 5 | EP-05 |
-| 19 | **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas. | 5 | EP-05 |
-| 20 | **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas para el mantenimiento preventivo de los equipos. | 5 | EP-05 |
-| 21 | **US-08** | Ver reporte de servicio realizado | Como cliente, quiero ver el reporte de servicio detallado para saber qué reparaciones se hicieron en mi equipo. | 3 | EP-04 |
-| 22 | **US-10** | Ver historial de servicios | Como empresario, quiero ver el historial de servicios realizados para cada cliente y equipo, para llevar un control detallado. | 3 | EP-04 |
-| 23 | **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | 3 | EP-04 |
-| 24 | **US-05** | Analizar el consumo energético de equipos | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia y tomar decisiones informadas. | 8 | EP-04 |
-| 25 | **US-15** | Generar reporte de desempeño de técnicos | Como empresario, quiero generar reportes sobre el desempeño de mis técnicos para evaluar su eficiencia y productividad. | 8 | EP-04 |
+| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-06 |
+| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-06 |
+| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-06 |
+| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-06 |
+| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-06 |
+| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-06 |
+| 7 | **TS-04** | Registrar nuevo usuario a través de API RESTful | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro. | 3 | EP-01 |
+| 8 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | 3 | EP-01 |
+| 9 | **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | 2 | EP-01 |
+| 10 | **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos en la plataforma para incluirlos en mi equipo de trabajo y gestionar sus perfiles. | 5 | EP-01 |
+| 11 | **US-13** | Consultar el perfil de un técnico | Como empresario, quiero ver el perfil de cada técnico, incluyendo sus datos y métricas de rendimiento. | 2 | EP-01 |
+| 12 | **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración en la plataforma para mantener un registro y control detallado de cada uno. | 5 | EP-02 |
+| 13 | **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | 3 | EP-02 |
+| 14 | **TS-02** | Creación de solicitudes de mantenimiento (API) | Como desarrollador, quiero implementar una API que me permita crear solicitudes de mantenimiento para que los negocios reporten necesidades de soporte técnico. | 3 | EP-03 |
+| 15 | **US-06** | Solicitar y gestionar servicios de mantenimiento y reparación | Como cliente, quiero solicitar servicios de mantenimiento y reparación para mis equipos, y recibir confirmación. | 5 | EP-03 |
+| 16 | **TS-05** | Consulta de estado de servicios por API | Como desarrollador, mi objetivo es crear un endpoint para que clientes y empresarios puedan consultar el estado de una solicitud de servicio en tiempo real. | 2 | EP-03 |
+| 17 | **US-09** | Recepción de alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas automáticas cuando un cliente solicite un servicio de reparación o mantenimiento. | 3 | EP-05 |
+| 18 | **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para asegurar que se realice el trabajo adecuadamente. | 3 | EP-03 |
+| 19 | **TS-03** | Registro de intervenciones técnicas por API RESTful | Como desarrollador, quiero registrar las intervenciones técnicas realizadas a través de la API para llevar un seguimiento detallado del mantenimiento. | 3 | EP-03 |
+| 20 | **US-07** | Dar seguimiento al progreso del servicio | Como cliente, quiero seguir el avance de mi servicio solicitado para saber en qué etapa se encuentra y cuándo estará completado. | 3 | EP-03 |
+| 21 | **US-11** | Realizar seguimiento a solicitudes de servicio | Como empresario, quiero realizar un seguimiento detallado a las solicitudes de servicio de mis técnicos, para saber cómo van. | 3 | EP-03 |
+| 22 | **TS-01** | Gestión de alertas críticas vía API | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario. | 5 | EP-05 |
+| 23 | **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | 5 | EP-05 |
+| 24 | **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas. | 5 | EP-05 |
+| 25 | **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas para el mantenimiento preventivo de los equipos. | 5 | EP-05 |
+| 26 | **US-08** | Ver reporte de servicio realizado | Como cliente, quiero ver el reporte de servicio detallado para saber qué reparaciones se hicieron en mi equipo. | 3 | EP-04 |
+| 27 | **US-10** | Ver historial de servicios | Como empresario, quiero ver el historial de servicios realizados para cada cliente y equipo, para llevar un control detallado. | 3 | EP-04 |
+| 28 | **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | 3 | EP-04 |
+| 29 | **US-05** | Analizar el consumo energético de equipos | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia y tomar decisiones informadas. | 8 | EP-04 |
+| 30 | **US-15** | Generar reporte de desempeño de técnicos | Como empresario, quiero generar reportes sobre el desempeño de mis técnicos para evaluar su eficiencia y productividad. | 8 | EP-04 |
+
+
 
 # Capítulo IV: Product Design
 
@@ -1432,7 +1458,10 @@ URL: https://github.com/ColdTech-Peru/Report
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
-<img width="1820" height="947" alt="base de datos diseño" src="" />
+
+Descripción: El diagrama ER representa las entidades principales del sistema Frigora, sus atributos y las relaciones entre usuarios, técnicos, negocios, equipos, métricas, alertas y órdenes.
+
+<img width="1820" height="947" alt="base de datos diseño" src="assets/chapter04/databasediagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Database Diagram.
   </figcaption>
