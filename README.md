@@ -897,8 +897,8 @@ Las historias de usuario para este proyecto se crearon en colaboración con el e
 Para mantener la organización, las historias se agruparon en épicas según sus funcionalidades. Los criterios de aceptación de cada historia se definieron utilizando la sintaxis Gherkin, asegurando que el equipo comprendiera el problema desde la perspectiva del usuario final.
 
 
-**Épicas del Sistema**
-Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.
+**Épicas del Sistema**<br>
+Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.<br>
 
 | **ID de Epic** | **Título** | **Descripción** |
 | :---: | :--- | :--- |
@@ -910,7 +910,7 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 | **EP-07** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
 
 
-**User Stories**
+**User Stories**<br>
 
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Epic** |
 | :--- | :--- | :--- | :--- | :---: |
@@ -948,8 +948,9 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 ## 3.3. Impact Mapping.
 El equipo desarrolló un Impact Mapping en colaboración utilizando la herramienta UXPressia. Este mapa se creó para conectar los objetivos de negocio directamente con los requisitos funcionales de la plataforma.
 
+<br>**Segmento 1 - Negocios con equipos de refrigeración**<br>
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/Impact1.png.png"
+  <img src="assets/chapter04/Impact1.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
@@ -957,12 +958,13 @@ El equipo desarrolló un Impact Mapping en colaboración utilizando la herramien
   </figcaption>
 </figure>
 
+<br>**Segmento 2 - Empresas de mantenimiento**<br>
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/Impact2.png.png"
+  <img src="assets/chapter01/Impact2.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Impact Mapping.
+    <strong>Figura 2:</strong> Impact Mapping.
   </figcaption>
 </figure>
 
