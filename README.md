@@ -617,16 +617,22 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 #### **Entrevista 1:**
 
-- **Nombres y apellidos:** 
-- **Edad:** 
-- **Distrito:** 
-- **Inicio:** 
-- **Duración:** 
-- **Url:** [``]()
+- **Nombres y apellidos:** Rosigo Miraval
+- **Edad:** 23 años
+- **Distrito:** San Miguel
 
-![Entrevista1-Segmento2]()
+![Interview-1-segment-2.png](assets/chapter04/SSRodrigo.png)
 
-- **Resumen:** 
+- **Inicio:** 0:00
+- **Duración:** 6:06 
+- **Url:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD)
+
+- **Resumen:** Rodrigo es un joven de 23 años que lleva trabajando como técnico de mantenimiento de equipos durante más de un año. Durante su experiencia se ha ido ganando un lugar en el rubro, pero recuerda cuando en sus inicios fue un poco complicado encontrar trabajo.
+
+Éñ menciona que cada semana debe revisar personalmente el estado de los equipos y, que la parte más dificíl de este trabajo es cuando tiene que hacer el mantenimiento completo, lo que ocasionalmente sucede cuando no hubo una correcta prevension delos equipos. 
+
+En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frigora, y cree que mejorariía tanto su posibilidad de alcancer más clientes, como optimizar todas sus reparaciones, ya que podría analizar constantemente los equipos en su etapa de prevención antes que necesiten una repacración completa.
+
 
 ---
 
