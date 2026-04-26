@@ -189,7 +189,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                             | Acciones realizadas                                                      | Conclusiones                   |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia                             | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>AV1: </b> Durante el desarrollo del proyecto, al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, fortalecí mi capacidad de comunicar oralmente con efectividad. A través de la exposición de ideas, la explicación de la arquitectura del sistema y la coordinación con el equipo, logré transmitir conceptos técnicos de manera clara, adaptando mi lenguaje según el nivel de conocimiento de la audiencia. <br> <ul><li><b>Perez Tuesta, Gabriel</b> <br> <b>AV1: Redacté descripciones técnicas y profesionales para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en un lenguaje formal y ejecutivo apto para un informe académico.</b>        | <ul><li><b>AV1</b>: Como equipo, </li></ul> |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia                             | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>AV1: </b> Durante el desarrollo del proyecto, al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, fortalecí mi capacidad de comunicar oralmente con efectividad. A través de la exposición de ideas, la explicación de la arquitectura del sistema y la coordinación con el equipo, logré transmitir conceptos técnicos de manera clara, adaptando mi lenguaje según el nivel de conocimiento de la audiencia. </li></ul> <br> <ul><li><b>Perez Tuesta, Gabriel</b> <br> <b>AV1: Redacté descripciones técnicas y profesionales para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en un lenguaje formal y ejecutivo apto para un informe académico.</b>        | <ul><li><b>AV1</b>: Como equipo, </li></ul> |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia                           |                            <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>AV1: </b> Durante el desarrollo del proyecto, al contribuir en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, fortalecí mi capacidad de comunicar por escrito con efectividad. La redacción de documentación y la organización de información técnica me permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia y facilitando la comprensión de la solución propuesta.  </li></ul>  <br> <ul><li><b>Perez Tuesta, Gabriel</b> <br> <b>AV1: Sinteticé procesos técnicos complejos, como la configuración de Tokens de acceso y la jerarquía de roles, en instrucciones directas y fáciles de seguir. Además, estructuré la lógica de navegación de la plataforma diferenciando claramente los perfiles de Administrador y Proveedor, demostrando la capacidad de adaptar el mensaje técnico según las necesidades y el nivel de control de cada tipo de usuario.</b>| <ul><li><b>AV1</b>:  <br>  |
 
 # Capitulo 1: Introducción
@@ -1596,9 +1596,9 @@ A continuación, se detallan las convenciones de nomenclatura para diferentes ti
 ---
 
 **Repositorio de Github:**
-- Enlace para acceder a la organizacion en Github:
-- Enlace para acceder al repositorio de la Landing Page: 
-- Enlace para acceder al repositorio del Informe: 
+- Enlace para acceder a la organizacion en Github: https://github.com/ColdTech-Peru
+- Enlace para acceder al repositorio de la Landing Page: https://github.com/ColdTech-Peru/Landing-Page
+- Enlace para acceder al repositorio del Informe: https://github.com/ColdTech-Peru/Report
 
 ---
 
