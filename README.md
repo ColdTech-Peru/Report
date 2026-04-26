@@ -871,7 +871,7 @@ En esta sección se presenta el trabajo realizado durante la sesión de Big Pict
 **Segmento objetivo #1: Negocios con equipos de refrigeración**
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/To-Be-Scenario-segment-1.jpg"
+  <img src="assets/chapter04/seg1tobe.png"
        alt="To Be Scenario Mapping Segmento 1: Negocios con equipos de refrigeración"
        style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
@@ -949,13 +949,24 @@ Las siguientes épicas representan los bloques funcionales principales del produ
 El equipo desarrolló un Impact Mapping en colaboración utilizando la herramienta UXPressia. Este mapa se creó para conectar los objetivos de negocio directamente con los requisitos funcionales de la plataforma.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/impactmap.png"
+  <img src="assets/chapter04/Impact1.png.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Impact Mapping.
   </figcaption>
 </figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/Impact2.png.png"
+       alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Impact Mapping.
+  </figcaption>
+</figure>
+
+
 
 ## 3.4. Product Backlog.
 Para el desarrollo de nuestra plataforma, hemos creado un Product Backlog que funciona como una lista completa de todas las funcionalidades, características e incluso tareas técnicas necesarias para avanzar en el proyecto.
