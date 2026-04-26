@@ -36,8 +36,9 @@
 
 <div align="center">
  
-| Versión | Fecha      | Autor             | Descripción de modificación                        	|
-| :-----: | :--------: | :---------------: | :----------------------------------------------------- |
+| Versión | Fecha      | Autor     | Descripción de modificación                                                                 |
+| :-----: | :--------: | :-------: | :------------------------------------------------------------------------------------------ |
+| 1.0     | 2026-04-26 | ColdTech  | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
 
 
 </div>
@@ -48,7 +49,7 @@
   
 - **URL del repositorio del reporte: https://github.com/ColdTech-Peru/Report** <br>
   
-- **URL del repositorio de la Landing Page:** <br>
+- **URL del repositorio de la Landing Page: https://github.com/ColdTech-Peru/Landing-Page** <br>
   
 - **URL del repositorio del Frontend:** <br>
   
