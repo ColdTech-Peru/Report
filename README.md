@@ -1432,7 +1432,10 @@ URL: https://github.com/ColdTech-Peru/Report
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
-<img width="1820" height="947" alt="base de datos diseño" src="" />
+
+Descripción: El diagrama ER representa las entidades principales del sistema Frigora, sus atributos y las relaciones entre usuarios, técnicos, negocios, equipos, métricas, alertas y órdenes.
+
+<img width="1820" height="947" alt="base de datos diseño" src="assets/chapter04/databasediagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Database Diagram.
   </figcaption>
