@@ -993,6 +993,9 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
   </figcaption>
 </figure>
 
+Link del Backlog en trello: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIc41d50b3166de3cd176b5b3c82be8c51F5BBF481/frigora-product-backlog
+
+
 | **Orden** | **ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
 | :---: | :---: | :--- | :--- | :---: | :---: |
 | 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-06 |
