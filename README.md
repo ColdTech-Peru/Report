@@ -960,7 +960,7 @@ El equipo desarrolló un Impact Mapping en colaboración utilizando la herramien
 
 <br>**Segmento 2 - Empresas de mantenimiento**<br>
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/Impact2.png"
+  <img src="assets/chapter04/Impact2.png"
        alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
        style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
