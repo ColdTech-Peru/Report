@@ -1775,9 +1775,10 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-Enlace: https://trello.com/b/sUPp1a6b/sprints
+Enlace: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d8cf52d5f416485b4519519493/frigora-product-backlog
 
-![Sprint1-Trello.png](assets/chapter05/Sprint1-Trello.png)
+![Sprint1-Trello.png](assets/chapter05/Product%20Backlog%20-%20Sprint1.png)
+
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Sprint Backlog 1.
   </figcaption>
