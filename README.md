@@ -882,7 +882,7 @@ En esta sección se presenta el trabajo realizado durante la sesión de Big Pict
 **Segmento objetivo #2: Técnicos y empresas de mantenimiento**
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter03/To Be Scenario Mapping Segmento 2 - Técnicos y empresas de mantenimiento.png)
+  <img src="assets/chapter03/To Be Scenario Mapping Segmento 2 - Técnicos y empresas de mantenimiento.png"
        alt="To Be Scenario Mapping Segmento 2: Técnicos y empresas de mantenimiento"
        style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
