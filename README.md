@@ -189,8 +189,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                             | Acciones realizadas                                                      | Conclusiones                   |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b> | <ul><li><b>TB1</b>: Como equipo, </li></ul> |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b>:  </li></ul> | <ul><li><b>TB1</b>:  <br>  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia                             | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b> <br> <ul><li><b>Perez Tuesta, Gabriel</b> <br> <b>TB1: Redacté descripciones técnicas y profesionales para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en un lenguaje formal y ejecutivo apto para un informe académico.</b>        | <ul><li><b>TB1</b>: Como equipo, </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia                           |                            <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b>:  </li></ul>  <br> <ul><li><b>Perez Tuesta, Gabriel</b> <br> <b>TB1: Sinteticé procesos técnicos complejos, como la configuración de Tokens de acceso y la jerarquía de roles, en instrucciones directas y fáciles de seguir. Además, estructuré la lógica de navegación de la plataforma diferenciando claramente los perfiles de Administrador y Proveedor, demostrando la capacidad de adaptar el mensaje técnico según las necesidades y el nivel de control de cada tipo de usuario.</b>| <ul><li><b>TB1</b>:  <br>  |
 
 # Capitulo 1: Introducción
 
