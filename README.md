@@ -1813,10 +1813,15 @@ Enlace: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d
   </figcaption>
 
 ---
-<table border="1">
-
-
-</table>
+| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| **US-20** | Visualizar la propuesta de valor principal | **UT-01** | Crear la sección "Hero" | Diseñar y añadir la sección principal superior (Hero) que comunique el monitoreo inteligente de equipos IoT. | 2 | [Nombre de compañero] | Done |
+| **US-21** | Explorar soluciones específicas para mi rubro | **UT-01** | Crear sección de "Soluciones" | Redactar y maquetar las tarjetas de soluciones específicas para supermercados, laboratorios y sector alimentario. | 3 | [Nombre de compañero] | Done |
+| **US-22** | Comprender las funcionalidades clave | **UT-01** | Crear sección "Características" | Diseñar la sección donde se listan las funciones de telemetría, alertas preventivas y control de temperatura. | 3 | [Nombre de compañero] | Done |
+| **US-23** | Conocer la misión y visión | **UT-01** | Crear la sección "Nosotros" | Añadir la sección visual que refleje la misión y visión de la startup para generar confianza en el cliente B2B. | 1.5 | [Nombre de compañero] | Done |
+| **US-24** | Contactar con el equipo de ventas | **UT-01** | Diseñar interfaz de "Contacto" | Maquetar el formulario de contacto solicitando datos clave de la empresa (Nombre, RUC, Teléfono, Mensaje). | 2 | [Nombre de compañero] | Done |
+| **US-24** | Contactar con el equipo de ventas | **UT-02** | Definir flujo de validación | Documentar y prototipar los mensajes de éxito/error al enviar el formulario de ventas. | 1.5 | [Nombre de compañero] | Done |
+| **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Nombre de compañero] | Done |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
