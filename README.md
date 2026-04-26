@@ -995,12 +995,12 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
 
 | **Orden** | **ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-07 |
-| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-07 |
-| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-07 |
-| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-07 |
-| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-07 |
-| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-07 |
+| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-06 |
+| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-06 |
+| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-06 |
+| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-06 |
+| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-06 |
+| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-06 |
 | 7 | **TS-04** | Registrar nuevo usuario a través de API RESTful | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro. | 3 | EP-01 |
 | 8 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | 3 | EP-01 |
 | 9 | **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | 2 | EP-01 |
