@@ -1915,6 +1915,8 @@ Evidencia de la implementación del canal de comunicación B2B. Se desarrolló l
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/5216.png">
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 A continuación, se presenta las  secciones principales de la Landing Page desplegada en GitHub Pages:
