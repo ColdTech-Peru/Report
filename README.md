@@ -1889,28 +1889,28 @@ Evidencia de la implementación de la propuesta de valor principal. Se desarroll
 **Beneficios**
 Evidencia de la implementación de las soluciones específicas por rubro. Se desarrolló un panel dinámico que permite alternar el contenido entre los dos segmentos objetivo ("Dueños de Negocios" y "Empresas de Servicio"), utilizando tarjetas informativas para destacar ventajas clave como la preservación de inventario, reducción de costos operativos y análisis de datos en vivo.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Beneficios.png>
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Beneficios.png">
 
 ---
 
 **Sobre Nosotros**
 Evidencia de la implementación de la identidad corporativa. Se desarrolló la sección "Nuestra Esencia", estructurando de manera visual y directa la misión y visión de la startup para generar confianza y comunicar el propósito tecnológico de la plataforma a los visitantes.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/sobre nosotros.png>
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/sobre nosotros.png">
 
 ---
 
 **Testimonios**
 Evidencia de la implementación de la validación social. Se desarrolló la sección "Casos de Éxito" utilizando un formato de tarjetas que destacan reseñas representativas de los dos segmentos objetivo (dueños de negocios y técnicos de soporte), reforzando la credibilidad de la plataforma mediante experiencias enfocadas en la prevención de pérdidas y la eficiencia operativa.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/testimonios.png>
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/testimonios.png">
 
 ---
 
 **Contacto**
 Evidencia de la implementación del canal de comunicación B2B. Se desarrolló la sección final con un formulario estructurado para la captación de potenciales clientes (leads), solicitando datos clave (nombre, correo corporativo y requerimiento) con el objetivo de agendar consultorías técnicas y demostraciones de la plataforma.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/contactanos.png>
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/contactanos.png">
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
