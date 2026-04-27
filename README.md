@@ -549,6 +549,7 @@ Frigora iniciará en Lima, con la intención de expandirse progresivamente a otr
 **Alianzas Locales:**  
 Se buscará trabajar con técnicos y proveedores locales, fortaleciendo la red de servicios y adaptándose mejor al mercado.
 
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
