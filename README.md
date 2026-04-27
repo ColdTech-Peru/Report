@@ -650,7 +650,7 @@ Considera útil una plataforma que le permita organizar solicitudes, conocer el 
 
 #### **Entrevista 1:**
 
-- **Nombres y apellidos:** Rosigo Miraval
+- **Nombres y apellidos:** Rodrigo Miraval
 - **Edad:** 23 años
 - **Distrito:** San Miguel
 
@@ -662,9 +662,9 @@ Considera útil una plataforma que le permita organizar solicitudes, conocer el 
 
 - **Resumen:** Rodrigo es un joven de 23 años que lleva trabajando como técnico de mantenimiento de equipos durante más de un año. Durante su experiencia se ha ido ganando un lugar en el rubro, pero recuerda cuando en sus inicios fue un poco complicado encontrar trabajo.
 
-Éñ menciona que cada semana debe revisar personalmente el estado de los equipos y, que la parte más dificíl de este trabajo es cuando tiene que hacer el mantenimiento completo, lo que ocasionalmente sucede cuando no hubo una correcta prevension delos equipos. 
+Él menciona que cada semana debe revisar personalmente el estado de los equipos y, que la parte más dificíl de este trabajo es cuando tiene que hacer el mantenimiento completo, lo que ocasionalmente sucede cuando no hubo una correcta prevension delos equipos. 
 
-En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frigora, y cree que mejorariía tanto su posibilidad de alcancer más clientes, como optimizar todas sus reparaciones, ya que podría analizar constantemente los equipos en su etapa de prevención antes que necesiten una repacración completa.
+En conclusión, Rodrigo estaría dispuesto a adquirir una aplicación como Frigora, y cree que mejorariía tanto su posibilidad de alcancer más clientes, como optimizar todas sus reparaciones, ya que podría analizar constantemente los equipos en su etapa de prevención antes que necesiten una repacración completa.
 
 
 ---
@@ -1448,7 +1448,16 @@ URL: https://github.com/ColdTech-Peru/Report
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
 
+Segmento 1
 
+<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/even1.png" />
+
+
+Segmento 2
+
+<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/even2.png" />
+
+link del trello: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2clFSQUMyL0lwUGZZL0swRHNJSTBsYkVsTGV5S1Z3am5STkRiMlZ3YWVoRnN5M2svUUFlRm1kYjQ1SXZOeitBdHBNWnorSFlKY2VwWUlLMVIxZ3VPVm5oakdmd0hKT0FQWmtzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=723339078935
 
 ### 4.6.2. Software Architecture Context Diagram
 <img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/FrigoraContextDiagram.png" />
