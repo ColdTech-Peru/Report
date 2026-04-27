@@ -587,31 +587,41 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 #### Entrevista 2:
 
-- **Nombres y apellidos:** 
-- **Edad:** 
-- **Distrito:** 
-
-![Entrevista-2-segmento1.png]()
+- **Nombres y apellidos:** Luis Tufiño
+- **Edad:** 23
+- **Distrito:** Callao
+  
+![Interview-2-segment-1.png](assets/chapter02/EntrevistaLuis.png)
 
 - **Inicio:** 0:00
-- **Duración:** 3:44 min
-- **URL:** 
-- **Resumen:** 
+- **Duración:** 4:56 min
+- **URL:** [`[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- **Resumen:** Luis Tufiño  es un técnico independiente en refrigeración comercial que atiende bodegas, cafeterías y minimarkets. Realiza principalmente reparaciones, mantenimiento básico y recargas de gas.
+
+Actualmente consigue clientes por Facebook, WhatsApp y recomendaciones, pero no cuenta con una herramienta formal para organizar su trabajo. Maneja sus citas desde el celular, lo que a veces genera cruces de horarios u olvidos.
+
+Su principal problema es la falta de organización y la inestabilidad de clientes. Luis considera útil una plataforma que le permita recibir solicitudes ordenadas, ver la ubicación del cliente, conocer el problema del equipo y conectar con más oportunidades de trabajo.
 
 ---
 
 #### Entrevista 3:
 
-- **Nombre:** Henrry
-- **Edad:** 28 años
-- **Distrito:** Lima
+- **Nombre:** Yañez Santos, Leo Giovany
+- **Edad:** 23 años
+- **Distrito:** San miguel
 
-<img width="1047" height="529" alt="image" src="" />
+
+![Interview-3-segment-1.png](assets/chapter02/Entrevista Leo.png)
 
 - **Inicio:** 0:00
-- **Duración:** 6:14 min
-- **URL:** [``]()
-- **Resumen:** 
+- **Duración:** 3:00 min
+- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Resumen:** Yañez Santos, Leo Giovany es técnico independiente en refrigeración comercial que atiende restaurantes y minimarkets, realizando principalmente mantenimiento y reparaciones.
+
+Consigue clientes por recomendaciones y organiza sus servicios con WhatsApp y notas, lo que puede generar desorden. Su principal dificultad es coordinar sus trabajos y optimizar su tiempo.
+
+Considera útil una plataforma que le permita organizar solicitudes, conocer el estado de los equipos y acceder a más oportunidades de trabajo.
 
 ---
 
