@@ -23,6 +23,7 @@
 |   Perez Tuesta,  Gabriel   |              u202321281               |
 |   Fajardo Monrroy, Walter Luis   |              u202221632               |
 |   Cumba Rengifo, Leonardo Raul   |              u202311912               |
+|   Cuentas Peña, Joaquin Alberto  |              u20201f788       |
 
 </div>
 
