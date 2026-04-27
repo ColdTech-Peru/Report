@@ -1840,9 +1840,17 @@ Enlace: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d
 
 En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
 
-<table>
-    
-</table>
+| Repositorio | Rama | ID de confirmación | Mensaje de confirmación | Cuerpo del mensaje de confirmación |
+| :--- | :--- | :---: | :--- | :--- |
+| ColdTech-Peru / LandingPage | master | f331259 | feat: cambiar script.js a index.js | Renombramiento del archivo de scripts principal a index.js para cumplir con las convenciones de estandarización del proyecto. |
+| ColdTech-Peru / LandingPage | master | f57b84b | JS | Creación y vinculación del archivo de lógica interactiva JavaScript para dotar de dinamismo a la página principal. |
+| ColdTech-Peru / LandingPage | master | fdf1625 | feature: add images | Se integraron todos los recursos gráficos y activos visuales necesarios para la interfaz de la landing page. |
+| ColdTech-Peru / LandingPage | master | 7e6df51 | feature: hero and benefit section update | Se realizaron ajustes en el maquetado de la sección principal y se actualizaron los textos de la sección de beneficios. |
+| ColdTech-Peru / LandingPage | master | c4d382c | feat: correct footer | Se corrigieron errores de alineación y se validaron los enlaces de redes sociales en la sección inferior. |
+| ColdTech-Peru / LandingPage | master | 1c227de | feat: change footer | Reestructuración del diseño del pie de página para mejorar la experiencia de navegación del usuario. |
+| ColdTech-Peru / LandingPage | master | 3e69af4 | feat: add style.css | Implementación de la hoja de estilos CSS inicial para definir la identidad visual y tipografía del proyecto. |
+| ColdTech-Peru / LandingPage | master | 13d089c | html | Creación de la estructura semántica base del documento principal index.html. |
+| ColdTech-Peru / LandingPage | master | 5b6714b | primer commit1 | Inicialización del repositorio y carga de los archivos fundamentales para el despliegue de la página. |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
