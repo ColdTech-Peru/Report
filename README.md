@@ -1923,21 +1923,32 @@ A continuación, se presenta las  secciones principales de la Landing Page despl
 
 **Inicio**
 
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Inicio.png">
+
 ---
 **Beneficios**
+
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Beneficios.png">
 
 ---
 **Sobre Nosotros**
 
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/sobre nosotros.png">
+
 ---
 **Testimonios**
+
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/testimonios.png">
+
 
 ---
 **Contacto**
 
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/contactanos.png">
+
 ---
 
-URL del Landing Page desplegado: 
+URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
