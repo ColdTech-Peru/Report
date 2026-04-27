@@ -679,7 +679,7 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 - **Duración: 3:33 minutos** 
 - Resumen: Mark representa al Proveedor de Servicios con años de experiencia en el campo. Actualmente lidera un equipo de técnicos y se encarga tanto de la captación de clientes como de la logística operativa. Su enfoque es práctico y orientado a resultados, valorando la estabilidad de los equipos de sus clientes para evitar llamadas de emergencia fuera de horario. La entrevista al segmento de mantenimiento revela una dependencia crítica de procesos manuales y una falta de información técnica previa al servicio. Los especialistas destacan que la ausencia de telemetría en tiempo real genera ineficiencias operativas y sobrecostos. Se concluye que existe una alta disposición para adoptar la plataforma Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo, factores clave para transicionar con éxito de un modelo reactivo a uno preventivo. 
-- **Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Url: ** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### Entrevista 3:
 
@@ -1210,7 +1210,7 @@ Asociaciones entre etiquetas:
   - Title: Monitoreo y gestión de tus equipos de refrigeración
   - Meta Description: Supervisa el estado de tus equipos, recibe alertas inmediatas y gestiona servicios de mantenimiento desde una sola plataforma.
   - Meta Keywords: monitoreo de refrigeración, gestión de equipos, alertas preventivas, mantenimiento en línea, reportes energéticos, técnicos de refrigeración
-  - Meta Author: Frostshield 
+  - Meta Author: Frigora 
 
 ### 4.2.4. Searching Systems
 Las decisiones de búsqueda en Frigora están orientadas a garantizar que los usuarios —empresarios, técnicos y proveedores— encuentren rápidamente la información crítica de sus equipos y servicios, sin sentirse abrumados por grandes volúmenes de datos.
@@ -1260,7 +1260,7 @@ Funcionalidades: Descripción de herramientas clave como monitoreo en tiempo rea
 Beneficios: Explicación de ventajas competitivas (ahorro energético, reducción de pérdidas, eficiencia operativa).
 
 
-Nosotros: Información sobre la misión, visión y el equipo de IceTrack.
+Nosotros: Información sobre la misión, visión y el equipo de Frigora.
 
 
 Contacto: Formulario de contacto y datos de soporte.
@@ -1269,13 +1269,13 @@ Contacto: Formulario de contacto y datos de soporte.
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-El wireframe del landing page de IceTrack se diseñó para guiar la creación de una interfaz clara e intuitiva. Este esquema visual, enfocado en la usabilidad y el flujo de información, define la estructura de cada sección:
+El wireframe del landing page de Frigora se diseñó para guiar la creación de una interfaz clara e intuitiva. Este esquema visual, enfocado en la usabilidad y el flujo de información, define la estructura de cada sección:
 
-**Header:** Contiene el logo de IceTrack y una navegación simple que facilita el acceso a las diferentes secciones de la página.
+**Header:** Contiene el logo de Frigora y una navegación simple que facilita el acceso a las diferentes secciones de la página.
 
 **Hero Section:** Muestra la propuesta de valor de forma impactante. Es la primera impresión del usuario y comunica de inmediato el valor principal de la solución.
 
-**Beneficios:** Detalla los puntos clave que los clientes ganarán al usar la aplicación, explicando cómo IceTrack resuelve sus problemas específicos.
+**Beneficios:** Detalla los puntos clave que los clientes ganarán al usar la aplicación, explicando cómo Frigora resuelve sus problemas específicos.
 
 **Sobre Nosotros:** Presenta la misión y visión de la empresa, construyendo confianza y conectando con el usuario a través de los valores de la marca.
 
@@ -1441,7 +1441,7 @@ El presente Wireflow representa la arquitectura de navegación y la lógica de i
 
 ## 4.5. Web Applications Prototyping
 
-La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación IceTrack antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
+La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación Frigora antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
 
 URL: https://github.com/ColdTech-Peru/Report
 
@@ -1967,9 +1967,10 @@ URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
 
 <img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Team Collaboration Insights during Sprint -2 .png">
 
-### Conclusiones
+---
 
-Conclusiones:
+# Conclusiones
+
 
 Objetivo comercial cumplido: Terminamos la Landing Page al 100%. La propuesta de valor y los beneficios de la plataforma ya están visibles para nuestros dos segmentos (empresas y técnicos).
 
@@ -1977,7 +1978,9 @@ Organización ágil: Aplicamos Scrum con éxito. Todo el trabajo se documentó c
 
 Colaboración técnica: Logramos un flujo de trabajo sólido en GitHub. Todo el equipo integró sus cambios de forma ordenada usando Conventional Commits hacia la rama principal.
 
-### Anexos:
+---
+
+# Anexos:
 
 - **URL de la organización del proyecto: https://github.com/ColdTech-Peru** <br>
   
@@ -1987,6 +1990,6 @@ Colaboración técnica: Logramos un flujo de trabajo sólido en GitHub. Todo el 
 
 - **URL de la Landing Page desplegada: [https://github.com/ColdTech-Peru/Landing-Page](https://coldtech-peru.github.io/Landing-Page/)** <br>
 
-- **URL de video exposicion AV1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw** 
+- **URL de video exposicion AV1:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbwy)
 
 ---
