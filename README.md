@@ -693,15 +693,20 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 ### 2.2.3. Análisis de entrevistas
 
-## Segmento objetivo #1:
+## Segmento objetivo #1:Negocios con equipos de refrigeración
 
-#### Entrevista 3:
-**Análisis:** 
 
-## Segmento Objetivo 2 -
+**Análisis:** Este segmento está conformado por negocios como minimarkets, restaurantes y farmacias que dependen del correcto funcionamiento de sus equipos de refrigeración para conservar productos perecibles o sensibles a la temperatura. Estos negocios utilizan equipos como vitrinas, congeladoras y cámaras frigoríficas, los cuales son clave para su operación diaria.
 
-#### Entrevista 3:
-**Análisis:** 
+A partir de las entrevistas, se identifica que estos negocios no cuentan con herramientas tecnológicas para el monitoreo de sus equipos, por lo que actúan de manera reactiva ante fallas. Esto genera pérdidas económicas, interrupciones en el servicio y, en algunos casos, riesgos sanitarios. Además, el mantenimiento suele ser informal y no existe un control adecuado del estado de los equipos. También presentan dificultades para encontrar técnicos confiables de forma rápida, lo que agrava el impacto cuando ocurre una falla.
+
+## Segmento Objetivo 2 -Técnicos y empresas de mantenimiento
+
+
+**Análisis:** Este segmento está compuesto por técnicos independientes y pequeñas empresas que brindan servicios de mantenimiento y reparación de equipos de refrigeración. Atienden principalmente a negocios como bodegas, restaurantes y otros comercios que requieren soporte técnico.
+
+
+Las entrevistas muestran que estos técnicos consiguen clientes principalmente a través de redes sociales, recomendaciones y contactos informales. No cuentan con sistemas de gestión, por lo que organizan sus servicios de manera manual, lo que genera desorden, pérdida de tiempo y dificultades para coordinar múltiples trabajos. Además, enfrentan inestabilidad en la demanda de servicios y carecen de información previa sobre los equipos, lo que afecta su eficiencia. Existe una necesidad clara de herramientas que les permitan organizar mejor su trabajo y acceder a más oportunidades de manera estructurada.
 
 ## 2.3. Needfinding
 
