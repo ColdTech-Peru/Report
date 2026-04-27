@@ -652,16 +652,17 @@ En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frig
 
 #### Entrevista 3:
 
-- **Nombre:** 
-- **Edad:** 38 años
+- **Nombre: Alvaro Pinto** 
+- **Edad:** 27 años
 - **Distrito:** Lima
 
-<img width="792" height="527" alt="image" src="" />
+![Interview-3-segment-2.png](assets/chapter02/entrevista3-segmento2.png)
 
 - **Inicio:** 0:00
 - **Duración:** 4:39 min
-- **URL:** [``]()
-- **Resumen:** 
+- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6)
+  
+- **Resumen:** Álvaro Pinto es un técnico de mantenimiento de equipos de refrigeración con experiencia atendiendo a diversos comercios locales. Durante su trayectoria ha logrado establecer clientes regulares, pero comenta que conseguir nuevos contratos y organizar sus visitas diarias suele ser un reto constante en el rubro . Él menciona que invierte mucho tiempo realizando visitas presenciales rutinarias solo para verificar que los equipos funcionen bien. Además, señala que la parte más difícil y desgastante de su trabajo ocurre cuando hay fallas imprevistas por falta de prevención, ya que llegar "a ciegas" a revisar un equipo descompuesto retrasa enormemente su diagnóstico y reparación. En conclusión, Álvaro estaría muy interesado en utilizar una aplicación como la nuestra. Él cree que le ayudaría a optimizar sus tiempos de intervención al conocer las fallas de antemano gracias al monitoreo remoto. Al ser más eficiente en sus reparaciones actuales, siente que tendría la oportunidad de ampliar su capacidad operativa y conseguir más clientes.
 
 ---
 
