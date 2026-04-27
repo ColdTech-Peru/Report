@@ -22,7 +22,7 @@
 |   Galindo Montero, Alejandro Manuel   |              u202321264               |
 |   Perez Tuesta,  Gabriel   |              u202321281               |
 |   Fajardo Monrroy, Walter Luis   |              u202221632               |
-
+|   Cumba Rengifo, Leonardo Raul   |              u202311912               |
 
 </div>
 
@@ -612,7 +612,7 @@ Su principal problema es la falta de organización y la inestabilidad de cliente
 - **Distrito:** San miguel
 
 
-![Interview-3-segment-1.png](assets/chapter02/Entrevista Leo.png)
+![Interview-3-segment-1.png](assets/chapter02/EntrevistaLeo.png)
 
 - **Inicio:** 0:00
 - **Duración:** 3:00 min
