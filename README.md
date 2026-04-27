@@ -256,7 +256,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u20201f788                          										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Soy Joaquin Alerto Cuentas Peña, cuento con 22 años. Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo.   												|
-| **Foto**                  | <img src="assets/chapter01/walter.png" alt="" width="200" height="250">
+| **Foto**                  | <img src="assets/chapter01/fotojoaquin.jpg" alt="" width="200" height="250">
  
 
 
