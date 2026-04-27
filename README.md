@@ -1882,7 +1882,7 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 **Inicio**
 Evidencia de la implementación de la propuesta de valor principal. Se desarrolló la sección Hero integrando la barra de navegación, el mensaje central de monitoreo térmico y un mockup del dashboard para ofrecer al usuario una vista previa clara y rápida de la plataforma.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Inicio.png>
+<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Inicio.png">
 
 ---
 
