@@ -701,8 +701,6 @@ Se utilizaron post-its en LucidChart para mapear los eventos significativos del 
 
 ### User Stories
 
-Claro, aquí está la tabla corregida:
-
 | ID | Título | Descripción | Criterios de Aceptación | Epic |
 | :--- | :--- | :--- | :--- | :---: |
 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | **E1 — Éxito:** Dado que el usuario completa el formulario con datos correctos, cuando envía el registro, entonces la cuenta es creada exitosamente.<br>**E2 — Email duplicado:** Dado que el usuario ingresa un email ya registrado, cuando envía el formulario, entonces el sistema muestra un mensaje de error. | EP-01 |
