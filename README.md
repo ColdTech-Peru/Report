@@ -156,13 +156,51 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 
 <div align="center">
 
-| Integrante | Descripción |
-| :---: | :--- |
-| **Galindo Montero, Alejandro Manuel**<br>*u202321264 — Ingeniería de Software* | Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas y en este proyecto aportaré con todos los conocimientos adquiridos en los últimos años. |
-| **Cumba Rengifo, Leonardo Raul**<br>*u202311912 — Ingeniería de Software* | Mi nombre es Leonardo Raul Cumba Rengifo, tengo 20 años. Me quiero enfocar en backend o en DBA. Actualmente me gustaría especializarme en DBA o como arquitecto de software. |
-| **Perez Tuesta, Gabriel**<br>*u202321281 — Ingeniería de Software* | Mi nombre es Gabriel Perez Tuesta, tengo 23 años. Me gustaría enfocarme en el desarrollo web y móvil. Tengo conocimientos en JavaScript, React, Vue y Next.js. |
-| **Fajardo Monrroy, Walter Luis**<br>*u202221632 — Ingeniería de Software* | Soy Walter Luis Fajardo Monrroy, tengo 20 años. Cuento con conocimientos en C++ y Python, patrones de software, diagramas de clases y DDD. Mis fortalezas son la responsabilidad y la resiliencia. |
-| **Cuentas Peña, Joaquin Alberto**<br>*u20201f788 — Ingeniería de Software* | Soy Joaquin Alberto Cuentas Peña, tengo 22 años y me encuentro en el sexto ciclo. Cuento con habilidades en C++ y Python, así como en UX/UI. He contribuido en proyectos con edición de video y fomento del trabajo colaborativo. |
+| **Integrante**            | **Galindo Montero Alejandro Manuel**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202321264                                   										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años y curso la carrera de Ingeniería de Software. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas. En este proyecto apoyaré con todos los conocimientos que he adquirido en los últimos años.   												|
+| **Foto**                  | <img src="assets/chapter01/AlejandroGalindo.png" alt="" width="200" height="200"> |
+
+---
+
+
+| **Integrante**            | **Cumba Rengifo Leonardo Raul**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202311912                           										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Cumba Rengifo Leonardo Raul, tengo 20 años y curso la carrera de Ingeniería de Software.Me quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA o como arquitecto de sofware            .   												|
+| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="200"> |
+
+---
+
+| **Integrante**            | **Perez Tuesta, Gabriel**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202321281                           										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Gabriel Perez Tuesta, tengo 23 años y curso la carrera de Ingeniería de Software. Me gustaria enfocarme en el desarrollo web y movil, tengo conocimientos promedios en Javascript, React, Vue y Next JS         .   												|
+| **Foto**                  | <img width="200" height="200" src="https://github.com/user-attachments/assets/98296ec4-9fb6-456c-a507-544377c1f691" />
+ 
+
+---
+
+| **Integrante**            | Fajardo Monrroy, Walter Luis        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202221632                           										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio residente en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serán la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo.         .   												|
+| **Foto**                  | <img src="assets/chapter01/walter.png" alt="" width="200" height="200">
+
+
+---
+
+| **Integrante**            | Cuentas Peña, Joaquin Alberto      									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u20201f788                          										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Soy Joaquin Alerto Cuentas Peña, cuento con 22 años. Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo.   												|
+| **Foto**                  | <img src="assets/chapter01/fotojoaquin.jpg" alt="" width="200" height="200">
 
 </div>
 
