@@ -1979,6 +1979,53 @@ URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
 
 ---
 
+
+#### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+# Sprint 2
+
+| Sprint 2 | Sprint 2 |
+|---|---|
+| **Sprint Planning Background** |  |
+| **Date** | 2026-05-07 |
+| **Time** | 17:00 PM |
+| **Location** | Via Discord |
+| **Prepared By** | Alejandro Galindo |
+| **Attendees to planning meeting** |   Galindo Montero, Alejandro Manuel  , Perez Tuesta,  Gabriel  ,  Fajardo Monrroy, Walter Luis  ,Cumba Rengifo, Leonardo Raul y    Cuentas Peña, Joaquin Alberto  |
+| **Sprint 2 Review Summary** | En este sprint, nos enfocamos en desarrollar el front-end y en realizar la implementación inicial de la plataforma Frigora. Completamos las funciones principales de la página, ofreciendo a los usuarios una primera experiencia de navegación y exploración del servicio de refrigeración. El equipo cumplió con los objetivos de entrega dentro del plazo previsto, estableciendo además los cimientos de la interfaz gráfica para futuras iteraciones. |
+| **Sprint 2 Retrospective Summary** | Durante el sprint, a pesar de estar enfocado en el desarrollo técnico, permitió identificar oportunidades para mejorar nuestra dinámica de trabajo en equipo. En la retrospectiva, se destacó la necesidad de ajustar la duración de las reuniones diarias, redistribuir las tareas de acuerdo con las especialidades del equipo e incorporar una planificación individual con hitos verificables. Estas medidas tienen como objetivo incrementar la eficiencia en las próximas iteraciones. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de Frigora, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio. |
+| **Sprint 2 Velocity** | XX |
+| **Sum of Story Points** | XX |
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3.Sprint Backlog 2.
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
+
+
+
+
+
+
+
+
+
 # Conclusiones
 
 
