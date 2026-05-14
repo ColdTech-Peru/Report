@@ -2023,7 +2023,26 @@ El objetivo principal de este Sprint es elaborar el Frontend de nuestra platafor
 <img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/de1475bc-5455-4c88-a0a2-dcf57e06deb4" />
 Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db17776210086dc9611a5aebb7143cEB975F35/sprint-02
 
-
+| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| **US-01** | Registro de usuario | **UT-01** | Diseñar formulario de registro | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales. | 3 | [Walter Fajardo] | To do |
+| **US-02** | Inicio de sesión | **UT-01** | Implementar pantalla de login | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma. | 2 | [Leonardo Cumba] | To do |
+| **US-03** | Gestionar equipos de refrigeración | **UT-01** | Crear módulo de gestión de equipos | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración. | 4 | [Joaquin Cuentas] | To do |
+| **US-05** | Analizar el consumo energético de equipos | **UT-01** | Diseñar dashboard energético | Crear gráficos y paneles visuales para comparar el consumo energético de equipos. | 5 | [Alejandro Galindo] | To do |
+| **US-07** | Dar seguimiento al progreso del servicio | **UT-01** | Implementar vista de seguimiento | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos. | 3 | [Gabriel Perez] | To do |
+| **US-08** | Ver reporte de servicio realizado | **UT-01** | Crear vista de reporte técnico | Diseñar la interfaz para mostrar reportes detallados de servicios realizados. | 3 | [Walter Fajardo] | To do |
+| **US-10** | Ver historial de servicios | **UT-01** | Implementar historial de servicios | Crear tabla o listado cronológico de servicios realizados por cliente o equipo. | 3 | [Leonardo Cumba] | To do |
+| **US-12** | Registrar y gestionar técnicos | **UT-01** | Crear módulo de técnicos | Diseñar formularios y vistas para registrar, editar y administrar técnicos. | 4 | [Joaquin Cuentas] | To do |
+| **US-13** | Consultar el perfil de un técnico | **UT-01** | Diseñar perfil de técnico | Implementar pantalla con información, métricas y desempeño del técnico. | 2 | [Alejandro Galindo] | To do |
+| **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Crear vista de clientes y servicios | Diseñar listado de clientes junto con sus servicios asociados y estado actual. | 3 | [Gabriel Perez] | To do |
+| **US-18** | Visualizar equipos asignados a clientes | **UT-01** | Implementar listado de equipos asignados | Crear una vista donde se visualicen los equipos vinculados a cada cliente. | 3 | [Walter Fajardo] | To do |
+| **US-20** | Visualizar la propuesta de valor principal | **UT-01** | Crear la sección "Hero" | Diseñar y añadir la sección principal superior (Hero) que comunique el monitoreo inteligente de equipos IoT. | 2 | [Walter Fajardo] | Done |
+| **US-21** | Explorar soluciones específicas para mi rubro | **UT-01** | Crear sección de "Soluciones" | Redactar y maquetar las tarjetas de soluciones específicas para supermercados, laboratorios y sector alimentario. | 3 | [Joaquin Cuentas] | Done |
+| **US-22** | Comprender las funcionalidades clave | **UT-01** | Crear sección "Características" | Diseñar la sección donde se listan las funciones de telemetría, alertas preventivas y control de temperatura. | 3 | [Alejandro Galindo] | Done |
+| **US-23** | Conocer la misión y visión | **UT-01** | Crear la sección "Nosotros" | Añadir la sección visual que refleje la misión y visión de la startup para generar confianza en el cliente B2B. | 1.5 | [Gabriel Perez] | Done |
+| **US-24** | Contactar con el equipo de ventas | **UT-01** | Diseñar interfaz de "Contacto" | Maquetar el formulario de contacto solicitando datos clave de la empresa (Nombre, RUC, Teléfono, Mensaje). | 2 | [Leonardo Cumba] | Done |
+| **US-24** | Contactar con el equipo de ventas | **UT-02** | Definir flujo de validación | Documentar y prototipar los mensajes de éxito/error al enviar el formulario de ventas. | 1.5 | [Gabriel Perez] | Done |
+| **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
