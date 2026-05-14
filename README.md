@@ -1328,7 +1328,41 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 ---
 
+#### 5.2.2. Sprint 2
 
+#### 5.2.2.1.Sprint Planning 2.
+
+# Sprint 2
+
+| Sprint 2 | Sprint 2 |
+|---|---|
+| **Sprint Planning Background** |  |
+| **Date** | 2026-05-07 |
+| **Time** | 17:00 PM |
+| **Location** | Via Discord |
+| **Prepared By** | Alejandro Galindo |
+| **Attendees to planning meeting** |   Galindo Montero, Alejandro Manuel  , Perez Tuesta,  Gabriel  ,  Fajardo Monrroy, Walter Luis  ,Cumba Rengifo, Leonardo Raul y    Cuentas Peña, Joaquin Alberto  |
+| **Sprint 2 Review Summary** | En este sprint, nos enfocamos en desarrollar el front-end y en realizar la implementación inicial de la plataforma Frigora. Completamos las funciones principales de la página, ofreciendo a los usuarios una primera experiencia de navegación y exploración del servicio de refrigeración. El equipo cumplió con los objetivos de entrega dentro del plazo previsto, estableciendo además los cimientos de la interfaz gráfica para futuras iteraciones. |
+| **Sprint 2 Retrospective Summary** | Durante el sprint, a pesar de estar enfocado en el desarrollo técnico, permitió identificar oportunidades para mejorar nuestra dinámica de trabajo en equipo. En la retrospectiva, se destacó la necesidad de ajustar la duración de las reuniones diarias, redistribuir las tareas de acuerdo con las especialidades del equipo e incorporar una planificación individual con hitos verificables. Estas medidas tienen como objetivo incrementar la eficiencia en las próximas iteraciones. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de Frigora, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio. |
+| **Sprint 2 Velocity** | XX |
+| **Sum of Story Points** | XX |
+
+
+### 5.2.2. Aspect Leaders and Collaborators
+
+Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se elaboró la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante el Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Implementacion de la gestión de equipos de refrigeracion (Frontend Applications) <br> Leader (L) / Collaborator (C) | Responsive y pruebas en distintos dispositivos <br> Leader (L) / Collaborator (C) | Despliegue de la aplicación web <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto  | JoaCUPE | C | C | C |
 
 
 
