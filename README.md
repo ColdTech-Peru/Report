@@ -1328,6 +1328,26 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 ---
 
+
+
+
+
+#### 5.2.2.3.Sprint Backlog 2.
+El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+<img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/758e408f-6618-4f91-abef-eeeb5c8d3dab" />
+
+
+Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db17776210086dc9611a5aebb7143cEB975F35/sprint-02
+
+
+
+
+
+
+
+
+
 # Conclusiones
 
 - **Objetivo comercial cumplido:** La Landing Page fue completada al 100%. La propuesta de valor y los beneficios de la plataforma son visibles para ambos segmentos (empresas y técnicos).
