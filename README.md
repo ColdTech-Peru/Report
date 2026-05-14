@@ -2036,12 +2036,6 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 | **US-13** | Consultar el perfil de un técnico | **UT-01** | Diseñar perfil de técnico | Implementar pantalla con información, métricas y desempeño del técnico. | 2 | [Alejandro Galindo] | To do |
 | **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Crear vista de clientes y servicios | Diseñar listado de clientes junto con sus servicios asociados y estado actual. | 3 | [Gabriel Perez] | To do |
 | **US-18** | Visualizar equipos asignados a clientes | **UT-01** | Implementar listado de equipos asignados | Crear una vista donde se visualicen los equipos vinculados a cada cliente. | 3 | [Walter Fajardo] | To do |
-| **US-20** | Visualizar la propuesta de valor principal | **UT-01** | Crear la sección "Hero" | Diseñar y añadir la sección principal superior (Hero) que comunique el monitoreo inteligente de equipos IoT. | 2 | [Walter Fajardo] | Done |
-| **US-21** | Explorar soluciones específicas para mi rubro | **UT-01** | Crear sección de "Soluciones" | Redactar y maquetar las tarjetas de soluciones específicas para supermercados, laboratorios y sector alimentario. | 3 | [Joaquin Cuentas] | Done |
-| **US-22** | Comprender las funcionalidades clave | **UT-01** | Crear sección "Características" | Diseñar la sección donde se listan las funciones de telemetría, alertas preventivas y control de temperatura. | 3 | [Alejandro Galindo] | Done |
-| **US-23** | Conocer la misión y visión | **UT-01** | Crear la sección "Nosotros" | Añadir la sección visual que refleje la misión y visión de la startup para generar confianza en el cliente B2B. | 1.5 | [Gabriel Perez] | Done |
-| **US-24** | Contactar con el equipo de ventas | **UT-01** | Diseñar interfaz de "Contacto" | Maquetar el formulario de contacto solicitando datos clave de la empresa (Nombre, RUC, Teléfono, Mensaje). | 2 | [Leonardo Cumba] | Done |
-| **US-24** | Contactar con el equipo de ventas | **UT-02** | Definir flujo de validación | Documentar y prototipar los mensajes de éxito/error al enviar el formulario de ventas. | 1.5 | [Gabriel Perez] | Done |
 | **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
