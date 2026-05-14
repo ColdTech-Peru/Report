@@ -2002,7 +2002,20 @@ URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
 | **Sum of Story Points** | XX |
 
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.
+### 5.2.2. Aspect Leaders and Collaborators
+
+Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se elaboró la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante el Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Implementacion de la gestión de equipos de refrigeracion (Frontend Applications) <br> Leader (L) / Collaborator (C) | Responsive y pruebas en distintos dispositivos <br> Leader (L) / Collaborator (C) | Despliegue de la aplicación web <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|  Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+| Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
+| Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
+| Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto  | JoaCUPE | C | C | C |
+
 
 #### 5.2.2.3.Sprint Backlog 2.
 
