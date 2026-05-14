@@ -2018,6 +2018,13 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 
 
 #### 5.2.2.3.Sprint Backlog 2.
+El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+<img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/de1475bc-5455-4c88-a0a2-dcf57e06deb4" />
+Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db17776210086dc9611a5aebb7143cEB975F35/sprint-02
+
+
+
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
