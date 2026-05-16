@@ -1424,57 +1424,131 @@ En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrac
 
 Dashboard:
 
-<img src="assets/chapter05/dashboard.png" alt="Sites list view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/dashboard.png"
+       alt="Dashboard view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Sites:
 
-<img src="assets/chapter05/sitiosactualisados.png" alt="Sites list view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/sitiosactualisados.png"
+       alt="Sites list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
-Sites created: 
+<br>
 
-<img src="assets/chapter05/sitiosadd2.png" alt="Site creation form" style="max-width: 90%;">
+Sites created:
+
+<div align="center">
+  <img src="assets/chapter05/sitiosadd2.png"
+       alt="Site creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Equipments:
 
-<img src="assets/chapter05/monitoring.png" alt="Monitoring dashboard view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/monitoring.png"
+       alt="Monitoring dashboard view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Equipments detail:
 
-<img src="assets/chapter05/monitorningdetail.png" alt="Monitoring detail view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/monitorningdetail.png"
+       alt="Monitoring detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
-Equipments created: 
+<br>
 
-<img src="assets/chapter05/monitoringadd.png" alt="Monitoring record creation form" style="max-width: 90%;">
+Equipments created:
 
+<div align="center">
+  <img src="assets/chapter05/monitoringadd.png"
+       alt="Monitoring record creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Service Requests:
 
-<img src="assets/chapter05/Services.png" alt="Services list view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/Services.png"
+       alt="Services list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Service Requests detail:
 
-<img src="assets/chapter05/Servicesdetail.png" alt="Service detail view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/Servicesdetail.png"
+       alt="Service detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Service Requests created:
 
-<img src="assets/chapter05/ServicesADd.png" alt="Service creation form" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/ServicesADd.png"
+       alt="Service creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Alerts:
 
-<img src="assets/chapter05/Alerts.png" alt="Alerts list view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/Alerts.png"
+       alt="Alerts list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Reports:
 
-<img src="assets/chapter05/Reports.png" alt="Reports list view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/Reports.png"
+       alt="Reports list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
+<br>
 
 Reports detail:
 
-<img src="assets/chapter05/ReportDetail.png" alt="Report detail view" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/ReportDetail.png"
+       alt="Report detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
 
 Reports created:
 
-<img src="assets/chapter05/Reportadd.png" alt="Report creation form" style="max-width: 90%;">
+<div align="center">
+  <img src="assets/chapter05/Reportadd.png"
+       alt="Report creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
 
@@ -1486,8 +1560,33 @@ Reports created:
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+Insights del Report:
 
+<div align="center">
+  <img src="assets/chapter05/in_report.png"
+       alt="Report insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
+<br>
+
+Insights del Landing Page:
+
+<div align="center">
+  <img src="assets/chapter05/in_landing.png"
+       alt="Landing page insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Insights del Front-End:
+
+<div align="center">
+  <img src="assets/chapter05/in_front.png"
+       alt="Frontend insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
 
