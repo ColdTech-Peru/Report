@@ -1390,10 +1390,27 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 | **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+### 5.2.2.4. Development Evidence for Sprint Review
 
+En este segundo Sprint hemos realizado la implementación del frontend de nuestra solución **Frigora**, desarrollada por la startup **ColdTech**. Durante esta entrega, el equipo se enfocó en construir las principales vistas de la aplicación, considerando el **Dashboard** como una vista global del sistema y el módulo de **Monitoring** como un bounded context independiente orientado al seguimiento de equipos, aparatos y alertas. La siguiente tabla muestra los commits realizados durante el desarrollo.
 
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(sites): add sites list view | Implemented the frontend view to display registered sites in the Frigora platform. | 03/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(sites): add site registration form | Created the frontend form for registering new sites in the system. | 04/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add services list view | Developed the frontend screen to display available services and their basic information. | 05/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add service creation form | Implemented the frontend form for creating new service records. | 06/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add service detail view | Created the service detail screen to visualize service information in a structured way. | 07/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add equipment monitoring view | Implemented the frontend view to display monitored refrigeration equipment and device status. | 08/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add monitoring creation form | Created the frontend form to register new monitoring records for equipment tracking. | 09/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add monitoring detail view | Developed the detail screen to review monitoring data, device information and equipment status. | 10/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(alerts): add alerts view | Implemented the frontend view for displaying alerts generated from monitoring events. | 11/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add reports list view | Implemented the frontend screen to display generated reports in the platform. | 12/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add report creation form | Created the frontend form for registering new service or monitoring reports. | 13/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add report detail view | Developed the frontend detail view to show report information clearly. | 14/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(dashboard): add global dashboard view | Implemented the global dashboard view to provide a general overview of the Frigora platform. | 15/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | chore(frontend): organize sprint review evidence | Added and organized frontend evidence images for the Sprint Review documentation. | 15/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | merge: integrate frontend sprint changes into develop | Final integration of the frontend views developed during the sprint. | 16/05/2026 |
 
 
 
