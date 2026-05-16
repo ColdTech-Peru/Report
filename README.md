@@ -79,7 +79,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 - Se integraron capturas, recursos visuales e insights del Front-End en la documentación técnica del proyecto.
 
 <div align="center">
-<img src="assets/chapter05/commits_front.png" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<img src="assets/chapter01/report-tb1.jpeg" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 ---
 
