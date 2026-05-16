@@ -1489,13 +1489,27 @@ Reports created:
 
 
 
-# Conclusiones
 
-- **Objetivo comercial cumplido:** La Landing Page fue completada al 100%. La propuesta de valor y los beneficios de la plataforma son visibles para ambos segmentos (empresas y técnicos).
 
-- **Organización ágil:** Se aplicó Scrum con éxito. Todo el trabajo fue documentado claramente separando las metas (User Stories) de la ejecución (Tareas técnicas) en el tablero de Trello.
+## Conclusiones
 
-- **Colaboración técnica:** Se estableció un flujo de trabajo sólido en GitHub. Todo el equipo integró sus cambios de forma ordenada usando Conventional Commits hacia la rama principal.
+**Objetivo comercial cumplido:**  
+La Landing Page fue completada al 100%, logrando presentar de manera clara la propuesta de valor de **Frigora** y los principales beneficios de la plataforma. Además, el contenido fue organizado pensando en los dos segmentos objetivo del proyecto: empresas que dependen de equipos de refrigeración y técnicos o proveedores de mantenimiento. Esto permite que el usuario comprenda rápidamente qué problema resuelve la solución y cómo puede ayudar en la gestión, monitoreo y atención de servicios.
+
+**Organización ágil:**  
+Se aplicó la metodología Scrum de forma adecuada durante el desarrollo del Sprint. El equipo logró organizar el trabajo mediante User Stories y tareas técnicas, diferenciando claramente los objetivos funcionales de las actividades necesarias para implementarlos. Asimismo, el tablero de Trello permitió visualizar el avance del equipo, asignar responsabilidades y mantener un mejor control sobre el estado de cada tarea durante la entrega.
+
+**Colaboración técnica:**  
+Se estableció un flujo de trabajo ordenado en GitHub, permitiendo que los integrantes del equipo integren sus avances de manera controlada. El uso de ramas de trabajo y mensajes de commit bajo la convención de **Conventional Commits** ayudó a mantener un historial claro y entendible del desarrollo realizado. Esto facilitó la revisión de cambios y la integración del frontend en la rama principal del proyecto.
+
+**Avance del frontend:**  
+Durante esta entrega, el equipo se enfocó principalmente en la implementación del frontend de la aplicación. Se desarrollaron vistas importantes como sitios, servicios, monitoreo, alertas, reportes y dashboard global. Estas interfaces permiten representar visualmente las funcionalidades principales de Frigora, aunque todavía queda pendiente la integración completa con una API real y el desarrollo del backend para futuras entregas.
+
+**Validación del producto:**  
+El avance realizado permite mostrar una primera versión funcional a nivel visual de la plataforma, lo cual es importante para validar la experiencia de usuario, la navegación y la estructura general del sistema. Gracias a estas pantallas, se puede obtener retroalimentación temprana sobre la claridad de la interfaz y la utilidad de las funcionalidades propuestas.
+
+**Trabajo pendiente:**  
+Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataforma. En esta entrega se implementó principalmente el **frontend**, por lo que en los siguientes Sprints se deberá trabajar la lógica del servidor, la conexión con la base de datos y la integración de las funcionalidades con datos reales.
 
 ---
 
