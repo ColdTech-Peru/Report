@@ -1383,6 +1383,60 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 
 En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
 
+Dashboard:
+
+
+
+
+Sites:
+
+<img src="assets/chapter05/Sites.png" alt="Sites list view" style="max-width: 90%;">
+
+Sites created: 
+
+<img src="assets/chapter05/Sitesadd.png" alt="Site creation form" style="max-width: 90%;">
+
+Equipments:
+
+<img src="assets/chapter05/monitoring.png" alt="Monitoring dashboard view" style="max-width: 90%;">
+
+Equipments detail:
+
+<img src="assets/chapter05/monitoringdetail.png" alt="Monitoring detail view" style="max-width: 90%;">
+
+Equipments created: 
+
+<img src="assets/chapter05/monitoringadd.png" alt="Monitoring record creation form" style="max-width: 90%;">
+
+
+Service Requests:
+
+<img src="assets/chapter05/Services.png" alt="Services list view" style="max-width: 90%;">
+
+Service Requests detail:
+
+<img src="assets/chapter05/Servicesdetail.png" alt="Service detail view" style="max-width: 90%;">
+
+Service Requests created:
+
+<img src="assets/chapter05/ServicesAdd.png" alt="Service creation form" style="max-width: 90%;">
+
+Alerts:
+
+<img src="assets/chapter05/Alerts.png" alt="Alerts list view" style="max-width: 90%;">
+
+Reports:
+
+<img src="assets/chapter05/Reportadd.png" alt="Report creation form" style="max-width: 90%;">
+
+Reports detail:
+
+<img src="assets/chapter05/ReportDetail.png" alt="Report detail view" style="max-width: 90%;">
+
+
+Reports created:
+
+<img src="assets/chapter05/Reports.png" alt="Reports list view" style="max-width: 90%;">
 
 
 
