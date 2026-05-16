@@ -1,219 +1,234 @@
-<div align = "center">
- <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src="assets/chapter01/upc.png">
-  <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Periodo: 2026-10</h2>
-<br>
-  <h2>Curso: Desarrollo de Aplicaciones Open Source</h2>
-  <h2>Codigo del Curso: 1ASI0729</h2>
-  <h2>NRC: 11959</h2>
-  <h2>Profesor: Hugo Allan Mori Paiva</h2>
-<br>
- <h1>Informe del Trabajo Final</h1>
-  <h2>Startup: ColdTech </h2>
-  <h2>Producto: Frigora </h2>
-<br>
-  <h2>Integrantes</h2>
- 
 <div align="center">
- 
-| <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
-| :-----------------------------------: | :-----------------------------------: |
-|   Galindo Montero, Alejandro Manuel   |              u202321264               |
-|   Perez Tuesta,  Gabriel   |              u202321281               |
-|   Fajardo Monrroy, Walter Luis   |              u202221632               |
-|   Cumba Rengifo, Leonardo Raul   |              u202311912               |
-|   Cuentas Peña, Joaquin Alberto  |              u20201f788       |
+
+# Universidad Peruana de Ciencias Aplicadas
+
+<img style="height: 200px" src="assets/chapter01/upc.png" alt="Logo UPC">
+
+## Carrera: Ingeniería de Software
+## Periodo: 2026-10
+
+---
+
+## Curso: Desarrollo de Aplicaciones Open Source
+**Código del Curso:** 1ASI0729 | **NRC:** 11959  
+**Profesor:** Hugo Allan Mori Paiva
+
+---
+
+# Informe del Trabajo Final
+
+## Startup: ColdTech
+## Producto: Frigora
+
+---
+
+## Integrantes
+
+| Alumno | Código |
+| :---: | :---: |
+| Galindo Montero, Alejandro Manuel | u202321264 |
+| Perez Tuesta, Gabriel | u202321281 |
+| Fajardo Monrroy, Walter Luis | u202221632 |
+| Cumba Rengifo, Leonardo Raul | u202311912 |
+| Cuentas Peña, Joaquin Alberto | u20201f788 |
+
+### Abril 2026
 
 </div>
 
-<br>
-
-   <h3>Abril 2026</h3>
-
-</div>
+---
 
 ## Registro de Versiones del Informe
 
-<div align="center">
- 
-| Versión | Fecha      | Autor     | Descripción de modificación                                                                 |
-| :-----: | :--------: | :-------: | :------------------------------------------------------------------------------------------ |
-| 1.0     | 2026-04-26 | ColdTech  | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
-
-
-</div>
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---: | :---: | :---: | :--- |
+| 1.0 | 2026-04-26 | ColdTech | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
+| 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |
+---
 
 ## Project Report Collaboration Insights
 
-- **URL de la organización del proyecto: https://github.com/ColdTech-Peru** <br>
-  
-- **URL del repositorio del reporte: https://github.com/ColdTech-Peru/Report** <br>
-  
-- **URL del repositorio de la Landing Page: https://github.com/ColdTech-Peru/Landing-Page** <br>
-  
-- **URL del repositorio del Frontend:** <br>
-  
-- **URL del repositorio del Backend:** <br>
+| Recurso | URL |
+| :--- | :--- |
+| Organización del proyecto | https://github.com/ColdTech-Peru |
+| Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
+| Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
+| Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
+| Repositorio del Backend | *(pendiente)* |
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
 **AV1:** Las tareas asignadas al AV1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub:
 
-- Se redactaron y crearon los contenidos asignados a cada miembro utilizando el formato Markdown, y se realizaron "Conventional Commits" para documentar el avance en el repositorio.
-  
-- Se generaron los recursos necesarios y se agregaron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
-  
-- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 1, que estuvo enfocado en el desarrollo de la Landing Page.
+- Se redactaron y crearon los contenidos asignados a cada miembro utilizando el formato Markdown, y se realizaron *Conventional Commits* para documentar el avance en el repositorio.
+- Se generaron los recursos necesarios y se agregaron las imágenes al repositorio en la carpeta `assets` correspondiente a cada rama del informe.
+- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 1, enfocado en el desarrollo de la Landing Page.
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter01/commits informe - 1.png">
+<div align="center">
+<img src="assets/chapter01/commits informe - 1.png" alt="Commits del informe">
+</div>
 
+<br>
+
+**TB1:** Las tareas asignadas al TB1 fueron desarrolladas e integradas correctamente en el Front-End de la aplicación utilizando Angular y Angular Material, manteniendo una arquitectura modular y organizada:
+
+- Se implementaron los distintos módulos funcionales del sistema, incluyendo Dashboard, Monitoring, Asset Management, Reports y Service Requests, utilizando componentes standalone y servicios para el consumo de datos.
+- Se desarrollaron operaciones CRUD conectadas mediante `json-server` y `db.json`, permitiendo gestionar información dinámica dentro de la aplicación.
+- Se configuraron rutas, filtros, formularios reactivos, componentes visuales y estilos responsivos para mejorar la experiencia de usuario en cada sección del sistema.
+- Se realizaron commits utilizando *Conventional Commits* para documentar el progreso del Sprint y mantener trazabilidad del desarrollo en GitHub.
+- Se integraron capturas, recursos visuales e insights del Front-End en la documentación técnica del proyecto.
+
+<div align="center">
+<img src="assets/chapter01/report-tb1.jpeg" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+---
 
 ## Contenido
 
-- [Capitulo 1: Introducción](#capitulo-1-introducción)
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Carrera: Ingeniería de Software](#carrera-ingeniería-de-software)
+  - [Periodo: 2026-10](#periodo-2026-10)
+  - [Curso: Desarrollo de Aplicaciones Open Source](#curso-desarrollo-de-aplicaciones-open-source)
+- [Informe del Trabajo Final](#informe-del-trabajo-final)
+  - [Startup: ColdTech](#startup-coldtech)
+  - [Producto: Frigora](#producto-frigora)
+  - [Integrantes](#integrantes)
+    - [Abril 2026](#abril-2026)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [| 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |](#-20--2026-05-16--coldtech--desarrollo-del-sprint-2-)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+  - [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2 Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y Problematica](#121-antecedentes-y-problematica)
+    - [1.2.1 Antecedentes y Problemática](#121-antecedentes-y-problemática)
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2 Lean UX Assumption](#1222-lean-ux-assumption)
+      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3 Segmentos objetivos](#13-segmentos-objetivos)
+  - [1.3 Segmentos Objetivos](#13-segmentos-objetivos)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [Segmento objetivo #1: Negocios con equipos de refrigeración](#segmento-objetivo-1-negocios-con-equipos-de-refrigeración)
-    - [Entrevista 1:](#entrevista-1)
-      - [Entrevista 2:](#entrevista-2)
-      - [Entrevista 3:](#entrevista-3)
-  - [Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:](#segmento-objetivo-2---técnicos-y-empresas-de-mantenimiento)
-      - [**Entrevista 1:**](#entrevista-1-1)
-      - [**Entrevista 2:**](#entrevista-2-1)
-      - [Entrevista 3:](#entrevista-3-1)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [Segmento objetivo #1:](#segmento-objetivo-1)
-      - [Entrevista 3:](#entrevista-3-2)
-  - [Segmento Objetivo 2 -](#segmento-objetivo-2--)
-      - [Entrevista 3:](#entrevista-3-3)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [2.4. Big Picture Event Storming](#24-big-picture-event-storming)
-  - [2.5. Ubiquitous Language](#25-ubiquitous-language)
+  - [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis Competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y Tácticas frente a Competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de Entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
+      - [Segmento #1: Negocios con equipos de refrigeración](#segmento-1-negocios-con-equipos-de-refrigeración)
+      - [Segmento #2: Técnicos y Empresas de Mantenimiento](#segmento-2-técnicos-y-empresas-de-mantenimiento)
+    - [2.2.3 Análisis de Entrevistas](#223-análisis-de-entrevistas)
+  - [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4 Empathy Mapping](#234-empathy-mapping)
+  - [2.4 Big Picture Event Storming](#24-big-picture-event-storming)
+  - [2.5 Ubiquitous Language](#25-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-  - [3.4. Product Backlog.](#34-product-backlog)
+  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2 User Stories](#32-user-stories)
+    - [Épicas del Sistema](#épicas-del-sistema)
+    - [User Stories](#user-stories)
+  - [3.3 Impact Mapping](#33-impact-mapping)
+  - [3.4 Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-      - [**Diseño Responsive**](#diseño-responsive)
-      - [**Navegación**](#navegación)
-      - [**Imágenes**](#imágenes)
-      - [**Interacción del Usuario**](#interacción-del-usuario)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [Login](#login)
-  - [Register](#register)
-  - [Dashboard](#dashboard)
-  - [Sitios y Equipos](#sitios-y-equipos)
-  - [Detalle de Equipos](#detalle-de-equipos)
-  - [Alertas](#alertas)
-  - [Ordenes](#ordenes)
-  - [Reportes](#reportes)
-  - [Administracion](#administracion)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [Login](#login-1)
-  - [Register](#register-1)
-  - [Dashboard](#dashboard-1)
-  - [Sitios y Equipos](#sitios-y-equipos-1)
-  - [Detalle de Equipos](#detalle-de-equipos-1)
-  - [Alertas](#alertas-1)
-  - [Ordenes](#ordenes-1)
-  - [Reportes](#reportes-1)
-  - [Administracion](#administracion-1)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Design-Level EventStorming](#461-design-level-eventstorming)
-    - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
-    - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
-    - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagrams](#481-database-diagrams)
+  - [4.1 Style Guidelines](#41-style-guidelines)
+    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2 Information Architecture](#42-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling Systems](#422-labeling-systems)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation Systems](#425-navigation-systems)
+  - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1 Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2 Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1 Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2 Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3 Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4 Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5 Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6 Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1 Design-Level EventStorming](#461-design-level-eventstorming)
+    - [4.6.2 Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+    - [4.6.3 Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
+    - [4.6.4 Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
+  - [4.7 Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1 Class Diagrams](#471-class-diagrams)
+  - [4.8 Database Design](#48-database-design)
+    - [4.8.1 Database Diagrams](#481-database-diagrams)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [**Beneficios de la Nomenclatura Predictiva**](#beneficios-de-la-nomenclatura-predictiva)
-    - [**Estrategia de Ramificación (Git Flow)**](#estrategia-de-ramificación-git-flow)
-    - [**Flujo de Trabajo y Herramientas**](#flujo-de-trabajo-y-herramientas)
-    - [**Convenciones de Nomenclatura**](#convenciones-de-nomenclatura)
-    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.1 Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2 Source Code Management](#512-source-code-management)
+    - [5.1.3 Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2 Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+      - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
+- [Sprint 2](#sprint-2)
+    - [5.2.2. Aspect Leaders and Collaborators](#522-aspect-leaders-and-collaborators)
+      - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
+  - [Logros alcanzados en este Sprint](#logros-alcanzados-en-este-sprint)
+  - [Endpoints documentados](#endpoints-documentados)
+      - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
+  - [Conclusiones](#conclusiones)
+- [Anexos](#anexos)
+
+---
 
 ## Student Outcome
+
 El curso contribuye al cumplimiento del Student Outcome ABET:
 
-**ABET – EAC - Student Outcome 5**
+**ABET – EAC - Student Outcome 3**
 
-**Logro del Curso**: *Al finalizar el curso, el estudiante comunica resultados y proceso de ingeniería aplicado para el ciclo de desarrollo y despliegue de una solución web distribuida bajo una arquitectura orientada a servicios, que satisface requisitos para empresas o público en general, con un enfoque innovador e inclusivo, desplegada sobre plataformas Server Side o Cloud, haciendo uso de tecnologías open-source basadas en el lenguaje de programación Java para la lógica de lado servidor y tecnologías open-source para los componentes de la aplicación.*
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+> *Al finalizar el curso, el estudiante comunica resultados y proceso de ingeniería aplicado para el ciclo de desarrollo y despliegue de una solución web distribuida bajo una arquitectura orientada a servicios, que satisface requisitos para empresas o público en general, con un enfoque innovador e inclusivo, desplegada sobre plataformas Server Side o Cloud, haciendo uso de tecnologías open-source basadas en el lenguaje de programación Java para la lógica de lado servidor y tecnologías open-source para los componentes de la aplicación.*
 
 | Criterio específico | Acciones realizadas | Conclusiones |
-|--------------------|--------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>AV1:</b> Durante el desarrollo del proyecto, al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, fortalecí mi capacidad de comunicar oralmente con efectividad. A través de la exposición de ideas, la explicación de la arquitectura del sistema y la coordinación con el equipo, logré transmitir conceptos técnicos de manera clara, adaptando mi lenguaje según el nivel de conocimiento de la audiencia.</li></ul><br><ul><li><b>Perez Tuesta, Gabriel</b><br><b>AV1:</b> Redacté descripciones técnicas y profesionales para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en un lenguaje formal y ejecutivo apto para un informe académico.</li></ul><br><ul><li><b>Cuentas Peña, Joaquin</b><br><b>AV1:</b> Planteé las user stories y diseñé el sprint de esta entrega planificando el product backlog. De esta manera contribuí a proyectar las necesidades de nuestros segmentos en el desarrollo de la aplicación.</li></ul><br><ul><li><b>Cumba Rengifo, Leonardo Raúl</b><br><b>AV1:</b> Durante el desarrollo del proyecto, al participar en la elaboración del Capítulo I, el análisis del Lean UX (Problem Statements, Assumptions e Hypothesis Statements), la definición de los segmentos objetivo y el diseño de la landing page (wireframe y mock-up), fortalecí mi capacidad de comunicar ideas de manera clara y estructurada. A través de la organización de la información, la redacción de contenido y la coordinación con el equipo, logré explicar conceptos técnicos y de negocio de forma efectiva, adaptando el lenguaje según el contexto y la audiencia.</li></ul><br><ul><li><b>Fajardo Monrroy, Walter Luis</b><br><b>AV1:</b> Organiza el sprint en base a las user stories generadas además de aportar a la realización de la landing page y su posterior despliegue. De esta manera contribuí a lograr culminar el trabajo eficientemente.</li></ul> | <ul><li><b>AV1:</b> El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada. La exposición de los diagramas y decisiones del proyecto permitió transmitir ideas técnicas de manera clara, adaptando el discurso según el tipo de audiencia y facilitando la comprensión de la solución desarrollada.</li></ul> |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>AV1:</b> Durante el desarrollo del proyecto, al contribuir en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, fortalecí mi capacidad de comunicar por escrito con efectividad. La redacción de documentación y la organización de información técnica me permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia y facilitando la comprensión de la solución propuesta.</li></ul><br><ul><li><b>Perez Tuesta, Gabriel</b><br><b>AV1:</b> Sinteticé procesos técnicos complejos, como la configuración de tokens de acceso y la jerarquía de roles, en instrucciones directas y fáciles de seguir. Además, estructuré la lógica de navegación de la plataforma diferenciando claramente los perfiles de Administrador y Proveedor, demostrando la capacidad de adaptar el mensaje técnico según las necesidades y el nivel de control de cada tipo de usuario.</li></ul><br><ul><li><b>Cuentas Peña, Joaquin</b><br><b>AV1:</b> Comuniqué mis ideas eficazmente, ya que el product backlog permitió enfocarnos en las tareas más importantes para esta entrega.</li></ul><br><ul><li><b>Cumba Rengifo, Leonardo Raúl</b><br><b>AV1:</b> Durante el desarrollo del proyecto, al contribuir en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX, la definición de los segmentos objetivo y el diseño de la landing page, fortalecí mi capacidad de comunicar por escrito con efectividad. La redacción de documentación, el análisis de la problemática y la organización de la información me permitieron estructurar ideas de forma clara y coherente, facilitando la comprensión de la solución propuesta.</li></ul><br><ul><li><b>Fajardo Monrroy, Walter Luis</b><br><b>AV1:</b> Comuniqué adecuadamente la división de tiempos que tendría el proyecto mediante la metodología SCRUM por medio del uso de sprints.</li></ul> | <ul><li><b>AV1:</b> El equipo fortaleció su comunicación escrita mediante la elaboración de documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, los wireframes y mockups, así como los diagramas de clases y de base de datos. La organización y claridad en la presentación de estos elementos permitió expresar de manera efectiva los aspectos técnicos del proyecto y asegurar su comprensión por diferentes audiencias.</li></ul> |
+| :--- | :--- | :--- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** Fortaleció la comunicación oral al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, transmitiendo conceptos técnicos de manera clara según el nivel de la audiencia.<br>**TB1:** Desarrolló el módulo de **Service Requests** del frontend, explicando el flujo de solicitudes, las operaciones CRUD y la conexión con `json-server` mediante `db.json`.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Redactó descripciones técnicas para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en lenguaje formal apto para un informe académico.<br>**TB1:** Desarrolló el módulo de **Reports**, presentando el funcionamiento de formularios, filtros dinámicos, vistas de detalle y operaciones CRUD implementadas en Angular con conexión a `db.json`.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** Planteó las user stories y diseñó el sprint de la entrega, planificando el product backlog y proyectando las necesidades de los segmentos en el desarrollo de la aplicación.<br>**TB1:** Implementó el módulo de **Assets Management**, comunicando la organización de activos, visualización de datos y funcionamiento dinámico del frontend conectado mediante `json-server`.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Participó en la elaboración del Capítulo I, el análisis Lean UX y el diseño de la landing page, logrando explicar conceptos técnicos y de negocio de forma efectiva según el contexto.<br>**TB1:** Desarrolló el módulo de **Monitoring**, explicando la visualización de estados, métricas y monitoreo de equipos usando datos simulados desde `db.json`.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Organizó el sprint en base a las user stories generadas y contribuyó a la realización y despliegue de la landing page.<br>**TB1:** Implementó el **Dashboard** principal del frontend, presentando métricas, tarjetas y visualizaciones dinámicas para facilitar la interpretación de información operativa. | **AV1:** El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada, transmitiendo ideas técnicas de manera clara según el tipo de audiencia.<br><br>**TB1:** El equipo fortaleció la comunicación oral mediante la exposición funcional del frontend desarrollado en Angular, explicando el funcionamiento de módulos interactivos, operaciones CRUD y consumo de datos simulados mediante `json-server` y `db.json`. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** La redacción de documentación y la organización de información técnica le permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia.<br>**TB1:** Documentó el funcionamiento del módulo de **Service Requests**, describiendo componentes, endpoints y flujo de datos conectados mediante `db.json`.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Sintetizó procesos técnicos complejos en instrucciones directas, diferenciando claramente los perfiles de Administrador y Proveedor.<br>**TB1:** Documentó la implementación del módulo de **Reports**, incluyendo formularios, filtros, operaciones CRUD y arquitectura frontend desarrollada en Angular.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** El product backlog permitió enfocarse en las tareas más importantes para la entrega, comunicando ideas de forma eficaz.<br>**TB1:** Redactó la documentación funcional del módulo de **Assets Management**, organizando procesos de gestión de activos y comportamiento dinámico del frontend.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Contribuyó en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX y la definición de segmentos, estructurando ideas de forma clara y coherente.<br>**TB1:** Documentó el módulo de **Monitoring**, describiendo la visualización de estados, métricas y consumo de datos desde `json-server`.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Comunicó adecuadamente la división de tiempos del proyecto mediante la metodología SCRUM usando sprints.<br>**TB1:** Elaboró la documentación del **Dashboard**, describiendo la estructura visual, componentes y organización de indicadores en el frontend. | **AV1:** El equipo fortaleció su comunicación escrita mediante documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, wireframes, mockups y diagramas de clases y base de datos.<br><br>**TB1:** El equipo fortaleció la comunicación escrita mediante la documentación del frontend desarrollado en Angular, incluyendo componentes, vistas, formularios, filtros y operaciones CRUD conectadas mediante `json-server` y `db.json`, explicando de manera clara la arquitectura y flujo de datos del sistema. |
 
-# Capitulo 1: Introducción
+
+
+---
+
+# Capítulo I: Introducción
 
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
 
+**ColdTech** es una startup que desarrolla una aplicación web orientada al monitoreo y gestión inteligente de equipos de refrigeración mediante sensores IoT. La plataforma permite supervisar en tiempo real variables como la temperatura, el rendimiento y el consumo energético, además de generar alertas preventivas, almacenar el historial de funcionamiento y facilitar la programación del mantenimiento.
 
-Nuestra startup desarrolla una aplicación web orientada al monitoreo y gestión inteligente de equipos de refrigeración mediante sensores IoT. La plataforma permite supervisar en tiempo real variables como la temperatura, el rendimiento y el consumo energético, además de generar alertas preventivas, almacenar el historial de funcionamiento y facilitar la programación del mantenimiento.
+La solución está dirigida a negocios y organizaciones que dependen de la cadena de frío — supermercados, minimarkets, restaurantes, laboratorios y empresas de los sectores alimentario y farmacéutico — con el propósito de reducir fallas inesperadas, disminuir costos operativos y evitar pérdidas de productos.
 
-La solución está dirigida a negocios y organizaciones que dependen de la cadena de frío, como supermercados, minimarkets, restaurantes, laboratorios y empresas de los sectores alimentario y farmacéutico. Su propósito es ayudar a reducir fallas inesperadas, disminuir costos operativos y evitar pérdidas de productos, ofreciendo un control más eficiente, preventivo y centralizado de los equipos de refrigeración.
+> **Misión:** Brindar una solución tecnológica inteligente que permita a las empresas proteger sus productos, optimizar el funcionamiento de sus equipos de refrigeración y mejorar la gestión de su mantenimiento.
+>
+> **Visión:** Ser una startup líder en el mercado peruano en soluciones digitales para el monitoreo y mantenimiento de equipos de refrigeración, destacando por la innovación, confiabilidad y aporte a la eficiencia operativa.
 
-**Misión:** Brindar una solución tecnológica inteligente que permita a las empresas proteger sus productos, optimizar el funcionamiento de sus equipos de refrigeración y mejorar la gestión de su mantenimiento.
-
-**Visión:** Ser una startup líder en el mercado peruano en soluciones digitales para el monitoreo y mantenimiento de equipos de refrigeración, destacando por la innovación, confiabilidad y aporte a la eficiencia operativa.
+---
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -234,7 +249,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u202311912                           										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Mi nombre es Cumba Rengifo Leonardo Raul, tengo 20 años y curso la carrera de Ingeniería de Software.Me quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA o como arquitecto de sofware            .   												|
-| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="250"> |
+| **Foto**                  | <img src="assets/chapter01/FotoPerfilLeonardo.png" alt="" width="200" height="200"> |
 
 ---
 
@@ -253,7 +268,7 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u202221632                           										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio residente en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serán la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo.         .   												|
-| **Foto**                  | <img src="assets/chapter01/walter.png" alt="" width="200" height="250">
+| **Foto**                  | <img src="assets/chapter01/walter.png" alt="" width="200" height="200">
 
 
 ---
@@ -263,1722 +278,1133 @@ La solución está dirigida a negocios y organizaciones que dependen de la caden
 | **Código del Estudiante** | u20201f788                          										|
 | **Carrera**               | Ingeniería de Software                       										|
 | **Descripción**           | Soy Joaquin Alerto Cuentas Peña, cuento con 22 años. Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el sexto ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en el equipo.   												|
-| **Foto**                  | <img src="assets/chapter01/fotojoaquin.jpg" alt="" width="200" height="250">
- 
-
-
-
- 
+| **Foto**                  | <img src="assets/chapter01/fotojoaquin.jpg" alt="" width="200" height="200">
 
 </div>
 
+---
+
 ## 1.2 Solution Profile
 
-### 1.2.1 Antecedentes y Problematica
+### 1.2.1 Antecedentes y Problemática
 
-| **5W & 2H**                                     | **Descripcion**                                                                                                                                                                                                                                                                                                                                                                                           |
-| :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **What: ¿Cuál es el problema?**                 			  | Los negocios que dependen de equipos de refrigeración presentan un control limitado sobre su funcionamiento, lo que ocasiona fallas inesperadas, alto consumo energético y mantenimiento tardío. Esto puede generar pérdidas económicas y afectar la continuidad de sus operaciones. 	 |
-| **When: ¿Cuándo sucede este problema?**         			  | El problema puede presentarse en cualquier momento durante la operación diaria, especialmente cuando no existe monitoreo continuo ni mantenimiento preventivo. Su impacto aumenta ante fallas imprevistas o demoras en la atención técnica.																									   		   	 |
-| **Where: ¿Dónde se produce este suceso?**      			  | Se presenta en negocios y organizaciones que utilizan equipos de refrigeración para conservar productos, principalmente en sectores como alimentos, comercio y salud. Aunque puede ocurrir en distintas ciudades, tiene especial relevancia en Lima por la concentración de este tipo de actividades.	 |
-| **Who: ¿Quiénes están involucrados?**          			  | Están involucrados los dueños y administradores de negocios, que sufren las pérdidas por fallas; así como los técnicos y proveedores de mantenimiento, que necesitan información oportuna para actuar de forma eficiente.																					   	 |
-| **Why: ¿Cuál es la causa del problema?**        			  | La causa principal es la falta de herramientas tecnológicas accesibles que permitan supervisar en tiempo real el estado de los equipos, generar alertas y organizar mantenimientos de manera preventiva.											   				 |
-| **How: ¿Qué llevó a la persona a llegar a esta situación?** | Se llegó a esta situación por una gestión tradicional y reactiva del mantenimiento, basada en revisiones manuales o acciones correctivas después de que ocurre una falla, en lugar de prevenirla con información en tiempo real.|
-| **How Much: ¿Cuánto es el impacto financiero?** 			  | El impacto puede ser alto, ya que incluye pérdidas de productos, costos de reparación de emergencia, mayor consumo energético y afectación en la calidad del servicio. En conjunto, estos factores reducen la eficiencia operativa y aumentan los gastos del negocio. 						 |
+| Dimensión | Descripción |
+| :--- | :--- |
+| **What — ¿Cuál es el problema?** | Los negocios que dependen de equipos de refrigeración presentan un control limitado sobre su funcionamiento, lo que ocasiona fallas inesperadas, alto consumo energético y mantenimiento tardío, generando pérdidas económicas y afectando la continuidad operativa. |
+| **When — ¿Cuándo sucede?** | El problema puede presentarse en cualquier momento durante la operación diaria, especialmente cuando no existe monitoreo continuo ni mantenimiento preventivo. Su impacto aumenta ante fallas imprevistas o demoras en la atención técnica. |
+| **Where — ¿Dónde ocurre?** | En negocios y organizaciones que utilizan equipos de refrigeración para conservar productos, principalmente en los sectores de alimentos, comercio y salud. Tiene especial relevancia en Lima por la concentración de este tipo de actividades. |
+| **Who — ¿Quiénes están involucrados?** | Los dueños y administradores de negocios (que sufren las pérdidas por fallas) y los técnicos y proveedores de mantenimiento (que necesitan información oportuna para actuar de forma eficiente). |
+| **Why — ¿Cuál es la causa?** | La falta de herramientas tecnológicas accesibles que permitan supervisar en tiempo real el estado de los equipos, generar alertas y organizar mantenimientos de manera preventiva. |
+| **How — ¿Cómo se llegó a esta situación?** | Por una gestión tradicional y reactiva del mantenimiento, basada en revisiones manuales o acciones correctivas después de que ocurre una falla. |
+| **How Much — ¿Cuánto es el impacto financiero?** | El impacto puede ser alto: incluye pérdidas de productos, costos de reparación de emergencia, mayor consumo energético y afectación en la calidad del servicio. |
+
+---
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
 
-**Dominio del problema**  
- El problema se ubica en la gestión y supervisión de equipos de refrigeración dentro de negocios que dependen de la cadena de frío. Actualmente, muchas empresas operan sin un sistema digital que les permita monitorear en tiempo real variables críticas como la temperatura, el rendimiento y el consumo energético, lo que dificulta la prevención de fallas y la correcta planificación del mantenimiento.
+**Dominio del problema**
+El problema se ubica en la gestión y supervisión de equipos de refrigeración dentro de negocios que dependen de la cadena de frío. Actualmente, muchas empresas operan sin un sistema digital que les permita monitorear en tiempo real variables críticas como la temperatura, el rendimiento y el consumo energético.
 
-**Alcance del problema**  
- Este problema afecta la continuidad operativa de los negocios, ya que una falla en los equipos de refrigeración puede generar interrupciones en el servicio, deterioro de productos y mayores costos de operación. Su alcance es especialmente relevante en empresas que requieren conservar productos en condiciones controladas de temperatura, como ocurre en los sectores alimentario, comercial y farmacéutico.
+**Segmentos de cliente**
+- **Segmento #1:** Empresas con alta dependencia de sistemas de refrigeración, que buscan reducir pérdidas y optimizar su operación.
+- **Segmento #2:** Empresas de mantenimiento, que necesitan herramientas digitales para mejorar la gestión de sus servicios.
 
-**Segmentos de cliente (actores involucrados)**  
- **Segmento \#1:** Empresas con alta dependencia de sistemas de refrigeración, que buscan reducir pérdidas y optimizar su operación.  
- **Segmento \#2:** Empresas de mantenimiento, que necesitan herramientas digitales para mejorar la gestión de sus servicios y ofrecer un valor agregado a sus clientes.
+**Puntos de dolor**
+- *Segmento #1:* Fallas inesperadas, pérdidas de productos, consumo energético elevado y falta de visibilidad sobre el estado real de los equipos. Gestión reactiva del mantenimiento.
+- *Segmento #2:* Dificultad para organizar servicios, acceder al historial técnico y mejorar los tiempos de respuesta.
 
-**Puntos de dolor**  
- **Segmento \#1:** Las empresas que dependen de sistemas de refrigeración enfrentan fallas inesperadas, pérdidas de productos, consumo energético elevado y falta de visibilidad sobre el estado real de sus equipos. Además, suelen gestionar el mantenimiento de manera reactiva, lo que incrementa los riesgos operativos y los costos no planificados.
+**Brecha detectada**
+Existe una brecha por la falta de una solución integrada que permita centralizar el monitoreo en tiempo real, la generación de alertas preventivas, el historial de funcionamiento y la gestión del mantenimiento. Muchas organizaciones aún dependen de controles manuales o acciones correctivas post-falla.
 
-**Segmento \#2:** Las empresas de mantenimiento tienen dificultades para organizar sus servicios, realizar seguimiento del estado de los equipos y acceder al historial técnico de cada cliente. Esto limita su capacidad de respuesta, reduce la eficiencia de sus operaciones y dificulta ofrecer un servicio más preventivo y diferenciado.
+---
 
-**Brecha detectada**  
- Existe una brecha en el mercado debido a la falta de una solución integrada que permita centralizar el monitoreo en tiempo real, la generación de alertas preventivas, el historial de funcionamiento y la gestión del mantenimiento de equipos de refrigeración. Muchas organizaciones aún dependen de controles manuales o de acciones correctivas después de ocurrida la falla, lo cual reduce su capacidad de anticipación y respuesta.
+#### 1.2.2.2 Lean UX Assumptions
 
-**Impactos y riesgos del problema**  
- La falta de control y monitoreo sobre los equipos de refrigeración puede generar pérdidas económicas por productos dañados, gastos de reparación de emergencia, aumento del consumo energético y afectación en la continuidad del servicio. Además, representa un riesgo para la calidad operativa de las empresas y para la eficiencia del trabajo de los proveedores de mantenimiento, quienes no cuentan con información centralizada ni oportuna para actuar de manera preventiva. 
+| Categoría | Descripción |
+| :--- | :--- |
+| **Problem Assumptions** | Muchas empresas no cuentan con herramientas digitales para monitorear sus equipos. La gestión del mantenimiento suele ser reactiva, detectando fallas tarde y generando pérdidas innecesarias. |
+| **Segmento #1** | Necesitan conocer en tiempo real el estado de sus equipos, valoran las alertas preventivas y están interesados en contar con un historial de funcionamiento para tomar mejores decisiones. |
+| **Segmento #2** | Necesitan centralizar la información técnica de sus clientes. Un acceso rápido al historial y alertas mejora su tiempo de respuesta y les permite diferenciarse con un servicio más preventivo. |
+| **Solution Assumptions** | Una aplicación web integrada con IoT puede resolver el problema al ofrecer monitoreo en tiempo real, alertas preventivas, historial y gestión del mantenimiento en una sola plataforma. |
+| **Value Assumptions** | Para el Segmento #1: reducción de pérdidas y optimización energética. Para el Segmento #2: mejor gestión y servicio técnico más confiable. |
+| **Adoption Assumptions** | Los primeros usuarios serán empresas en Lima con dependencia directa de la cadena de frío que hayan experimentado problemas por fallas o mantenimiento deficiente. |
 
-
-#### 1.2.2.2 Lean UX Assumption
-
-**Problem Assumptions**  
- Se asume que muchas empresas que dependen de sistemas de refrigeración no cuentan con herramientas digitales que les permitan monitorear en tiempo real el estado de sus equipos. También se asume que la gestión actual del mantenimiento suele ser reactiva, por lo que las fallas se detectan tarde, generando pérdidas de productos, mayores costos operativos y consumo energético innecesario.
-
-**User Assumptions – Segment \#1: Empresas con alta dependencia de sistemas de refrigeración**
-
- Se asume que este segmento necesita conocer en tiempo real el estado de sus equipos para reducir riesgos operativos. Asimismo, se considera que valora recibir alertas preventivas ante cambios de temperatura, fallas de funcionamiento o consumo energético inusual. Finalmente, se asume que estas empresas estarían interesadas en contar con un historial de funcionamiento y mantenimiento que les permita tomar mejores decisiones y evitar pérdidas.
-
-**User Assumptions – Segment \#2:  Empresas de mantenimiento**
-
- Se asume que las empresas de mantenimiento necesitan una herramienta digital que centralice la información técnica de los equipos de sus clientes. También se considera que un acceso rápido al historial de funcionamiento, alertas y mantenimientos previos puede mejorar su tiempo de respuesta y la calidad del servicio. Además, se asume que este segmento ve valor en ofrecer un servicio más preventivo y organizado como ventaja competitiva frente a otros proveedores.
-
-**Solution Assumptions**  
- Se asume que una aplicación web integrada con sensores IoT puede ayudar a resolver el problema al ofrecer monitoreo en tiempo real, alertas preventivas, historial de funcionamiento y gestión del mantenimiento en una sola plataforma. También se considera que centralizar esta información facilitará el control de los equipos, la prevención de fallas y una mejor planificación operativa tanto para las empresas usuarias como para los proveedores de mantenimiento.
-
-**Value Assumptions**  
- Se asume que la principal propuesta de valor para el Segmento \#1 será la reducción de pérdidas, la mejora del control operativo y la optimización del consumo energético. En el caso del Segmento \#2, se asume que el valor estará en mejorar la gestión de sus servicios, aumentar su eficiencia y ofrecer un servicio técnico más confiable y diferenciado.
-
-**Adoption Assumptions**  
- Se asume que los primeros usuarios con mayor interés en adoptar la solución serán empresas ubicadas en Lima que dependan directamente de la cadena de frío y que ya hayan experimentado problemas por fallas en sus equipos o deficiencias en su mantenimiento. También se considera probable que las empresas de mantenimiento con interés en modernizar sus operaciones sean parte del segmento inicial de adopción.
-
-**Success Assumptions**  
- Se asume que la solución será percibida como útil si permite reducir fallas críticas, disminuir pérdidas por productos dañados, mejorar la programación del mantenimiento y brindar mayor visibilidad sobre el estado de los equipos. Del mismo modo, se considerará valiosa si ayuda a que los proveedores de mantenimiento gestionen mejor sus servicios y respondan de manera más eficiente ante incidencias.
-
+---
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
+| # | Hipótesis |
+| :---: | :--- |
+| **H1** | Si las empresas cuentan con monitoreo en tiempo real de temperatura, rendimiento y consumo, entonces podrán detectar anomalías con mayor anticipación y reducir fallas críticas. |
+| **H2** | Si estas empresas reciben alertas preventivas y disponen de un historial de mantenimiento, entonces mejorarán la planificación y optimizarán la continuidad de sus operaciones. |
+| **H3** | Si las empresas de mantenimiento tienen acceso centralizado al historial técnico y alertas, entonces responderán más rápido y ofrecerán un servicio más eficiente. |
+| **H4** | Si se integra en una sola plataforma el monitoreo, alertas, historial y gestión del mantenimiento, los usuarios la percibirán como más útil que los métodos manuales actuales. |
+| **H5** | Si la plataforma ayuda a prevenir fallas y reducir pérdidas, las empresas estarán más dispuestas a adoptarla como parte de su operación diaria. |
+| **H6** | Si la solución se implementa inicialmente en Lima, será más factible validar la propuesta de valor y obtener retroalimentación temprana. |
+| **H7** | La solución será exitosa si los usuarios logran reducir incidencias críticas, mejorar el control de equipos y optimizar la gestión del mantenimiento. |
 
-**Hypothesis Statement \#1 – Segment \#1: : Empresas con alta dependencia de sistemas de refrigeración**
+---
 
- Creemos que, si las empresas con alta dependencia de sistemas de refrigeración cuentan con una plataforma web que les permita monitorear en tiempo real la temperatura, el rendimiento y el consumo energético de sus equipos, entonces podrán detectar anomalías con mayor anticipación, reducir fallas críticas y disminuir pérdidas operativas.
-
-**Hypothesis Statement \#2 – Segment \#1: Preventive Alerts and Maintenance Management**  
- Creemos que, si estas empresas reciben alertas preventivas y disponen de un historial de funcionamiento y mantenimiento de sus equipos, entonces podrán tomar decisiones más oportunas, mejorar la planificación del mantenimiento y optimizar la continuidad de sus operaciones.
-
-**Hypothesis Statement \#3 – Segment \#2:  Empresas de mantenimiento** Creemos que, si las empresas de mantenimiento cuentan con acceso centralizado a la información técnica, historial de funcionamiento y alertas de los equipos de sus clientes, entonces podrán responder de manera más rápida, organizar mejor sus servicios y ofrecer un mantenimiento más eficiente y preventivo.
-
-**Hypothesis Statement \#4 – Integrated Digital Solution**  
- Creemos que, si se integra en una sola plataforma el monitoreo en tiempo real, las alertas preventivas, el historial de funcionamiento y la gestión del mantenimiento, entonces los usuarios percibirán la solución como más útil y confiable que los métodos manuales o reactivos que utilizan actualmente.
-
-**Hypothesis Statement \#5 – Business Value**  
- Creemos que, si la plataforma ayuda a prevenir fallas, reducir pérdidas de productos y mejorar el uso de los recursos energéticos, entonces las empresas usuarias estarán más dispuestas a adoptar la solución y a incorporarla como parte de su operación diaria.
-
-**Hypothesis Statement \#6 – Initial Adoption**  
- Creemos que, si la solución se implementa inicialmente en empresas de Lima que dependen directamente de la cadena de frío, entonces será más factible validar la propuesta de valor, obtener retroalimentación temprana y ajustar la plataforma según las necesidades reales del mercado objetivo.
-
-**Hypothesis Statement \#7 – Success Criteria**  
- Creemos que la solución será exitosa si los usuarios logran reducir incidencias críticas, mejorar el control de sus equipos, optimizar la gestión del mantenimiento y percibir una mejora en la eficiencia operativa gracias al uso de la plataforma.
- 
 #### 1.2.2.4 Lean UX Canvas
 
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter01/1-2-2-4.png"
-       alt="Lean UX Canvas:"
-       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
+<div align="center">
+<img src="assets/chapter01/1-2-2-4.png" alt="Lean UX Canvas" style="max-width: 80%; height: auto;">
 
-Link del miro:
-https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438
+[Ver canvas en Miro](https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438)
+</div>
 
+---
 
-## 1.3 Segmentos objetivos
+## 1.3 Segmentos Objetivos
 
-La solución propuesta está dirigida a dos segmentos principales relacionados con la gestión y el mantenimiento de equipos de refrigeración. Ambos segmentos participan directamente en la operación de la cadena de frío y presentan necesidades específicas que justifican el desarrollo de una plataforma digital orientada al monitoreo en tiempo real, la prevención de fallas y la optimización del mantenimiento. De acuerdo con el enfoque del proyecto, estos segmentos se describen considerando sus características demográficas y su relación con el problema identificado.
+La solución está dirigida a dos segmentos principales relacionados con la gestión y el mantenimiento de equipos de refrigeración.
 
-**Segmento \#1: Empresas con alta dependencia de sistemas de refrigeración**  
- Este segmento está conformado por negocios y organizaciones que requieren equipos de refrigeración para conservar productos y garantizar la continuidad de sus operaciones. Aquí se incluyen supermercados, minimarkets, restaurantes, laboratorios, boticas, empresas del sector alimentario y empresas del sector farmacéutico. En términos demográficos, se trata principalmente de propietarios, administradores, jefes de operaciones o encargados de logística, generalmente adultos en edad laboral, ubicados en zonas urbanas y con actividad económica formal. Su principal necesidad es reducir pérdidas por fallas en los equipos, mantener condiciones adecuadas de conservación y optimizar el consumo energético y los costos operativos.
+**Segmento #1: Empresas con alta dependencia de sistemas de refrigeración**
+Supermercados, minimarkets, restaurantes, laboratorios, boticas, y empresas del sector alimentario y farmacéutico. Perfil demográfico: propietarios, administradores, jefes de operaciones o encargados de logística, adultos en edad laboral, ubicados en zonas urbanas con actividad económica formal. Su principal necesidad es reducir pérdidas por fallas, mantener condiciones adecuadas de conservación y optimizar costos.
 
-**Segmento \#2: Empresas de mantenimiento**  
- Este segmento está conformado por empresas y técnicos especializados en instalación, revisión y mantenimiento de equipos de refrigeración. Incluye pequeñas y medianas empresas de servicio técnico, así como proveedores que atienden a negocios que dependen de la cadena de frío. En términos demográficos, está integrado principalmente por técnicos, supervisores y responsables de servicio, generalmente adultos en edad laboral con conocimientos operativos y técnicos del sector. Su principal necesidad es contar con herramientas digitales que les permitan organizar mejor sus servicios, acceder al historial técnico de los equipos, mejorar sus tiempos de respuesta y ofrecer un servicio más eficiente y preventivo a sus clientes.
+**Segmento #2: Empresas de mantenimiento**
+Técnicos y empresas especializadas en instalación, revisión y mantenimiento de equipos de refrigeración. Perfil demográfico: técnicos, supervisores y responsables de servicio con conocimientos operativos y técnicos del sector. Su principal necesidad es contar con herramientas que les permitan organizar mejor sus servicios, acceder al historial técnico y mejorar sus tiempos de respuesta.
 
-
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
 
-## 2.1. Competidores
+## 2.1 Competidores
 
-**Competidor 1: Copeland**  
-Copeland es una empresa reconocida en el sector de la refrigeración comercial e industrial. Sus soluciones combinan hardware, sensores y plataformas digitales que permiten monitorear equipos a distancia, optimizar el consumo energético y anticipar fallas. Es una opción sólida para grandes empresas que buscan eficiencia y control avanzado en sus operaciones.
+| Competidor | Descripción |
+| :--- | :--- |
+| **Copeland** | Empresa reconocida en refrigeración comercial e industrial. Combina hardware, sensores y plataformas digitales para monitorear equipos a distancia, optimizar el consumo energético y anticipar fallas. Orientada a grandes empresas. |
+| **Monnit** | Soluciones IoT simples y accesibles mediante sensores inalámbricos para monitorear temperatura y humedad en tiempo real. Atractiva para pequeñas y medianas empresas por su facilidad de uso. |
+| **ELPRO** | Orientado a sectores exigentes como el farmacéutico y laboratorios. Destaca por su alta precisión y cumplimiento de normativas estrictas en la cadena de frío. |
 
----
+### 2.1.1 Análisis Competitivo
 
-**Competidor 2: Monnit**  
-Monnit se enfoca en ofrecer soluciones IoT simples y accesibles. A través de sensores inalámbricos, permite a los negocios monitorear variables como temperatura y humedad en tiempo real. Su principal ventaja es la facilidad de uso y rápida implementación, lo que la hace atractiva para pequeñas y medianas empresas.
-
----
-
-**Competidor 3: ELPRO**  
-ELPRO está orientado principalmente a sectores exigentes como el farmacéutico y laboratorios. Sus soluciones destacan por su alta precisión y por ayudar a cumplir normativas estrictas en la cadena de frío. Es una alternativa confiable cuando la calidad y el control son críticos.
-
----
-
-### 2.1.1. Análisis competitivo
-
-<table> 
+<table>
   <tr>
-    <th colspan="7"> Competitive Analysis Landscape </th>
+    <th colspan="2">Competitive Analysis Landscape</th>
+    <th>Frigora</th>
+    <th>Copeland</th>
+    <th>Monnit</th>
+    <th>ELPRO</th>
   </tr>
   <tr>
-    <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
-    <td colspan="5"> Este análisis se realiza para entender mejor el mercado, comparar lo que ofrecen otras soluciones y encontrar oportunidades que permitan a Frigora diferenciarse y aportar mayor valor a sus usuarios. </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td colspan="2"> </td>
-    <td> Frigora </td>
-    <td> Copeland </td>
-    <td> Monnit </td>
-    <td> ELPRO </td>
-  </tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
+    <td rowspan="2"><strong>Perfil</strong></td>
     <td>Overview</td>
-    <td> Frigora es una plataforma que busca simplificar la gestión de sistemas de refrigeración, permitiendo monitorear equipos en tiempo real y contactar técnicos cuando sea necesario. </td>
-    <td> Ofrece soluciones completas para grandes sistemas de refrigeración con enfoque en eficiencia y control. </td>
-    <td> Proporciona sensores y una plataforma sencilla para monitoreo ambiental en tiempo real. </td>
-    <td> Brinda soluciones de monitoreo altamente precisas para entornos donde el control es crítico. </td>
+    <td>Plataforma que simplifica la gestión de refrigeración: monitoreo en tiempo real y contacto con técnicos.</td>
+    <td>Soluciones completas para grandes sistemas de refrigeración con enfoque en eficiencia y control.</td>
+    <td>Sensores y plataforma sencilla para monitoreo ambiental en tiempo real.</td>
+    <td>Soluciones de monitoreo altamente precisas para entornos críticos.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva</td>
-    <td> Integra en un solo lugar el monitoreo, la gestión y la posibilidad de resolver problemas rápidamente con técnicos. </td>
-    <td> Alta capacidad tecnológica y experiencia en el sector industrial. </td>
-    <td> Fácil de instalar, usar y mantener. </td>
-    <td> Alto nivel de confiabilidad y cumplimiento de estándares. </td>
+    <td>Integra monitoreo, gestión y resolución de problemas con técnicos en un solo lugar.</td>
+    <td>Alta capacidad tecnológica y experiencia industrial.</td>
+    <td>Fácil de instalar, usar y mantener.</td>
+    <td>Alto nivel de confiabilidad y cumplimiento de estándares.</td>
   </tr>
   <tr>
-    <td rowspan="2">Perfil de Marketing</td>
-    <td> Mercado Objetivo </td>
-    <td> Negocios como restaurantes, minimarkets, farmacias y técnicos independientes. </td>
-    <td> Grandes empresas y cadenas comerciales. </td>
-    <td> Pequeñas y medianas empresas. </td>
-    <td> Empresas farmacéuticas y laboratorios. </td>
+    <td rowspan="2"><strong>Perfil de Marketing</strong></td>
+    <td>Mercado Objetivo</td>
+    <td>Restaurantes, minimarkets, farmacias y técnicos independientes.</td>
+    <td>Grandes empresas y cadenas comerciales.</td>
+    <td>Pequeñas y medianas empresas.</td>
+    <td>Empresas farmacéuticas y laboratorios.</td>
   </tr>
   <tr>
-    <td> Estrategias de Marketing </td>
-    <td> Uso de redes sociales, demostraciones gratuitas y alianzas locales. </td>
-    <td> Estrategias B2B y relaciones con grandes industrias. </td>
-    <td> Venta directa online y enfoque en facilidad de uso. </td>
-    <td> Participación en ferias y cumplimiento de certificaciones. </td>
+    <td>Estrategias de Marketing</td>
+    <td>Redes sociales, demostraciones gratuitas y alianzas locales.</td>
+    <td>Estrategias B2B y relaciones con grandes industrias.</td>
+    <td>Venta directa online.</td>
+    <td>Ferias y certificaciones.</td>
   </tr>
   <tr>
-    <td rowspan="3">Perfil de Producto</td>
-    <td> Productos & Servicios </td>
-    <td> Monitoreo en tiempo real, alertas, historial de equipos y conexión con técnicos. </td>
-    <td> Sistemas avanzados que combinan hardware y software para control de refrigeración. </td>
-    <td> Sensores IoT junto a una plataforma de monitoreo en la nube. </td>
-    <td> Equipos y software para monitoreo con alta precisión. </td>
+    <td rowspan="3"><strong>Perfil de Producto</strong></td>
+    <td>Productos & Servicios</td>
+    <td>Monitoreo en tiempo real, alertas, historial de equipos y conexión con técnicos.</td>
+    <td>Sistemas avanzados hardware + software para control de refrigeración.</td>
+    <td>Sensores IoT + plataforma de monitoreo en la nube.</td>
+    <td>Equipos y software para monitoreo con alta precisión.</td>
   </tr>
   <tr>
-    <td> Precios & Costos </td>
-    <td> Modelo accesible con versión gratuita y pagos según uso. </td>
-    <td> Soluciones costosas orientadas a empresas grandes. </td>
-    <td> Suscripciones económicas. </td>
-    <td> Costos más altos debido a su especialización. </td>
+    <td>Precios & Costos</td>
+    <td>Modelo accesible con versión gratuita y pagos según uso.</td>
+    <td>Soluciones costosas para grandes empresas.</td>
+    <td>Suscripciones económicas.</td>
+    <td>Costos altos por especialización.</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Canales de distribución</td>
-    <td> Plataforma web y aplicación móvil. </td>
-    <td> Soluciones empresariales y plataformas digitales. </td>
-    <td> Web y aplicación móvil. </td>
-    <td> Web y aplicación móvil. </td>
+    <td>Plataforma web y aplicación móvil.</td>
+    <td>Soluciones empresariales y plataformas digitales.</td>
+    <td>Web y app móvil.</td>
+    <td>Web y app móvil.</td>
   </tr>
   <tr>
-    <td rowspan="4"> Análisis SWOT </td>
-    <td> Fortalezas </td>
-    <td> Plataforma completa y fácil de entender. </td>
-    <td> Tecnología avanzada y gran experiencia. </td>
-    <td> Bajo costo y facilidad de uso. </td>
-    <td> Alta precisión y confiabilidad. </td>
+    <td rowspan="4"><strong>Análisis SWOT</strong></td>
+    <td>Fortalezas</td>
+    <td>Plataforma completa y fácil de entender.</td>
+    <td>Tecnología avanzada y gran experiencia.</td>
+    <td>Bajo costo y facilidad de uso.</td>
+    <td>Alta precisión y confiabilidad.</td>
   </tr>
   <tr>
-    <td> Debilidades </td>
-    <td> Depende de que los usuarios adopten la plataforma. </td>
-    <td> Puede ser complejo y costoso para muchos negocios. </td>
-    <td> Menor cantidad de funcionalidades avanzadas. </td>
-    <td> Enfocado a un nicho específico. </td>
+    <td>Debilidades</td>
+    <td>Depende de la adopción de los usuarios.</td>
+    <td>Complejo y costoso para muchos negocios.</td>
+    <td>Menor cantidad de funcionalidades avanzadas.</td>
+    <td>Enfocado a un nicho específico.</td>
   </tr>
   <tr>
-    <td> Oportunidades </td>
-    <td> Crecimiento de la digitalización y uso de IoT en negocios. </td>
-    <td> Expansión en más industrias. </td>
-    <td> Aumento de adopción de tecnología IoT. </td>
-    <td> Mayor regulación en cadena de frío. </td>
+    <td>Oportunidades</td>
+    <td>Crecimiento de la digitalización e IoT en negocios.</td>
+    <td>Expansión en más industrias.</td>
+    <td>Aumento de adopción de IoT.</td>
+    <td>Mayor regulación en cadena de frío.</td>
   </tr>
   <tr>
-    <td> Amenazas </td>
-    <td> Competencia de soluciones ya posicionadas. </td>
-    <td> Nuevas startups más flexibles. </td>
-    <td> Competidores con más funciones. </td>
-    <td> Alternativas más económicas. </td>
+    <td>Amenazas</td>
+    <td>Competencia de soluciones ya posicionadas.</td>
+    <td>Nuevas startups más flexibles.</td>
+    <td>Competidores con más funciones.</td>
+    <td>Alternativas más económicas.</td>
   </tr>
 </table>
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+*Objetivo del análisis: Entender mejor el mercado, comparar lo que ofrecen otras soluciones y encontrar oportunidades para que Frigora se diferencie y aporte mayor valor.*
 
-Hemos identificado diversas estrategias y tácticas para diferenciarnos y competir de manera efectiva en el mercado de la refrigeración. A continuación, se presentan las principales:
+### 2.1.2 Estrategias y Tácticas frente a Competidores
 
-1. **Estrategias de Diferenciación:**
+**1. Diferenciación**
+- **Solución integral:** Frigora integra monitoreo, gestión y resolución de problemas en un mismo lugar, permitiendo no solo detectar fallas sino actuar rápidamente.
+- **Trazabilidad completa:** Cada equipo cuenta con un historial claro de uso, fallas y mantenimientos para mejorar la toma de decisiones.
+- **Interfaz intuitiva:** Diseñada para ser simple incluso para usuarios sin experiencia tecnológica.
 
-**Solución Integral para Refrigeración Comercial:**  
-Frigora busca ser más que una herramienta de monitoreo, integrando también la gestión y la solución de problemas en un mismo lugar. Esto permite a los usuarios no solo detectar fallas, sino actuar rápidamente.
+**2. Marketing**
+- Marketing digital y demostraciones gratuitas para llegar a negocios sin compromiso inicial.
+- Contenido educativo sobre la importancia del monitoreo preventivo.
+- Beneficios para usuarios recurrentes como estrategia de fidelización.
 
-**Trazabilidad Completa de Equipos:**  
-Cada equipo cuenta con un historial claro de uso, fallas y mantenimientos, lo que facilita el control y mejora la toma de decisiones.
+**3. Precios**
+- Modelo Freemium con versión gratuita para facilitar la adopción inicial.
+- Pagos según uso para reducir el riesgo y facilitar la decisión de compra.
 
-**Interfaz Intuitiva y Fácil de Usar:**  
-La plataforma está diseñada para ser simple, incluso para usuarios sin experiencia tecnológica, reduciendo la barrera de entrada.
+**4. Expansión**
+- Inicio en Lima con expansión progresiva a otras ciudades.
+- Alianzas con técnicos y proveedores locales para fortalecer la red de servicios.
 
-2. **Tácticas de Marketing:**
+---
 
-**Marketing Digital y Demostraciones Gratuitas:**  
-Se buscará llegar a los negocios mediante redes sociales y pruebas gratuitas que permitan conocer el valor de la plataforma sin compromiso.
+## 2.2 Entrevistas
 
-**Educación del Usuario:**  
-Se generará contenido que ayude a los usuarios a entender la importancia del monitoreo y el mantenimiento preventivo.
+### 2.2.1 Diseño de Entrevistas
 
-**Fidelización de Usuarios:**  
-Se implementarán beneficios para usuarios recurrentes con el fin de mantener su preferencia en el tiempo.
-
-3. **Estrategias de Precios:**
-
-**Modelo Freemium:**  
-Se ofrece una versión gratuita para facilitar la adopción inicial.
-
-**Pagos según uso:**  
-Los usuarios solo pagan por servicios adicionales, reduciendo el riesgo y facilitando la decisión de compra.
-
-4. **Expansión y Adaptabilidad:**
-
-**Enfoque Regional Inicial:**  
-Frigora iniciará en Lima, con la intención de expandirse progresivamente a otras ciudades.
-
-**Alianzas Locales:**  
-Se buscará trabajar con técnicos y proveedores locales, fortaleciendo la red de servicios y adaptándose mejor al mercado.
-
-
-## 2.2. Entrevistas
-
-### 2.2.1. Diseño de entrevistas
-
-En esta sección, se han planteado diversas preguntas dirigidas a nuestros segmentos objetivos con el objetivo de obtener información relevante, como opiniones, necesidades y experiencias. Estos datos serán fundamentales para el desarrollo de nuestra solución.
-
-**Preguntas para el Segmento Objetivo 1 - Negocios con equipos de refrigeración**
+**Preguntas — Segmento 1: Negocios con equipos de refrigeración**
 
 1. ¿Qué tipo de equipos de refrigeración usas en tu negocio?
 2. ¿Con qué frecuencia sueles tener problemas con estos equipos?
 3. Cuando ocurre una falla, ¿qué es lo primero que haces?
 4. ¿Te resulta difícil encontrar un técnico confiable cuando lo necesitas?
-5. ¿Qué tanto te afecta una falla en tus equipos (por ejemplo, pérdidas o retrasos)?
+5. ¿Qué tanto te afecta una falla en tus equipos (pérdidas, retrasos)?
 6. ¿Sueles hacer mantenimiento preventivo o solo cuando algo falla?
 7. ¿Cómo llevas el control del mantenimiento de tus equipos?
 8. ¿Te gustaría poder monitorear tus equipos o recibir alertas antes de que fallen?
 9. ¿Qué te gustaría que tenga una herramienta que te ayude con esto?
 10. ¿Pagarías por una solución que te ayude a evitar fallas? ¿Qué precio te parecería razonable?
 
----
-
-**Preguntas para el Segmento Objetivo 2 - Empresas de mantenimiento**
+**Preguntas — Segmento 2: Empresas de mantenimiento**
 
 1. ¿Qué tipo de trabajos técnicos realizas con mayor frecuencia?
 2. ¿Cómo sueles conseguir nuevos clientes actualmente?
-3. ¿Qué es lo más complicado de gestionar tu trabajo día a día como técnico?
+3. ¿Qué es lo más complicado de gestionar tu trabajo día a día?
 4. ¿Cómo organizas tus citas o servicios?
 5. ¿Prefieres hacer mantenimiento preventivo o correctivo? ¿Por qué?
 6. ¿Qué problemas sueles tener con los clientes?
 7. ¿Te gustaría recibir solicitudes de trabajo técnico de forma más organizada?
 8. ¿Qué herramientas usas actualmente para tu trabajo?
-9. ¿Te ayudaría tener información previa del equipo antes de atender un servicio técnico?
-10. ¿Usarías una plataforma que te conecte con más clientes? ¿Qué tendría que tener para que te convenza?
-
-### 2.2.2. Registro de entrevistas
-
-## Segmento objetivo #1: Negocios con equipos de refrigeración
-
-### Entrevista 1:
-
-- **Nombres y apellidos:** Mauricio Mego 
-- **Edad:** 24
-- **Distrito:** Magdalena del Mar
-
-![Interview-1-segment-1.png](assets/chapter02/entrevista-segmento1.png)
-
-- **Inicio:** 0:00
-- **Duración:** 3:54 min
-- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y)
-- **Resumen:** Mauricio administra un negocio de alimentos junto a su padre, en el que almacenan carnes, pescados y otros productos que requieren refrigeración. Para ellos, es fundamental que sus equipos de refrigeración funcionen correctamente, ya que de ello dependen sus ingresos. Durante la entrevista, comentó que en una ocasión sufrió una pérdida considerable debido a una falla en los equipos ocasionada por la falta de mantenimiento.
-
-Además, menciona que cada semana debe revisar personalmente el estado de los equipos y, en caso de detectar algún problema, tiene que contactar a un técnico externo para solucionarlo. Considera que sería muy útil contar con alertas automáticas, ya que le permitirían reducir esa preocupación constante y confiar más en el monitoreo del sistema.
-
-En conclusión, Mauricio estaría dispuesto a adquirir una aplicación como Frigora, ya que responde a sus necesidades y le ayudaría a mantener sus equipos de refrigeración en buen estado sin tantas preocupaciones. 
+9. ¿Te ayudaría tener información previa del equipo antes de atender un servicio?
+10. ¿Usarías una plataforma que te conecte con más clientes? ¿Qué tendría que tener para convencerte?
 
 ---
 
-#### Entrevista 2:
+### 2.2.2 Registro de Entrevistas
 
-- **Nombres y apellidos:** Luis Tufiño
-- **Edad:** 23
-- **Distrito:** Callao
-  
-![Interview-2-segment-1.png](assets/chapter02/EntrevistaLuis.png)
+#### Segmento #1: Negocios con equipos de refrigeración
 
-- **Inicio:** 0:00
-- **Duración:** 4:56 min
-- **URL:** [`[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Entrevista 1**
 
-- **Resumen:** Luis Tufiño  es un técnico independiente en refrigeración comercial que atiende bodegas, cafeterías y minimarkets. Realiza principalmente reparaciones, mantenimiento básico y recargas de gas.
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Mauricio Mego |
+| **Edad** | 24 años |
+| **Distrito** | Magdalena del Mar |
+| **Duración** | 3:54 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y) |
 
-Actualmente consigue clientes por Facebook, WhatsApp y recomendaciones, pero no cuenta con una herramienta formal para organizar su trabajo. Maneja sus citas desde el celular, lo que a veces genera cruces de horarios u olvidos.
+<div align="center">
+<img src="assets/chapter02/entrevista-segmento1.png" alt="Entrevista 1 - Segmento 1" width="600">
+</div>
 
-Su principal problema es la falta de organización y la inestabilidad de clientes. Luis considera útil una plataforma que le permita recibir solicitudes ordenadas, ver la ubicación del cliente, conocer el problema del equipo y conectar con más oportunidades de trabajo.
-
----
-
-#### Entrevista 3:
-
-- **Nombre:** Yañez Santos, Leo Giovany
-- **Edad:** 23 años
-- **Distrito:** San miguel
-
-
-![Interview-3-segment-1.png](assets/chapter02/EntrevistaLeo.png)
-
-- **Inicio:** 0:00
-- **Duración:** 3:00 min
-- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Resumen:** Yañez Santos, Leo Giovany es técnico independiente en refrigeración comercial que atiende restaurantes y minimarkets, realizando principalmente mantenimiento y reparaciones.
-
-Consigue clientes por recomendaciones y organiza sus servicios con WhatsApp y notas, lo que puede generar desorden. Su principal dificultad es coordinar sus trabajos y optimizar su tiempo.
-
-Considera útil una plataforma que le permita organizar solicitudes, conocer el estado de los equipos y acceder a más oportunidades de trabajo.
+**Resumen:** Mauricio administra un negocio de alimentos junto a su padre, donde almacenan carnes, pescados y otros productos que requieren refrigeración. Sufrió una pérdida considerable por una falla causada por falta de mantenimiento. Actualmente revisa personalmente los equipos cada semana y contacta a un técnico externo cuando detecta problemas. Considera muy útil contar con alertas automáticas y estaría dispuesto a adquirir una aplicación como Frigora.
 
 ---
 
-## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+**Entrevista 2**
 
-#### **Entrevista 1:**
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Luis Tufiño |
+| **Edad** | 23 años |
+| **Distrito** | Callao |
+| **Duración** | 4:56 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU) |
 
-- **Nombres y apellidos:** Rodrigo Miraval
-- **Edad:** 23 años
-- **Distrito:** San Miguel
+<div align="center">
+<img src="assets/chapter02/EntrevistaLuis.png" alt="Entrevista 2 - Segmento 1" width="600">
+</div>
 
-![Interview-1-segment-2.png](assets/chapter04/SSRodrigo.png)
-
-- **Inicio:** 0:00
-- **Duración:** 6:06 
-- **Url:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD)
-
-- **Resumen:** Rodrigo es un joven de 23 años que lleva trabajando como técnico de mantenimiento de equipos durante más de un año. Durante su experiencia se ha ido ganando un lugar en el rubro, pero recuerda cuando en sus inicios fue un poco complicado encontrar trabajo.
-
-Él menciona que cada semana debe revisar personalmente el estado de los equipos y, que la parte más dificíl de este trabajo es cuando tiene que hacer el mantenimiento completo, lo que ocasionalmente sucede cuando no hubo una correcta prevension delos equipos. 
-
-En conclusión, Rodrigo estaría dispuesto a adquirir una aplicación como Frigora, y cree que mejorariía tanto su posibilidad de alcancer más clientes, como optimizar todas sus reparaciones, ya que podría analizar constantemente los equipos en su etapa de prevención antes que necesiten una repacración completa.
-
+**Resumen:** Luis Tufiño es técnico independiente en refrigeración comercial que atiende bodegas, cafeterías y minimarkets. Consigue clientes por Facebook, WhatsApp y recomendaciones, pero sin herramienta formal. Maneja sus citas desde el celular, lo que genera cruces de horario. Considera útil una plataforma que le permita recibir solicitudes ordenadas, ver la ubicación del cliente y conocer el problema del equipo de antemano.
 
 ---
 
-#### **Entrevista 2:**
+**Entrevista 3**
 
-- **Nombres y apellidos: Mark Josue Febres Reategui**
-- **Edad:** 23 años
-- **Distrito: San Miguel**
-  
-  <img width="1336" height="533" alt="image" src="https://github.com/user-attachments/assets/e4a68f98-014d-4d29-8e5e-1788b7f291cf" />
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Yañez Santos, Leo Giovany |
+| **Edad** | 23 años |
+| **Distrito** | San Miguel |
+| **Duración** | 3:00 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe) |
 
-- **Duración: 3:33 minutos** 
-- Resumen: Mark representa al Proveedor de Servicios con años de experiencia en el campo. Actualmente lidera un equipo de técnicos y se encarga tanto de la captación de clientes como de la logística operativa. Su enfoque es práctico y orientado a resultados, valorando la estabilidad de los equipos de sus clientes para evitar llamadas de emergencia fuera de horario. La entrevista al segmento de mantenimiento revela una dependencia crítica de procesos manuales y una falta de información técnica previa al servicio. Los especialistas destacan que la ausencia de telemetría en tiempo real genera ineficiencias operativas y sobrecostos. Se concluye que existe una alta disposición para adoptar la plataforma Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo, factores clave para transicionar con éxito de un modelo reactivo a uno preventivo. 
-- **Url: ** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<div align="center">
+<img src="assets/chapter02/EntrevistaLeo.png" alt="Entrevista 3 - Segmento 1" width="600">
+</div>
 
-#### Entrevista 3:
-
-- **Nombre: Alvaro Pinto** 
-- **Edad:** 27 años
-- **Distrito:** Lima
-
-![Interview-3-segment-2.png](assets/chapter02/entrevista3-segmento2.png)
-
-- **Inicio:** 0:00
-- **Duración:** 4:39 min
-- **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6)
-  
-- **Resumen:** Álvaro Pinto es un técnico de mantenimiento de equipos de refrigeración con experiencia atendiendo a diversos comercios locales. Durante su trayectoria ha logrado establecer clientes regulares, pero comenta que conseguir nuevos contratos y organizar sus visitas diarias suele ser un reto constante en el rubro . Él menciona que invierte mucho tiempo realizando visitas presenciales rutinarias solo para verificar que los equipos funcionen bien. Además, señala que la parte más difícil y desgastante de su trabajo ocurre cuando hay fallas imprevistas por falta de prevención, ya que llegar "a ciegas" a revisar un equipo descompuesto retrasa enormemente su diagnóstico y reparación. En conclusión, Álvaro estaría muy interesado en utilizar una aplicación como la nuestra. Él cree que le ayudaría a optimizar sus tiempos de intervención al conocer las fallas de antemano gracias al monitoreo remoto. Al ser más eficiente en sus reparaciones actuales, siente que tendría la oportunidad de ampliar su capacidad operativa y conseguir más clientes.
+**Resumen:** Leo Giovany es técnico independiente que atiende restaurantes y minimarkets, realizando principalmente mantenimiento y reparaciones. Organiza sus servicios con WhatsApp y notas, lo que puede generar desorden. Su principal dificultad es coordinar trabajos y optimizar el tiempo. Considera útil una plataforma que le permita organizar solicitudes y acceder a más oportunidades de trabajo.
 
 ---
 
-### 2.2.3. Análisis de entrevistas
+#### Segmento #2: Técnicos y Empresas de Mantenimiento
 
-## Segmento objetivo #1:Negocios con equipos de refrigeración
+**Entrevista 1**
 
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Rodrigo Miraval |
+| **Edad** | 23 años |
+| **Distrito** | San Miguel |
+| **Duración** | 6:06 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD) |
 
-**Análisis:** Este segmento está conformado por negocios como minimarkets, restaurantes y farmacias que dependen del correcto funcionamiento de sus equipos de refrigeración para conservar productos perecibles o sensibles a la temperatura. Estos negocios utilizan equipos como vitrinas, congeladoras y cámaras frigoríficas, los cuales son clave para su operación diaria.
+<div align="center">
+<img src="assets/chapter04/SSRodrigo.png" alt="Entrevista 1 - Segmento 2" width="600">
+</div>
 
+**Resumen:** Rodrigo lleva más de un año como técnico de mantenimiento de equipos. Revisa personalmente el estado de los equipos cada semana y considera que lo más difícil es el mantenimiento completo cuando no hubo prevención adecuada. Estaría dispuesto a adquirir Frigora, ya que mejoraría su alcance de clientes y le permitiría analizar constantemente los equipos en etapa preventiva.
 
-A partir de las entrevistas, se identifica que estos negocios no cuentan con herramientas tecnológicas para el monitoreo de sus equipos, por lo que actúan de manera reactiva ante fallas. Esto genera pérdidas económicas, interrupciones en el servicio y, en algunos casos, riesgos sanitarios. Además, el mantenimiento suele ser informal y no existe un control adecuado del estado de los equipos. También presentan dificultades para encontrar técnicos confiables de forma rápida, lo que agrava el impacto cuando ocurre una falla.
+---
 
-## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento
+**Entrevista 2**
 
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Mark Josue Febres Reategui |
+| **Edad** | 23 años |
+| **Distrito** | San Miguel |
+| **Duración** | 3:33 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw) |
 
-**Análisis:** Este segmento está compuesto por técnicos independientes y pequeñas empresas que brindan servicios de mantenimiento y reparación de equipos de refrigeración. Atienden principalmente a negocios como bodegas, restaurantes y otros comercios que requieren soporte técnico.
+**Resumen:** Mark lidera un equipo de técnicos y se encarga de la captación de clientes y la logística operativa. La entrevista revela una dependencia crítica de procesos manuales y falta de información técnica previa al servicio. Existe alta disposición para adoptar Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo como factores clave para transicionar de un modelo reactivo a uno preventivo.
 
-Las entrevistas muestran que estos técnicos consiguen clientes principalmente a través de redes sociales, recomendaciones y contactos informales. No cuentan con sistemas de gestión, por lo que organizan sus servicios de manera manual, lo que genera desorden, pérdida de tiempo y dificultades para coordinar múltiples trabajos. Además, enfrentan inestabilidad en la demanda de servicios y carecen de información previa sobre los equipos, lo que afecta su eficiencia. Existe una necesidad clara de herramientas que les permitan organizar mejor su trabajo y acceder a más oportunidades de manera estructurada.
+---
 
-## 2.3. Needfinding
+**Entrevista 3**
 
-### 2.3.1. User Personas
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Alvaro Pinto |
+| **Edad** | 27 años |
+| **Distrito** | Lima |
+| **Duración** | 4:39 min |
+| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6) |
 
-En esta sección se presentan las fichas de User Personas construidas a partir de los datos recolectados del análisis de entrevistas a nuestros segmentos objetivos. Estas fichas permiten representar de forma clara y estratégica los perfiles de cada segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. De esta manera se integra la perspectiva del usuario y tendencias del sector para identificar oportunidades en el mercado y ofrecer una solución alineada a lo que el usuario necesita.
+<div align="center">
+<img src="assets/chapter02/entrevista3-segmento2.png" alt="Entrevista 3 - Segmento 2" width="600">
+</div>
 
-**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+**Resumen:** Álvaro Pinto es técnico de mantenimiento de equipos de refrigeración con clientes regulares establecidos. Invierte mucho tiempo en visitas presenciales rutinarias para verificar el funcionamiento de equipos. La parte más desgastante ocurre con fallas imprevistas, ya que llegar "a ciegas" a un equipo descompuesto retrasa enormemente el diagnóstico. Estaría muy interesado en usar Frigora para conocer las fallas de antemano y ampliar su capacidad operativa.
 
-![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento1.png)
+---
 
-<br>
+### 2.2.3 Análisis de Entrevistas
 
-**Segmento Objetivo 2: Empresas de mantenimiento**
+**Segmento #1: Negocios con equipos de refrigeración**
 
-![UserPersona-Segmento1](assets/chapter02/UserPersona-Segmento2.png)
+Estos negocios no cuentan con herramientas tecnológicas para el monitoreo de sus equipos y actúan de manera reactiva ante fallas. Esto genera pérdidas económicas, interrupciones en el servicio y, en algunos casos, riesgos sanitarios. El mantenimiento es informal, no existe control adecuado del estado de los equipos y hay dificultad para encontrar técnicos confiables rápidamente.
 
-### 2.3.2. User Task Matrix
+**Segmento #2: Técnicos y empresas de mantenimiento**
 
-En esta sección se presenta el User Task Matrix, construido a partir de los User Persona que representan a los dos segmentos clave identificados:
+Consiguen clientes principalmente a través de redes sociales y recomendaciones informales. Organizan sus servicios de manera manual, lo que genera desorden, pérdida de tiempo y dificultades para coordinar múltiples trabajos. Carecen de información previa sobre los equipos, lo que afecta su eficiencia. Existe una necesidad clara de herramientas que les permitan organizar mejor su trabajo y acceder a más oportunidades de forma estructurada.
 
-Segmento 1: Negocios con equipos de refrigeración (representado por Renato Gonzales).
+---
 
-Segmento 2: Empresas de mantenimiento (representado por André Ramirez).
+## 2.3 Needfinding
 
-Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas, y cada una fue evaluada según su frecuencia y nivel de importancia para los respectivos perfiles.
+### 2.3.1 User Personas
 
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th rowspan="2">Tarea / Task</th>
-      <th colspan="2">Renato</th>
-      <th colspan="2">André</th>
-    </tr>
-    <tr>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Revisar estado de los equipos de refrigeración</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Recibir alertas de fallas o anomalías</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Contactar a un técnico para mantenimiento</td>
-      <td>Media</td>
-      <td>Alta</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Programar mantenimiento preventivo</td>
-      <td>Media</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Revisar historial de mantenimiento de equipos</td>
-      <td>Media</td>
-      <td>Media</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Registrar servicios realizados</td>
-      <td>-</td>
-      <td>-</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Organizar agenda de servicios técnicos</td>
-      <td>-</td>
-      <td>-</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Recibir solicitudes de nuevos trabajos</td>
-      <td>-</td>
-      <td>-</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Evaluar el estado de equipos antes del servicio</td>
-      <td>Baja</td>
-      <td>Media</td>
-      <td>Alta</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Monitorear múltiples equipos desde una plataforma</td>
-      <td>Alta</td>
-      <td>Alta</td>
-      <td>Media</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Calificar el servicio recibido / realizado</td>
-      <td>Baja</td>
-      <td>Media</td>
-      <td>Media</td>
-      <td>Media</td>
-    </tr>
-  </tbody>
-</table>
+**Segmento #1: Negocios con equipos de refrigeración**
 
-### 2.3.3. User Journey Mapping
+<div align="center">
+<img src="assets/chapter02/UserPersona-Segmento1.png" alt="User Persona - Segmento 1" style="max-width: 90%;">
+</div>
 
-En esta sección se presentan los User Journey Maps de los dos segmentos objetivo: Renato Gonzales, propietario de un mini-market, y André Ramirez, técnico de una empresa de mantenimiento especializad en refrigeración. Cada mapa refleja el recorrido actual que estos usuarios realizan para cumplir sus objetivos sin contar aún con una solución tecnológica integrada, mostrando los puntos críticos, emociones, tareas clave y oportunidades de mejora. Estos recorridos nos permiten entender los desafíos que enfrentan los usuarios día a día.
+**Segmento #2: Empresas de mantenimiento**
 
-<br>
+<div align="center">
+<img src="assets/chapter02/UserPersona-Segmento2.png" alt="User Persona - Segmento 2" style="max-width: 90%;">
+</div>
 
-**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+### 2.3.2 User Task Matrix
 
-![UserJourneyMapping-Segmento1](assets/chapter02/UserJourneyMapping-Segmento1.png)
+Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas y evaluadas según frecuencia e importancia para cada perfil: **Renato** (Segmento 1: negocios de refrigeración) y **André** (Segmento 2: empresas de mantenimiento).
 
-<br>
+| Tarea | Renato — Frecuencia | Renato — Importancia | André — Frecuencia | André — Importancia |
+| :--- | :---: | :---: | :---: | :---: |
+| Revisar estado de los equipos de refrigeración | Alta | Alta | Media | Alta |
+| Recibir alertas de fallas o anomalías | Alta | Alta | Alta | Alta |
+| Contactar a un técnico para mantenimiento | Media | Alta | — | — |
+| Programar mantenimiento preventivo | Media | Alta | Alta | Alta |
+| Revisar historial de mantenimiento | Media | Media | Alta | Alta |
+| Registrar servicios realizados | — | — | Alta | Alta |
+| Organizar agenda de servicios técnicos | — | — | Alta | Alta |
+| Recibir solicitudes de nuevos trabajos | — | — | Alta | Alta |
+| Evaluar estado del equipo antes del servicio | Baja | Media | Alta | Alta |
+| Monitorear múltiples equipos desde una plataforma | Alta | Alta | Media | Alta |
+| Calificar el servicio recibido / realizado | Baja | Media | Media | Media |
 
-**Segmento Objetivo 2: Técnicos y empresas de mantenimiento**
+### 2.3.3 User Journey Mapping
 
-![UserJourneyMapping-Segmento2](assets/chapter02/UserJourneyMapping-Segmento2.png)
+**Segmento #1: Negocios con equipos de refrigeración**
 
-### 2.3.4. Empathy Mapping
+<div align="center">
+<img src="assets/chapter02/UserJourneyMapping-Segmento1.png" alt="User Journey Mapping - Segmento 1" style="max-width: 90%;">
+</div>
 
-En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender las experiencias, emociones y pensamientos que expresan los usuarios de cada segmento objetivo.
+**Segmento #2: Técnicos y empresas de mantenimiento**
 
-<br>
+<div align="center">
+<img src="assets/chapter02/UserJourneyMapping-Segmento2.png" alt="User Journey Mapping - Segmento 2" style="max-width: 90%;">
+</div>
 
-**Segmento Objetivo 1: Negocios con equipos de refrigeración**
+### 2.3.4 Empathy Mapping
 
-![EmpathyMap-Segmento1](assets/chapter02/EmpathyMap-Segmento1.png)
+**Segmento #1: Negocios con equipos de refrigeración**
 
-<br>
+<div align="center">
+<img src="assets/chapter02/EmpathyMap-Segmento1.png" alt="Empathy Map - Segmento 1" style="max-width: 90%;">
+</div>
 
-**Segmento Objetivo 2: Empresas de mantenimiento**
+**Segmento #2: Empresas de mantenimiento**
 
-![EmpathyMap-Segmento2](assets/chapter02/EmpathyMap-Segmento2.png)
+<div align="center">
+<img src="assets/chapter02/EmpathyMap-Segmento2.png" alt="Empathy Map - Segmento 2" style="max-width: 90%;">
+</div>
 
-## 2.4. Big Picture Event Storming
+## 2.4 Big Picture Event Storming
 
-En esta sección se presenta el trabajo realizado durante la sesión de Big Picture Event Storming, enfocada en comprender el dominio general del negocio. Para ello se utilizaron post-its en LucidChart para mapear los eventos significativos que ocurren en el flujo operativo actual, desde la detección de fallas en los equipos de refrigeración hasta el seguimiento posterior al servicio técnico. Ello nos permitió identificar procesos clave, actores involucrados, relaciones entre eventos, y oportunidades de mejora para el desarrollo de nuestra solución.
+Se utilizaron post-its en LucidChart para mapear los eventos significativos del flujo operativo actual, desde la detección de fallas hasta el seguimiento post-servicio, identificando procesos clave, actores involucrados y oportunidades de mejora.
 
-![BigPictureEventStorming](assets/chapter02/BigPictureEventStorming.jpg)
+<div align="center">
+<img src="assets/chapter02/BigPictureEventStorming.jpg" alt="Big Picture Event Storming" style="max-width: 90%;">
+</div>
 
-## 2.5. Ubiquitous Language
+## 2.5 Ubiquitous Language
 
-1. **User Profile (Perfil de Usuario):** Perfil del usuario dentro de la plataforma.
+| Término | Definición |
+| :--- | :--- |
+| **User Profile** | Perfil del usuario dentro de la plataforma. |
+| **Smart Dashboard** | Interfaz central donde los usuarios monitorean equipos, reciben alertas y gestionan servicios. |
+| **Performance Report** | Informe técnico con historial de uso, consumo energético, temperatura y fallas de cada equipo. |
+| **Maintenance Schedule** | Calendario para programar mantenimientos preventivos o correctivos. |
+| **Failure Alert** | Notificación automática ante anomalías críticas como sobrecalentamiento o cortes de energía. |
+| **Equipment Inventory** | Registro de todos los equipos con sus datos técnicos y ubicación. |
+| **Service Provider** | Técnico o empresa que brinda mantenimiento, instalación o reparación de equipos. |
+| **Technical History** | Registro detallado de todas las intervenciones realizadas a un equipo. |
+| **Work Order** | Documento digital con las tareas asignadas a un técnico para una visita de servicio. |
+| **Service Coordination** | Proceso de conexión entre clientes y proveedores según disponibilidad y necesidad. |
+| **Real-Time Monitoring** | Supervisión constante del estado operativo del equipo (temperatura, consumo, uso). |
+| **Cold Equipment** | Unidad de refrigeración para conservar productos: congeladoras, cámaras, vitrinas. |
+| **Preventive Maintenance** | Servicio planificado para evitar fallas y extender la vida útil del equipo. |
+| **Corrective Maintenance** | Servicio realizado para solucionar una falla existente en un equipo. |
+| **Energy Consumption** | Registro del uso eléctrico de los equipos para detectar anomalías y optimizar recursos. |
+| **Client Portfolio** | Lista de negocios atendidos por un proveedor, con sus datos y equipos registrados. |
+| **Service Zone** | Área donde un proveedor puede atender equipos con rapidez y eficiencia. |
+| **Notification** | Mensajes enviados automáticamente sobre mantenimientos, fallas o cambios importantes. |
+| **Automatic Report Generation** | Función que crea informes técnicos sin intervención manual. |
 
-2. **Smart Dashboard (Panel Inteligente):** Interfaz central donde los usuarios monitorean el estado de sus equipos, reciben alertas y gestionan sus servicios.
-
-3. **Performance Report (Reporte de Rendimiento):** Informe técnico con historial de uso, consumo energético, temperatura y fallas de cada equipo.
-
-4. **Maintenance Schedule (Agenda de Mantenimientos):** Calendario inteligente para programar mantenimientos preventivos o correctivos.
-
-5. **Failure Alert (Alerta de Falla):** Notificación automática ante anomalías críticas como sobrecalentamiento o cortes de energía.
-
-6. **Equipment Inventory (Inventario de Equipos):** Registro de todos los equipos de congelación con sus datos técnicos y ubicación.
-
-7. **Service Provider (Proveedor de Servicio):** Técnico o empresa que brinda mantenimiento, instalación o reparación de equipos de refrigeración.
-
-8. **Technical History (Historial Técnico):** Registro detallado de todas las intervenciones realizadas a un equipo.
-
-9. **Work Order (Orden de Trabajo):** Documento digital con las tareas asignadas a un técnico para una visita de servicio.
-
-10. **Service Coordination (Coordinación de Servicio):** Proceso de conexión entre clientes y proveedores según disponibilidad, ubicación y necesidad.
-
-11. **Automatic Report Generation (Generación Automática de Reportes):** Función que crea informes técnicos sin intervención manual.
-
-12. **Real-Time Monitoring (Monitoreo en Tiempo Real):** Supervisión constante del estado operativo del equipo (temperatura, consumo, uso).
-
-13. **Service Zone (Zona de Servicio):** Área donde un proveedor puede atender equipos con rapidez y eficiencia.
-
-14. **Client Portfolio (Cartera de Clientes):** Lista de negocios atendidos por un proveedor, con sus datos y equipos registrados.
-
-15. **Cold Equipment (Equipo de Congelación):** Unidad de refrigeración usada para conservar productos, como congeladoras, cámaras o vitrinas.
-
-16. **Energy Consumption (Consumo Energético):** Registro del uso eléctrico de los equipos para detectar anomalías y optimizar recursos.
-
-17. **Preventive Maintenance (Mantenimiento Preventivo):** Servicio planificado para evitar fallas y extender la vida útil del equipo.
-
-18. **Corrective Maintenance (Mantenimiento Correctivo):** Servicio realizado para solucionar una falla existente en un equipo.
-
-19. **Notification (Notificación):** Mensajes enviados automáticamente para informar sobre mantenimientos, fallas o cambios importantes.
+---
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To-Be Scenario Mapping
+## 3.1 To-Be Scenario Mapping
 
-**Segmento objetivo #1: Negocios con equipos de refrigeración**
+**Segmento #1: Negocios con equipos de refrigeración**
 
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/seg1tobe.png"
-       alt="To Be Scenario Mapping Segmento 1: Negocios con equipos de refrigeración"
-       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> To Be Scenario Mapping: Negocios con equipos de refrigeración (Segmento 1).
-  </figcaption>
-</figure>
+<div align="center">
+<img src="assets/chapter04/seg1tobe.png" alt="To-Be Scenario Mapping - Segmento 1" style="max-width: 95%;">
+<p><em>Figura 1: To-Be Scenario Mapping — Negocios con equipos de refrigeración.</em></p>
+</div>
 
-**Segmento objetivo #2: Técnicos y empresas de mantenimiento**
+**Segmento #2: Técnicos y empresas de mantenimiento**
 
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter03/To Be Scenario Mapping Segmento 2 - Técnicos y empresas de mantenimiento.png"
-       alt="To Be Scenario Mapping Segmento 2: Técnicos y empresas de mantenimiento"
-       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 2:</strong> To Be Scenario Mapping - Técnicos y empresas de mantenimiento (Segmento 2).
-  </figcaption>
-</figure>
+<div align="center">
+<img src="assets/chapter03/To Be Scenario Mapping Segmento 2 - Técnicos y empresas de mantenimiento.png" alt="To-Be Scenario Mapping - Segmento 2" style="max-width: 95%;">
+<p><em>Figura 2: To-Be Scenario Mapping — Técnicos y empresas de mantenimiento.</em></p>
+</div>
 
-## 3.2. User Stories.
+## 3.2 User Stories
 
-Las historias de usuario para este proyecto se crearon en colaboración con el equipo de desarrollo, enfocándose en las necesidades principales de dos tipos de usuarios: los clientes, que son dueños de equipos de refrigeración, y los proveedores de servicios y equipos.
+### Épicas del Sistema
 
-Para mantener la organización, las historias se agruparon en épicas según sus funcionalidades. Los criterios de aceptación de cada historia se definieron utilizando la sintaxis Gherkin, asegurando que el equipo comprendiera el problema desde la perspectiva del usuario final.
-
-
-**Épicas del Sistema**<br>
-Las siguientes épicas representan los bloques funcionales principales del producto. Cada épica agrupa un conjunto de User Stories que definen las funcionalidades asociadas tanto al usuario, como los componentes de interfaz y backend necesarios para soportar dichas capacidades.<br>
-
-| **ID de Epic** | **Título** | **Descripción** |
+| ID | Título | Descripción |
 | :---: | :--- | :--- |
-| **EP-01** | Gestión de Cuentas de Usuario | Esta epic se centra en todo lo necesario para que los usuarios puedan crear, acceder y administrar sus perfiles de forma segura en la plataforma. |
-| **EP-02** | Gestión y Monitoreo de Equipos | Esta epic abarca la funcionalidad para que los clientes agreguen, editen y monitoreen sus equipos de refrigeración, facilitando su control. |
-| **EP-03** | Proceso de Solicitudes de Servicio | Esta epic cubre el ciclo completo de las solicitudes de servicio, desde que un cliente pide una reparación o mantenimiento hasta que el trabajo se completa y se le da seguimiento. |
-| **EP-04** | Análisis e Informes de Datos | Esta epic se encarga de la generación de reportes clave sobre el rendimiento de los equipos, el consumo energético y la eficiencia de los servicios, permitiendo un análisis detallado. |
-| **EP-05** | Sistema de Alertas y Notificaciones | Esta epic está dedicada a la creación de un sistema robusto que envía alertas automáticas a clientes y empresarios sobre fallas, necesidades de mantenimiento y el progreso de los servicios. |
-| **EP-06** | Página de Aterrizaje y Experiencia Inicial | Esta epic cubre el desarrollo de la página de aterrizaje (landing page), asegurando que los visitantes entiendan rápidamente la propuesta de valor y puedan contactar al equipo comercial con facilidad. |
+| EP-01 | Gestión de Cuentas de Usuario | Todo lo necesario para que los usuarios puedan crear, acceder y administrar sus perfiles de forma segura. |
+| EP-02 | Gestión y Monitoreo de Equipos | Funcionalidad para que los clientes agreguen, editen y monitoreen sus equipos de refrigeración. |
+| EP-03 | Proceso de Solicitudes de Servicio | Ciclo completo de las solicitudes de servicio, desde la solicitud hasta el seguimiento post-servicio. |
+| EP-04 | Análisis e Informes de Datos | Generación de reportes sobre rendimiento de equipos, consumo energético y eficiencia de servicios. |
+| EP-05 | Sistema de Alertas y Notificaciones | Sistema de alertas automáticas a clientes y empresarios sobre fallas, mantenimientos y progreso de servicios. |
+| EP-06 | Página de Aterrizaje y Experiencia Inicial | Landing page que comunica la propuesta de valor y facilita el primer contacto con el equipo comercial. |
 
+### User Stories
 
-**User Stories**<br>
-
-| **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Epic** |
+| ID | Título | Descripción | Criterios de Aceptación | Epic |
 | :--- | :--- | :--- | :--- | :---: |
-| **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | **Escenario 1: Crear cuenta exitosamente**<br>Dado que el nuevo usuario tiene todos los datos correctos,<br>Cuando completa el registro,<br>Entonces su cuenta es creada correctamente.<br><br>**Escenario 2: Intento de crear cuenta con email ya registrado**<br>Dado que el nuevo usuario intenta registrarse con un correo ya registrado,<br>Cuando envía el formulario,<br>Entonces el sistema muestra un mensaje indicando que el correo ya existe. | EP-01 |
-| **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | **Escenario 1: Iniciar sesión correctamente**<br>Dado que el usuario tiene una cuenta activa,<br>Cuando ingresa sus datos correctamente,<br>Entonces accede a su panel de control.<br><br>**Escenario 2: Intento de iniciar sesión con datos incorrectos**<br>Dado que el usuario ingresa datos incorrectos,<br>Cuando intenta iniciar sesión,<br>Entonces el sistema muestra un mensaje de error. | EP-01 |
-| **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración en la plataforma para mantener un registro y control detallado de cada uno. | **Escenario 1: Registro de un nuevo equipo**<br>Dado que el cliente tiene los detalles de un nuevo equipo,<br>Cuando los ingresa,<br>Entonces el equipo se registra correctamente.<br><br>**Escenario 2: Actualización de la información de un equipo**<br>Dado que el cliente desea modificar los datos de un equipo ya registrado,<br>Cuando realiza los cambios,<br>Entonces la información del equipo se actualiza. | EP-02 |
-| **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas ante cualquier incidencia o necesidad de mantenimiento. | **Escenario 1: Alerta de falla detectada**<br>Dado que un equipo presenta una falla,<br>Cuando la falla es detectada,<br>Entonces el cliente recibe una alerta.<br><br>**Escenario 2: Alerta de mantenimiento preventivo**<br>Dado que se acerca una necesidad de mantenimiento preventivo,<br>Cuando se identifica esa necesidad,<br>Entonces el cliente es notificado con antelación. | EP-05 |
-| **US-05** | Analizar el consumo energético de equipos | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia y tomar decisiones informadas. | **Escenario 1: Visualización del consumo individual**<br>Dado que el cliente tiene equipos registrados,<br>Cuando solicita ver los datos de consumo de un equipo,<br>Entonces se muestra un informe de consumo energético.<br><br>**Escenario 2: Comparación del consumo energético**<br>Dado que el cliente selecciona múltiples equipos,<br>Cuando solicita la comparación,<br>Entonces se genera una vista comparativa. | EP-04 |
-| **US-06** | Solicitar y gestionar servicios de mantenimiento y reparación | Como cliente, quiero solicitar servicios de mantenimiento (preventivo) y reparación (correctivo) para mis equipos, y recibir confirmación. | **Escenario 1: Solicitud de servicio exitosa**<br>Dado que el cliente requiere un servicio,<br>Cuando selecciona el tipo de servicio y detalla la solicitud,<br>Entonces se registra en el sistema y se le notifica.<br><br>**Escenario 2: Recepción de confirmación**<br>Dado que la solicitud ha sido enviada,<br>Cuando el sistema procesa la solicitud,<br>Entonces el cliente recibe confirmación con los detalles. | EP-03 |
-| **US-07** | Dar seguimiento al progreso del servicio | Como cliente, quiero seguir el avance de mi servicio solicitado para saber en qué etapa se encuentra y cuándo estará completado. | **Escenario 1: Visualización del estado**<br>Dado que el cliente tiene una solicitud activa,<br>Cuando accede a su información de servicios,<br>Entonces se presenta el estado actualizado.<br><br>**Escenario 2: Actualización de estado**<br>Dado que una solicitud está en curso, cuando su estado cambia, entonces el sistema refleja el nuevo estado. | EP-03 |
-| **US-08** | Ver reporte de servicio realizado | Como cliente, quiero ver el reporte de servicio detallado para saber qué reparaciones se hicieron en mi equipo. | **Escenario 1: Generación del reporte**<br>Dado que el servicio ha sido completado,<br>Cuando el técnico termina,<br>Entonces el sistema genera un reporte detallado.<br><br>**Escenario 2: Enviar reporte por correo**<br>Dado que el reporte ha sido generado,<br>Cuando se finaliza el servicio,<br>Entonces el sistema lo envía al cliente por correo electrónico. | EP-04 |
-| **US-09** | Recepción de alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas automáticas cuando un cliente solicite un servicio de reparación o mantenimiento. | **Escenario 1: Recepción de solicitud**<br>Dado que un cliente ha enviado una solicitud,<br>Cuando se recibe,<br>Entonces el empresario recibe una alerta.<br><br>**Escenario 2: Alerta de mantenimiento preventivo**<br>Dado que se ha solicitado mantenimiento preventivo,<br>Cuando se registra,<br>Entonces el empresario recibe una alerta. | EP-05 |
-| **US-10** | Ver historial de servicios | Como empresario, quiero ver el historial de servicios realizados para cada cliente y equipo, para llevar un control detallado. | **Escenario 1: Visualización del historial**<br>Dado que el empresario requiere consultar los servicios,<br>Cuando accede a la sección de historial,<br>Entonces puede ver el historial completo.<br><br>**Escenario 2: Filtrado del historial**<br>Dado que el empresario desea filtrar,<br>Cuando aplica un filtro por cliente o equipo,<br>Entonces el historial se actualiza mostrando solo esos resultados. | EP-04 |
-| **US-11** | Realizar seguimiento a solicitudes de servicio | Como empresario, quiero realizar un seguimiento detallado a las solicitudes de servicio de mis técnicos, para saber cómo van. | **Escenario 1: Ver estado de la solicitud**<br>Dado que el empresario tiene acceso a solicitudes,<br>Cuando ingresa al sistema,<br>Entonces puede ver el estado actualizado.<br><br>**Escenario 2: Actualización del estado**<br>Dado que el empresario quiere seguir el progreso,<br>Cuando un técnico actualiza el estado,<br>Entonces el sistema muestra el estado en tiempo real. | EP-03 |
-| **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos en la plataforma para incluirlos en mi equipo de trabajo y gestionar sus perfiles. | **Escenario 1: Registro exitoso**<br>Dado que el empresario completa los datos requeridos,<br>Cuando guarda la información,<br>Entonces el técnico queda registrado exitosamente.<br><br>**Escenario 2: Intento con datos faltantes**<br>Dado que el empresario intenta registrar sin completar los campos obligatorios,<br>Cuando intenta guardar,<br>Entonces no se permite la operación. | EP-01 |
-| **US-13** | Consultar el perfil de un técnico | Como empresario, quiero ver el perfil de cada técnico, incluyendo sus datos y métricas de rendimiento. | **Escenario 1: Acceso a la información completa**<br>Dado que el empresario selecciona un técnico,<br>Cuando accede a su perfil,<br>Entonces puede visualizar sus datos y métricas.<br><br>**Escenario 2: Visualización sin evaluaciones**<br>Dado que un técnico no ha recibido evaluaciones,<br>Cuando se consulta su perfil,<br>Entonces las métricas no son visibles. | EP-01 |
-| **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para asegurar que se realice el trabajo adecuadamente. | **Escenario 1: Asignación de técnico**<br>Dado que el empresario ha recibido una solicitud,<br>Cuando selecciona un técnico,<br>Entonces es asignado a la solicitud.<br><br>**Escenario 2: Notificación de asignación**<br>Dado que un técnico ha sido asignado,<br>Cuando el empresario confirma,<br>Entonces el técnico recibe una notificación con los detalles. | EP-03 |
-| **US-15** | Generar reporte de desempeño de técnicos | Como empresario, quiero generar reportes sobre el desempeño de mis técnicos para evaluar su eficiencia y productividad. | **Escenario 1: Generar reporte**<br>Dado que el empresario quiere evaluar el desempeño,<br>Cuando selecciona generar reporte,<br>Entonces el sistema crea un informe.<br><br>**Escenario 2: Descargar reporte**<br>Dado que el reporte ha sido generado,<br>Cuando el empresario quiere descargarlo,<br>Entonces el sistema permite descargarlo en PDF. | EP-04 |
-| **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas para el mantenimiento preventivo de los equipos. | **Escenario 1: Configuración de alerta**<br>Dado que el empresario desea configurar una alerta,<br>Cuando ingresa los parámetros necesarios,<br>Entonces se configura correctamente.<br><br>**Escenario 2: Actualización de alerta existente**<br>Dado que el empresario quiere modificar una alerta,<br>Cuando ajusta los parámetros,<br>Entonces es actualizada. | EP-05 |
-| **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | **Escenario 1: Acceso a información**<br>Dado que el empresario necesita ver clientes pendientes,<br>Cuando accede a la funcionalidad,<br>Entonces puede visualizar clientes y servicios.<br><br>**Escenario 2: Filtrado de servicios**<br>Dado que el empresario quiere enfocarse en servicios específicos,<br>Cuando aplica un filtro por estado,<br>Entonces la lista se actualiza. | EP-04 |
-| **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | **Escenario 1: Acceso a la lista**<br>Dado que el empresario quiere consultar los equipos,<br>Cuando accede al listado,<br>Entonces puede visualizarlos.<br><br>**Escenario 2: Filtrado de equipos**<br>Dado que el empresario necesita encontrar equipos específicos,<br>Cuando aplica filtros,<br>Entonces la lista se actualiza mostrando resultados. | EP-02 |
-| **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | **Escenario 1: Problema reportado**<br>Dado que el técnico detecta una complicación,<br>Cuando se genera un evento interno,<br>Entonces se envía una notificación que requiere acción del cliente.<br><br>**Escenario 2: Notificación sobre progreso**<br>Dado que el servicio está en ejecución,<br>Cuando el estado cambia,<br>Entonces se envía una notificación. | EP-05 |
-| **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | **Escenario 1: Propuesta visible**<br>Dado que un visitante llega a la página principal,<br>Cuando carga,<br>Entonces se le presenta una frase que explica la propuesta.<br><br>**Escenario 2: Contenido orientado**<br>Dado que el visitante pertenece a la gestión de equipos,<br>Cuando revisa la propuesta,<br>Entonces encuentra conceptos de gestión inteligente. | EP-06 |
-| **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | **Escenario 1: Negocios de refrigeración**<br>Dado que un visitante explora soluciones,<br>Cuando revisa el contenido,<br>Entonces encuentra descripciones dirigidas a negocios de refrigeración.<br><br>**Escenario 2: Empresas proveedoras**<br>Dado que explora soluciones,<br>Cuando revisa,<br>Entonces encuentra información para empresas de mantenimiento. | EP-06 |
-| **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | **Escenario 1: Acceso a funcionalidades**<br>Dado que consulta características,<br>Cuando revisa la lista,<br>Entonces identifica opciones clave.<br><br>**Escenario 2: Descripciones orientadas al valor**<br>Dado que lee las descripciones,<br>Cuando evalúa cada una,<br>Entonces comprende el beneficio que aporta. | EP-06 |
-| **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | **Escenario 1: Acceso a misión**<br>Dado que accede a la información,<br>Cuando revisa el contenido corporativo,<br>Entonces encuentra una descripción clara.<br><br>**Escenario 2: Acceso a visión**<br>Dado que accede a la información institucional,<br>Cuando revisa el contenido estratégico,<br>Entonces encuentra la visión a futuro. | EP-06 |
-| **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | **Escenario 1: Canal de contacto**<br>Dado que está interesado en contactar,<br>Cuando busca información,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección al canal adecuado**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a un canal funcional (ej. formulario). | EP-06 |
-| **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | **Escenario 1: Visibilidad del acceso**<br>Dado que un usuario registrado visita la página principal,<br>Cuando busca cómo ingresar,<br>Entonces encuentra una opción clara.<br><br>**Escenario 2: Redirección a la plataforma**<br>Dado que selecciona la opción,<br>Cuando es redirigido,<br>Entonces llega a la página de inicio de sesión. | EP-06 |
-| **TS-01** | Gestión de alertas críticas vía API | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario. | **Escenario 1: Envío de notificación al detectar falla**<br>Dado que se procesa una alerta crítica desde un equipo,<br>Cuando se genera una notificación al usuario,<br>Entonces se envía la alerta.<br><br>**Escenario 2: Falla detectada sin notificación activa**<br>Dado que el servicio de notificaciones está deshabilitado,<br>Cuando se genera la alerta crítica,<br>Entonces no se envía la notificación, y se registra en el historial. | EP-05 |
-| **TS-02** | Creación de solicitudes de mantenimiento (API) | Como desarrollador, quiero implementar una API que me permita crear solicitudes de mantenimiento para que los negocios reporten necesidades de soporte técnico. | **Escenario 1: Creación exitosa de solicitud**<br>Dado que se envía una solicitud POST a `/api/v1/service-requests` con los datos del equipo y la descripción del problema,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 201 y se guarda la solicitud en el sistema.<br><br>**Escenario 2: Datos incompletos en la solicitud**<br>Dado que se envía una solicitud a `/api/v1/service-requests` sin un campo obligatorio,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 400 con el mensaje "Invalid data". | EP-03 |
-| **TS-03** | Registro de intervenciones técnicas por API RESTful | Como desarrollador, quiero registrar las intervenciones técnicas realizadas a través de la API para llevar un seguimiento detallado del mantenimiento. | **Escenario 1: Registro exitoso**<br>Dado que se envía una solicitud POST a `/api/v1/interventions` con los datos del técnico y equipo,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 201 y el registro se almacena.<br><br>**Escenario 2: Registro con técnico no existente**<br>Dado que el ID del técnico no existe,<br>Cuando se realiza la solicitud POST a `/api/v1/interventions`,<br>Entonces se recibe una respuesta 404 con el mensaje "Technician not found". | EP-03 |
-| **TS-04** | Registrar nuevo usuario a través de API RESTful | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro. | **Escenario 1: Registro exitoso**<br>Dado que el endpoint `/api/v1/users` está disponible,<br>Cuando se envía una solicitud POST con datos válidos,<br>Entonces el sistema responde con 201 y devuelve el usuario registrado.<br><br>**Escenario 2: Registro con email existente**<br>Dado un correo ya registrado,<br>Cuando se intenta registrar nuevamente,<br>Entonces se devuelve un 400 con mensaje "Email already registered". | EP-01 |
-| **TS-05** | Consulta de estado de servicios por API | Como desarrollador, mi objetivo es crear un endpoint para que clientes y empresarios puedan consultar el estado de una solicitud de servicio en tiempo real. | **Escenario 1: Consulta exitosa del estado**<br>Dado que se envía una solicitud GET a `/api/v1/requests/{id}` con un ID válido,<br>Cuando la solicitud es procesada,<br>Entonces se recibe una respuesta 200 y se devuelve el estado actual de la solicitud.<br><br>**Escenario 2: Consulta con ID inexistente**<br>Dado que el ID de la solicitud no existe,<br>Cuando se realiza la consulta,<br>Entonces se recibe una respuesta 404 con el mensaje "Request not found". | EP-03 |
+| **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme en la plataforma para acceder a ella y empezar a gestionar mis equipos. | **E1 — Éxito:** Dado que el usuario completa el formulario con datos correctos, cuando envía el registro, entonces la cuenta es creada exitosamente.<br>**E2 — Email duplicado:** Dado que el usuario ingresa un email ya registrado, cuando envía el formulario, entonces el sistema muestra un mensaje de error. | EP-01 |
+| **US-02** | Inicio de sesión | Como usuario, quiero iniciar sesión en mi cuenta para utilizar sus funcionalidades. | **E1 — Éxito:** Dado que el usuario tiene una cuenta activa e ingresa datos correctos, cuando inicia sesión, entonces accede al panel principal.<br>**E2 — Error:** Dado que el usuario ingresa datos incorrectos, cuando intenta acceder, entonces el sistema muestra un mensaje de error. | EP-01 |
+| **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración para mantener un registro y control detallado de cada uno. | **E1 — Registro:** Dado que el usuario ingresa los datos del equipo, cuando los guarda, entonces el equipo se registra correctamente.<br>**E2 — Actualización:** Dado que el usuario modifica los datos de un equipo, cuando guarda los cambios, entonces la información se actualiza correctamente. | EP-02 |
+| **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas ante fallas o mantenimientos próximos. | **E1 — Falla:** Dado que el sistema detecta una falla en el equipo del usuario, cuando se procesa la alerta, entonces el cliente recibe una notificación inmediata.<br>**E2 — Preventivo:** Dado que el usuario tiene un mantenimiento próximo programado, cuando se aproxima la fecha, entonces el cliente es notificado con antelación. | EP-05 |
+| **US-05** | Analizar consumo energético | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia. | **E1 — Individual:** Dado que el usuario tiene equipos registrados, cuando solicita los datos de consumo, entonces el sistema muestra un informe detallado.<br>**E2 — Comparativo:** Dado que el usuario selecciona múltiples equipos, cuando solicita la comparación, entonces el sistema genera una vista comparativa. | EP-04 |
+| **US-06** | Solicitar servicios de mantenimiento | Como cliente, quiero solicitar servicios de mantenimiento y reparación para recibir atención oportuna con confirmación del servicio. | **E1 — Solicitud:** Dado que el usuario requiere un servicio y lo detalla en el sistema, cuando lo envía, entonces la solicitud se registra y se notifica al equipo.<br>**E2 — Confirmación:** Dado que el usuario envió una solicitud, cuando el sistema la procesa, entonces el cliente recibe confirmación con los detalles del servicio. | EP-03 |
+| **US-07** | Seguimiento del progreso del servicio | Como cliente, quiero hacer seguimiento al avance de mi servicio para saber en qué etapa se encuentra. | **E1 — Visualización:** Dado que el usuario tiene una solicitud activa, cuando accede al sistema, entonces se presenta el estado actualizado del servicio.<br>**E2 — Actualización:** Dado que el usuario espera una actualización de estado, cuando ésta ocurre, entonces el sistema lo refleja en tiempo real. | EP-03 |
+| **US-08** | Ver reporte del servicio realizado | Como cliente, quiero ver el reporte detallado de un servicio completado para conocer qué intervenciones se realizaron. | **E1 — Generación:** Dado que el usuario tiene un servicio completado, cuando lo consulta, entonces el sistema muestra un reporte detallado de las intervenciones.<br>**E2 — Envío:** Dado que el usuario tiene un reporte generado, cuando el sistema lo procesa, entonces lo envía automáticamente por correo electrónico. | EP-04 |
+| **US-09** | Alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas cuando un cliente solicite un servicio para responder de manera oportuna. | **E1 — Solicitud recibida:** Dado que el cliente envía una solicitud de servicio, cuando el sistema la registra, entonces el empresario recibe una alerta.<br>**E2 — Preventivo:** Dado que el cliente solicita un mantenimiento preventivo, cuando se registra, entonces el empresario es alertado. | EP-05 |
+| **US-10** | Ver historial de servicios | Como empresario, quiero consultar el historial de servicios por cliente y equipo para tener trazabilidad completa de las atenciones realizadas. | **E1 — Visualización:** Dado que el usuario empresario accede al historial, cuando lo consulta, entonces puede ver el historial completo de servicios.<br>**E2 — Filtrado:** Dado que el usuario aplica un filtro por cliente o equipo, cuando lo ejecuta, entonces el historial se actualiza con los resultados correspondientes. | EP-04 |
+| **US-11** | Seguimiento a solicitudes de servicio | Como empresario, quiero hacer seguimiento detallado a las solicitudes asignadas a mis técnicos para controlar el avance de cada una. | **E1 — Ver estado:** Dado que el usuario empresario accede al sistema, cuando consulta las solicitudes, entonces puede ver el estado actualizado de cada una.<br>**E2 — Actualización:** Dado que el técnico actualiza una solicitud, cuando guarda los cambios, entonces el sistema muestra el nuevo estado en tiempo real. | EP-03 |
+| **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos para incluirlos en mi equipo de trabajo. | **E1 — Registro exitoso:** Dado que el usuario empresario ingresa los datos completos del técnico, cuando guarda el registro, entonces el técnico queda registrado correctamente.<br>**E2 — Datos incompletos:** Dado que el usuario deja campos obligatorios vacíos, cuando intenta guardar, entonces el sistema no permite la operación. | EP-01 |
+| **US-13** | Consultar perfil de un técnico | Como empresario, quiero consultar el perfil de cada técnico para ver sus datos y métricas de rendimiento. | **E1 — Información completa:** Dado que el usuario empresario selecciona un técnico, cuando accede a su perfil, entonces puede visualizar sus datos y métricas de rendimiento.<br>**E2 — Sin evaluaciones:** Dado que el usuario consulta un técnico sin evaluaciones registradas, cuando accede a su perfil, entonces las métricas de rendimiento no son visibles. | EP-01 |
+| **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para garantizar su atención oportuna. | **E1 — Asignación:** Dado que el usuario empresario recibe una solicitud, cuando selecciona un técnico y confirma, entonces el técnico queda asignado al servicio.<br>**E2 — Notificación:** Dado que el usuario empresario confirma la asignación, cuando el sistema la procesa, entonces el técnico recibe una notificación con los detalles del servicio. | EP-03 |
+| **US-15** | Reporte de desempeño de técnicos | Como empresario, quiero generar reportes de desempeño de mis técnicos para evaluar su productividad y calidad de servicio. | **E1 — Generación:** Dado que el usuario empresario solicita un reporte de desempeño, cuando el sistema lo procesa, entonces genera un informe detallado.<br>**E2 — Descarga:** Dado que el usuario tiene un reporte generado, cuando desea descargarlo, entonces el sistema permite descargarlo en formato PDF. | EP-04 |
+| **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas de mantenimiento preventivo para asegurar la atención oportuna de los equipos. | **E1 — Configuración:** Dado que el usuario empresario ingresa los parámetros de la alerta, cuando los guarda, entonces la alerta se configura correctamente en el sistema.<br>**E2 — Actualización:** Dado que el usuario desea modificar una alerta existente, cuando realiza los cambios, entonces la alerta queda actualizada. | EP-05 |
+| **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes con sus servicios asociados para organizar y planificar el trabajo del equipo. | **E1 — Acceso:** Dado que el usuario empresario accede a la funcionalidad, cuando la consulta, entonces puede visualizar el listado de clientes y sus servicios asociados.<br>**E2 — Filtrado:** Dado que el usuario aplica un filtro por estado, cuando lo ejecuta, entonces la lista se actualiza con los resultados correspondientes. | EP-04 |
+| **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero visualizar los equipos entregados a cada cliente para darles seguimiento. | **E1 — Acceso:** Dado que el usuario empresario accede al listado de equipos, cuando lo consulta, entonces puede visualizarlos correctamente.<br>**E2 — Filtrado:** Dado que el usuario aplica filtros sobre el listado, cuando los ejecuta, entonces la lista muestra los resultados correspondientes. | EP-02 |
+| **US-19** | Notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes de mi servicio para estar informado de cualquier cambio o complicación. | **E1 — Problema reportado:** Dado que el técnico reporta una complicación durante el servicio, cuando el sistema la registra, entonces el cliente recibe una notificación que requiere su atención.<br>**E2 — Progreso:** Dado que el servicio del cliente cambia de estado, cuando ocurre el cambio, entonces el sistema envía una notificación al cliente. | EP-05 |
+| **US-20** | Visualizar la propuesta de valor | Como visitante, quiero conocer la propuesta de valor de la plataforma para evaluar si se ajusta a mis necesidades. | **E1 — Visible:** Dado que el visitante accede a la página principal, cuando la carga, entonces se presenta claramente la propuesta de valor.<br>**E2 — Orientada:** Dado que el visitante pertenece al sector, cuando navega la página, entonces encuentra conceptos de gestión inteligente relevantes para su negocio. | EP-06 |
+| **US-21** | Explorar soluciones por rubro | Como visitante, quiero explorar las soluciones que ofrece la plataforma según mi tipo de negocio para identificar si cubre mis necesidades operativas. | **E1 — Refrigeración:** Dado que el visitante explora las soluciones disponibles, cuando navega la sección, entonces encuentra descripciones específicas para negocios de refrigeración.<br>**E2 — Mantenimiento:** Dado que el visitante explora las soluciones disponibles, cuando navega la sección, entonces encuentra información relevante para empresas de mantenimiento. | EP-06 |
+| **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | **E1 — Acceso:** Dado que el visitante revisa las características de la plataforma, cuando las consulta, entonces identifica las opciones clave disponibles.<br>**E2 — Valor:** Dado que el visitante lee las descripciones de cada función, cuando las analiza, entonces comprende el beneficio que aporta cada una. | EP-06 |
+| **US-23** | Conocer misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y valores. | **E1 — Misión:** Dado que el visitante accede al contenido corporativo, cuando lo revisa, entonces encuentra una descripción clara de la misión de la empresa.<br>**E2 — Visión:** Dado que el visitante accede al contenido estratégico, cuando lo revisa, entonces encuentra la visión a futuro de la empresa. | EP-06 |
+| **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para obtener información y comenzar el proceso de contratación. | **E1 — Canal de contacto:** Dado que el visitante tiene interés en contactar, cuando busca la opción, entonces encuentra un canal de contacto claramente visible.<br>**E2 — Redirección:** Dado que el visitante selecciona la opción de contacto, cuando hace clic, entonces llega a un canal funcional como un formulario de contacto. | EP-06 |
+| **US-25** | Acceder a la plataforma web (CTA) | Como usuario registrado, quiero encontrar un acceso directo a la plataforma desde la página de inicio para ingresar de forma rápida sin buscar la URL. | **E1 — Visibilidad:** Dado que el usuario visita la página principal, cuando la carga, entonces encuentra una opción clara de acceso a la plataforma.<br>**E2 — Redirección:** Dado que el usuario selecciona la opción de acceso, cuando hace clic, entonces es redirigido a la página de inicio de sesión. | EP-06 |
+| **TS-01** | Alertas críticas vía API | Como desarrollador, quiero implementar un endpoint que exponga alertas críticas para activar notificaciones automáticas en el sistema. | **E1 — Éxito:** Dado que el sistema procesa una alerta crítica, cuando se ejecuta el endpoint, entonces se envía la notificación al usuario correspondiente.<br>**E2 — Deshabilitado:** Dado que el servicio de notificaciones está deshabilitado, cuando se intenta enviar, entonces no se envía la notificación y se registra en el historial. | EP-05 |
+| **TS-02** | Solicitudes de mantenimiento (API) | Como desarrollador, quiero implementar un endpoint para crear solicitudes de mantenimiento para permitir su registro desde el frontend y otros servicios. | **E1 — Éxito:** Dado que el sistema recibe un POST a `/api/v1/service-requests` con datos válidos, cuando procesa la solicitud, entonces responde con código 201 y la solicitud queda guardada.<br>**E2 — Datos incompletos:** Dado que el sistema recibe la solicitud con un campo obligatorio faltante, cuando la procesa, entonces responde con código 400 e indica "Invalid data". | EP-03 |
+| **TS-03** | Registro de intervenciones técnicas (API) | Como desarrollador, quiero implementar un endpoint para registrar intervenciones técnicas para almacenar el detalle de cada atención realizada. | **E1 — Éxito:** Dado que el sistema recibe un POST a `/api/v1/interventions` con datos válidos, cuando procesa la solicitud, entonces responde con código 201 y el registro queda almacenado.<br>**E2 — Técnico inexistente:** Dado que el sistema recibe la solicitud con un ID de técnico no existente, cuando la procesa, entonces responde con código 404 indicando "Technician not found". | EP-03 |
+| **TS-04** | Registro de usuarios (API RESTful) | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios para garantizar la validación de correo único y formato de contraseña desde el backend. | **E1 — Éxito:** Dado que el sistema recibe un POST a `/api/v1/users` con datos válidos, cuando procesa la solicitud, entonces responde con código 201 y el usuario queda registrado.<br>**E2 — Email duplicado:** Dado que el sistema recibe la solicitud con un correo ya registrado, cuando la procesa, entonces responde con código 400 indicando "Email already registered". | EP-01 |
+| **TS-05** | Consulta de estado de servicios (API) | Como desarrollador, quiero crear un endpoint para consultar el estado de solicitudes en tiempo real para que el cliente pueda ver el avance actualizado de su servicio. | **E1 — Éxito:** Dado que el sistema recibe un GET a `/api/v1/requests/{id}` con un ID válido, cuando procesa la solicitud, entonces responde con código 200 y el estado actual del servicio.<br>**E2 — No encontrado:** Dado que el sistema recibe la solicitud con un ID inexistente, cuando la procesa, entonces responde con código 404 indicando "Request not found". | EP-03 |
 
+## 3.3 Impact Mapping
 
+**Segmento 1 — Negocios con equipos de refrigeración**
 
+<div align="center">
+<img src="assets/chapter04/Impact1.png" alt="Impact Mapping - Segmento 1" style="max-width: 80%;">
+<p><em>Figura 1: Impact Mapping — Segmento 1.</em></p>
+</div>
 
-## 3.3. Impact Mapping.
-El equipo desarrolló un Impact Mapping en colaboración utilizando la herramienta UXPressia. Este mapa se creó para conectar los objetivos de negocio directamente con los requisitos funcionales de la plataforma.
+**Segmento 2 — Empresas de mantenimiento**
 
-<br>**Segmento 1 - Negocios con equipos de refrigeración**<br>
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/Impact1.png"
-       alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
-       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Impact Mapping.
-  </figcaption>
-</figure>
+<div align="center">
+<img src="assets/chapter04/Impact2.png" alt="Impact Mapping - Segmento 2" style="max-width: 80%;">
+<p><em>Figura 2: Impact Mapping — Segmento 2.</em></p>
+</div>
 
-<br>**Segmento 2 - Empresas de mantenimiento**<br>
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/Impact2.png"
-       alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
-       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 2:</strong> Impact Mapping.
-  </figcaption>
-</figure>
+## 3.4 Product Backlog
 
+Para la estimación de esfuerzo se usa la escala de Fibonacci (1, 2, 3, 5, 8) donde: **1** = tarea sencilla, **2** = complejidad moderada, **3** = mayor tiempo y esfuerzo, **5** = tarea compleja, **8** = alta complejidad con impacto en varias áreas.
 
+[Ver tablero en Trello](https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIc41d50b3166de3cd176b5b3c82be8c51F5BBF481/frigora-product-backlog)
 
-## 3.4. Product Backlog.
-Para el desarrollo de nuestra plataforma, hemos creado un Product Backlog que funciona como una lista completa de todas las funcionalidades, características e incluso tareas técnicas necesarias para avanzar en el proyecto.
+<div align="center">
+<img src="assets/chapter05/Product Backlog - Sprint1.png" alt="Product Backlog" style="max-width: 95%;">
+<p><em>Figura 1: Product Backlog.</em></p>
+</div>
 
-Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5, 8, 13, 21) para estimar el esfuerzo de cada tarea. Esta escala de Story Points nos ayuda a priorizar y planificar de la siguiente manera:<br>
+| Orden | ID | Título | Story Points | Epic |
+| :---: | :---: | :--- | :---: | :---: |
+| 1 | US-20 | Visualizar la propuesta de valor principal | 1 | EP-06 |
+| 2 | US-21 | Explorar soluciones específicas para mi rubro | 2 | EP-06 |
+| 3 | US-22 | Comprender las funcionalidades clave | 2 | EP-06 |
+| 4 | US-23 | Conocer la misión y visión | 1 | EP-06 |
+| 5 | US-24 | Contactar con el equipo de ventas | 3 | EP-06 |
+| 6 | US-25 | Acceder a la plataforma web (Call to Action) | 1 | EP-06 |
+| 7 | TS-04 | Registrar nuevo usuario a través de API RESTful | 3 | EP-01 |
+| 8 | US-01 | Registro de usuario | 3 | EP-01 |
+| 9 | US-02 | Inicio de sesión | 2 | EP-01 |
+| 10 | US-12 | Registrar y gestionar técnicos | 5 | EP-01 |
+| 11 | US-13 | Consultar el perfil de un técnico | 2 | EP-01 |
+| 12 | US-03 | Gestionar equipos de refrigeración | 5 | EP-02 |
+| 13 | US-18 | Visualizar equipos asignados a clientes | 3 | EP-02 |
+| 14 | TS-02 | Creación de solicitudes de mantenimiento (API) | 3 | EP-03 |
+| 15 | US-06 | Solicitar y gestionar servicios de mantenimiento | 5 | EP-03 |
+| 16 | TS-05 | Consulta de estado de servicios por API | 2 | EP-03 |
+| 17 | US-09 | Recepción de alertas sobre solicitudes de servicio | 3 | EP-05 |
+| 18 | US-14 | Asignar técnicos a servicios | 3 | EP-03 |
+| 19 | TS-03 | Registro de intervenciones técnicas por API RESTful | 3 | EP-03 |
+| 20 | US-07 | Dar seguimiento al progreso del servicio | 3 | EP-03 |
+| 21 | US-11 | Realizar seguimiento a solicitudes de servicio | 3 | EP-03 |
+| 22 | TS-01 | Gestión de alertas críticas vía API | 5 | EP-05 |
+| 23 | US-19 | Recibir notificaciones de eventos importantes | 5 | EP-05 |
+| 24 | US-04 | Recibir notificaciones de estado del equipo | 5 | EP-05 |
+| 25 | US-16 | Configurar alertas de mantenimiento | 5 | EP-05 |
+| 26 | US-08 | Ver reporte de servicio realizado | 3 | EP-04 |
+| 27 | US-10 | Ver historial de servicios | 3 | EP-04 |
+| 28 | US-17 | Visualizar clientes y servicios asociados | 3 | EP-04 |
+| 29 | US-05 | Analizar el consumo energético de equipos | 8 | EP-04 |
+| 30 | US-15 | Generar reporte de desempeño de técnicos | 8 | EP-04 |
 
-1: Tareas sencillas y rápidas.<br>
-2: Tareas de complejidad moderada.<br>
-3: Tareas que requieren más tiempo y esfuerzo.<br>
-5: Tareas complejas.<br>
-8: Tareas de alta complejidad que impactan varias áreas del proyecto.<br>
-
-<figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter05/Product%20Backlog%20-%20Sprint1.png"
-       alt="Diagrama de Product Backlog: Lista priorizada de funcionalidades y requisitos del producto."
-       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Product Backlog.
-  </figcaption>
-</figure>
-
-Link del Backlog en trello: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIc41d50b3166de3cd176b5b3c82be8c51F5BBF481/frigora-product-backlog
-
-
-| **Orden** | **ID** | **Título** | **Descripción** | **Story Points** | **Epic** |
-| :---: | :---: | :--- | :--- | :---: | :---: |
-| 1 | **US-20** | Visualizar la propuesta de valor principal | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades. | 1 | EP-06 |
-| 2 | **US-21** | Explorar soluciones específicas para mi rubro | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio. | 2 | EP-06 |
-| 3 | **US-22** | Comprender las funcionalidades clave | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación. | 2 | EP-06 |
-| 4 | **US-23** | Conocer la misión y visión | Como visitante, quiero conocer la misión y visión de la empresa para entender su enfoque y propuesta de valor. | 1 | EP-06 |
-| 5 | **US-24** | Contactar con el equipo de ventas | Como visitante empresario, quiero contactar fácilmente con el equipo de ventas para iniciar una posible relación comercial. | 3 | EP-06 |
-| 6 | **US-25** | Acceder a la plataforma web (Call to Action) | Como usuario registrado, quiero acceder fácilmente a la plataforma web desde la página de inicio. | 1 | EP-06 |
-| 7 | **TS-04** | Registrar nuevo usuario a través de API RESTful | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro. | 3 | EP-01 |
-| 8 | **US-01** | Registro de usuario | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos. | 3 | EP-01 |
-| 9 | **US-02** | Inicio de sesión | Como usuario, quiero acceder a mi cuenta en la plataforma para utilizar sus funcionalidades. | 2 | EP-01 |
-| 10 | **US-12** | Registrar y gestionar técnicos | Como empresario, quiero registrar técnicos en la plataforma para incluirlos en mi equipo de trabajo y gestionar sus perfiles. | 5 | EP-01 |
-| 11 | **US-13** | Consultar el perfil de un técnico | Como empresario, quiero ver el perfil de cada técnico, incluyendo sus datos y métricas de rendimiento. | 2 | EP-01 |
-| 12 | **US-03** | Gestionar equipos de refrigeración | Como cliente, quiero gestionar mis equipos de refrigeración en la plataforma para mantener un registro y control detallado de cada uno. | 5 | EP-02 |
-| 13 | **US-18** | Visualizar equipos asignados a clientes | Como empresario, quiero ver un listado de los equipos que han sido entregados a los clientes para darles un seguimiento. | 3 | EP-02 |
-| 14 | **TS-02** | Creación de solicitudes de mantenimiento (API) | Como desarrollador, quiero implementar una API que me permita crear solicitudes de mantenimiento para que los negocios reporten necesidades de soporte técnico. | 3 | EP-03 |
-| 15 | **US-06** | Solicitar y gestionar servicios de mantenimiento y reparación | Como cliente, quiero solicitar servicios de mantenimiento y reparación para mis equipos, y recibir confirmación. | 5 | EP-03 |
-| 16 | **TS-05** | Consulta de estado de servicios por API | Como desarrollador, mi objetivo es crear un endpoint para que clientes y empresarios puedan consultar el estado de una solicitud de servicio en tiempo real. | 2 | EP-03 |
-| 17 | **US-09** | Recepción de alertas sobre solicitudes de servicio | Como empresario, quiero recibir alertas automáticas cuando un cliente solicite un servicio de reparación o mantenimiento. | 3 | EP-05 |
-| 18 | **US-14** | Asignar técnicos a servicios | Como empresario, quiero asignar un técnico a una solicitud de servicio para asegurar que se realice el trabajo adecuadamente. | 3 | EP-03 |
-| 19 | **TS-03** | Registro de intervenciones técnicas por API RESTful | Como desarrollador, quiero registrar las intervenciones técnicas realizadas a través de la API para llevar un seguimiento detallado del mantenimiento. | 3 | EP-03 |
-| 20 | **US-07** | Dar seguimiento al progreso del servicio | Como cliente, quiero seguir el avance de mi servicio solicitado para saber en qué etapa se encuentra y cuándo estará completado. | 3 | EP-03 |
-| 21 | **US-11** | Realizar seguimiento a solicitudes de servicio | Como empresario, quiero realizar un seguimiento detallado a las solicitudes de servicio de mis técnicos, para saber cómo van. | 3 | EP-03 |
-| 22 | **TS-01** | Gestión de alertas críticas vía API | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario. | 5 | EP-05 |
-| 23 | **US-19** | Recibir notificaciones de eventos importantes | Como cliente, quiero recibir notificaciones sobre eventos importantes como el progreso del servicio. | 5 | EP-05 |
-| 24 | **US-04** | Recibir notificaciones de estado del equipo | Como cliente, quiero recibir notificaciones automáticas sobre el estado de mis equipos para tomar acciones rápidas. | 5 | EP-05 |
-| 25 | **US-16** | Configurar alertas de mantenimiento | Como empresario, quiero configurar alertas automáticas para el mantenimiento preventivo de los equipos. | 5 | EP-05 |
-| 26 | **US-08** | Ver reporte de servicio realizado | Como cliente, quiero ver el reporte de servicio detallado para saber qué reparaciones se hicieron en mi equipo. | 3 | EP-04 |
-| 27 | **US-10** | Ver historial de servicios | Como empresario, quiero ver el historial de servicios realizados para cada cliente y equipo, para llevar un control detallado. | 3 | EP-04 |
-| 28 | **US-17** | Visualizar clientes y servicios asociados | Como empresario, quiero ver un listado de clientes y los servicios que han solicitado para organizar el trabajo de los técnicos. | 3 | EP-04 |
-| 29 | **US-05** | Analizar el consumo energético de equipos | Como cliente, quiero ver y comparar el consumo energético de mis equipos para evaluar su eficiencia y tomar decisiones informadas. | 8 | EP-04 |
-| 30 | **US-15** | Generar reporte de desempeño de técnicos | Como empresario, quiero generar reportes sobre el desempeño de mis técnicos para evaluar su eficiencia y productividad. | 8 | EP-04 |
-
-
+---
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines
-En este apartado se detalla la evolución de las interfaces y los procedimientos de la aplicación Frigora. El diseño busca ser atractivo y fácil de usar, empleando colores llamativos y un diseño espacioso adaptado a cada dispositivo. Se ha priorizado una clasificación de herramientas por categorías específicas para no abrumar al usuario con exceso de información.
+## 4.1 Style Guidelines
 
-### 4.1.1. General Style Guidelines
+### 4.1.1 General Style Guidelines
 
-- Branding: Frigora es una aplicación para empresas dependientes de sistemas de refrigeración y mantenimientos del mismo, el objetivo es optimizar el proceso de supervisión y mantenimiento de los aparatos de refrigeración mediante tecnología iot. Asimismo la startup usara conceptos de buenas practicas de UX/UI, pruebas gratuitas para los usuarios y constante actualización para el buen funcionamiento de la aplicación.
+**Branding:** Frigora es una aplicación para empresas dependientes de sistemas de refrigeración. El objetivo es optimizar el proceso de supervisión y mantenimiento mediante tecnología IoT, aplicando buenas prácticas de UX/UI, pruebas gratuitas y actualizaciones continuas.
 
-- Typography:
-La tipografía seleccionada es Roboto Serif, por su claridad, legibilidad y llamativa, ideal para interfaces digitales enfocadas en datos técnicos. Para el cuerpo de texto, se utiliza Inter 14px con un interlineado de 1.5, garantizando una lectura fluida. Los tamaños se adaptan en contexto web según la jerarquía: títulos, subtítulos y párrafos.
-  
-- Colors:
-Los colores para la aplicación Frigora se decidieron tomando en cuenta el core de negocio, que es mantenimiento a aparatos electrónicos de refrigeración, por lo tanto se tomara variantes de color azul que combina con el tema central y un color blanco que ayuda a la limpieza visual del usuario.
+**Tipografía:** Se usa *Roboto Serif* por su claridad y legibilidad. Para el cuerpo de texto, *Inter 14px* con interlineado 1.5. Los tamaños se adaptan según jerarquía: títulos, subtítulos y párrafos.
 
-<img width="422" height="177" alt="image" src="https://github.com/user-attachments/assets/8bda3081-fc25-46c5-bb47-d8b573d370d2" />
-<img width="422" height="186" alt="image" src="https://github.com/user-attachments/assets/7eb1ac80-ee1b-4594-9415-606b6ce705e9" />
-<img width="422" height="175" alt="image" src="https://github.com/user-attachments/assets/8c9f3c2b-64ff-4b4a-830b-a1d4a168b17d" />
+**Colores:** Variantes de azul que conectan con el core de negocio (refrigeración/tecnología) y blanco para limpieza visual.
 
-- Spacing:
-El espaciado está diseñado para ofrecer una experiencia clara y ordenada, facilitando la lectura de datos técnicos y alertas:
-o	Entre secciones principales: mínimo 20px para marcar el cambio de contexto.
-o	Entre encabezados y párrafos: 16px para reforzar jerarquía visual.
-o	Entre párrafos consecutivos: 14px para mantener continuidad y evitar bloques densos.
-o	Espaciado de botones e inputs: mínimo 10px entre elementos para garantizar usabilidad.
+**Espaciado:**
+- Entre secciones principales: mínimo 20px
+- Entre encabezados y párrafos: 16px
+- Entre párrafos consecutivos: 14px
+- Botones e inputs: mínimo 10px entre elementos
 
-- Tono de comunicación:
-- 
-| Dimensión              | Nivel Adoptado    |
-| :--------------------- | :---------------- |
-| Divertido/Serio        | Medio-Serio       |
-| Formal/Casual          | Semi-Formal       |
-| Respetuoso/Irreverente | Muy Respetuoso    |
-| Entusiasta/Sereno      | Sereno y Empático |
+**Tono de comunicación:**
 
-Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan profesional.
+| Dimensión | Nivel Adoptado |
+| :--- | :--- |
+| Divertido / Serio | Medio-Serio |
+| Formal / Casual | Semi-Formal |
+| Respetuoso / Irreverente | Muy Respetuoso |
+| Entusiasta / Sereno | Sereno y Empático |
 
-- Lenguaje aplicado:
-  - Claro y directo, evitando tecnicismos complejos cuando no son necesarios.
-  - Orientado a la acción, con instrucciones breves y fáciles de seguir.
-  - Consistente en terminología técnica, garantizando coherencia en alertas, reportes y documentación.
+**Lenguaje:** Claro y directo, orientado a la acción, con terminología técnica consistente en alertas, reportes y documentación.
 
-### 4.1.2. Web Style Guidelines
+### 4.1.2 Web Style Guidelines
 
-#### **Diseño Responsive**
+**Diseño Responsive** — Breakpoints:
 
-Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se emplea CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
+| Dispositivo | Ancho mínimo | Ejemplo de uso |
+| :--- | :---: | :--- |
+| Mobile | ≥ 320px | Teléfonos |
+| Tablet | ≥ 768px | iPad / tablets |
+| Laptop | ≥ 1024px | Monitores y laptops |
+| Widescreen | ≥ 1440px | Pantallas grandes o TV |
 
-| Dispositivo | Ancho mínimo | Ejemplo de uso           |
-| :---------- | :----------- | :----------------------- |
-| Mobile      | ≥ 320px      | Teléfonos                |
-| Tablet      | ≥ 768px      | iPad / tablets genéricas |
-| Laptop      | ≥ 1024px     | Monitores y laptops      |
-| Widescreen  | ≥ 1440px     | Pantallas grandes o TV   |
+**Navegación:** Menú hamburguesa en dispositivos móviles; menú horizontal en pantallas mayores.
 
-#### **Navegación**
+**Imágenes:** Formatos JPEG y PNG con compresión optimizada para mantener calidad sin afectar el rendimiento.
 
-Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
+**Interacción:** Animaciones sutiles para mostrar imágenes y textos informativos según la interacción del usuario.
 
-#### **Imágenes**
+---
 
-Emplearemos los formatos de imagen JPEG y PNG para garantizar una calidad visual óptima. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
+## 4.2 Information Architecture
 
-#### **Interacción del Usuario**
+### 4.2.1 Organization Systems
 
-Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas.
+- **Jerárquica:** Dashboard principal — alertas críticas primero, luego indicadores de consumo y reportes históricos.
+- **Secuencial:** Flujos de registro de equipos, creación de solicitudes y configuración de alertas.
+- **Matricial:** Comparación de datos energéticos y desempeño de equipos.
 
+### 4.2.2 Labeling Systems
 
+**Principios:** Etiquetas de 1–3 palabras, descriptivas y directas; terminología consistente en toda la plataforma; lenguaje comprensible para empresarios y técnicos.
 
-## 4.2. Information Architecture
+| Área | Etiquetas principales |
+| :--- | :--- |
+| Navegación global | Inicio, Equipos, Servicios, Reportes, Alertas, Administración, Ayuda |
+| Landing Page | Bienvenido a Frigora, Soluciones, Funcionalidades, Casos de uso, Contáctanos |
+| Gestión de equipos | Añadir equipo, Control remoto, Ajustar temperatura, Historial |
+| Servicios | Solicitudes, Progreso, Confirmación, Historial |
+| Reportes | Consumo, Comparar, Descargar, Desempeño técnico |
+| Acciones | Crear cuenta, Iniciar sesión, Solicitar servicio, Ver reporte, Configurar alerta, Cerrar sesión |
 
-### 4.2.1. Organization Systems
- Se utilizaran diversos métodos para organizar la información según su relevancia, y su presentación visual se ha realizado de las siguientes maneras:
+### 4.2.3 SEO Tags and Meta Tags
 
+**Landing Page**
+- *Title:* Gestión inteligente de equipos de refrigeración
+- *Meta Description:* Optimiza la gestión de tu cadena de frío con monitoreo en tiempo real, alertas automáticas y mantenimiento predictivo.
+- *Keywords:* gestión de refrigeración, mantenimiento predictivo, monitoreo en tiempo real, cadena de frío, eficiencia energética
 
-- Organización Jerárquica: Se usara en el dashboard principal, donde se prioriza mostrar primero las alertas críticas, luego los indicadores de consumo energético, y en reportes históricos.
+**Web Application**
+- *Title:* Monitoreo y gestión de tus equipos de refrigeración
+- *Meta Description:* Supervisa el estado de tus equipos, recibe alertas inmediatas y gestiona servicios de mantenimiento desde una sola plataforma.
+- *Keywords:* monitoreo de refrigeración, gestión de equipos, alertas preventivas, mantenimiento en línea, reportes energéticos
 
-- Organización Secuencial: En los flujos de interacción, como el registro de equipos, creación de solicitudes de servicio o configuración de alertas de mantenimiento.
+### 4.2.4 Searching Systems
 
-- Organización Matricial: Para la comparación de datos energéticos y desempeño de equipos en los sistemas.
+**Opciones de búsqueda:** Barra de búsqueda con resultados instantáneos, filtros por tipo de equipo, estado, fecha de última revisión y rango de consumo energético. Los resultados muestran nombre del equipo, estado, próxima fecha de mantenimiento y consumo, con opción de ordenación por relevancia o estado.
 
-### 4.2.2. Labeling Systems
+### 4.2.5 Navigation Systems
 
-En Frigora, el sistema de etiquetado ha sido pensado para la claridad de los usuarios. Todas las etiquetas en la navegación, en los reportes o en la gestión de equipos, priorizan la simplicidad, la consistencia semántica y un lenguaje directo, profesional y fácil de comprender.
+**Páginas principales:** Inicio (dashboard), Funcionalidades, Beneficios, Nosotros, Contacto.
 
-Principios clave del sistema de etiquetado:
+---
 
-Las etiquetas evitarán tecnicismos innecesarios y ambigüedades. Se emplearán términos comunes que puedan ser entendidos tanto por empresarios como por técnicos.
+## 4.3 Landing Page UI Design
 
-Un mismo concepto siempre se representará con la misma palabra en todos los entornos.
+### 4.3.1 Landing Page Wireframe
 
-Las etiquetas se limitarán a 1–3 palabras, descriptivas y directas.
+El wireframe define la estructura de cada sección: Header con logo y navegación, Hero con la propuesta de valor, Beneficios, Sobre Nosotros, Testimonios, Contacto (formulario) y Footer.
 
-Las etiquetas más críticas tendrán un mayor peso visual en la jerarquía tipográfica definida en la guía de estilo.
+<div align="center">
+<img src="assets/chapter04/Wireframelandig1.png" alt="Landing Page Wireframe - Parte 1" style="max-width: 90%;">
+<img src="assets/chapter04/Wireframelandig2.png" alt="Landing Page Wireframe - Parte 2" style="max-width: 90%;">
+</div>
 
-Etiquetas principales por área:
-
-Navegación global: Inicio, Equipos, Servicios, Reportes, Alertas, Administración, Ayuda.
-
-
-Landing Page: Bienvenido a Frigora, Soluciones, Funcionalidades, Casos de uso, Contáctanos.
-
-
-Gestión de equipos: Añadir equipo, Control remoto, Ajustar temperatura, Historial.
-
-
-Servicios de mantenimiento: Solicitudes, Progreso, Confirmación, Historial.
-
-
-Reportes y métricas: Consumo, Comparar, Descargar, Desempeño técnico.
-
-Acciones del usuario:
-
-Crear cuenta, Iniciar sesión, Solicitar servicio, Ver reporte, Configurar alerta, Descargar PDF, Cerrar sesión.
-
-Asociaciones entre etiquetas:
-
-“Equipo crítico”, “Alerta preventiva”, “Reporte generado”.
-
-### 4.2.3. SEO Tags and Meta Tags
-- Landing Page
-  - Title: Gestión inteligente de equipos de refrigeración.
-  - Meta Description: Optimiza la gestión de tu cadena de frío con monitoreo en tiempo real, alertas automáticas y mantenimiento predictivo, protegiendo tu inventario y reduciendo pérdidas.
-  - Meta Keywords: gestión de refrigeración, mantenimiento predictivo, monitoreo en tiempo real, cadena de frío, eficiencia energética, equipos de refrigeración
-  - Meta Author: Frigora 
-
-- Web Application:
-  - Title: Monitoreo y gestión de tus equipos de refrigeración
-  - Meta Description: Supervisa el estado de tus equipos, recibe alertas inmediatas y gestiona servicios de mantenimiento desde una sola plataforma.
-  - Meta Keywords: monitoreo de refrigeración, gestión de equipos, alertas preventivas, mantenimiento en línea, reportes energéticos, técnicos de refrigeración
-  - Meta Author: Frigora 
-
-### 4.2.4. Searching Systems
-Las decisiones de búsqueda en Frigora están orientadas a garantizar que los usuarios —empresarios, técnicos y proveedores— encuentren rápidamente la información crítica de sus equipos y servicios, sin sentirse abrumados por grandes volúmenes de datos.
-
-- Opciones de Búsqueda
-  - Barra de búsqueda
-    - Permite ingresar términos específicos como nombre del equipo, tipo de servicio o estado del equipo.
-    - Los resultados se muestran de forma instantánea conforme el usuario escribe.
-  
-  - Categorías
-    - Congeladoras
-    - Refrigeradores
-    - Equipos de frío industrial
-    - Mantenimiento preventivo
-    - Alertas de fallas
-    - Historial de consumo
-  
-  - Etiquetas populares
-    - Mantenimiento programado
-    - Alerta crítica
-    - Servicio completado
-
-- Filtros disponibles
-  - Por tipo de equipo: Congeladoras o refrigeradores.
-  - Por estado del equipo: Activo, en reparación, necesita mantenimiento.
-  - Por fecha de última revisión: Últimos 7 días, últimos 30 días.
-  - Por consumo energético: Rango mínimo–máximo según eficiencia.
-
-- Apariencia de los datos después de la búsqueda
-  - Listados de resultados: Incluyen nombre del equipo, estado, próxima fecha de mantenimiento y consumo energético.
-  - Resumen y descripción: Cada resultado presenta un historial de mantenimiento o alertas recientes.
-  - Ordenación y filtros aplicados: El usuario puede ordenar por relevancia, estado del equipo, consumo energético. Los filtros activos se muestran claramente en la parte superior.
-  - Revisiones y comentarios: Cada resultado puede incluir reseñas o comentarios de técnicos/clientes sobre el desempeño y la calidad del servicio.
-
-### 4.2.5. Navigation Systems
-
-La estructura de navegación en Frigora está diseñada para ofrecer una experiencia de usuario fluida, asegurando acceso rápido a funcionalidades críticas y manteniendo coherencia visual con la identidad de la marca.
-Páginas principales 
-
-
-Inicio: Dashboard con estado general de equipos y alertas críticas.
-
-
-Funcionalidades: Descripción de herramientas clave como monitoreo en tiempo real, alertas automáticas y reportes.
-
-
-Beneficios: Explicación de ventajas competitivas (ahorro energético, reducción de pérdidas, eficiencia operativa).
-
-
-Nosotros: Información sobre la misión, visión y el equipo de Frigora.
-
-
-Contacto: Formulario de contacto y datos de soporte.
-
-
-## 4.3. Landing Page UI Design
-
-### 4.3.1. Landing Page Wireframe
-El wireframe del landing page de Frigora se diseñó para guiar la creación de una interfaz clara e intuitiva. Este esquema visual, enfocado en la usabilidad y el flujo de información, define la estructura de cada sección:
-
-**Header:** Contiene el logo de Frigora y una navegación simple que facilita el acceso a las diferentes secciones de la página.
-
-**Hero Section:** Muestra la propuesta de valor de forma impactante. Es la primera impresión del usuario y comunica de inmediato el valor principal de la solución.
-
-**Beneficios:** Detalla los puntos clave que los clientes ganarán al usar la aplicación, explicando cómo Frigora resuelve sus problemas específicos.
-
-**Sobre Nosotros:** Presenta la misión y visión de la empresa, construyendo confianza y conectando con el usuario a través de los valores de la marca.
-
-**Testimonios:** Incluye el feedback de clientes satisfechos, sirviendo como prueba social para validar la efectividad y calidad del servicio.
-
-**Contacto (Formulario):** Ofrece un formulario sencillo para que los usuarios puedan solicitar información o una demostración, facilitando la conversión.
-
-**Footer:** Contiene información legal, enlaces a redes sociales y datos de contacto, ofreciendo un cierre profesional y completo.
-
-El objetivo principal de este wireframe es asegurar que el diseño final sea lógico, atractivo y, sobre todo, que guíe al usuario hacia una acción clara, como registrarse o contactar a la empresa.
-
-
-
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/Wireframelandig1.png" />
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/Wireframelandig2.png" />
-
-### 4.3.2. Landing Page Mock-up
-
-Los mockups de la landing page de Frigora transforman la arquitectura esquemática del wireframe en una interfaz de alta fidelidad, donde la estética y la psicología del diseño convergen. En esta etapa, el enfoque trasciende la mera disposición de elementos para dar paso a una propuesta visual coherente, donde cada decisión cromática, tipográfica y gráfica está alineada con los valores de precisión y confiabilidad de la marca.
+### 4.3.2 Landing Page Mock-up
 
 **Inicio**
-Presenta la propuesta de valor principal con una imagen atractiva y un texto impactante, capturando la atención del visitante de inmediato.
-
-<img width="1124" height="554" alt="image" src="https://github.com/user-attachments/assets/75bbbb20-f061-4ea6-ac8c-ba1b5e70b7fa" />
-
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/75bbbb20-f061-4ea6-ac8c-ba1b5e70b7fa" alt="Mockup - Inicio" style="max-width: 90%;">
+</div>
 
 **Beneficios**
-Usa íconos personalizados y un diseño limpio para destacar las ventajas clave de la app, facilitando la lectura y comprensión.
-
-<img width="1126" height="498" alt="image" src="https://github.com/user-attachments/assets/d93291ed-4b81-4a8d-a38a-8e83ba530120" />
-
-
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d93291ed-4b81-4a8d-a38a-8e83ba530120" alt="Mockup - Beneficios" style="max-width: 90%;">
+</div>
 
 **Sobre Nosotros**
-Comunica la misión y visión de la empresa con un estilo visual que inspira confianza y conecta con los valores del usuario.
-
-<img width="1125" height="535" alt="image" src="https://github.com/user-attachments/assets/d6735def-48f6-4bed-b896-3fe6843a318a" />
-
-
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d6735def-48f6-4bed-b896-3fe6843a318a" alt="Mockup - Sobre Nosotros" style="max-width: 90%;">
+</div>
 
 **Testimonios**
-Incluye citas de clientes reales, proporcionando prueba social para validar la calidad del servicio.
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f1846c94-0bcf-4d50-9c08-148693d3cc2f" alt="Mockup - Testimonios" style="max-width: 90%;">
+</div>
 
-<img width="1127" height="535" alt="image" src="https://github.com/user-attachments/assets/f1846c94-0bcf-4d50-9c08-148693d3cc2f" />
-
+**Contacto**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/585897a3-2efb-4703-9a18-f39c8c98f0dd" alt="Mockup - Contacto" style="max-width: 90%;">
+</div>
 
 ---
 
-**Contacto**
-Ofrece un formulario simple y directo con campos bien organizados para que los interesados puedan solicitar información fácilmente.
+## 4.4 Web Applications UX/UI Design
+
+### 4.4.1 Web Applications Wireframes
+
+**Login**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f8eba668-5b29-4317-92bd-d07570c62406" alt="Wireframe - Login" style="max-width: 85%;">
+</div>
+
+**Register**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/638e27ee-ab38-4c2a-b0cb-565c98138df8" alt="Wireframe - Register" style="max-width: 85%;">
+</div>
+
+**Dashboard**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4add6717-b7ce-44db-ba1a-60bddde802f5" alt="Wireframe - Dashboard" style="max-width: 85%;">
+</div>
 
-<img width="1124" height="547" alt="image" src="https://github.com/user-attachments/assets/585897a3-2efb-4703-9a18-f39c8c98f0dd" />
+**Sitios y Equipos**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f17af867-75d0-4660-95c3-9a97eac66073" alt="Wireframe - Sitios y Equipos" style="max-width: 85%;">
+</div>
 
+**Detalle de Equipos**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/fa74beef-af78-462f-87a9-a087be9657c1" alt="Wireframe - Detalle de Equipos" style="max-width: 85%;">
+</div>
 
-## 4.4. Web Applications UX/UI Design
+**Alertas**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6dd4799b-df2d-46cb-b0c6-a48e536ef4ba" alt="Wireframe - Alertas" style="max-width: 85%;">
+</div>
 
-### 4.4.1. Web Applications Wireframes
-Los wireframes de la plataforma integran una arquitectura de información estratégica que prioriza la usabilidad y la jerarquía visual mediante el uso de espacios en blanco (whitespace) para evitar la saturación y formas (shapes) que delimitan bloques lógicos de contenido. Basado en principios de diseño inclusivo, el sistema garantiza la accesibilidad a través de iconos descriptivos y un lenguaje directo, asegurando que los procesos de registro e ingreso sean intuitivos, minimicen la carga cognitiva y ofrezcan una experiencia de usuario fluida y profesional desde el primer contacto.
+**Órdenes**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/416899ae-b828-4542-9130-dea0a0bc9535" alt="Wireframe - Órdenes" style="max-width: 85%;">
+</div>
 
-## Login
+**Reportes**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e6e5b72f-bd00-4726-b76d-3cf081dbfd58" alt="Wireframe - Reportes" style="max-width: 85%;">
+</div>
 
-<img width="940" height="668" alt="image" src="https://github.com/user-attachments/assets/f8eba668-5b29-4317-92bd-d07570c62406" />
+**Administración**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/269d62b2-093a-4afe-bc41-87ac98364dc5" alt="Wireframe - Administración" style="max-width: 85%;">
+</div>
 
-## Register
+### 4.4.2 Web Applications Wireflow Diagrams
 
-<img width="933" height="662" alt="image" src="https://github.com/user-attachments/assets/638e27ee-ab38-4c2a-b0cb-565c98138df8" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b8557b3c-47e5-4edd-9764-331ab5674a4b" alt="Wireflow Diagram" style="max-width: 95%;">
+</div>
 
-## Dashboard
+### 4.4.3 Web Applications Mock-ups
 
-<img width="818" height="581" alt="image" src="https://github.com/user-attachments/assets/4add6717-b7ce-44db-ba1a-60bddde802f5" />
+**Login**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8de5c432-6eb8-4df9-b261-7ce80cc77db1" alt="Mockup - Login" style="max-width: 90%;">
+</div>
 
-## Sitios y Equipos
+**Register**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/80abd5c1-c90a-4b35-9882-868495678a23" alt="Mockup - Register" style="max-width: 90%;">
+</div>
 
-<img width="914" height="644" alt="image" src="https://github.com/user-attachments/assets/f17af867-75d0-4660-95c3-9a97eac66073" />
+**Dashboard**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b3a42712-8580-4887-bfcb-36213852cb8b" alt="Mockup - Dashboard" style="max-width: 90%;">
+</div>
 
+**Sitios y Equipos**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8d014062-4521-41d8-93d6-18b7df16c8e4" alt="Mockup - Sitios y Equipos" style="max-width: 90%;">
+</div>
 
-## Detalle de Equipos
+**Detalle de Equipos**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2bfb1b77-2225-4266-9392-bfe2b8f67803" alt="Mockup - Detalle de Equipos" style="max-width: 90%;">
+</div>
 
-<img width="788" height="562" alt="image" src="https://github.com/user-attachments/assets/fa74beef-af78-462f-87a9-a087be9657c1" />
+**Alertas**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/fdb90bda-b9f1-434c-bf08-98a8f1da0903" alt="Mockup - Alertas" style="max-width: 90%;">
+</div>
 
+**Órdenes**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4bda5c9b-8a1b-4bee-bad3-8a9db3b1c7a4" alt="Mockup - Órdenes" style="max-width: 90%;">
+</div>
 
-## Alertas
+**Reportes**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3ded40c0-93de-407d-8b8e-de7db880d80a" alt="Mockup - Reportes" style="max-width: 90%;">
+</div>
 
-<img width="666" height="472" alt="image" src="https://github.com/user-attachments/assets/6dd4799b-df2d-46cb-b0c6-a48e536ef4ba" />
+**Administración**
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9f813615-b974-4ee9-8584-ef3f3347fc6b" alt="Mockup - Administración" style="max-width: 90%;">
+</div>
 
+### 4.4.4 Web Applications User Flow Diagrams
 
-## Ordenes
+<div align="center">
+<img src="https://github.com/user-attachments/assets/eaa2feb0-4592-4554-921d-f47f8df9d228" alt="User Flow Diagram" style="max-width: 95%;">
+</div>
 
-<img width="662" height="478" alt="image" src="https://github.com/user-attachments/assets/416899ae-b828-4542-9130-dea0a0bc9535" />
+## 4.5 Web Applications Prototyping
 
+La sección de prototipado muestra un modelo interactivo y funcional que permite simular el flujo de usuario, la navegación y las interacciones principales, validando que el diseño sea intuitivo antes del desarrollo final.
 
-## Reportes
+**Repositorio:** https://github.com/ColdTech-Peru/Report
 
-<img width="664" height="474" alt="image" src="https://github.com/user-attachments/assets/e6e5b72f-bd00-4726-b76d-3cf081dbfd58" />
+## 4.6 Domain-Driven Software Architecture
 
+### 4.6.1 Design-Level EventStorming
 
-## Administracion
+**Segmento 1**
+<div align="center">
+<img src="assets/chapter04/even1.png" alt="Event Storming - Segmento 1" style="max-width: 90%;">
+</div>
 
-<img width="770" height="542" alt="image" src="https://github.com/user-attachments/assets/269d62b2-093a-4afe-bc41-87ac98364dc5" />
+**Segmento 2**
+<div align="center">
+<img src="assets/chapter04/even2.png" alt="Event Storming - Segmento 2" style="max-width: 90%;">
+</div>
 
+[Ver en Miro](https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2clFSQUMyL0lwUGZZL0swRHNJSTBsYkVsTGV5S1Z3am5STkRiMlZ3YWVoRnN5M2svUUFlRm1kYjQ1SXZOeitBdHBNWnorSFlKY2VwWUlLMVIxZ3VPVm5oakdmd0hKT0FQWmtzVXVvMm53MW9OWFg1bkJoVXZxdFhRPT0hdjE=?share_link_id=723339078935)
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### 4.6.2 Software Architecture Context Diagram
 
+<div align="center">
+<img src="assets/chapter04/FrigoraContextDiagram.png" alt="Context Diagram" style="max-width: 90%;">
+<p><em>Figura 1: Context Diagram.</em></p>
+</div>
 
-El presente Wireflow representa la arquitectura de navegación y la lógica de interacción de la plataforma. Este diagrama combina la estructura de las pantallas con el flujo de decisiones del usuario, permitiendo visualizar el recorrido completo desde el acceso inicial hasta la gestión operativa de activos, el monitoreo de alertas y la ejecución de órdenes de trabajo. Su objetivo es garantizar una navegación intuitiva y una distribución de información eficiente, asegurando que los procesos críticos de supervisión térmica sean fluidos y lógicos.
+### 4.6.3 Software Architecture Container Diagrams
 
-<img width="1599" height="561" alt="image" src="https://github.com/user-attachments/assets/b8557b3c-47e5-4edd-9764-331ab5674a4b" />
+<div align="center">
+<img src="assets/chapter04/FrigoraContainerDiagram.png" alt="Container Diagram" style="max-width: 90%;">
+<p><em>Figura 2: Container Diagrams.</em></p>
+</div>
 
-### 4.4.3. Web Applications Mock-ups
+### 4.6.4 Software Architecture Components Diagrams
 
-## Login
+<div align="center">
+<img src="assets/chapter04/ApiRestComponentDiagram.png" alt="API REST Component Diagram" style="max-width: 90%;">
+<p><em>Figura 3: API REST Component Diagrams.</em></p>
 
-<img width="1165" height="723" alt="image" src="https://github.com/user-attachments/assets/8de5c432-6eb8-4df9-b261-7ce80cc77db1" />
+<img src="assets/chapter04/AssetsManagementComponentDiagram.png" alt="Assets Management Component Diagram" style="max-width: 90%;">
+<p><em>Figura 4: Assets Management BC Component Diagrams.</em></p>
 
+<img src="assets/chapter04/DashboardComponentDiagram.png" alt="Dashboard Component Diagram" style="max-width: 90%;">
+<p><em>Figura 5: Dashboard BC Component Diagrams.</em></p>
 
-## Register
+<img src="assets/chapter04/MonitoringComponentDiagram.png" alt="Monitoring Component Diagram" style="max-width: 90%;">
+<p><em>Figura 6: Monitoring BC Component Diagrams.</em></p>
 
-<img width="1170" height="730" alt="image" src="https://github.com/user-attachments/assets/80abd5c1-c90a-4b35-9882-868495678a23" />
+<img src="assets/chapter04/ReportingComponentDiagram.png" alt="Reporting Component Diagram" style="max-width: 90%;">
+<p><em>Figura 7: Reporting BC Component Diagrams.</em></p>
 
-## Dashboard
+<img src="assets/chapter04/ServicesComponentDiagram.png" alt="Services Component Diagram" style="max-width: 90%;">
+<p><em>Figura 8: Services BC Component Diagrams.</em></p>
 
-<img width="1171" height="720" alt="image" src="https://github.com/user-attachments/assets/b3a42712-8580-4887-bfcb-36213852cb8b" />
+<img src="assets/chapter04/TechniciansComponentDiagram.png" alt="Technicians Component Diagram" style="max-width: 90%;">
+<p><em>Figura 9: Technicians BC Component Diagrams.</em></p>
+</div>
 
-## Sitios y Equipos
+## 4.7 Software Object-Oriented Design
 
-<img width="1175" height="727" alt="image" src="https://github.com/user-attachments/assets/8d014062-4521-41d8-93d6-18b7df16c8e4" />
+### 4.7.1 Class Diagrams
 
+<div align="center">
+<img src="assets/chapter04/frigora-class-diagram.png" alt="Class Diagram" style="max-width: 95%;">
+<p><em>Figura 1: Class Diagram.</em></p>
+</div>
 
-## Detalle de Equipos
+## 4.8 Database Design
 
-<img width="1172" height="722" alt="image" src="https://github.com/user-attachments/assets/2bfb1b77-2225-4266-9392-bfe2b8f67803" />
+### 4.8.1 Database Diagrams
 
+El diagrama ER representa las entidades principales del sistema Frigora, sus atributos y las relaciones entre usuarios, técnicos, negocios, equipos, métricas, alertas y órdenes.
 
-## Alertas
+<div align="center">
+<img src="assets/chapter04/databasediagram.png" alt="Database Diagram" style="max-width: 95%;">
+<p><em>Figura 1: Database Diagram.</em></p>
+</div>
 
-<img width="1165" height="727" alt="image" src="https://github.com/user-attachments/assets/fdb90bda-b9f1-434c-bf08-98a8f1da0903" />
-
-
-## Ordenes
-
-<img width="1086" height="794" alt="image" src="https://github.com/user-attachments/assets/4bda5c9b-8a1b-4bee-bad3-8a9db3b1c7a4" />
-
-
-## Reportes
-
-<img width="1082" height="675" alt="image" src="https://github.com/user-attachments/assets/3ded40c0-93de-407d-8b8e-de7db880d80a" />
-
-
-## Administracion
-
-<img width="1081" height="674" alt="image" src="https://github.com/user-attachments/assets/9f813615-b974-4ee9-8584-ef3f3347fc6b" />
-
-
-### 4.4.4. Web Applications User Flow Diagrams
-
-<img width="1510" height="829" alt="image" src="https://github.com/user-attachments/assets/eaa2feb0-4592-4554-921d-f47f8df9d228" />
-
-
-## 4.5. Web Applications Prototyping
-
-La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación Frigora antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
-
-URL: https://github.com/ColdTech-Peru/Report
-
-## 4.6. Domain-Driven Software Architecture
-### 4.6.1. Design-Level EventStorming
-
-Segmento 1
-
-<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/even1.png" />
-
-
-Segmento 2
-
-<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/even2.png" />
-
-link del trello: https://miro.com/welcomeonboard/QlBWbmlOR2twVG5zbldnNXk2TDBXMUV1bmxRbGN2clFSQUMyL0lwUGZZL0swRHNJSTBsYkVsTGV5S1Z3am5STkRiMlZ3YWVoRnN5M2svUUFlRm1kYjQ1SXZOeitBdHBNWnorSFlKY2VwWUlLMVIxZ3VPVm5oakdmd0hKT0FQWmtzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=723339078935
-
-### 4.6.2. Software Architecture Context Diagram
-<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter04/FrigoraContextDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Context Diagram.
-  </figcaption>
-
-### 4.6.3. Software Architecture Container Diagrams
-<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="assets/chapter04/FrigoraContainerDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 2:</strong> Container Diagrams.
-  </figcaption>
-
-### 4.6.4. Software Architecture Components Diagrams
-<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ApiRestComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 3:</strong> API REST Component Diagrams.
-  </figcaption>
-
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/AssetsManagementComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 4:</strong> Assets Management BC Component Diagrams.
-  </figcaption>
-
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/DashboardComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 5:</strong> Dashboard BC Component Diagrams.
-  </figcaption>
-
-   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/MonitoringComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 6:</strong> Monitoring BC Component Diagrams.
-  </figcaption>
-
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ReportingComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 7:</strong> Reporting BC Component Diagrams.
-  </figcaption>
-
-   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/ServicesComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 8:</strong> Services BC Component Diagrams.
-  </figcaption>
-
-  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter04/TechniciansComponentDiagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 9:</strong> Technicians BC Component Diagrams.
-  </figcaption>
-
-## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter04/frigora-class-diagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Class Diagram.
-  </figcaption>
-
-## 4.8. Database Design
-### 4.8.1. Database Diagrams
-
-Descripción: El diagrama ER representa las entidades principales del sistema Frigora, sus atributos y las relaciones entre usuarios, técnicos, negocios, equipos, métricas, alertas y órdenes.
-
-<img width="1820" height="947" alt="base de datos diseño" src="assets/chapter04/databasediagram.png" />
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Database Diagram.
-  </figcaption>
+---
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1. Software Configuration Management
+## 5.1 Software Configuration Management
 
-### 5.1.1. Software Development Environment Configuration
+### 5.1.1 Software Development Environment Configuration
 
 **Project Management**
 
-Para la administración del proyecto, se utilizaron varias herramientas para la comunicación, la planificación y el control de versiones.
-
-| Plataforma                   | Descripción                                                                                                                                                                                             | Enlace               |
-| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
-| Trello                       | Esta plataforma de gestión de proyectos ofrece el seguimiento detallado del progreso de cada tarea, además de permitir la designación de responsables para cada actividad dentro del equipo de trabajo. | https://trello.com   |
-| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                       | https://discord.com/ |
-| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                   | https://github.com   |
+| Plataforma | Descripción | Enlace |
+| :--- | :--- | :--- |
+| Trello | Seguimiento detallado del progreso de tareas y designación de responsables. | https://trello.com |
+| Discord / WhatsApp | Comunicación interna del equipo para reuniones y mensajes rápidos. | https://discord.com |
+| GitHub | Organización centralizada del código fuente y control de versiones. | https://github.com |
 
 **Requirement Management**
 
-En la fase inicial, se emplearon herramientas para la recolección y organización de los requisitos del proyecto, lo que aseguró una base sólida para el desarrollo.
+| Plataforma | Descripción | Enlace |
+| :--- | :--- | :--- |
+| UXPressia | Creación y validación de wireframes, mockups y prototipos interactivos. | https://uxpressia.com |
+| Miro | Visualización y desarrollo de escenarios As-Is y To-Be. | https://miro.com |
 
-| Plataforma | Descripción                                                                                                                                                                                                     | Enlace                 |
-| :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
-| UXPressia  | Fue la herramienta principal para el diseño. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://uxpressia.com/ |
-| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                    | https://miro.com/es/   |
+**Product UX/UI Design**
 
-**Product UX/UI Desing**
-
-Para el diseño de la experiencia y la interfaz de usuario, se usó una plataforma colaborativa que simplificó el flujo de trabajo.
-
-| Plataforma | Descripción        																																															  |						  |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- |
-| Figma      | Fue la herramienta principal para el diseño. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo. | https://www.figma.com |
+| Plataforma | Descripción | Enlace |
+| :--- | :--- | :--- |
+| Figma | Herramienta principal para diseño colaborativo de wireframes, mockups y prototipos. | https://www.figma.com |
 
 **Software Development**
 
-El desarrollo se realizó utilizando un conjunto de lenguajes y entornos de programación que garantizan la estructura, el estilo y la interactividad del producto.
-
-| Plataforma          | Descripción                                                                                                                                    | Link                                       |
-|---------------------| :--------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | https://www.w3schools.com/html/default.asp |
-| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | https://www.w3schools.com/css/default.asp  |
-| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | https://www.w3schools.com/js/default.asp   |
-| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | https://code.visualstudio.com              |
-| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | https://www.jetbrains.com/toolbox-app/     |
+| Tecnología | Descripción | Enlace |
+| :--- | :--- | :--- |
+| HTML | Define la estructura y contenido de la página web. | https://www.w3schools.com/html |
+| CSS | Gestiona la presentación visual y el estilo. | https://www.w3schools.com/css |
+| JavaScript | Añade interactividad y dinamismo. | https://www.w3schools.com/js |
+| Visual Studio Code | IDE para escritura, edición y depuración de código. | https://code.visualstudio.com |
+| JetBrains ToolBox | Gestión de IDEs: IntelliJ IDEA, WebStorm, Rider. | https://www.jetbrains.com/toolbox-app |
 
 **Software Documentation**
 
-La documentación y la publicación del proyecto se manejaron con herramientas que optimizan la colaboración y el despliegue final.
+| Plataforma | Descripción |
+| :--- | :--- |
+| GitHub | Gestión de la documentación en repositorios y organizaciones. |
+| Markdown | Formato base para la presentación y documentación del proyecto. |
 
-| Plataforma | Descripción                                             | Link                                                              |
-|------------|---------------------------------------------------------|-------------------------------------------------------------------|
-| GitHub     | Gestión de la documentación en función a repositorios y organizaciones | `https://github.com`          |
-| Markdown   | Formato base para la presentación y documentación del proyecto | `https://markdown.es/  `                   |
+### 5.1.2 Source Code Management
 
-Se utilizó la estrategia GitHub Flow para la colaboración y el control de versiones, usando ramas específicas para cada funcionalidad. Esto mantuvo el proyecto organizado. También sirvió como repositorio central para toda la documentación.
-Para el despliegue de la Landing Page se utilizó GitHub Pages, una herramienta perfecta para publicar sitios web estáticos.
+Se utiliza la estrategia **GitHub Flow** con las siguientes ramas principales:
 
-<br>
+- **`main`:** Código de producción (CSS, imágenes, JavaScript e `index.html`). Siempre estable y listo para despliegue.
+- **`gh-pages`:** Rama de despliegue automático en GitHub Pages.
 
-### 5.1.2. Source Code Management
+**Convenciones de nomenclatura:**
 
-Definir convenciones de nomenclatura para ramas en Git es crucial para mantener un flujo de trabajo organizado y mejorar la colaboración. Al seguir modelos como Git Flow, se puede crear una estructura clara que hace más predecible la gestión del proyecto.
+| Tipo | Prefijo | Formato | Ejemplo |
+| :--- | :--- | :--- | :--- |
+| Característica | `feature/` | `feature/nombre-descriptivo` | `feature/login-ui` |
+| Lanzamiento | `release/` | `release/x.y.z` | `release/1.0.0` |
+| Corrección urgente | `hotfix/` | `hotfix/x.y.z-descripcion` | `hotfix/1.0.1-fix-login` |
 
----
+**Repositorios:**
+- Organización: https://github.com/ColdTech-Peru
+- Landing Page: https://github.com/ColdTech-Peru/Landing-Page
+- Informe: https://github.com/ColdTech-Peru/Report
 
-### **Beneficios de la Nomenclatura Predictiva**
+### 5.1.3 Source Code Style Guide & Conventions
 
-Un esquema de nombres consistente ofrece múltiples ventajas:
+**Nomenclatura:**
+- Variables y funciones JS: `camelCase` (ej. `myVariable`, `initializeVideos()`)
+- Constantes JS: `SNAKE_CASE` (ej. `VIDEO_CONFIG`)
+- Archivos: minúsculas con guiones (ej. `index.html`, `style.css`)
 
-- **Automatización de procesos (CI/CD)**: Facilita la configuración de flujos de trabajo de integración y despliegue continuos.
-- **Identificación de propósito**: Permite a los desarrolladores identificar rápidamente el objetivo y el alcance de cada rama.
+**HTML — Etiquetas utilizadas:** `<!DOCTYPE html>`, `<html>`, `<head>`, `<meta>`, `<title>`, `<link>`, `<body>`, `<header>`, `<nav>`, `<section>`, `<footer>`, y etiquetas semánticas complementarias (`<h1>`–`<h5>`, `<p>`, `<div>`, `<ul>`, `<li>`, `<a>`, `<img>`, `<button>`, `<script>`).
 
----
+**CSS — Propiedades clave:** `width`, `height`, `padding`, `font-family`, `font-size`, `font-weight`, `font-style`, `text-align`, `color`, `background-color`.
 
-### **Estrategia de Ramificación (Git Flow)**
+### 5.1.4 Software Deployment Configuration
 
-En nuestro proyecto, aplicamos un modelo simplificado de Git Flow con las siguientes ramas principales:
+Para publicar en **GitHub Pages**:
 
-* **Rama `main`**: Contiene el **código de producción**, incluyendo archivos CSS, imágenes, JavaScript y el `index.html`. Esta rama se mantiene siempre en un estado **estable y listo para ser desplegado**.
-* **Rama `gh-pages`**: Esta rama se usa para **desplegar el proyecto en GitHub Pages**, lo que permite una visualización en tiempo real del sitio web.
-
-Además de estas, gestionamos el progreso del desarrollo en un repositorio separado, donde organizamos las tareas en epics y usamos archivos `.feature` para definir los **criterios de aceptación** de cada funcionalidad.
-
----
-
-### **Flujo de Trabajo y Herramientas**
-
-Elegimos **GitHub** como nuestra plataforma de colaboración principal. Esto nos ayuda a **dar seguimiento al progreso** del equipo, **gestionar los cambios** y **visualizar las actualizaciones** del proyecto. Una de las ventajas es que las actualizaciones en el código se reflejan automáticamente en la rama `gh-pages`, lo que permite a los interesados ver los avances en tiempo real.
-
----
-
-### **Convenciones de Nomenclatura**
-
-A continuación, se detallan las convenciones de nomenclatura para diferentes tipos de ramas que usamos en nuestro proyecto:
-
-1. **Master branch (Rama principal):** Es la rama principal del proyecto, donde se almacena el código estable y listo para producción. Solo se integrarán cambios que hayan sido probados y validados previamente en las ramas de desarrollo y funcionalidad.
-
-2. **Develop Branch (Rama de Desarrollo):** Esta rama actúa como un espacio de integración para el trabajo en equipo, permitiendo pruebas y ajustes de las nuevas funcionalidades antes de fusionarlas con la rama principal. Garantiza que el código sea funcional y estable.
-
-3. **Feature branch (Ramas de funcionalidad):** Cada nueva funcionalidad o tarea específica se desarrollará en su propia rama. Una vez completada y probada, se integrará en la rama de desarrollo. Las ramas de funcionalidad seguirán un esquema de nombres descriptivos.
-
-✔ **Ramas de característica (`feature`)**
-- Prefijo: `feature/`
-- Formato: `feature/nombre-corto-descriptivo`
-- Ejemplos: `feature/login-ui`, `feature/pdf-export`, `feature/api-integration-usuarios`
-
-✔ **Ramas de lanzamiento (`release`)**
-- Prefijo: `release/`
-- Formato: `release/x.y.z (donde x, y, z representan el número mayor, menor y de parche)`
-- Ejemplos: `release/1.0.0`, `release/2.1.0`
-
-✔ **Ramas de corrección urgente (`hotfix`)**
-- Prefijo: `hotfix/`
-- Formato: `hotfix/x.y.z-nombre-corto`
-- Ejemplos: `hotfix/1.0.1-fix-login-error`, `hotfix/2.3.2-bug-carrito`
+1. Organizar archivos en la carpeta raíz (`index.html`, `styles.css`, `index.js`, imágenes en `assets/images/`).
+2. Subir archivos al repositorio mediante commit.
+3. Ir a **Settings → Pages**, seleccionar rama `main` y carpeta raíz `/root`.
+4. GitHub Pages realiza el despliegue automático y genera una URL pública.
 
 ---
 
-**Repositorio de Github:**
-- Enlace para acceder a la organizacion en Github: https://github.com/ColdTech-Peru
-- Enlace para acceder al repositorio de la Landing Page: https://github.com/ColdTech-Peru/Landing-Page
-- Enlace para acceder al repositorio del Informe: https://github.com/ColdTech-Peru/Report
+## 5.2 Landing Page, Services & Applications Implementation
 
----
+### 5.2.1 Sprint 1
 
-### 5.1.3. Source Code Style Guide & Conventions
+#### 5.2.1.1 Sprint Planning 1
 
-Para asegurar la calidad, mantenibilidad y coherencia de nuestra solución, hemos definido un conjunto de convenciones y buenas prácticas. Dado que el proyecto inicial es una landing page, nos centramos en los estándares para HTML, CSS y JavaScript, los pilares de nuestro desarrollo.
+| Campo | Detalle |
+| :--- | :--- |
+| **Fecha** | 2026-04-23 |
+| **Hora** | 1:00 PM |
+| **Lugar** | Presencial — UPC, sede San Miguel |
+| **Preparado por** | Alejandro Galindo |
+| **Asistentes** | Alejandro Galindo, Walter Fajardo, Leonardo Cumba, Joaquin Cuentas, Gabriel Perez |
+| **Sprint 1 Goal** | Desarrollar la landing page garantizando adaptabilidad a distintos dispositivos, coherencia visual y soporte multilenguaje. El objetivo se valida cuando el usuario puede cambiar idioma fácilmente, navegar sin errores y verificar que los elementos gráficos y textuales estén correctamente alineados. |
+| **Sprint 1 Velocity** | 15 |
+| **Sum of Story Points** | 15 |
 
-**Convenciones de Nomenclatura**
+**Review Summary:** Se avanzó en la definición inicial de la plataforma y se establecieron lineamientos clave para el desarrollo de la landing page.
 
-Para mantener la consistencia y la claridad, seguimos las siguientes convenciones:
+**Retrospective Summary:** El equipo compartió ideas sobre el rubro, segmentos objetivo, beneficios y funcionalidades principales. Las tareas se organizaron eficientemente con avances visibles en el informe y la landing page.
 
-**Variables y Funciones en JavaScript:** Se utiliza la convención camelCase (ej. myVariable, initializeVideos()). Los nombres deben ser descriptivos.
+#### 5.2.1.2 Aspect Leaders and Collaborators
 
-**Constantes en JavaScript:** Se utilizan letras mayúsculas y guiones bajos para separar las palabras (SNAKE_CASE) para valores que no cambian (ej. VIDEO_CONFIG).
+| Team Member | GitHub Username | Diseño visual y maquetación | Responsividad y pruebas | Implementación multilenguaje |
+| :--- | :--- | :---: | :---: | :---: |
+| Galindo Montero, Alejandro Manuel | AlejandroG12970 | C | L | L |
+| Fajardo, Walter | walterfajardo | L | C | C |
+| Cumba, Leonardo | LeonardoC72 | C | C | L |
+| Cuentas, Joaquin | joaCUPE | C | L | C |
+| Perez, Gabriel | Gabyoko | C | C | C |
 
-**Archivos:** Los nombres de archivos se escriben en minúsculas y se separan con guiones (ej. index.html, style.css, languages.js).
+*L = Leader, C = Collaborator*
 
-**HTML**
-La estructura de nuestro documento HTML se basa en la semántica web, utilizando etiquetas con un significado claro para el navegador y los desarrolladores. Esto no solo mejora la accesibilidad y el SEO, sino que también facilita la comprensión del código. A continuación, se detallan las etiquetas utilizadas:
+#### 5.2.1.3 Sprint Backlog 1
 
-* `<!DOCTYPE html>` - Define el tipo de documento como HTML5.
-* `<html>` - Raíz del documento HTML.
-* `<head>` - Encabezado del documento, donde se incluyen metadatos.
-* `<meta>` - Define metadatos sobre el documento (charset y viewport).
-* `<title>` - Título del documento.
-* `<link>` - Para enlaces de icono, hoja de estilos CSS y fuente externa.
-* `<body>` - Cuerpo del documento, donde se encuentra el contenido visible.
-* `<header>` - Encabezado de la página.
-* `<div>` - Contenedor para el logo y otros elementos.
-* `<img>` - Imagen del logo.
-* `<nav>` - Contenedor para la navegación.
-* `<ul>` - Lista no ordenada de enlaces de navegación.
-* `<li>` - Elemento de lista para cada enlace de navegación.
-* `<a>` - Enlaces de navegación.
-* `<button>` - Botón para el modo de deuteranopia.
-* `<section>` - Define secciones de contenido principal:
-    * Sección principal: `<h1>`, `<p>`
-    * Por Qué Interactiva: `<h2>`, `<span>`, `<div>`, `<h3>`, `<p>`
-    * Valor Propuesto: `<h3>`, `<p>`, `<img>`
-    * Presentamos a...: `<h2>`, `<h4>`, `<p>`, `<img>`
-    * Servicios: `<h2>`, `<div>`, `<h4>`, `<p>`
-    * Testimonios: `<h2>`, `<p>`, `<img>`
-    * Cómo empezar: `<h2>`, `<h5>`, `<strong>`, `<p>`
-    * Descargar: `<h2>`, `<h3>`, `<span>`, `<a>`, `<img>`
-* `<footer>` - Pie de página.
-* `<small>` - Texto de derechos reservados.
-* `<script>` - Script JavaScript para funcionalidades.
+[Ver tablero en Trello](https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d8cf52d5f416485b4519519493/frigora-product-backlog)
 
-**CSS**
+<div align="center">
+<img src="assets/chapter05/Product Backlog - Sprint1.png" alt="Sprint Backlog 1" style="max-width: 95%;">
+<p><em>Figura 1: Sprint Backlog 1.</em></p>
+</div>
 
-Nuestra guía de estilo para CSS se centra en la claridad y la consistencia. Se han definido propiedades clave para el diseño visual, asegurando que todos los elementos se vean y se comporten de manera uniforme.
-
-* `width:` Representa el ancho de un elemento.
-* `height:` Representa el alto de un elemento.
-* `padding:` Representa el espacio con relleno entre el borde y el contenido.
-* `font-family:` Representa el tipo de letra.
-* `font-size:` Representa el tamaño de letra.
-* `font-weight:` Representa el grueso o el peso de la letra.
-* `font-style:` Representa el estilo de letra.
-* `Text-align:` Representa la alineación del texto.
-* `color:` Otorga color al elemento.
-* `Background-color:` Otorga color del fondo del elemento.
-
-### 5.1.4. Software Deployment Configuration
-
-Para poder publicar nuestra landing page, seguimos una serie de pasos específicos utilizando GitHub Pages, que permite alojar sitios web estáticos directamente desde un repositorio.
-
-El despliegue en GitHub Pages requiere que los archivos estén organizados de una manera particular para que la plataforma los reconozca y los sirva correctamente.
-
-**1. Organización del Repositorio:**
-
-- Los archivos principales deben estar en la carpeta raíz del repositorio.
-
-- Los nombres de los archivos deben seguir la convención establecida: index.html para la página principal, styles.css para los estilos, y script.js para los scripts.
-
-- Las imágenes se guardan en una carpeta llamada assets/images.
-
-- El archivo languages.js se utiliza para gestionar las traducciones.
-
-**2. Subida de Archivos:**
-
-- Una vez que los archivos están correctamente organizados, se suben al repositorio a través de un commit.
-
-**3. Configuración en GitHub Pages:**
-
-- Se navega a Settings > Pages dentro del repositorio.
-
-- Se selecciona la rama main como la fuente de despliegue.
-
-- Se configura la carpeta raíz (/root) para el origen de la página.
-
-**4. Despliegue Automático:**
-
-- GitHub Pages inicia un proceso de verificación y despliegue automático.
-
-- Al finalizar, se genera una URL pública para acceder a la landing page.
-
-Además, nuestra solución incluye un archivo llamado languages.js, que contiene las traducciones en español e inglés. Este archivo es cargado por el script principal main.js para permitir que los usuarios cambien el idioma de la página de forma dinámica.
-
-**Github Pages:**
-
-URL de la Landing Page desplegada en Github Pages: 
-
-## 5.2. Landing Page, Services & Applications Implementation
-
-### 5.2.1. Sprint 1
-
-#### 5.2.1.1. Sprint Planning 1
-
-<table border="1">
-  <tr>
-    <th colspan="5">Sprint 1</th>
-    <th colspan="9">Sprint 1</th>
-  </tr>
-  <tr>
-    <td colspan="13">Sprint Planning Background</td>
-  </tr>
-  <tr>
-    <td colspan="5">Date</td>
-    <td colspan="8">2026-04-23</td>
-  </tr>
-  <tr>
-    <td colspan="5">Time</td>
-    <td colspan="8">1:00 PM</td>
-  </tr>
-  <tr>
-    <td colspan="5">Location</td>
-    <td colspan="8">Presencial (Universidad Peruana de Ciencias Aplicadas - sede San Miguel)</td>
-  </tr>
-  <tr>
-    <td colspan="5">Prepared By</td>
-    <td colspan="8">Alejandro Galindo</td>
-  </tr>
-  <tr>
-    <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Alejandro Galindo, Walter Fajardo, Leonardo Cumba, Joaquin Cuentas, Gabriel Perez</td>
-  </tr>
-  <tr>
-    <td colspan="5">Sprint 1 Review Summary</td>
-    <td colspan="8">Durante este sprint se avanzó en la definición inicial de la plataforma y se establecieron lineamientos clave para el desarrollo de la landing page.</td>
-  </tr>
-  <tr>
-    <td colspan="5">Sprint 1 Retrospective Summary</td>
-    <td colspan="8">En este sprint, el equipo compartió ideas sobre la plataforma web, incluyendo el rubro, segmentos objetivo, beneficios y funcionalidades principales. Las tareas se organizaron de manera eficiente y se lograron avances visibles tanto en el informe como en la landing page.</td>
-  </tr>
-  <tr>
-    <td colspan="13">Sprint Goal & User Stories</td>
-  </tr>
-  <tr>
-    <td colspan="5">Sprint 1 Goal</td>
-    <td colspan="8">El objetivo principal es desarrollar la landing page de la plataforma, garantizando su adaptabilidad a distintos dispositivos, coherencia visual y soporte multilenguaje. Se busca brindar una experiencia clara, atractiva y accesible para los usuarios. Esto se validará cuando el usuario pueda cambiar el idioma fácilmente, navegar sin errores visuales y verificar que los elementos gráficos y textuales estén correctamente alineados.</td>
-  </tr>
-  <tr>
-    <td colspan="5">Sprint 1 Velocity</td>
-    <td colspan="8">15</td>
-  </tr>
-  <tr>
-    <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">10</td>
-  </tr>
-</table>
-
-##### 5.2.1.2. Aspect Leaders and Collaborators
-
-Durante este primer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual de la Landing Page, asegurando su visualización en distintos dispositivos (diseño responsive), la integración armoniosa de imágenes y textos, y la implementación de un cambio de idioma dinámico mediante un botón.
-Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
-
-<table border="1">
-  <tr>
-    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
-    <td><strong>GitHub Username</strong></td>
-    <td><strong>Diseño visual y maquetación web (Landing Page)<br>Leader (L) / Collaborator (C)</strong></td>
-    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
-    <td><strong>Implementación técnica del cambio de idioma (Multilenguaje funcional)<br>Leader (L) / Collaborator (C)</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2">Galindo Montero, Alejandro Manuel</td>
-    <td>AlejandroG12970</td>
-    <td>C</td>
-    <td>L</td>
-    <td>L</td>
-  </tr>
-  <tr>
-    <td colspan="2">Fajardo, Walter</td>
-    <td>walterfajardo</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td colspan="2">Cumba, Leonardo</td>
-    <td>LeonardoC72</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-  </tr>
-  <tr>
-    <td colspan="2">Cuentas, Joaquin</td>
-    <td>joaCUPE</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td colspan="2">Perez, Gabriel</td>
-    <td>Gabyoko</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-</table>
-
-#### 5.2.1.3. Sprint Backlog 1
-
-El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
-
-Enlace: https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d8cf52d5f416485b4519519493/frigora-product-backlog
-
-![Sprint1-Trello.png](assets/chapter05/Product%20Backlog%20-%20Sprint1.png)
-
-<figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
-  </figcaption>
-
----
-| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| US ID | US Título | Task ID | Task Título | Descripción | Horas | Asignado | Estado |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| **US-20** | Visualizar la propuesta de valor principal | **UT-01** | Crear la sección "Hero" | Diseñar y añadir la sección principal superior (Hero) que comunique el monitoreo inteligente de equipos IoT. | 2 | [Walter Fajardo] | Done |
-| **US-21** | Explorar soluciones específicas para mi rubro | **UT-01** | Crear sección de "Soluciones" | Redactar y maquetar las tarjetas de soluciones específicas para supermercados, laboratorios y sector alimentario. | 3 | [Joaquin Cuentas] | Done |
-| **US-22** | Comprender las funcionalidades clave | **UT-01** | Crear sección "Características" | Diseñar la sección donde se listan las funciones de telemetría, alertas preventivas y control de temperatura. | 3 | [Alejandro Galindo] | Done |
-| **US-23** | Conocer la misión y visión | **UT-01** | Crear la sección "Nosotros" | Añadir la sección visual que refleje la misión y visión de la startup para generar confianza en el cliente B2B. | 1.5 | [Gabriel Perez] | Done |
-| **US-24** | Contactar con el equipo de ventas | **UT-01** | Diseñar interfaz de "Contacto" | Maquetar el formulario de contacto solicitando datos clave de la empresa (Nombre, RUC, Teléfono, Mensaje). | 2 | [Leonardo Cumba] | Done |
-| **US-24** | Contactar con el equipo de ventas | **UT-02** | Definir flujo de validación | Documentar y prototipar los mensajes de éxito/error al enviar el formulario de ventas. | 1.5 | [Gabriel Perez] | Done |
-| **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
+| US-20 | Visualizar propuesta de valor | UT-01 | Crear sección "Hero" | Diseñar y añadir la sección Hero que comunique el monitoreo inteligente IoT. | 2 | Walter Fajardo | Done |
+| US-21 | Explorar soluciones por rubro | UT-01 | Crear sección "Soluciones" | Redactar y maquetar tarjetas de soluciones para supermercados, laboratorios y sector alimentario. | 3 | Joaquin Cuentas | Done |
+| US-22 | Comprender funcionalidades clave | UT-01 | Crear sección "Características" | Diseñar la sección con telemetría, alertas preventivas y control de temperatura. | 3 | Alejandro Galindo | Done |
+| US-23 | Conocer misión y visión | UT-01 | Crear sección "Nosotros" | Añadir sección visual que refleje la misión y visión de la startup. | 1.5 | Gabriel Perez | Done |
+| US-24 | Contactar equipo de ventas | UT-01 | Diseñar formulario de "Contacto" | Maquetar formulario con Nombre, RUC, Teléfono y Mensaje. | 2 | Leonardo Cumba | Done |
+| US-24 | Contactar equipo de ventas | UT-02 | Definir flujo de validación | Prototipar mensajes de éxito/error al enviar el formulario. | 1.5 | Gabriel Perez | Done |
+| US-25 | Acceder a la plataforma (CTA) | UT-01 | Crear Navbar y botón CTA | Añadir barra de navegación con botón "Ingresar" que redirija al Login. | 1 | Leonardo Cumba | Done |
 
-##### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.4 Development Evidence for Sprint Review
 
-En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
-
-| Repositorio | Rama | ID de confirmación | Mensaje de confirmación | Cuerpo del mensaje de confirmación |
+| Repositorio | Rama | Commit ID | Mensaje | Descripción |
 | :--- | :--- | :---: | :--- | :--- |
-| ColdTech-Peru / LandingPage | master | f331259 | feat: cambiar script.js a index.js | Renombramiento del archivo de scripts principal a index.js para cumplir con las convenciones de estandarización del proyecto. |
-| ColdTech-Peru / LandingPage | master | f57b84b | JS | Creación y vinculación del archivo de lógica interactiva JavaScript para dotar de dinamismo a la página principal. |
-| ColdTech-Peru / LandingPage | master | fdf1625 | feature: add images | Se integraron todos los recursos gráficos y activos visuales necesarios para la interfaz de la landing page. |
-| ColdTech-Peru / LandingPage | master | 7e6df51 | feature: hero and benefit section update | Se realizaron ajustes en el maquetado de la sección principal y se actualizaron los textos de la sección de beneficios. |
-| ColdTech-Peru / LandingPage | master | c4d382c | feat: correct footer | Se corrigieron errores de alineación y se validaron los enlaces de redes sociales en la sección inferior. |
-| ColdTech-Peru / LandingPage | master | 1c227de | feat: change footer | Reestructuración del diseño del pie de página para mejorar la experiencia de navegación del usuario. |
-| ColdTech-Peru / LandingPage | master | 3e69af4 | feat: add style.css | Implementación de la hoja de estilos CSS inicial para definir la identidad visual y tipografía del proyecto. |
-| ColdTech-Peru / LandingPage | master | 13d089c | html | Creación de la estructura semántica base del documento principal index.html. |
-| ColdTech-Peru / LandingPage | master | 5b6714b | primer commit1 | Inicialización del repositorio y carga de los archivos fundamentales para el despliegue de la página. |
+| ColdTech-Peru/LandingPage | master | f331259 | feat: cambiar script.js a index.js | Renombramiento del archivo de scripts para cumplir convenciones del proyecto. |
+| ColdTech-Peru/LandingPage | master | f57b84b | JS | Creación y vinculación del archivo de lógica JavaScript interactiva. |
+| ColdTech-Peru/LandingPage | master | fdf1625 | feature: add images | Integración de recursos gráficos y activos visuales para la landing page. |
+| ColdTech-Peru/LandingPage | master | 7e6df51 | feature: hero and benefit section update | Ajustes en el maquetado de la sección Hero y actualización de textos de beneficios. |
+| ColdTech-Peru/LandingPage | master | c4d382c | feat: correct footer | Corrección de alineación y validación de enlaces en el pie de página. |
+| ColdTech-Peru/LandingPage | master | 1c227de | feat: change footer | Reestructuración del diseño del footer para mejorar la experiencia de navegación. |
+| ColdTech-Peru/LandingPage | master | 3e69af4 | feat: add style.css | Implementación de la hoja de estilos CSS inicial con identidad visual y tipografía. |
+| ColdTech-Peru/LandingPage | master | 13d089c | html | Creación de la estructura semántica base del `index.html`. |
+| ColdTech-Peru/LandingPage | master | 5b6714b | primer commit1 | Inicialización del repositorio y carga de archivos fundamentales. |
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5 Execution Evidence for Sprint Review
 
-**Inicio**
-Evidencia de la implementación de la propuesta de valor principal. Se desarrolló la sección Hero integrando la barra de navegación, el mensaje central de monitoreo térmico y un mockup del dashboard para ofrecer al usuario una vista previa clara y rápida de la plataforma.
+**Inicio — Sección Hero**
+<div align="center">
+<img src="assets/chapter05/Inicio.png" alt="Landing - Inicio" style="max-width: 90%;">
+</div>
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Inicio.png">
+**Beneficios — Panel dinámico por segmento**
+<div align="center">
+<img src="assets/chapter05/Beneficios.png" alt="Landing - Beneficios" style="max-width: 90%;">
+</div>
 
----
+**Sobre Nosotros — Misión y visión**
+<div align="center">
+<img src="assets/chapter05/sobre nosotros.png" alt="Landing - Sobre Nosotros" style="max-width: 90%;">
+</div>
 
-**Beneficios**
-Evidencia de la implementación de las soluciones específicas por rubro. Se desarrolló un panel dinámico que permite alternar el contenido entre los dos segmentos objetivo ("Dueños de Negocios" y "Empresas de Servicio"), utilizando tarjetas informativas para destacar ventajas clave como la preservación de inventario, reducción de costos operativos y análisis de datos en vivo.
+**Testimonios — Casos de éxito**
+<div align="center">
+<img src="assets/chapter05/testimonios.png" alt="Landing - Testimonios" style="max-width: 90%;">
+</div>
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Beneficios.png">
+**Contacto — Formulario B2B**
+<div align="center">
+<img src="assets/chapter05/contactanos.png" alt="Landing - Contacto" style="max-width: 90%;">
+</div>
 
----
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
-**Sobre Nosotros**
-Evidencia de la implementación de la identidad corporativa. Se desarrolló la sección "Nuestra Esencia", estructurando de manera visual y directa la misión y visión de la startup para generar confianza y comunicar el propósito tecnológico de la plataforma a los visitantes.
+<div align="center">
+<img src="assets/chapter05/5216.png" alt="Services Documentation" style="max-width: 90%;">
+</div>
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/sobre nosotros.png">
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
----
+Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landing-Page/**
 
-**Testimonios**
-Evidencia de la implementación de la validación social. Se desarrolló la sección "Casos de Éxito" utilizando un formato de tarjetas que destacan reseñas representativas de los dos segmentos objetivo (dueños de negocios y técnicos de soporte), reforzando la credibilidad de la plataforma mediante experiencias enfocadas en la prevención de pérdidas y la eficiencia operativa.
+<div align="center">
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/testimonios.png">
+| Sección | Captura |
+| :---: | :---: |
+| Inicio | ![Inicio](assets/chapter05/Inicio.png) |
+| Beneficios | ![Beneficios](assets/chapter05/Beneficios.png) |
+| Sobre Nosotros | ![Sobre Nosotros](assets/chapter05/sobre%20nosotros.png) |
+| Testimonios | ![Testimonios](assets/chapter05/testimonios.png) |
+| Contacto | ![Contacto](assets/chapter05/contactanos.png) |
 
----
+</div>
 
-**Contacto**
-Evidencia de la implementación del canal de comunicación B2B. Se desarrolló la sección final con un formulario estructurado para la captación de potenciales clientes (leads), solicitando datos clave (nombre, correo corporativo y requerimiento) con el objetivo de agendar consultorías técnicas y demostraciones de la plataforma.
+#### 5.2.1.8 Team Collaboration Insights during Sprint
 
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/contactanos.png">
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/5216.png">
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-A continuación, se presenta las  secciones principales de la Landing Page desplegada en GitHub Pages:
-
-**Inicio**
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Inicio.png">
-
----
-**Beneficios**
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Beneficios.png">
-
----
-**Sobre Nosotros**
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/sobre nosotros.png">
+<div align="center">
+<img src="assets/chapter05/Team Collaboration Insights during Sprint - 1.png" alt="Collaboration Insights 1" style="max-width: 90%;">
+<img src="assets/chapter05/Team Collaboration Insights during Sprint -2 .png" alt="Collaboration Insights 2" style="max-width: 90%;">
+</div>
 
 ---
-**Testimonios**
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/testimonios.png">
-
-
----
-**Contacto**
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/contactanos.png">
-
----
-
-URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Team Collaboration Insights during Sprint - 1.png">
-
-<img width="2669" height="1621" alt="Diagrama de Clases" src="assets/chapter05/Team Collaboration Insights during Sprint -2 .png">
-
----
-
 
 #### 5.2.2. Sprint 2
 
@@ -1996,10 +1422,10 @@ URL del Landing Page desplegado: https://coldtech-peru.github.io/Landing-Page/
 | **Attendees to planning meeting** |   Galindo Montero, Alejandro Manuel  , Perez Tuesta,  Gabriel  ,  Fajardo Monrroy, Walter Luis  ,Cumba Rengifo, Leonardo Raul y    Cuentas Peña, Joaquin Alberto  |
 | **Sprint 2 Review Summary** | En este sprint, nos enfocamos en desarrollar el front-end y en realizar la implementación inicial de la plataforma Frigora. Completamos las funciones principales de la página, ofreciendo a los usuarios una primera experiencia de navegación y exploración del servicio de refrigeración. El equipo cumplió con los objetivos de entrega dentro del plazo previsto, estableciendo además los cimientos de la interfaz gráfica para futuras iteraciones. |
 | **Sprint 2 Retrospective Summary** | Durante el sprint, a pesar de estar enfocado en el desarrollo técnico, permitió identificar oportunidades para mejorar nuestra dinámica de trabajo en equipo. En la retrospectiva, se destacó la necesidad de ajustar la duración de las reuniones diarias, redistribuir las tareas de acuerdo con las especialidades del equipo e incorporar una planificación individual con hitos verificables. Estas medidas tienen como objetivo incrementar la eficiencia en las próximas iteraciones. |
-| **Sprint Goal & User Stories** |  |
+| **Sprint Goal & User Stories**  
 | **Sprint 2 Goal** | Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de Frigora, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio. |
-| **Sprint 2 Velocity** | XX |
-| **Sum of Story Points** | XX |
+| **Sprint 2 Velocity** | 36 |
+| **Sum of Story Points** | 51 |
 
 
 ### 5.2.2. Aspect Leaders and Collaborators
@@ -2010,17 +1436,20 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 
 | Team Member <br> (Last Name, First Name) | Github Username | Implementacion de la gestión de equipos de refrigeracion (Frontend Applications) <br> Leader (L) / Collaborator (C) | Responsive y pruebas en distintos dispositivos <br> Leader (L) / Collaborator (C) | Despliegue de la aplicación web <br> Leader (L) / Collaborator (C) |
 |---|---|---|---|---|
-|  Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
-| Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
-| Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
-| Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
 |Cuentas Peña, Joaquin Alberto  | JoaCUPE | C | C | C |
+
 
 
 #### 5.2.2.3.Sprint Backlog 2.
 El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-<img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/de1475bc-5455-4c88-a0a2-dcf57e06deb4" />
+<img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/758e408f-6618-4f91-abef-eeeb5c8d3dab" />
+
+
 Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db17776210086dc9611a5aebb7143cEB975F35/sprint-02
 
 | User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
@@ -2039,47 +1468,281 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 | **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+### 5.2.2.4. Development Evidence for Sprint Review
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+En este segundo Sprint hemos realizado la implementación del frontend de nuestra solución **Frigora**, desarrollada por la startup **ColdTech**. Durante esta entrega, el equipo se enfocó en construir las principales vistas de la aplicación, considerando el **Dashboard** como una vista global del sistema y el módulo de **Monitoring** como un bounded context independiente orientado al seguimiento de equipos, aparatos y alertas. La siguiente tabla muestra los commits realizados durante el desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(sites): add sites list view | Implemented the frontend view to display registered sites in the Frigora platform. | 03/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(sites): add site registration form | Created the frontend form for registering new sites in the system. | 04/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add services list view | Developed the frontend screen to display available services and their basic information. | 05/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add service creation form | Implemented the frontend form for creating new service records. | 06/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(services): add service detail view | Created the service detail screen to visualize service information in a structured way. | 07/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add equipment monitoring view | Implemented the frontend view to display monitored refrigeration equipment and device status. | 08/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add monitoring creation form | Created the frontend form to register new monitoring records for equipment tracking. | 09/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(monitoring): add monitoring detail view | Developed the detail screen to review monitoring data, device information and equipment status. | 10/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(alerts): add alerts view | Implemented the frontend view for displaying alerts generated from monitoring events. | 11/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add reports list view | Implemented the frontend screen to display generated reports in the platform. | 12/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add report creation form | Created the frontend form for registering new service or monitoring reports. | 13/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(reports): add report detail view | Developed the frontend detail view to show report information clearly. | 14/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(dashboard): add global dashboard view | Implemented the global dashboard view to provide a general overview of the Frigora platform. | 15/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | chore(frontend): organize sprint review evidence | Added and organized frontend evidence images for the Sprint Review documentation. | 15/05/2026 |
+| 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | merge: integrate frontend sprint changes into develop | Final integration of the frontend views developed during the sprint. | 16/05/2026 |
+
+
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
+
+Dashboard:
+
+<div align="center">
+  <img src="assets/chapter05/dashboard.png"
+       alt="Dashboard view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Sites:
+
+<div align="center">
+  <img src="assets/chapter05/sitiosactualisados.png"
+       alt="Sites list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Sites created:
+
+<div align="center">
+  <img src="assets/chapter05/sitiosadd2.png"
+       alt="Site creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Equipments:
+
+<div align="center">
+  <img src="assets/chapter05/monitoring.png"
+       alt="Monitoring dashboard view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Equipments detail:
+
+<div align="center">
+  <img src="assets/chapter05/monitorningdetail.png"
+       alt="Monitoring detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Equipments created:
+
+<div align="center">
+  <img src="assets/chapter05/monitoringadd.png"
+       alt="Monitoring record creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Service Requests:
+
+<div align="center">
+  <img src="assets/chapter05/Services.png"
+       alt="Services list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Service Requests detail:
+
+<div align="center">
+  <img src="assets/chapter05/Servicesdetail.png"
+       alt="Service detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Service Requests created:
+
+<div align="center">
+  <img src="assets/chapter05/ServicesADd.png"
+       alt="Service creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Alerts:
+
+<div align="center">
+  <img src="assets/chapter05/Alerts.png"
+       alt="Alerts list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Reports:
+
+<div align="center">
+  <img src="assets/chapter05/Reports.png"
+       alt="Reports list view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Reports detail:
+
+<div align="center">
+  <img src="assets/chapter05/ReportDetail.png"
+       alt="Report detail view"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Reports created:
+
+<div align="center">
+  <img src="assets/chapter05/Reportadd.png"
+       alt="Report creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñados para Frigora utilizando OpenAPI. Cabe destacar que, para el backend, estamos usando un `db.json` (JSON Server) desplegado en Render. El objetivo fue asegurar que los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la futura integración con el frontend y servirá como referencia para mantenimiento.
+
+## Logros alcanzados en este Sprint
+
+* Definición de los principales endpoints del sistema.
+* Especificación de métodos HTTP, ejemplos de request y response, y parámetros de entrada.
+* Generación de la definición OpenAPI (a nivel de diseño) para los endpoints identificados.
+* Preparación de ejemplos de uso de la API con datos de muestra para demostrar el comportamiento esperado.
+
+## Endpoints documentados
+
+| Endpoints |
+| :--- |
+| `tenants` |
+| `users` |
+| `technicians` |
+| `sites` |
+| `equipments` |
+| `sensors` |
+| `readings` |
+| `alerts` |
+| `serviceRequests` |
+| `reviews` |
+| `notifications` |
+| `logs` |
+| `dashboard` |
+| `system` |
+
+<div align="center">
+  <img src="assets/chapter05/dbjson-evidence.png"
+       alt="Service creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Durante este sprint se preparó el despliegue del frontend de Frigora en un entorno público, configurando la integración continua entre el repositorio de código y la plataforma de hosting.
+
+**Actualización de la URL de la API**
+Se actualizó la configuración del frontend para que dejara de consumir datos desde localhost y utilizara la URL pública del servidor backend desplegado en Render.
+
+**Configuración en la plataforma de despliegue**
+Se creó una cuenta en Vercel y se conectó el repositorio de GitHub del frontend. La plataforma detectó automáticamente que se trataba de una aplicación Angular y definió la configuración base de construcción.
+
+**Variables de entorno para la API**
+La URL de la API se configuró como una variable de entorno (secreto) en Vercel, evitando exponerla directamente en el código fuente. De esta forma, los cambios futuros en la URL pueden gestionarse desde la plataforma sin modificar el código.
+
+**Despliegue continuo**
+Con la configuración lista, se generó un despliegue público de la aplicación. Vercel habilitó el mecanismo de despliegue continuo, por lo que cada vez que se actualiza el código en GitHub, la aplicación se reconstruye y se publica automáticamente.
+
+URL de la landing page (GitHub Pages): https://coldtech-peru.github.io/Landing-Page/
+URL de la aplicación web (frontend): https://frigora-frontend.vercel.app/
+
+**Evidencia de despliegue del Frontend en Vercel:**
+
+<div align="center">
+  <img src="assets/chapter05/vercel-evidence.png"
+       alt="Service creation form"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+Insights del Landing Page:
+
+<div align="center">
+  <img src="assets/chapter05/in_landing.png"
+       alt="Landing page insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<br>
+
+Insights del Front-End:
+
+<div align="center">
+  <img src="assets/chapter05/in_front.png"
+       alt="Frontend insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
+## Conclusiones
 
+**Objetivo comercial cumplido:**  
+La Landing Page fue completada al 100%, logrando presentar de manera clara la propuesta de valor de **Frigora** y los principales beneficios de la plataforma. Además, el contenido fue organizado pensando en los dos segmentos objetivo del proyecto: empresas que dependen de equipos de refrigeración y técnicos o proveedores de mantenimiento. Esto permite que el usuario comprenda rápidamente qué problema resuelve la solución y cómo puede ayudar en la gestión, monitoreo y atención de servicios.
 
+**Organización ágil:**  
+Se aplicó la metodología Scrum de forma adecuada durante el desarrollo del Sprint. El equipo logró organizar el trabajo mediante User Stories y tareas técnicas, diferenciando claramente los objetivos funcionales de las actividades necesarias para implementarlos. Asimismo, el tablero de Trello permitió visualizar el avance del equipo, asignar responsabilidades y mantener un mejor control sobre el estado de cada tarea durante la entrega.
 
+**Colaboración técnica:**  
+Se estableció un flujo de trabajo ordenado en GitHub, permitiendo que los integrantes del equipo integren sus avances de manera controlada. El uso de ramas de trabajo y mensajes de commit bajo la convención de **Conventional Commits** ayudó a mantener un historial claro y entendible del desarrollo realizado. Esto facilitó la revisión de cambios y la integración del frontend en la rama principal del proyecto.
 
+**Avance del frontend:**  
+Durante esta entrega, el equipo se enfocó principalmente en la implementación del frontend de la aplicación. Se desarrollaron vistas importantes como sitios, servicios, monitoreo, alertas, reportes y dashboard global. Estas interfaces permiten representar visualmente las funcionalidades principales de Frigora, aunque todavía queda pendiente la integración completa con una API real y el desarrollo del backend para futuras entregas.
 
+**Validación del producto:**  
+El avance realizado permite mostrar una primera versión funcional a nivel visual de la plataforma, lo cual es importante para validar la experiencia de usuario, la navegación y la estructura general del sistema. Gracias a estas pantallas, se puede obtener retroalimentación temprana sobre la claridad de la interfaz y la utilidad de las funcionalidades propuestas.
 
-
-
-# Conclusiones
-
-
-Objetivo comercial cumplido: Terminamos la Landing Page al 100%. La propuesta de valor y los beneficios de la plataforma ya están visibles para nuestros dos segmentos (empresas y técnicos).
-
-Organización ágil: Aplicamos Scrum con éxito. Todo el trabajo se documentó claramente separando las metas (Historias de Usuario) de la ejecución (Tareas técnicas) en nuestro tablero de Trello.
-
-Colaboración técnica: Logramos un flujo de trabajo sólido en GitHub. Todo el equipo integró sus cambios de forma ordenada usando Conventional Commits hacia la rama principal.
+**Trabajo pendiente:**  
+Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataforma. En esta entrega se implementó principalmente el **frontend**, por lo que en los siguientes Sprints se deberá trabajar la lógica del servidor, la conexión con la base de datos y la integración de las funcionalidades con datos reales.
 
 ---
 
-# Anexos:
+# Anexos
 
-- **URL de la organización del proyecto: https://github.com/ColdTech-Peru** <br>
-  
-- **URL del repositorio del reporte: https://github.com/ColdTech-Peru/Report** <br>
-  
-- **URL del repositorio de la Landing Page: https://github.com/ColdTech-Peru/Landing-Page** <br>
+| Recurso | URL |
+| :--- | :--- |
+| Organización del proyecto | https://github.com/ColdTech-Peru |
+| Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
+| Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
+| Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
+| Frontend desplegado | https://frigora-frontend.vercel.app/ |
+| Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
+| Video de exposición AV1 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 
-- **URL de la Landing Page desplegada: [https://github.com/ColdTech-Peru/Landing-Page](https://coldtech-peru.github.io/Landing-Page/)** <br>
 
-- **URL de video exposicion AV1:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbwy)
-
----
