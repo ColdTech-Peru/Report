@@ -1573,7 +1573,6 @@ Reports created:
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-Insights del Report:
 
 Insights del Landing Page:
 
