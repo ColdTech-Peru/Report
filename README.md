@@ -68,6 +68,19 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter01/commits informe - 1.png" alt="Commits del informe">
 </div>
 
+<br>
+
+**TB1:** Las tareas asignadas al TB1 fueron desarrolladas e integradas correctamente en el Front-End de la aplicación utilizando Angular y Angular Material, manteniendo una arquitectura modular y organizada:
+
+- Se implementaron los distintos módulos funcionales del sistema, incluyendo Dashboard, Monitoring, Asset Management, Reports y Service Requests, utilizando componentes standalone y servicios para el consumo de datos.
+- Se desarrollaron operaciones CRUD conectadas mediante `json-server` y `db.json`, permitiendo gestionar información dinámica dentro de la aplicación.
+- Se configuraron rutas, filtros, formularios reactivos, componentes visuales y estilos responsivos para mejorar la experiencia de usuario en cada sección del sistema.
+- Se realizaron commits utilizando *Conventional Commits* para documentar el progreso del Sprint y mantener trazabilidad del desarrollo en GitHub.
+- Se integraron capturas, recursos visuales e insights del Front-End en la documentación técnica del proyecto.
+
+<div align="center">
+<img src="assets/chapter05/commits_front.png" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 ---
 
 ## Contenido
@@ -1561,14 +1574,6 @@ Reports created:
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Insights del Report:
-
-<div align="center">
-  <img src="assets/chapter05/in_report.png"
-       alt="Report insights"
-       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-</div>
-
-<br>
 
 Insights del Landing Page:
 
