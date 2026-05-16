@@ -32,7 +32,7 @@
 | Cumba Rengifo, Leonardo Raul | u202311912 |
 | Cuentas Peña, Joaquin Alberto | u20201f788 |
 
-### Abril 2026
+### Mayo 2026
 
 </div>
 
