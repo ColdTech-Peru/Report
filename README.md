@@ -1379,6 +1379,16 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 
 
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
+
+
+
+
+
+
+
 
 
 
