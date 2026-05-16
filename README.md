@@ -1402,7 +1402,7 @@ Equipments:
 
 Equipments detail:
 
-<img src="assets/chapter05/monitoringdetail.png" alt="Monitoring detail view" style="max-width: 90%;">
+<img src="assets/chapter05/monitorningdetail.png" alt="Monitoring detail view" style="max-width: 90%;">
 
 Equipments created: 
 
@@ -1419,7 +1419,7 @@ Service Requests detail:
 
 Service Requests created:
 
-<img src="assets/chapter05/ServicesAdd.png" alt="Service creation form" style="max-width: 90%;">
+<img src="assets/chapter05/ServicesADd.png" alt="Service creation form" style="max-width: 90%;">
 
 Alerts:
 
