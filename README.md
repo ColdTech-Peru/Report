@@ -43,7 +43,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---: | :---: | :---: | :--- |
 | 1.0 | 2026-04-26 | ColdTech | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
-
+| 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |
 ---
 
 ## Project Report Collaboration Insights
