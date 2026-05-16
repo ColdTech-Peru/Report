@@ -53,7 +53,7 @@
 | Organización del proyecto | https://github.com/ColdTech-Peru |
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
-| Repositorio del Frontend | *(pendiente)* |
+| Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
 | Repositorio del Backend | *(pendiente)* |
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
@@ -1623,5 +1623,8 @@ Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataf
 | Organización del proyecto | https://github.com/ColdTech-Peru |
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
+| Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
 | Video de exposición AV1 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
+
+
