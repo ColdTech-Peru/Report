@@ -1424,16 +1424,15 @@ En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrac
 
 Dashboard:
 
-
-
+<img src="assets/chapter05/dashboard.png" alt="Sites list view" style="max-width: 90%;">
 
 Sites:
 
-<img src="assets/chapter05/Sites.png" alt="Sites list view" style="max-width: 90%;">
+<img src="assets/chapter05/sitiosactualisados.png" alt="Sites list view" style="max-width: 90%;">
 
 Sites created: 
 
-<img src="assets/chapter05/Sitesadd.png" alt="Site creation form" style="max-width: 90%;">
+<img src="assets/chapter05/sitiosadd2.png" alt="Site creation form" style="max-width: 90%;">
 
 Equipments:
 
