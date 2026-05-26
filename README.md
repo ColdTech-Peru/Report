@@ -1663,6 +1663,8 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñ
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Link del Fake API desplegado en Render: https://fake-api-0233.onrender.com/
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 Durante este sprint se preparó el despliegue del frontend de Frigora en un entorno público, configurando la integración continua entre el repositorio de código y la plataforma de hosting.
@@ -1742,7 +1744,9 @@ Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataf
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
 | Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
 | Frontend desplegado | https://frigora-frontend.vercel.app/ |
+| Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
+
 
 
