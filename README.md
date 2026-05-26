@@ -616,6 +616,10 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Duración** | 3:33 min |
 | **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw) |
 
+<div align="center">
+<img src="assets/chapter02/entrevista2-segmento2.png" alt="Entrevista 2 - Segmento 2" width="600">
+</div>
+
 **Resumen:** Mark lidera un equipo de técnicos y se encarga de la captación de clientes y la logística operativa. La entrevista revela una dependencia crítica de procesos manuales y falta de información técnica previa al servicio. Existe alta disposición para adoptar Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo como factores clave para transicionar de un modelo reactivo a uno preventivo.
 
 ---
