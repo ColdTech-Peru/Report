@@ -182,7 +182,6 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
-- [Sprint 2](#sprint-2)
       - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
       - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
@@ -1421,8 +1420,6 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 #### 5.2.2.1.Sprint Planning 2.
 
-# Sprint 2
-
 | Sprint 2 | Sprint 2 |
 |---|---|
 | **Sprint Planning Background** |  |
@@ -1500,9 +1497,6 @@ En este segundo Sprint hemos realizado la implementación del frontend de nuestr
 | 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | feat(dashboard): add global dashboard view | Implemented the global dashboard view to provide a general overview of the Frigora platform. | 15/05/2026 |
 | 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | chore(frontend): organize sprint review evidence | Added and organized frontend evidence images for the Sprint Review documentation. | 15/05/2026 |
 | 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | merge: integrate frontend sprint changes into develop | Final integration of the frontend views developed during the sprint. | 16/05/2026 |
-
-
-
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
