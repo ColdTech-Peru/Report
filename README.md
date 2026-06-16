@@ -183,13 +183,11 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
 - [Sprint 2](#sprint-2)
-    - [5.2.2. Aspect Leaders and Collaborators](#522-aspect-leaders-and-collaborators)
+    - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
       - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
     - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
-  - [Logros alcanzados en este Sprint](#logros-alcanzados-en-este-sprint)
-  - [Endpoints documentados](#endpoints-documentados)
       - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
       - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
       - [5.2.3. Sprint 3](#523-sprint-3)
@@ -1441,7 +1439,7 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 | **Sum of Story Points** | 51 |
 
 
-### 5.2.2. Aspect Leaders and Collaborators
+### 5.2.2.2 Aspect Leaders and Collaborators
 
 Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
 
@@ -1644,14 +1642,14 @@ Reports created:
 
 Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñados para Frigora utilizando OpenAPI. Cabe destacar que, para el backend, estamos usando un `db.json` (JSON Server) desplegado en Render. El objetivo fue asegurar que los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la futura integración con el frontend y servirá como referencia para mantenimiento.
 
-## Logros alcanzados en este Sprint
+ **Logros alcanzados en este Sprint**
 
 * Definición de los principales endpoints del sistema.
 * Especificación de métodos HTTP, ejemplos de request y response, y parámetros de entrada.
 * Generación de la definición OpenAPI (a nivel de diseño) para los endpoints identificados.
 * Preparación de ejemplos de uso de la API con datos de muestra para demostrar el comportamiento esperado.
 
-## Endpoints documentados
+**Endpoints documentados**
 
 | Endpoints |
 | :--- |
