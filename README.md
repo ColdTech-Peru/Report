@@ -32,7 +32,7 @@
 | Cumba Rengifo, Leonardo Raul | u202311912 |
 | Cuentas Peña, Joaquin Alberto | u20201f788 |
 
-### Abril 2026
+### Junio 2026
 
 </div>
 
@@ -54,7 +54,7 @@
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
 | Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
-| Repositorio del Backend | *(pendiente)* |
+| Repositorio del Backend | https://github.com/ColdTech-Peru/Frigora-Platform |
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
@@ -94,7 +94,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
   - [Startup: ColdTech](#startup-coldtech)
   - [Producto: Frigora](#producto-frigora)
   - [Integrantes](#integrantes)
-    - [Abril 2026](#abril-2026)
+    - [Junio 2026](#junio-2026)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
   - [| 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |](#-20--2026-05-16--coldtech--desarrollo-del-sprint-2-)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -192,6 +192,15 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
   - [Endpoints documentados](#endpoints-documentados)
       - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
       - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1.Sprint Planning 3.](#5231sprint-planning-3)
+    - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
   - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
 
@@ -1716,26 +1725,103 @@ Insights del Front-End:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+---
+
+#### 5.2.3. Sprint 3
+
+#### 5.2.3.1.Sprint Planning 3.
+
+| Sprint 3                           | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Date**                           | 2026-06-02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                           | 17:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Location**                       | Via Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                    | Alejandro Galindo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Attendees to planning meeting**  | Galindo Montero, Alejandro Manuel; Perez Tuesta, Gabriel; Fajardo Monrroy, Walter Luis; Cumba Rengifo, Leonardo Raul; Cuentas Peña, Joaquin Alberto                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 3 Review Summary**        | Durante este sprint se desarrollaron las principales funcionalidades de Frigora tanto en frontend como en backend. Se implementaron módulos para la gestión de usuarios, técnicos, equipos de refrigeración y solicitudes de mantenimiento, además de mejorar la experiencia de navegación de la plataforma. El equipo logró integrar diversos componentes del sistema y validar los flujos principales de negocio, obteniendo una versión funcional que servirá como base para futuras mejoras. |
+| **Sprint 3 Retrospective Summary** | La retrospectiva permitió identificar oportunidades de mejora relacionadas con la distribución de tareas, la coordinación entre frontend y backend y la planificación de actividades individuales. Asimismo, se concluyó que una definición más detallada de los criterios de aceptación y revisiones periódicas de integración contribuirán a reducir retrabajos y optimizar el avance en los siguientes sprints.                                                                               |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 3 Goal**                  | Implementar las funcionalidades principales de Frigora mediante el desarrollo e integración del frontend y backend de la plataforma. El objetivo fue habilitar la gestión de usuarios, técnicos, equipos de refrigeración y solicitudes de mantenimiento, además de proporcionar una interfaz intuitiva que permita a los usuarios interactuar eficientemente con los servicios ofrecidos por el sistema.                                                                                        |
+| **Sprint 3 Velocity**              | 36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+### 5.2.3.2 Aspect Leaders and Collaborators
+
+Durante este tercer sprint, el equipo se enfocó principalmente en el desarrollo del Backend, asegurando su correcto funcionamiento con la aplicación web, la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se elaboró la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante el Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Implementacion de la gestión de equipos de refrigeracion (Web Services) <br> Leader (L) / Collaborator (C) | Responsive y pruebas en distintos dispositivos <br> Leader (L) / Collaborator (C) | Despliegue del backend <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto  | JoaCUPE | C | C | C |
+
+
+
+#### 5.2.3.3. Sprint Backlog 3.
+
+El objetivo principal de este Sprint es elaborar el Backend y mejorar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+
+| User Story ID | User Story Título                                  |  Task ID  | Task Título                               | Descripción                                                                                             | Estimación (Horas) | Asignado a          | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :------------------------------------------------- | :-------: | :---------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----------------: | :------------------ | :-----------------------------------------: |
+|   **US-01**   | Registro de usuario                                | **UT-01** | Diseñar formulario de registro            | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales.           |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-02**   | Inicio de sesión                                   | **UT-01** | Implementar pantalla de login             | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma.           |          2         | [Leonardo Cumba]    |                     Done                    |
+|   **US-03**   | Gestionar equipos de refrigeración                 | **UT-01** | Crear módulo de gestión de equipos        | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración.              |          4         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-06**   | Solicitar y gestionar servicios de mantenimiento   | **UT-01** | Crear módulo de solicitudes de servicio   | Diseñar formularios y vistas para registrar, editar y gestionar solicitudes de mantenimiento.           |          4         | [Alejandro Galindo] |                     Done                    |
+|   **US-07**   | Dar seguimiento al progreso del servicio           | **UT-01** | Implementar vista de seguimiento          | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos.             |          3         | [Gabriel Perez]     |                     Done                    |
+|   **US-09**   | Recepción de alertas sobre solicitudes de servicio | **UT-01** | Implementar sistema de alertas            | Crear notificaciones visuales para informar cambios importantes en las solicitudes de servicio.         |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-12**   | Registrar y gestionar técnicos                     | **UT-01** | Crear módulo de técnicos                  | Diseñar formularios y vistas para registrar, editar y administrar técnicos.                             |          4         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-13**   | Consultar el perfil de un técnico                  | **UT-01** | Diseñar perfil de técnico                 | Implementar pantalla con información, métricas y desempeño del técnico.                                 |          2         | [Alejandro Galindo] |                     Done                    |
+|   **US-14**   | Asignar técnicos a servicios                       | **UT-01** | Implementar asignación de técnicos        | Desarrollar la funcionalidad para asignar técnicos a solicitudes de mantenimiento.                      |          3         | [Gabriel Perez]     |                     Done                    |
+|   **US-18**   | Visualizar equipos asignados a clientes            | **UT-01** | Implementar listado de equipos asignados  | Crear una vista donde se visualicen los equipos vinculados a cada cliente.                              |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-20**   | Visualizar la propuesta de valor principal         | **UT-01** | Diseñar sección principal de Landing Page | Implementar el banner principal destacando la propuesta de valor de Frigora.                            |          1         | [Leonardo Cumba]    |                     Done                    |
+|   **US-21**   | Explorar soluciones específicas para mi rubro      | **UT-01** | Crear sección de soluciones               | Diseñar la sección que presenta las soluciones ofrecidas para diferentes tipos de clientes.             |          2         | [Gabriel Perez]     |                     Done                    |
+|   **US-22**   | Comprender las funcionalidades clave               | **UT-01** | Implementar sección de funcionalidades    | Mostrar las funcionalidades principales de la plataforma mediante tarjetas informativas.                |          2         | [Walter Fajardo]    |                     Done                    |
+|   **US-23**   | Conocer la misión y visión                         | **UT-01** | Diseñar sección institucional             | Crear una sección informativa con la misión y visión de la empresa.                                     |          1         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-24**   | Contactar con el equipo de ventas                  | **UT-01** | Implementar formulario de contacto        | Crear un formulario para que los usuarios puedan comunicarse con el equipo comercial.                   |          3         | [Alejandro Galindo] |                     Done                    |
+|   **US-25**   | Acceder a la plataforma web (Call to Action)       | **UT-01** | Crear Navbar y botón CTA                  | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. |          1         | [Leonardo Cumba]    |                     Done                    |
+|   **TS-02**   | Creación de solicitudes de mantenimiento (API)     | **UT-01** | Implementar endpoint de solicitudes       | Desarrollar los endpoints necesarios para registrar y consultar solicitudes de mantenimiento.           |          3         | [Walter Fajardo]    |                     Done                    |
+|   **TS-04**   | Registrar nuevo usuario a través de API RESTful    | **UT-01** | Implementar endpoint de registro          | Desarrollar el servicio backend para registrar usuarios y validar información de entrada.               |          3         | [Leonardo Cumba]    |                     Done                    |
+|   **TS-05**   | Consulta de estado de servicios por API            | **UT-01** | Implementar endpoint de consulta          | Crear los endpoints para consultar el estado actual de los servicios registrados.                       |          2         | [Alejandro Galindo] |                     Done                    |
+
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
 
 ## Conclusiones
 
-**Objetivo comercial cumplido:**  
-La Landing Page fue completada al 100%, logrando presentar de manera clara la propuesta de valor de **Frigora** y los principales beneficios de la plataforma. Además, el contenido fue organizado pensando en los dos segmentos objetivo del proyecto: empresas que dependen de equipos de refrigeración y técnicos o proveedores de mantenimiento. Esto permite que el usuario comprenda rápidamente qué problema resuelve la solución y cómo puede ayudar en la gestión, monitoreo y atención de servicios.
+- Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
 
-**Organización ágil:**  
-Se aplicó la metodología Scrum de forma adecuada durante el desarrollo del Sprint. El equipo logró organizar el trabajo mediante User Stories y tareas técnicas, diferenciando claramente los objetivos funcionales de las actividades necesarias para implementarlos. Asimismo, el tablero de Trello permitió visualizar el avance del equipo, asignar responsabilidades y mantener un mejor control sobre el estado de cada tarea durante la entrega.
+- La integración entre la interfaz de usuario y los servicios backend permitió validar el flujo completo de varias funcionalidades del sistema, reduciendo riesgos de integración y detectando tempranamente posibles inconsistencias entre los modelos de datos y la experiencia de usuario.
 
-**Colaboración técnica:**  
-Se estableció un flujo de trabajo ordenado en GitHub, permitiendo que los integrantes del equipo integren sus avances de manera controlada. El uso de ramas de trabajo y mensajes de commit bajo la convención de **Conventional Commits** ayudó a mantener un historial claro y entendible del desarrollo realizado. Esto facilitó la revisión de cambios y la integración del frontend en la rama principal del proyecto.
+- La definición de endpoints REST, junto con la implementación de módulos específicos para cada entidad del sistema, contribuyó a establecer una arquitectura organizada y escalable que facilitará el desarrollo de nuevas funcionalidades en futuras iteraciones.
 
-**Avance del frontend:**  
-Durante esta entrega, el equipo se enfocó principalmente en la implementación del frontend de la aplicación. Se desarrollaron vistas importantes como sitios, servicios, monitoreo, alertas, reportes y dashboard global. Estas interfaces permiten representar visualmente las funcionalidades principales de Frigora, aunque todavía queda pendiente la integración completa con una API real y el desarrollo del backend para futuras entregas.
+- El uso de Scrum, Trello y GitHub permitió mantener una adecuada coordinación entre los miembros del equipo, favoreciendo la distribución de tareas, el seguimiento del progreso y la integración continua de los avances realizados durante el Sprint.
 
-**Validación del producto:**  
-El avance realizado permite mostrar una primera versión funcional a nivel visual de la plataforma, lo cual es importante para validar la experiencia de usuario, la navegación y la estructura general del sistema. Gracias a estas pantallas, se puede obtener retroalimentación temprana sobre la claridad de la interfaz y la utilidad de las funcionalidades propuestas.
+- La implementación simultánea de frontend y backend permitió obtener una versión más cercana al producto final, haciendo posible validar procesos completos de negocio en lugar de únicamente aspectos visuales o prototipos de interfaz.
 
-**Trabajo pendiente:**  
-Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataforma. En esta entrega se implementó principalmente el **frontend**, por lo que en los siguientes Sprints se deberá trabajar la lógica del servidor, la conexión con la base de datos y la integración de las funcionalidades con datos reales.
+- El Sprint permitió consolidar la base tecnológica de Frigora, dejando preparados los componentes necesarios para incorporar funcionalidades avanzadas como analítica de consumo energético, generación de reportes y sistemas de notificaciones en las siguientes iteraciones.
 
 ---
 
@@ -1751,6 +1837,9 @@ Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataf
 | Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
+| Video AV2 |  |
+| Video About-The-Product |  |
+| Video About-The-Team |  |
 
 
 
