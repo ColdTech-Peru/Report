@@ -170,37 +170,37 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
     - [5.1.2 Source Code Management](#512-source-code-management)
     - [5.1.3 Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2 Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+      - [5.2 Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#521-sprint-1)
-      - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
-      - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
+  - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+  - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+  - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
+  - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+  - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+  - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+  - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+  - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+  - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
 - [Sprint 2](#sprint-2)
-    - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
-    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
-      - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1.Sprint Planning 3.](#5231sprint-planning-3)
-    - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
-    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
-  - [Conclusiones](#conclusiones)
-- [Anexos](#anexos)
+  - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+  - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
+  - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+  - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+  - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
+  - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
+  - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+  - [5.2.3.1.Sprint Planning 3.](#5231sprint-planning-3)
+  - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+  - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+  - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+  - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [Conclusiones](#conclusiones)
+    - [Anexos](#anexos)
 
 ---
 
@@ -1293,11 +1293,11 @@ Para publicar en **GitHub Pages**:
 
 ---
 
-## 5.2 Landing Page, Services & Applications Implementation
+#### 5.2 Landing Page, Services & Applications Implementation
 
 ### 5.2.1 Sprint 1
 
-#### 5.2.1.1 Sprint Planning 1
+## 5.2.1.1 Sprint Planning 1
 
 | Campo | Detalle |
 | :--- | :--- |
@@ -1314,7 +1314,7 @@ Para publicar en **GitHub Pages**:
 
 **Retrospective Summary:** El equipo compartió ideas sobre el rubro, segmentos objetivo, beneficios y funcionalidades principales. Las tareas se organizaron eficientemente con avances visibles en el informe y la landing page.
 
-#### 5.2.1.2 Aspect Leaders and Collaborators
+## 5.2.1.2 Aspect Leaders and Collaborators
 
 | Team Member | GitHub Username | Diseño visual y maquetación | Responsividad y pruebas | Implementación multilenguaje |
 | :--- | :--- | :---: | :---: | :---: |
@@ -1326,7 +1326,7 @@ Para publicar en **GitHub Pages**:
 
 *L = Leader, C = Collaborator*
 
-#### 5.2.1.3 Sprint Backlog 1
+## 5.2.1.3 Sprint Backlog 1
 
 [Ver tablero en Trello](https://trello.com/invite/b/69edc7316e396d01726fc9c1/ATTIfe4224969e7f89d8cf52d5f416485b4519519493/frigora-product-backlog)
 
@@ -1345,7 +1345,7 @@ Para publicar en **GitHub Pages**:
 | US-24 | Contactar equipo de ventas | UT-02 | Definir flujo de validación | Prototipar mensajes de éxito/error al enviar el formulario. | 1.5 | Gabriel Perez | Done |
 | US-25 | Acceder a la plataforma (CTA) | UT-01 | Crear Navbar y botón CTA | Añadir barra de navegación con botón "Ingresar" que redirija al Login. | 1 | Leonardo Cumba | Done |
 
-#### 5.2.1.4 Development Evidence for Sprint Review
+## 5.2.1.4 Development Evidence for Sprint Review
 
 | Repositorio | Rama | Commit ID | Mensaje | Descripción |
 | :--- | :--- | :---: | :--- | :--- |
@@ -1359,7 +1359,7 @@ Para publicar en **GitHub Pages**:
 | ColdTech-Peru/LandingPage | master | 13d089c | html | Creación de la estructura semántica base del `index.html`. |
 | ColdTech-Peru/LandingPage | master | 5b6714b | primer commit1 | Inicialización del repositorio y carga de archivos fundamentales. |
 
-#### 5.2.1.5 Execution Evidence for Sprint Review
+## 5.2.1.5 Execution Evidence for Sprint Review
 
 **Inicio — Sección Hero**
 <div align="center">
@@ -1386,13 +1386,13 @@ Para publicar en **GitHub Pages**:
 <img src="assets/chapter05/contactanos.png" alt="Landing - Contacto" style="max-width: 90%;">
 </div>
 
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+## 5.2.1.6 Services Documentation Evidence for Sprint Review
 
 <div align="center">
 <img src="assets/chapter05/5216.png" alt="Services Documentation" style="max-width: 90%;">
 </div>
 
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+## 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landing-Page/**
 
@@ -1408,7 +1408,7 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 </div>
 
-#### 5.2.1.8 Team Collaboration Insights during Sprint
+## 5.2.1.8 Team Collaboration Insights during Sprint
 
 <div align="center">
 <img src="assets/chapter05/Team Collaboration Insights during Sprint - 1.png" alt="Collaboration Insights 1" style="max-width: 90%;">
@@ -1417,9 +1417,9 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 ---
 
-#### 5.2.2. Sprint 2
+### 5.2.2. Sprint 2
 
-#### 5.2.2.1.Sprint Planning 2.
+## 5.2.2.1.Sprint Planning 2.
 
 # Sprint 2
 
@@ -1439,7 +1439,7 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 | **Sum of Story Points** | 51 |
 
 
-### 5.2.2.2 Aspect Leaders and Collaborators
+## 5.2.2.2 Aspect Leaders and Collaborators
 
 Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
 
@@ -1455,7 +1455,7 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 
 
 
-#### 5.2.2.3.Sprint Backlog 2.
+## 5.2.2.3.Sprint Backlog 2.
 El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
 <img width="1919" height="812" alt="Sprint2trello" src="https://github.com/user-attachments/assets/758e408f-6618-4f91-abef-eeeb5c8d3dab" />
@@ -1479,7 +1479,7 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 | **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
-### 5.2.2.4. Development Evidence for Sprint Review
+## 5.2.2.4. Development Evidence for Sprint Review
 
 En este segundo Sprint hemos realizado la implementación del frontend de nuestra solución **Frigora**, desarrollada por la startup **ColdTech**. Durante esta entrega, el equipo se enfocó en construir las principales vistas de la aplicación, considerando el **Dashboard** como una vista global del sistema y el módulo de **Monitoring** como un bounded context independiente orientado al seguimiento de equipos, aparatos y alertas. La siguiente tabla muestra los commits realizados durante el desarrollo.
 
@@ -1505,7 +1505,7 @@ En este segundo Sprint hemos realizado la implementación del frontend de nuestr
 
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+## 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
 
@@ -1638,7 +1638,7 @@ Reports created:
 </div>
 
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+## 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñados para Frigora utilizando OpenAPI. Cabe destacar que, para el backend, estamos usando un `db.json` (JSON Server) desplegado en Render. El objetivo fue asegurar que los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la futura integración con el frontend y servirá como referencia para mantenimiento.
 
@@ -1676,7 +1676,7 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñ
 
 Link del Fake API desplegado en Render: https://fake-api-0233.onrender.com/
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+## 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 Durante este sprint se preparó el despliegue del frontend de Frigora en un entorno público, configurando la integración continua entre el repositorio de código y la plataforma de hosting.
 
@@ -1703,7 +1703,7 @@ URL de la aplicación web (frontend): https://frigora-frontend.vercel.app/
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+## 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Insights del Landing Page:
 
@@ -1725,9 +1725,9 @@ Insights del Front-End:
 
 ---
 
-#### 5.2.3. Sprint 3
+### 5.2.3. Sprint 3
 
-#### 5.2.3.1.Sprint Planning 3.
+## 5.2.3.1.Sprint Planning 3.
 
 | Sprint 3                           | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1745,7 +1745,7 @@ Insights del Front-End:
 | **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
-### 5.2.3.2 Aspect Leaders and Collaborators
+## 5.2.3.2 Aspect Leaders and Collaborators
 
 Durante este tercer sprint, el equipo se enfocó principalmente en el desarrollo del Backend, asegurando su correcto funcionamiento con la aplicación web, la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
 
@@ -1761,7 +1761,7 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 
 
 
-#### 5.2.3.3. Sprint Backlog 3.
+## 5.2.3.3. Sprint Backlog 3.
 
 El objetivo principal de este Sprint es elaborar el Backend y mejorar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
@@ -1789,25 +1789,25 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 |   **TS-05**   | Consulta de estado de servicios por API            | **UT-01** | Implementar endpoint de consulta          | Crear los endpoints para consultar el estado actual de los servicios registrados.                       |          2         | [Alejandro Galindo] |                     Done                    |
 
 
-### 5.2.3.4. Development Evidence for Sprint Review
+## 5.2.3.4. Development Evidence for Sprint Review
 
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+## 5.2.3.5. Execution Evidence for Sprint Review
 
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+## 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-
-
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+## 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 
 
+## 5.2.3.8. Team Collaboration Insights during Sprint.
 
-## Conclusiones
+
+
+
+### Conclusiones
 
 - Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
 
@@ -1823,7 +1823,7 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 
 ---
 
-# Anexos
+### Anexos
 
 | Recurso | URL |
 | :--- | :--- |
