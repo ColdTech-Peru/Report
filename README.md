@@ -198,7 +198,19 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
-  - [Conclusiones](#conclusiones)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+- [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
+  - [Preguntas Comunes](#preguntas-comunes)
+  - [Segmento 1 — Negocios con Equipos de Refrigeración](#segmento-1--negocios-con-equipos-de-refrigeración)
+  - [Segmento 2 — Técnicos y Empresas de Mantenimiento](#segmento-2--técnicos-y-empresas-de-mantenimiento)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [Segmento #1: Negocios con equipos de refrigeración](#segmento-1-negocios-con-equipos-de-refrigeración-1)
+      - [Segmento #2: Técnicos y Empresas de Mantenimiento](#segmento-2-técnicos-y-empresas-de-mantenimiento-1)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product.](#54-video-about-the-product)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](#video-about-the-team)
   - [Anexos](#anexos)
 
 ---
@@ -1795,13 +1807,200 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 
-
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 
+## 5.3. Validation Interviews.
 
-## Conclusiones
+### 5.3.1. Diseño de Entrevistas.
+
+# Guía de Entrevista — Frigora
+
+**Objetivo:** Validar la usabilidad y propuesta de valor de la plataforma según el perfil del entrevistado.
+
+## Preguntas Comunes
+
+1. ¿La landing page te dejó claro para qué sirve Frigora?
+2. ¿El registro e inicio de sesión fueron rápidos y sin errores?
+3. ¿Navegaste el panel principal sin dificultad?
+4. ¿Los cambios de configuración (idioma, tema) se mantuvieron al recargar?
+5. ¿Tuviste algún problema técnico durante la prueba?
+6. ¿Faltó alguna funcionalidad que esperabas encontrar?
+
+---
+
+## Segmento 1 — Negocios con Equipos de Refrigeración
+
+**Flujo:** Registrar sitios y equipos → Monitorear alertas → Crear service request → Calificar técnico → Ver dashboard y reportes.
+
+**Sitios y equipos**
+1. ¿Registrar un sitio y agregar equipos fue sencillo e intuitivo?
+2. ¿La información mostrada por equipo (estado, modelo) es relevante para tu operación?
+
+**Monitoreo y alertas**
+
+3. ¿La visualización en tiempo real (temperatura, humedad, consumo) es clara?
+4. ¿Las alertas (alta temperatura, apertura prolongada, falla eléctrica) fueron fáciles de interpretar y llegaron a tiempo?
+
+**Service request**
+
+5. ¿Crear una solicitud de servicio y asociarla a un equipo fue claro?
+6. ¿Pudiste hacer seguimiento del estado de tu solicitud en todo momento?
+
+**Calificación**
+
+7. ¿Encontraste fácilmente la opción para calificar al técnico una vez completado el servicio?
+8. ¿Los criterios de calificación reflejan lo que realmente te importa evaluar?
+
+**Dashboard y reportes**
+
+9. ¿El dashboard te da una visión general útil de tus equipos y sitios?
+10. ¿Los reportes (consumo, temperatura, horas de funcionamiento) son accesibles y fáciles de interpretar?
+
+---
+
+## Segmento 2 — Técnicos y Empresas de Mantenimiento
+
+**Flujo:** Ver solicitudes → Aceptar y asignar técnico → Registrar intervención → Completar servicio → Ver reportes.
+
+**Solicitudes**
+
+1. ¿La información de cada solicitud (equipo, problema, urgencia) fue suficiente para decidir aceptarla?
+2. ¿El proceso para aceptar y asignar un técnico fue intuitivo?
+
+**Intervención y cierre**
+
+3. ¿Registrar la intervención (trabajo realizado, observaciones) fue claro y completo?
+4. ¿Cerrar una solicitud como completada fue sencillo?
+
+**Historial**
+
+5. ¿Accediste fácilmente al historial de intervenciones previas por equipo?
+6. ¿La información del historial es suficiente para planificar la siguiente intervención?
+
+**Dashboard y reportes**
+
+7. ¿El dashboard te da una visión útil del estado de solicitudes y técnicos?
+8. ¿Los reportes de rendimiento por técnico y equipos por cliente son claros y útiles?
+
+
+### 5.3.2. Registro de Entrevistas.
+
+#### Segmento #1: Negocios con equipos de refrigeración
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | |
+| **Edad** |  |
+| **Distrito** |  |
+| **Duración** | |
+| **Enlace** |  |
+
+<div align="center">
+<img src="" alt="Entrevista 1 - Segmento 1" width="600">
+</div>
+
+**Resumen:** 
+
+---
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** |  |
+| **Edad** |  |
+| **Distrito** |  |
+| **Duración** |  |
+| **Enlace** |  |
+
+<div align="center">
+<img src="" alt="Entrevista 2 - Segmento 1" width="600">
+</div>
+
+**Resumen:** 
+
+---
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | |
+| **Edad** | |
+| **Distrito** |  |
+| **Duración** |  |
+| **Enlace** |  |
+
+<div align="center">
+<img src="" alt="Entrevista 3 - Segmento 1" width="600">
+</div>
+
+**Resumen:** 
+
+---
+
+#### Segmento #2: Técnicos y Empresas de Mantenimiento
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** |  |
+| **Edad** |  |
+| **Distrito** |  |
+| **Duración** |  |
+| **Enlace** |  |
+
+<div align="center">
+<img src="" alt="Entrevista 1 - Segmento 2" width="600">
+</div>
+
+**Resumen:** 
+
+---
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** |  |
+| **Edad** |  |
+| **Distrito** |  |
+| **Duración** | |
+| **Enlace** |  |
+
+<div align="center">
+<img src="" alt="Entrevista 2 - Segmento 2" width="600">
+</div>
+
+**Resumen:** 
+
+---
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** |  |
+| **Edad** |  |
+| **Distrito** | |
+| **Duración** | |
+| **Enlace** |  |
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+### 5.4. Video About-the-Product.
+
+
+
+
+## Conclusiones y recomendaciones
 
 - Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
 
@@ -1814,6 +2013,12 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 - La implementación simultánea de frontend y backend permitió obtener una versión más cercana al producto final, haciendo posible validar procesos completos de negocio en lugar de únicamente aspectos visuales o prototipos de interfaz.
 
 - El Sprint permitió consolidar la base tecnológica de Frigora, dejando preparados los componentes necesarios para incorporar funcionalidades avanzadas como analítica de consumo energético, generación de reportes y sistemas de notificaciones en las siguientes iteraciones.
+
+
+## Video About-the-Team
+
+
+
 
 ---
 
