@@ -1797,6 +1797,9 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
