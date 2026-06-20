@@ -1800,11 +1800,351 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+Para esta entrega hemos mejorado nuestro Frontend para que el usuario pueda registrarse como dueño de negocio o proveedor de servicios de mantenimiento y luego loguearse para entrar a la aplicación web. Hemos también implementado las vistas para el proveedor y mejorado las vistas que ya habían sido realizadas en el anterior sprint. Se presentará la evidencia de la ejecución de la aplicación web desplegada y conectada con el backend desplegado a continuación:
+
+**Register**
+
+<div align="center">
+  <img src="assets/chapter05/Register.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Login**
+
+<div align="center">
+  <img src="assets/chapter05/Login.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Dashboard del dueño de negocio**
+
+<div align="center">
+  <img src="assets/chapter05/dashboard-owner.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Sites actualizado con boton de eliminar**
+
+<div align="center">
+  <img src="assets/chapter05/sites2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalles del site actualizado**
+
+<div align="center">
+  <img src="assets/chapter05/sites-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Solicitud de servicio actualizado con el tecnico asignado, proveedor, opciones para cancelar servicio y calificar técnico**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-owner.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalle de solicitud de servicio actualizado con intervenciones mostradas al dueño de negocio**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Dashboard para los proveedores de servicios de mantenimiento**
+
+<div align="center">
+  <img src="assets/chapter05/dashboard-provider.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Gestión de tecnicos**
+
+<div align="center">
+  <img src="assets/chapter05/technicians.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Hub de solicitudes de servicio para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/service-hub.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Lista de solicitudes de servicio para proveedores de servicios de mantenimiento**
+
+<div align="center">
+  <img src="assets/chapter05/provider-service-request.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes completadas para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/completed-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes canceladas o denegadas para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/canceled-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes en progreso para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/inprogress-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Registro de intervenciones desde la vista del proveedor**
+
+<div align="center">
+  <img src="assets/chapter05/intervention-log.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalle de las intervenciones**
+
+<div align="center">
+  <img src="assets/chapter05/intervention-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Cuadro de dialogo para calificar técnico**
+
+<div align="center">
+  <img src="assets/chapter05/review-service.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de la reseña publicada**
+
+<div align="center">
+  <img src="assets/chapter05/review-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+En esta sección se mostrará la evidencia de toda la documentación relacionada a la primera versión de nuestro backend realizado en Spring Boot, que ya se encuentra conectada con nuestra aplicación web y está recibiendo y mostrando toda la data. A continuación se mostrará un cuadro con todos los bounded contexts, sus endpoints y verbos http.
+
+| Verbo HTTP | Endpoint | Descripción |
+|---|---|---|
+| **Autenticación** | | |
+| POST | `/api/v1/authentication/sign-up` | Registro de usuario |
+| POST | `/api/v1/authentication/sign-in` | Inicio de sesión |
+| **Usuarios** | | |
+| GET | `/api/v1/users` | Obtener todos los usuarios |
+| GET | `/api/v1/users/{id}` | Obtener un usuario por su id |
+| GET | `/api/v1/users/role/{role}` | Obtener usuarios por rol |
+| **Técnicos** | | |
+| GET | `/api/v1/technicians/{technicianId}` | Obtener un técnico por ID |
+| PUT | `/api/v1/technicians/{technicianId}` | Actualizar un técnico |
+| DELETE | `/api/v1/technicians/{technicianId}` | Eliminar un técnico |
+| GET | `/api/v1/technicians` | Obtener todos los técnicos |
+| POST | `/api/v1/technicians` | Crear un nuevo técnico |
+| **Sitios** | | |
+| GET | `/api/v1/sites` | Obtener todos los sitios |
+| POST | `/api/v1/sites` | Crear un nuevo sitio |
+| GET | `/api/v1/sites/{id}` | Obtener un sitio por su Id |
+| DELETE | `/api/v1/sites/{id}` | Eliminar un sitio |
+| **Equipos** | | |
+| GET | `/api/v1/equipment` | Obtener todos los equipos |
+| POST | `/api/v1/equipment` | Crear un nuevo equipo |
+| GET | `/api/v1/equipment/{id}` | Obtener un equipo por su Id |
+| DELETE | `/api/v1/equipment/{id}` | Eliminar un equipo |
+| **Solicitudes de Servicio** | | |
+| POST | `/api/v1/service-requests` | Crear una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/reject` | Rechazar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/complete` | Completar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/cancel` | Cancelar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/assign-technician` | Asignar técnico a una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/accept` | Aceptar una solicitud de servicio |
+| GET | `/api/v1/service-requests/{serviceRequestId}` | Obtener una solicitud de servicio por Id |
+| DELETE | `/api/v1/service-requests/{serviceRequestId}` | Eliminar una solicitud de servicio |
+| GET | `/api/v1/service-requests/requester/{requesterId}` | Obtener solicitudes de servicio por Id de solicitante |
+| GET | `/api/v1/service-requests/provider/{providerId}` | Obtener solicitudes de servicio por Id de proveedor |
+| **Intervenciones** | | |
+| POST | `/api/v1/interventions` | Registrar una intervención |
+| GET | `/api/v1/interventions/{interventionId}` | Obtener una intervención por Id |
+| GET | `/api/v1/interventions/serviceRequest/{serviceRequestId}` | Obtener intervenciones por Id de solicitud de servicio |
+| **Alertas** | | |
+| GET | `/api/v1/alert` | Obtener todas las alertas o por Tenant/Equipo |
+| POST | `/api/v1/alert` | Crear una nueva alerta |
+| PATCH | `/api/v1/alert/{id}/acknowledge` | Confirmar (acknowledge) una alerta |
+| GET | `/api/v1/alert/{id}` | Obtener una alerta por Id |
+| DELETE | `/api/v1/alert/{id}` | Eliminar una alerta |
+| **Reportes** | | |
+| GET | `/api/v1/reports/{reportId}` | Obtener un reporte por ID |
+| PUT | `/api/v1/reports/{reportId}` | Actualizar un reporte |
+| DELETE | `/api/v1/reports/{reportId}` | Eliminar un reporte |
+| GET | `/api/v1/reports` | Obtener todos los reportes |
+| POST | `/api/v1/reports` | Crear un nuevo reporte |
+| **Reseñas** | | |
+| GET | `/api/v1/reviews` | Obtener todas las reseñas |
+| POST | `/api/v1/reviews` | Crear una reseña |
+| GET | `/api/v1/reviews/{reviewId}` | Obtener una reseña por Id |
+| GET | `/api/v1/reviews/service-request/{serviceRequestId}` | Obtener reseñas por Id de solicitud de servicio |
+
+
+**Intervenciones**
+
+<div align="center">
+  <img src="assets/chapter05/interventions-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-1.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-3.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Reseñas**
+
+<div align="center">
+  <img src="assets/chapter05/reviews-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Técnicos**
+
+<div align="center">
+  <img src="assets/chapter05/technicians-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Autenticación**
+
+<div align="center">
+  <img src="assets/chapter05/authentication-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Alertas**
+
+<div align="center">
+  <img src="assets/chapter05/alert-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Usuarios**
+
+<div align="center">
+  <img src="assets/chapter05/users-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Solicitudes de servicio**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Sitio**
+
+<div align="center">
+  <img src="assets/chapter05/site-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Reportes**
+
+<div align="center">
+  <img src="assets/chapter05/reporting-swagger.png"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Equipos**
+
+<div align="center">
+  <img src="assets/chapter05/equipment-swagger.png"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el Sprint 3, hemos desplegado nuevamente nuestro Frontend y también nuestra primera versión de nuestra plataforma en Spring Boot y la base de datos. No hemos necesitado del Fake Api, ya que nuestra aplicación web ya está conectada al backend y toda la data se dirige hacia allá.
+
+**Evidencia de despliegue del Frontend en Vercel:**
+
+<div align="center">
+  <img src="assets/chapter05/frontend-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del Frontend desplegado: https://frigora-frontend.vercel.app/
+
+**Evidencia del despliegue del Backend en Render:**
+
+<div align="center">
+  <img src="assets/chapter05/backend-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del backend desplegado: https://frigora-platform.onrender.com/
+
+**Evidencias del despliegue de la base de datos MySQL en Railway:**
+
+<div align="center">
+  <img src="assets/chapter05/database-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/database-deploy2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -2030,9 +2370,11 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
 | Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
+| Repositorio del Backend | https://github.com/ColdTech-Peru/Frigora-Platform |
 | Frontend desplegado | https://frigora-frontend.vercel.app/ |
 | Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
+| Backend desplegado | https://frigora-platform.onrender.com/ |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 | Video AV2 |  |
 | Video About-The-Product |  |
