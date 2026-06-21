@@ -221,7 +221,33 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
       - [Segmento #1: Negocios con equipos de refrigeración](#segmento-1-negocios-con-equipos-de-refrigeración-1)
       - [Segmento #2: Técnicos y Empresas de Mantenimiento](#segmento-2-técnicos-y-empresas-de-mantenimiento-1)
+  - [La experiencia general fue satisfactoria, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las solicitudes permitió tomar decisiones adecuadas, el registro y cierre de intervenciones fue intuitivo, el historial proporcionó contexto útil para futuras acciones y tanto el dashboard como los reportes ofrecieron información relevante para la gestión y seguimiento de las operaciones de mantenimiento.](#la-experiencia-general-fue-satisfactoria-ya-que-todas-las-funcionalidades-evaluadas-resultaron-claras-y-fáciles-de-utilizar-la-información-de-las-solicitudes-permitió-tomar-decisiones-adecuadas-el-registro-y-cierre-de-intervenciones-fue-intuitivo-el-historial-proporcionó-contexto-útil-para-futuras-acciones-y-tanto-el-dashboard-como-los-reportes-ofrecieron-información-relevante-para-la-gestión-y-seguimiento-de-las-operaciones-de-mantenimiento)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+      - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
+      - [SITE o APP A EVALUAR](#site-o-app-a-evaluar)
+      - [TAREAS A EVALUAR](#tareas-a-evaluar)
+      - [ESCALA DE SEVERIDAD](#escala-de-severidad)
+      - [TABLA RESUMEN](#tabla-resumen)
+      - [DESCRIPCIÓN DE PROBLEMAS](#descripción-de-problemas)
+        - [PROBLEMA #1: El nombre del producto se confunde con el nombre de una persona](#problema-1-el-nombre-del-producto-se-confunde-con-el-nombre-de-una-persona)
+        - [PROBLEMA #2: Cálculo de factura inconsistente con el detalle de la orden](#problema-2-cálculo-de-factura-inconsistente-con-el-detalle-de-la-orden)
+        - [PROBLEMA #3: Estado de pago contradictorio entre vistas del mismo pedido](#problema-3-estado-de-pago-contradictorio-entre-vistas-del-mismo-pedido)
+        - [PROBLEMA #4: Datos de Conductor y Vehículo no visibles para el comprador](#problema-4-datos-de-conductor-y-vehículo-no-visibles-para-el-comprador)
+        - [PROBLEMA #5: Datos de prueba (placeholders) visibles en producción](#problema-5-datos-de-prueba-placeholders-visibles-en-producción)
+        - [PROBLEMA #6: Mezcla de idiomas dentro de la misma pantalla](#problema-6-mezcla-de-idiomas-dentro-de-la-misma-pantalla)
+        - [PROBLEMA #7: Bug de cálculo de tiempo relativo ("NaNmo ago")](#problema-7-bug-de-cálculo-de-tiempo-relativo-nanmo-ago)
+        - [PROBLEMA #8: Unidad de cantidad ilegible en formulario de solicitud (versión español)](#problema-8-unidad-de-cantidad-ilegible-en-formulario-de-solicitud-versión-español)
+        - [PROBLEMA #9: Ambigüedad en el formato numérico de cantidades](#problema-9-ambigüedad-en-el-formato-numérico-de-cantidades)
+        - [PROBLEMA #10: Unidad de volumen inconsistente entre módulos ("MT" vs. "L")](#problema-10-unidad-de-volumen-inconsistente-entre-módulos-mt-vs-l)
+        - [PROBLEMA #11: Cifra de ingresos truncada en el dashboard de reportes](#problema-11-cifra-de-ingresos-truncada-en-el-dashboard-de-reportes)
+        - [PROBLEMA #12: Indicador de estado sin etiqueta de texto en tabla de clientes](#problema-12-indicador-de-estado-sin-etiqueta-de-texto-en-tabla-de-clientes)
+        - [PROBLEMA #13: Dashboard del proveedor no refleja actividad reciente](#problema-13-dashboard-del-proveedor-no-refleja-actividad-reciente)
+        - [PROBLEMA #14: Uso de Yape como método de pago para montos B2B muy elevados](#problema-14-uso-de-yape-como-método-de-pago-para-montos-b2b-muy-elevados)
+        - [PROBLEMA #15: Transacción de ejemplo de un volumen no representativo del modelo B2B](#problema-15-transacción-de-ejemplo-de-un-volumen-no-representativo-del-modelo-b2b)
+        - [PROBLEMA #16: Error ortográfico recurrente "premiun"](#problema-16-error-ortográfico-recurrente-premiun)
+        - [PROBLEMA #17: Falta de indicación de campos obligatorios en el formulario de registro de cuenta](#problema-17-falta-de-indicación-de-campos-obligatorios-en-el-formulario-de-registro-de-cuenta)
+        - [PROBLEMA #18: Gráficos sin valores ni leyenda claros](#problema-18-gráficos-sin-valores-ni-leyenda-claros)
+      - [Conclusión general de la sesión](#conclusión-general-de-la-sesión)
     - [5.4. Video About-the-Product.](#54-video-about-the-product)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
@@ -2658,6 +2684,346 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+#### UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Valor |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | 11959
+| **PROFESORES** | Hugo Allan Mori |
+| **AUDITOR** | ColdTech (Frigora) |
+| **CLIENTE(S)** | PrimeFuel |
+
+
+---
+
+#### SITE o APP A EVALUAR
+
+**FullTank (PrimeFuel)** — Web Application B2B de intermediación de combustible (Proveedor/Distribuidor ↔ Comprador/Solicitante).
+
+---
+
+#### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Creación de una solicitud de combustible (Buyer)
+2. Revisión y aceptación/rechazo de solicitudes pendientes (Provider)
+3. Asignación de conductor y vehículo, y despacho de un pedido (Provider)
+4. Confirmación de recepción de un pedido (Buyer)
+5. Pago de un pedido y visualización de factura (Buyer)
+6. Registro de un nuevo producto en inventario (Provider)
+7. Registro de un nuevo conductor (Provider)
+8. Registro de cuenta nueva (Provider/Buyer)
+9. Revisión de reportes y analítica (Provider/Buyer)
+10. Revisión de notificaciones
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Flujo de login / recuperación de contraseña (no se proveyeron capturas)
+2. Gestión de equipos del comprador (catálogo de equipos) en detalle
+3. Cancelación de pedidos y flujo de rechazo de solicitudes
+4. Versión móvil / responsive (todas las capturas corresponden a escritorio)
+
+---
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|---|---|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+#### TABLA RESUMEN
+
+| # | Problema | Severidad | Heurística/Principio violado(a) |
+|---|---|---|---|
+| 1 | El nombre del producto se confunde con el nombre de una persona ("Franchesco Bernandini") en el selector y resumen de la solicitud de combustible | 4 | Usability: Match entre el sistema y el mundo real |
+| 2 | Cálculo de factura inconsistente: el "Subtotal" se deriva restando el IGV del Total en vez de multiplicar Cantidad × Precio Unitario, generando montos de línea incorrectos | 4 | Usability: Prevención de errores / Consistencia de datos |
+| 3 | Estado de pago contradictorio entre la vista del proveedor ("Pendiente de pago") y la factura del mismo pedido ("PAID") | 4 | Usability: Visibilidad del estado del sistema |
+| 4 | Datos de Conductor y Vehículo "Not assigned" en la vista del comprador mientras la vista del proveedor del mismo pedido sí los muestra asignados | 3 | Usability: Consistencia y estándares |
+| 5 | Datos de prueba (placeholders sin sentido) visibles en producción: descripciones de producto, nombre de conductor "Jose el Carry", placa "AHd-sdgsdg" | 3 | Usability: Estética y diseño minimalista / Profesionalismo |
+| 6 | Mezcla de idiomas dentro de la misma pantalla o lista (notificaciones, badges de sector) | 2 | Usability: Consistencia y estándares |
+| 7 | Bug de fecha relativa: notificaciones muestran "NaNmo ago" en vez del tiempo transcurrido | 3 | Usability: Prevención de errores |
+| 8 | Unidad de cantidad ilegible/rota en el formulario de solicitud en español: "Cantidad (—)" en vez de "Cantidad (L)" | 2 | Usability: Visibilidad del estado del sistema |
+| 9 | Ambigüedad en formato numérico de cantidad solicitada ("23.000" interpretado como 23 000 L) sin separador de miles explícito ni confirmación clara | 3 | Usability: Prevención de errores |
+| 10 | Unidad de volumen inconsistente entre módulos: "Total Volume (MT)" en Reportes vs. Litros (L) en el resto de la aplicación | 2 | Information Architecture: ¿Es comprensible? (Labeling Systems) |
+| 11 | Cifra de ingresos truncada / con error de formato ("S/ 7,735,703.0") en el dashboard de reportes | 2 | Usability: Visibilidad del estado del sistema |
+| 12 | Indicador de "Estado" en tabla de Mejores Clientes mostrado solo como una pastilla de color sin etiqueta de texto | 2 | Usability: Reconocimiento antes que recuerdo |
+| 13 | Dashboard del proveedor muestra "Active Orders: 0" y "Pending Requests: 0" inmediatamente después de que el comprador registró 3 solicitudes activas | 3 | Usability: Visibilidad del estado del sistema |
+| 14 | Método de pago "YAPE" utilizado para transacciones B2B de gran magnitud (S/ 875,000.00), incompatible con los límites reales de esa billetera digital | 2 | Usability: Match entre el sistema y el mundo real |
+| 15 | Transacción de ejemplo de solo 4 litros de Diesel B5 en un contexto de catálogo B2B industrial | 1 | Usability: Match entre el sistema y el mundo real |
+| 16 | Error ortográfico recurrente "premiun" en vez de "premium" en nombre de producto | 1 | Usability: Consistencia y estándares |
+| 17 | Formulario de registro de cuenta no marca campos obligatorios, a diferencia de otros formularios del mismo sistema (p. ej. registro de conductor) que sí usan asterisco | 2 | Usability: Consistencia y estándares / Prevención de errores |
+| 18 | Gráficos de barras y de dona sin valores numéricos visibles ni leyenda clara sobre los datos representados | 2 | Information Architecture: ¿Es comprensible? |
+
+---
+
+#### DESCRIPCIÓN DE PROBLEMAS
+
+##### PROBLEMA #1: El nombre del producto se confunde con el nombre de una persona
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+En el panel "Create Fuel Request" / "Crear Solicitud de Combustible", el selector "Select a product" muestra como opción **"Franchesco Bernandini"**, un nombre propio de persona, en lugar de un nombre de producto de combustible (por ejemplo "Gasohol 84"). Esta misma etiqueta se replica en el "Order Summary" como valor del campo "Product". En el listado de "Products offered" se puede confirmar que el producto correspondiente sí es Gasohol 84, pero su nombre comercial visible está mal asignado y muestra el nombre de una persona, junto con una descripción sin sentido ("aklfjalkjfslkajflakj"). Esto genera confusión grave: el comprador no puede identificar qué combustible está solicitando.
+
+**Recomendación:**
+Verificar el mapeo de datos del catálogo de productos: el campo que alimenta el nombre visible del producto parece estar tomando un campo de "contacto" o "responsable" en lugar del campo "nombre de producto". Reemplazar los datos de prueba (placeholders) por nombres de producto reales y consistentes (p. ej. "Gasohol 84") antes de cualquier entrega o demostración.
+
+---
+
+##### PROBLEMA #2: Cálculo de factura inconsistente con el detalle de la orden
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Prevención de errores / Consistencia de datos
+
+**Problema:**
+En las facturas generadas (`Invoice`), el campo "AMOUNT" de la línea de detalle no corresponde a `Cantidad × Precio unitario`. Por ejemplo, en uno de los pedidos: 25 000 L × S/ 35.00 = S/ 875,000.00, pero el sistema muestra "Amount: S/ 741,525.42" y luego calcula el IGV (18%) sobre esa cifra incorrecta para finalmente llegar al Total correcto (S/ 875,000.00) por una vía de cálculo inversa (como si el Total ya incluyera el IGV y se derivara el subtotal restándolo). El mismo patrón se repite en otro pedido (4 L × S/16.20 debería ser S/64.80, pero se muestra "S/54.92") y en otro más (20 000 L × S/40.00 debería ser S/800,000.00, pero se muestra "S/677,966.10"). Si bien el "Total" final suele coincidir con lo esperado, el desglose intermedio (Subtotal e IGV) es matemáticamente incorrecto y puede generar desconfianza o problemas contables/tributarios reales si esta factura se usa formalmente.
+
+**Recomendación:**
+Corregir la lógica de cálculo de la factura: `Subtotal = Cantidad × Precio Unitario`, `IGV = Subtotal × 18%`, `Total = Subtotal + IGV`. Verificar con pruebas unitarias que el monto de línea (AMOUNT) siempre sea igual a QTY × UNIT PRICE.
+
+---
+
+##### PROBLEMA #3: Estado de pago contradictorio entre vistas del mismo pedido
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+Para un mismo pedido, la vista de "Detalle de Orden" del proveedor muestra el estado **"Pendiente de pago"** / "Esperando el pago del comprador", mientras que en esa misma instancia de tiempo la factura accesible desde el módulo de Pagos del comprador ya exhibe el badge **"PAID"** en verde. Esta contradicción se repite de forma sistemática en al menos tres pedidos distintos de las capturas, lo que sugiere un problema de sincronización entre el módulo de Pedidos (lado proveedor) y el módulo de Pagos (lado comprador), no un caso aislado.
+
+**Recomendación:**
+Implementar una única fuente de verdad para el estado de pago del pedido (idealmente en el backend), de forma que cualquier vista —proveedor o comprador— consulte el mismo estado actualizado. Considerar actualización en tiempo real (websockets o polling) para reflejar cambios de estado sin requerir recarga manual.
+
+---
+
+##### PROBLEMA #4: Datos de Conductor y Vehículo no visibles para el comprador
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+Una vez que el proveedor asigna conductor y vehículo a un pedido despachado (visible correctamente en su propia vista, p. ej. "Marcos Perez" y "Volvo FH-3000"), la vista equivalente del comprador para el mismo pedido sigue mostrando **"Driver: Not assigned"** y **"Vehicle: Not assigned"**, incluso en distintos idiomas de interfaz. Esto resta confianza al comprador, que no puede verificar quién transporta su pedido ni en qué vehículo, información relevante para el seguimiento de la entrega.
+
+**Recomendación:**
+Revisar el endpoint o la consulta que alimenta el detalle de orden en la vista del comprador, asegurando que incluya los campos `driver` y `vehicle` ya asignados por el proveedor, en lugar de mostrar siempre el valor por defecto "Not assigned".
+
+---
+
+##### PROBLEMA #5: Datos de prueba (placeholders) visibles en producción
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Estética y diseño minimalista / Profesionalismo
+
+**Problema:**
+Se identifican múltiples elementos de datos de relleno (placeholder/lorem-ipsum) que no fueron reemplazados antes de las capturas: la descripción del proveedor "jfaeljfalkfjalsfjaef", la descripción de producto "aklfjalkjfslkajflakj", el conductor con nombre "Jose el Carry" y la placa de vehículo "AHd-sdgsdg". Estos textos no aportan información real y, de aparecer ante un usuario o cliente potencial, comunican falta de cuidado y profesionalismo en el producto.
+
+**Recomendación:**
+Reemplazar todos los datos semilla (seed data) de demostración por información realista y representativa antes de cualquier entrega, demo o despliegue visible a terceros.
+
+---
+
+##### PROBLEMA #6: Mezcla de idiomas dentro de la misma pantalla
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+En el panel de notificaciones con interfaz en español, los textos de las notificaciones individuales aparecen en inglés ("New Request", "Order Delivered", "Payment Received"). De forma inversa, en otra captura con interfaz en inglés, la primera notificación aparece en español ("Solicitud enviada"). En la tabla "Mejores Clientes" en español, el badge de sector se muestra en inglés ("TRANSPORT"). Esta mezcla aleatoria de idiomas, sin relación con el selector EN/ES visible en la barra superior, genera una experiencia inconsistente y poco confiable, especialmente relevante dado que el enunciado del proyecto exige soporte i18n (en_US / es_419) de forma completa.
+
+**Recomendación:**
+Auditar todos los textos generados dinámicamente (notificaciones, etiquetas de catálogo) para asegurar que respeten el idioma seleccionado por el usuario, utilizando claves de traducción (i18n keys) en lugar de cadenas de texto fijas en el código o en los datos semilla.
+
+---
+
+##### PROBLEMA #7: Bug de cálculo de tiempo relativo ("NaNmo ago")
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Prevención de errores
+
+**Problema:**
+En el panel de Notificaciones, la marca de tiempo relativa de cada notificación muestra el texto **"NaNmo ago"** en lugar de un valor legible como "hace 5 minutos" o "2h ago". Esto evidencia un error en el cálculo de diferencia de fechas (probablemente una operación aritmética sobre una fecha indefinida o mal formateada que produce `NaN`, concatenada con el sufijo "mo ago").
+
+**Recomendación:**
+Revisar la función de formateo de fecha relativa; validar que las fechas de origen (timestamp de la notificación) sean válidas antes de calcular la diferencia, y mostrar un valor de respaldo (p. ej. la fecha completa) si el cálculo no puede resolverse.
+
+---
+
+##### PROBLEMA #8: Unidad de cantidad ilegible en formulario de solicitud (versión español)
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+En el formulario "Crear Solicitud de Combustible" en español, la etiqueta del campo de cantidad se muestra como **"Cantidad (—)"**, con un carácter no legible en lugar de la unidad de medida. La versión en inglés del mismo formulario sí muestra correctamente "Quantity (L)". Esto deja al usuario sin saber en qué unidad debe ingresar la cantidad.
+
+**Recomendación:**
+Corregir la cadena de traducción al español para que incluya explícitamente la unidad: "Cantidad (L)".
+
+---
+
+##### PROBLEMA #9: Ambigüedad en el formato numérico de cantidades
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Prevención de errores
+
+**Problema:**
+El campo "Cantidad (L)" muestra el valor **"23.000"**, que en formato latinoamericano podría leerse como 23 (con tres decimales) o como 23 000 según convención de separador de miles. El panel contiguo indica "El equipo necesita: 23000 L", lo que sugiere que el sistema interpreta "23.000" como 23 000 litros. Sin una aclaración visual (separador de miles consistente, o un step/formato explícito en el input), el usuario podría ingresar o interpretar mal una cantidad, con un impacto económico significativo dado que el "Total estimado" depende directamente de este valor (S/ 1,035,000.00 en este caso).
+
+**Recomendación:**
+Aplicar un formato de número consistente con separadores de miles claros (p. ej. "23,000" o "23 000" según configuración regional) y considerar mostrar el valor en palabras o con una unidad clara junto al campo, además de una validación que compare la cantidad solicitada contra el stock disponible y la necesidad del equipo antes de habilitar el envío.
+
+---
+
+##### PROBLEMA #10: Unidad de volumen inconsistente entre módulos ("MT" vs. "L")
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - ¿Es comprensible? (Labeling Systems)
+
+**Problema:**
+En el módulo de "Reports" / "Reportes & Analítica" (Provider), la columna "Total Volume" se etiqueta en toneladas métricas ("142,500.0 MT", "89,340.5 MT"), mientras que en absolutamente todo el resto de la aplicación (catálogo, pedidos, facturas) el combustible se mide y muestra en litros (L). Esta inconsistencia de unidades entre módulos puede llevar a interpretaciones erróneas sobre los volúmenes reales manejados por cada cliente, además de ser una unidad poco habitual para combustibles líquidos minoristas/industriales medidos por volumen.
+
+**Recomendación:**
+Unificar la unidad de medida del volumen de combustible en toda la aplicación (recomendado: Litros, consistente con el resto del producto), o, si se requiere manejar distintas unidades por tipo de cliente/sector, indicarlo explícitamente y permitir su conversión visible.
+
+---
+
+##### PROBLEMA #11: Cifra de ingresos truncada en el dashboard de reportes
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+La tarjeta "TOTAL SALES REVENUE" muestra el valor **"S/ 7,735,703.0"**, que aparenta estar cortado por el ancho de la tarjeta (un dígito decimal faltante o mal renderizado), mientras que la pantalla equivalente en "Your Clients Reports" sí muestra correctamente "S/ 7,735,703" sin decimales. Esta inconsistencia visual entre componentes que muestran el mismo dato sugiere un problema de truncamiento de texto o de formato de número no controlado en una de las dos vistas.
+
+**Recomendación:**
+Revisar el contenedor de la tarjeta de KPI para que el texto no se corte (`overflow`, `font-size` responsivo, o `text-overflow: ellipsis` controlado) y unificar el formato numérico (con o sin decimales) entre ambas pantallas.
+
+---
+
+##### PROBLEMA #12: Indicador de estado sin etiqueta de texto en tabla de clientes
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Reconocimiento antes que recuerdo
+
+**Problema:**
+En la tabla "Mejores Clientes", la columna "Estado" muestra únicamente una pequeña pastilla de color naranja, sin ningún texto que indique qué representa ese estado (p. ej. "Activo", "Pendiente", "Inactivo"). El usuario debe memorizar o inferir el significado del color, lo cual viola el principio de reconocimiento antes que recuerdo y además es problemático en términos de accesibilidad (no debe depender solo del color para transmitir significado).
+
+**Recomendación:**
+Añadir una etiqueta de texto visible junto al indicador de color (como sí ocurre en la tabla equivalente "Client Portfolio", donde el estado se muestra como texto: "ACTIVE", "PENDING", "INACTIVE").
+
+---
+
+##### PROBLEMA #13: Dashboard del proveedor no refleja actividad reciente
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+Inmediatamente después de que el comprador envía exitosamente 3 solicitudes de combustible (visibles en la columna izquierda de la captura, todas registradas con su Request ID), el "Provider Dashboard" del lado derecho muestra **"PENDING REQUESTS: 0"** y **"ACTIVE ORDERS: 0"**. Esta discrepancia entre la actividad real y el resumen del dashboard podría hacer que el proveedor no se entere de solicitudes pendientes que requieren su atención.
+
+**Recomendación:**
+Verificar que los contadores del dashboard del proveedor consulten datos en tiempo real (o se actualicen automáticamente tras cada solicitud nueva), en lugar de depender de una carga de página obsoleta o de una agregación con retraso (cache desincronizado).
+
+---
+
+##### PROBLEMA #14: Uso de Yape como método de pago para montos B2B muy elevados
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+Las capturas de "Payment History" muestran pagos de **S/ 875,000.00** registrados con el método **"YAPE"**, una billetera digital peruana orientada a pagos entre personas y comercios pequeños, con límites de transacción muy por debajo de esa cifra en la realidad. Esto resulta poco realista para una plataforma B2B industrial que mueve montos de seis cifras, y podría confundir a evaluadores o usuarios sobre los métodos de pago efectivamente soportados o sobre la seriedad del flujo transaccional.
+
+**Recomendación:**
+Para transacciones de este volumen, considerar y mostrar métodos de pago corporativos más realistas (transferencia bancaria, línea de crédito, pago contra factura a 30/60 días, tarjeta corporativa), reservando Yape u otras billeteras móviles para escenarios de menor monto si la plataforma decide soportar pagos mixtos B2B/B2C.
+
+---
+
+##### PROBLEMA #15: Transacción de ejemplo de un volumen no representativo del modelo B2B
+
+**Severidad:** 1
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+La factura de ejemplo de pago muestra una compra de solo **4 L** de Diesel B5, una cantidad propia de un consumidor final en un grifo minorista y no de una operación B2B entre empresas de transporte/logística/minería, que es el segmento objetivo declarado de la plataforma (según las demás pantallas, donde los pedidos van de 300 L a 25 000 L). Si bien es un único caso aislado de bajo impacto, contrasta con el resto de los datos de la aplicación.
+
+**Recomendación:**
+Ajustar los datos de ejemplo de facturación para que reflejen consistentemente cantidades industriales/comerciales, coherentes con el resto del sistema.
+
+---
+
+##### PROBLEMA #16: Error ortográfico recurrente "premiun"
+
+**Severidad:** 1
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+El nombre de producto "Diesel B5 premiun" contiene un error ortográfico recurrente; la palabra correcta en inglés (idioma adoptado para nombres de producto, según otras pantallas) es "premium". Este error se repite consistentemente en todas las pantallas donde aparece el producto, incluyendo el formulario de creación del mismo, lo que indica que el error está en el dato de origen, no es un error de transcripción puntual.
+
+**Recomendación:**
+Corregir el nombre del producto en la base de datos / catálogo a "Diesel B5 Premium".
+
+---
+
+##### PROBLEMA #17: Falta de indicación de campos obligatorios en el formulario de registro de cuenta
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Consistencia y estándares / Prevención de errores
+
+**Problema:**
+El formulario de registro de cuenta ("Account Type", "Company Information", "User Account") no utiliza ningún indicador visual (como el asterisco rojo) para señalar qué campos son obligatorios, a diferencia del formulario "Register New Driver" del mismo sistema, donde todos los campos sí están marcados con un asterisco rojo junto a la etiqueta. Esta inconsistencia entre formularios puede llevar a que el usuario no sepa de antemano qué información es indispensable antes de enviar el formulario de registro.
+
+**Recomendación:**
+Aplicar el mismo patrón de marcado de campos obligatorios (asterisco rojo) de forma consistente en todos los formularios del sistema, incluyendo el de registro de cuenta.
+
+---
+
+##### PROBLEMA #18: Gráficos sin valores ni leyenda claros
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - ¿Es comprensible?
+
+**Problema:**
+Varios gráficos del módulo de Reportes (gráfico de barras "Sales trend", gráfico de dona "Gasto por Tipo de Combustible", gráfico de barras "Ingresos por Tipo de Combustible") no muestran valores numéricos directamente sobre las barras/segmentos ni una leyenda detallada visible en la captura, dificultando que el usuario interprete con precisión la magnitud representada sin pasar el cursor sobre cada elemento (cuya interacción no puede confirmarse en una captura estática, pero que de no existir constituye una barrera de comprensión).
+
+**Recomendación:**
+Incluir etiquetas de datos (data labels) visibles sobre los elementos gráficos principales, o al menos un tooltip accesible y persistente, junto con una leyenda clara que indique unidades y períodos representados.
+
+---
+
+#### Conclusión general de la sesión
+
+La aplicación **FullTank (PrimeFuel)** demuestra una arquitectura de flujo de pedidos sólida en su estructura general (solicitud → aceptación → despacho → confirmación → pago → factura), con buena segmentación de roles (Comprador/Solicitante vs. Proveedor/Distribuidor) y vistas duales bien diferenciadas por color e identificación de rol en el header. Sin embargo, se identificaron **problemas de severidad alta (4)** relacionados con la integridad de los datos mostrados —específicamente el mapeo erróneo de nombre de producto y los cálculos incorrectos de facturación— que deben resolverse antes de cualquier entrega o demostración formal, ya que afectan directamente la confianza del usuario en la exactitud económica de la plataforma. Asimismo, se recomienda una limpieza exhaustiva de datos de prueba (seed data) y una revisión de sincronización de estado entre las vistas de comprador y proveedor para un mismo pedido.
 
 
 ### 5.4. Video About-the-Product.
