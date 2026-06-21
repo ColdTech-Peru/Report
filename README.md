@@ -2650,11 +2650,11 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombre** |  |
-| **Edad** |  |
-| **Distrito** | |
-| **Duración** | |
-| **Enlace** |  |
+| **Nombre** | Yañez Santos, Leo Giovany |
+| **Edad** | 23 años |
+| **Distrito** | San Miguel |
+| **Duración** | 5:56 min|
+| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt |
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
