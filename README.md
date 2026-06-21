@@ -1885,7 +1885,7 @@ En esta sección se presentan los ultimos commits realizados en el repositorio d
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Para esta entrega hemos mejorado nuestro Frontend para que el usuario pueda registrarse como dueño de negocio o proveedor de servicios de mantenimiento y luego loguearse para entrar a la aplicación web. Hemos también implementado las vistas para el proveedor y mejorado las vistas que ya habían sido realizadas en el anterior sprint. Se presentará la evidencia de la ejecución de la aplicación web desplegada y conectada con el backend desplegado a continuación:
+Para esta entrega hemos mejorado nuestro Frontend para que el usuario pueda registrarse como dueño de negocio o proveedor de servicios de mantenimiento y luego loguearse para entrar a la aplicación web. Hemos también implementado las vistas para el proveedor y mejorado las vistas que ya habían sido realizadas en el anterior sprint. Se presentará la evidencia de la ejecución del Frontend desplegado y conectado con el backend desplegado a continuación:
 
 **Register**
 
@@ -2484,7 +2484,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-**Insights del repositorio donde desarrollamos la aplicación Web de Frigora:**
+**Insights del repositorio donde desarrollamos el Front-end de Frigora:**
 
 <div align="center">
   <img src="assets/chapter05/commits-front.png"
@@ -2492,7 +2492,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-**Insights del repositorio donde desarrollamos el backend de Frigora:**
+**Insights del repositorio donde desarrollamos el Back-end de Frigora:**
 
 <div align="center">
   <img src="assets/chapter05/commits-back.png"
