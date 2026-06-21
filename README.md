@@ -2593,8 +2593,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 **Resumen:** 
 
-
-El usuario indicó que el proceso para registrar sitios y equipos fue sencillo y fácil de entender. Destacó que la información mostrada de cada equipo le permite llevar un mejor control de sus operaciones. Consideró que la visualización en tiempo real y las alertas son claras y oportunas, lo que le ayuda a reaccionar rápidamente ante posibles fallas. Además, señaló que la creación y seguimiento de solicitudes de servicio es intuitiva y valoró positivamente el dashboard y los reportes, ya que le brindan una visión general del estado de sus equipos y del consumo energético. Como mejora, sugirió incorporar notificaciones adicionales por correo electrónico o teléfono.
+- El usuario indicó que el proceso para registrar sitios y equipos fue sencillo y fácil de entender. Destacó que la información mostrada de cada equipo le permite llevar un mejor control de sus operaciones. Consideró que la visualización en tiempo real y las alertas son claras y oportunas, lo que le ayuda a reaccionar rápidamente ante posibles fallas. Además, señaló que la creación y seguimiento de solicitudes de servicio es intuitiva y valoró positivamente el dashboard y los reportes, ya que le brindan una visión general del estado de sus equipos y del consumo energético. Como mejora, sugirió incorporar notificaciones adicionales por correo electrónico o teléfono.
 ---
 
 **Entrevista 2**
@@ -2688,7 +2687,7 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 **Resumen:** 
 
 
-El usuario comentó que la información de las solicitudes es suficiente para comprender el problema y priorizar las atenciones según su urgencia. Mencionó que el proceso para aceptar y asignar servicios es claro y que el registro de las intervenciones resulta completo y sencillo. También destacó la utilidad del historial de mantenimiento para conocer fallas recurrentes y preparar futuras visitas técnicas. Finalmente, señaló que el dashboard y los reportes permiten monitorear el estado de las solicitudes y evaluar el desempeño de los técnicos. Como oportunidad de mejora, sugirió añadir la posibilidad de adjuntar fotografías o documentos en el historial de intervenciones y disponer de filtros por especialidad o disponibilidad de los técnicos.
+- El usuario comentó que la información de las solicitudes es suficiente para comprender el problema y priorizar las atenciones según su urgencia. Mencionó que el proceso para aceptar y asignar servicios es claro y que el registro de las intervenciones resulta completo y sencillo. También destacó la utilidad del historial de mantenimiento para conocer fallas recurrentes y preparar futuras visitas técnicas. Finalmente, señaló que el dashboard y los reportes permiten monitorear el estado de las solicitudes y evaluar el desempeño de los técnicos. Como oportunidad de mejora, sugirió añadir la posibilidad de adjuntar fotografías o documentos en el historial de intervenciones y disponer de filtros por especialidad o disponibilidad de los técnicos.
 
 ---
 
