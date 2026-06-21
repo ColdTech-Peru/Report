@@ -2613,18 +2613,19 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombre** |  |
-| **Edad** |  |
-| **Distrito** |  |
-| **Duración** |  |
-| **Enlace** |  |
+| **Nombre** | Mark Josue Febres Reategui  |
+| **Edad** | 25 |
+| **Distrito** | Dueñas |
+| **Duración** | 4:51 |
+| **Enlace** | https://1drv.ms/v/c/6bb6365728706c6d/IQAMI-YwbIJ2R6ONY6Qn38vLAZfOVsGWbz0Gb8XpW0Wyi5A?e=s5yutd |
 
 <div align="center">
-<img src="" alt="Entrevista 1 - Segmento 2" width="600">
+<img width="894" height="469" alt="image" src="https://github.com/user-attachments/assets/57fa8247-8786-4acb-8f7a-9585987eece1" />
 </div>
 
 **Resumen:** 
 
+La experiencia general fue satisfactoria, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las solicitudes permitió tomar decisiones adecuadas, el registro y cierre de intervenciones fue intuitivo, el historial proporcionó contexto útil para futuras acciones y tanto el dashboard como los reportes ofrecieron información relevante para la gestión y seguimiento de las operaciones de mantenimiento.
 ---
 
 **Entrevista 2**
