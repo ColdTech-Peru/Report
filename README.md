@@ -2458,7 +2458,21 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+**Insights del repositorio donde desarrollamos la aplicación Web de Frigora:**
 
+<div align="center">
+  <img src="assets/chapter05/commits-front.png"
+       alt="Insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Insights del repositorio donde desarrollamos el backend de Frigora:**
+
+<div align="center">
+  <img src="assets/chapter05/commits-back.png"
+       alt="Insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
 ## 5.3. Validation Interviews.
