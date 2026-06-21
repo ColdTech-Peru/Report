@@ -2589,11 +2589,13 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Duración** | 8:52 min |
 | **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs|
 
-<img width="1106" height="637" alt="Luis" src="https://github.com/user-attachments/assets/d466dcfc-066a-41d7-9ce4-fe944af61d82" />
+<div align="center">
+<img width="894" height="469" alt="Luis" src="https://github.com/user-attachments/assets/d466dcfc-066a-41d7-9ce4-fe944af61d82" />
 
 **Resumen:** 
 
-- El usuario indicó que el proceso para registrar sitios y equipos fue sencillo y fácil de entender. Destacó que la información mostrada de cada equipo le permite llevar un mejor control de sus operaciones. Consideró que la visualización en tiempo real y las alertas son claras y oportunas, lo que le ayuda a reaccionar rápidamente ante posibles fallas. Además, señaló que la creación y seguimiento de solicitudes de servicio es intuitiva y valoró positivamente el dashboard y los reportes, ya que le brindan una visión general del estado de sus equipos y del consumo energético. Como mejora, sugirió incorporar notificaciones adicionales por correo electrónico o teléfono.
+- El usuario indicó que el proceso para registrar sitios y equipos fue sencillo y fácil de entender. Destacó que la información mostrada de cada equipo le permite llevar un mejor control de sus operaciones.Consideró que la visualización en tiempo real y las alertas son claras y oportunas, lo que le ayuda a reaccionar rápidamente ante posibles fallas.Además, señaló que la creación y seguimiento de solicitudes de servicio es intuitiva y valoró positivamente el dashboard y los reportes, ya que le brindan una visión general del estado de sus equipos y del consumo energético. Como mejora, sugirió incorporar notificaciones adicionales por correo electrónico o teléfono.
+
 ---
 
 **Entrevista 2**
@@ -2681,8 +2683,9 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 | **Duración** | 5:56 min|
 | **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt |
 
-
-<img width="135" height="76" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
+<div align="center">
+<img width="894" height="469" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
+</div>
 
 **Resumen:** 
 
