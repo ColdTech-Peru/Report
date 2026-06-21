@@ -2591,6 +2591,8 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 <div align="center">
 <img width="894" height="469" alt="Luis" src="https://github.com/user-attachments/assets/d466dcfc-066a-41d7-9ce4-fe944af61d82" />
+</div>
+
 
 **Resumen:** 
 
@@ -2626,9 +2628,9 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Duración** |  |
 | **Enlace** |  |
 
-<div align="center">
+
 <img src="" alt="Entrevista 3 - Segmento 1" width="600">
-</div>
+
 
 **Resumen:** 
 
