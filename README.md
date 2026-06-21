@@ -2557,11 +2557,11 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombre** | |
-| **Edad** |  |
-| **Distrito** |  |
-| **Duración** | |
-| **Enlace** |  |
+| **Nombre** | Luis Tufiño |
+| **Edad** | 23 años |
+| **Distrito** | Callao |
+| **Duración** | 8:52 min |
+| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs|
 
 <div align="center">
 <img src="" alt="Entrevista 1 - Segmento 1" width="600">
