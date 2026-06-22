@@ -2616,11 +2616,11 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombre** |  |
-| **Edad** |  |
-| **Distrito** |  |
-| **Duración** |  |
-| **Enlace** |  |
+| **Nombre** | Alessandro Aguilar |
+| **Edad** | 25 |
+| **Distrito** | San Martín |
+| **Duración** | 6:43 min |
+| **Enlace** |  [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8)   |
 
 <div align="center">
 <img src="" alt="Entrevista 2 - Segmento 1" width="600">
@@ -2628,6 +2628,8 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 **Resumen:** 
 
+- El usuario tuvo una experiencia bastante fluida al interactuar con el módulo de registro de instalaciones y dispositivos. Hizo hincapié en que la visibilidad de los datos mejora significativamente su control operativo. De igual forma, percibe un gran valor en las alertas oportunas y la visualización en vivo, ya que son factores clave para una capacidad de respuesta inmediata ante problemas técnicos. La generación de solicitudes de soporte le pareció muy amigable; a la par, validó positivamente los reportes y el dashboard como fuentes de consulta esenciales para el monitoreo energético y de estado. Finalmente, concluyo que nuestro producto le pareció útil para su labor.
+  
 ---
 
 **Entrevista 3**
