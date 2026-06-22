@@ -1931,6 +1931,14 @@ Para esta entrega hemos mejorado nuestro Frontend para que el usuario pueda regi
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+**Formulario del site actualizado conectado con Leaflet para añadir ubicación**
+
+<div align="center">
+  <img src="assets/chapter05/sites-new.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 **Solicitud de servicio actualizado con el tecnico asignado, proveedor, opciones para cancelar servicio y calificar técnico**
 
 <div align="center">
