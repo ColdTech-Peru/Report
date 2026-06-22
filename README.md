@@ -2684,9 +2684,13 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 | **Duración** | 4:25 |
 | **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCDMg6KHU81SobE_H8BDw98ASpGMlljHiqL_muFYdUxBAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PjKFU6 |
 
+
 <div align="center">
-<img src="assets/chapter05/diegooo.png"
+  <img src="assets/chapter05/diegooo.png"
+       alt="Entrevista Diego"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
 
 **Resumen:** 
 
