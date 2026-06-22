@@ -2587,7 +2587,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Edad** | 23 años |
 | **Distrito** | Callao |
 | **Duración** | 8:52 min |
-| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs|
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs) |
 
 <div align="center">
 <img width="894" height="469" alt="Luis" src="https://github.com/user-attachments/assets/d466dcfc-066a-41d7-9ce4-fe944af61d82" />
@@ -2626,7 +2626,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Edad** | 20 |
 | **Distrito** | Los olivos |
 | **Duración** | 6:31 min |
-| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL|
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL) |
 
 
 
@@ -2656,9 +2656,10 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 <img width="894" height="469" alt="image" src="https://github.com/user-attachments/assets/57fa8247-8786-4acb-8f7a-9585987eece1" />
 </div>
 
-**Resumen:** 
+**Resumen:**
 
 La experiencia general fue satisfactoria, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las solicitudes permitió tomar decisiones adecuadas, el registro y cierre de intervenciones fue intuitivo, el historial proporcionó contexto útil para futuras acciones y tanto el dashboard como los reportes ofrecieron información relevante para la gestión y seguimiento de las operaciones de mantenimiento.
+
 ---
 
 **Entrevista 2**
@@ -2687,7 +2688,7 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 | **Edad** | 23 años |
 | **Distrito** | San Miguel |
 | **Duración** | 5:56 min|
-| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt) |
 
 <div align="center">
 <img width="894" height="469" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
@@ -3095,7 +3096,7 @@ Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_u
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 | Video AV2 |  |
 | Video About-The-Product |  |
-| Video About-The-Team |  |
+| Video About-The-Team | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
 
