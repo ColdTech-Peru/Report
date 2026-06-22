@@ -2688,7 +2688,7 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 <div align="center">
   <img src="assets/chapter05/diegooo.png"
        alt="Entrevista Diego"
-       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
 </div>
 
 
