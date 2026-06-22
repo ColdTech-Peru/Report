@@ -221,7 +221,6 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
       - [Segmento #1: Negocios con equipos de refrigeración](#segmento-1-negocios-con-equipos-de-refrigeración-1)
       - [Segmento #2: Técnicos y Empresas de Mantenimiento](#segmento-2-técnicos-y-empresas-de-mantenimiento-1)
-  - [La experiencia general fue satisfactoria, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las solicitudes permitió tomar decisiones adecuadas, el registro y cierre de intervenciones fue intuitivo, el historial proporcionó contexto útil para futuras acciones y tanto el dashboard como los reportes ofrecieron información relevante para la gestión y seguimiento de las operaciones de mantenimiento.](#la-experiencia-general-fue-satisfactoria-ya-que-todas-las-funcionalidades-evaluadas-resultaron-claras-y-fáciles-de-utilizar-la-información-de-las-solicitudes-permitió-tomar-decisiones-adecuadas-el-registro-y-cierre-de-intervenciones-fue-intuitivo-el-historial-proporcionó-contexto-útil-para-futuras-acciones-y-tanto-el-dashboard-como-los-reportes-ofrecieron-información-relevante-para-la-gestión-y-seguimiento-de-las-operaciones-de-mantenimiento)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
       - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
       - [SITE o APP A EVALUAR](#site-o-app-a-evaluar)
@@ -3048,7 +3047,15 @@ La aplicación **FullTank (PrimeFuel)** demuestra una arquitectura de flujo de p
 
 ### 5.4. Video About-the-Product.
 
+En este video se mostraron las principales funcionalidades de la aplicación, así como el propósito de nuestro producto y el alcance que tiene.
 
+<div align="center">
+  <img src="assets/chapter05/abouttheproduct.png"
+       alt="About The Product"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## Conclusiones y recomendaciones
@@ -3095,7 +3102,7 @@ Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_u
 | Backend desplegado | https://frigora-platform.onrender.com/ |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 | Video AV2 |  |
-| Video About-The-Product |  |
+| Video About-The-Product | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Video About-The-Team | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
