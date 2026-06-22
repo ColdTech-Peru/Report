@@ -1831,6 +1831,11 @@ El objetivo principal de este Sprint es elaborar el Backend y mejorar el Fronten
 |   **TS-04**   | Registrar nuevo usuario a través de API RESTful    | **UT-01** | Implementar endpoint de registro          | Desarrollar el servicio backend para registrar usuarios y validar información de entrada.               |          3         | [Leonardo Cumba]    |                     Done                    |
 |   **TS-05**   | Consulta de estado de servicios por API            | **UT-01** | Implementar endpoint de consulta          | Crear los endpoints para consultar el estado actual de los servicios registrados.                       |          2         | [Alejandro Galindo] |                     Done                    |
 
+<div align="center">
+  <img src="assets/chapter05/sprint-backlog3.png"
+       alt="Sprint Backlog 3"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
