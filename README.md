@@ -2623,7 +2623,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Enlace** |  [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8)   |
 
 <div align="center">
-<img src="" alt="Entrevista 2 - Segmento 1" width="600">
+<img width="894" height="469" alt="image" src="assets/chapter04/imagen entrevista.jpg" />
 </div>
 
 **Resumen:** 
