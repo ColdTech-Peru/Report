@@ -2685,7 +2685,7 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 | **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCDMg6KHU81SobE_H8BDw98ASpGMlljHiqL_muFYdUxBAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PjKFU6 |
 
 <div align="center">
-<img width="894" height="469" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
+<img src="assets/chapter05/diegooo.png"
 </div>
 
 **Resumen:** 
