@@ -2665,7 +2665,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Enlace** | https://1drv.ms/v/c/6bb6365728706c6d/IQAMI-YwbIJ2R6ONY6Qn38vLAZfOVsGWbz0Gb8XpW0Wyi5A?e=s5yutd |
 
 <div align="center">
-<img width="894" height="469" alt="image" src="https://github.com/user-attachments/assets/57fa8247-8786-4acb-8f7a-9585987eece1" />
+<img width="894" height="469" alt="image" src="https://github.com/user-attachments/assets/diegooo" />
 </div>
 
 **Resumen:**
@@ -2685,10 +2685,12 @@ La experiencia general fue satisfactoria, ya que todas las funcionalidades evalu
 | **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCDMg6KHU81SobE_H8BDw98ASpGMlljHiqL_muFYdUxBAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PjKFU6 |
 
 <div align="center">
-<img src="" alt="Entrevista 2 - Segmento 2" width="600">
+<img width="894" height="469" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
 </div>
 
 **Resumen:** 
+
+La experiencia general fue exitosa, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las opciones para un técnicos ayudaron al entrevistado a cumplir el flujo que le permite desarrollar todo su trabajo desde inicio a fin. Asimismo el entrevistado señaló el registro y cierre de intervenciones como las opciones más intuitivas en el proceso.
 
 ---
 
