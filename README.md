@@ -32,7 +32,7 @@
 | Cumba Rengifo, Leonardo Raul | u202311912 |
 | Cuentas Peña, Joaquin Alberto | u20201f788 |
 
-### Mayo 2026
+### Junio 2026
 
 </div>
 
@@ -44,6 +44,7 @@
 | :---: | :---: | :---: | :--- |
 | 1.0 | 2026-04-26 | ColdTech | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
 | 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |
+| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.
 ---
 
 ## Project Report Collaboration Insights
@@ -54,7 +55,7 @@
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
 | Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
-| Repositorio del Backend | *(pendiente)* |
+| Repositorio del Backend | https://github.com/ColdTech-Peru/Frigora-Platform |
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
@@ -82,6 +83,19 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter01/report-tb1.jpeg" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+**AV1:** Las tareas asignadas al AV1 estuvieron enfocadas en la revisión, modificación y documentación del informe del Sprint, asegurando que la información reflejara correctamente el trabajo realizado:
+
+- Se revisó y actualizó el contenido del informe, corrigiendo y ampliando las secciones correspondientes al avance del Sprint.
+- Se documentaron las funcionalidades implementadas, incluyendo capturas de pantalla y evidencias visuales del Front-End y Back-End.
+- Se reorganizó la estructura del documento para mantener coherencia y orden entre las distintas secciones del informe.
+- Se redactaron las descripciones técnicas de los cambios realizados, detallando el alcance y los aspectos relevantes de cada tarea.
+- Se verificó la trazabilidad entre los commits realizados en GitHub y lo documentado en el informe, asegurando consistencia con el progreso real del Sprint.
+- Se realizaron ajustes finales de formato y redacción para mejorar la claridad y presentación del documento.
+  
+<div align="center">
+<img src="assets/chapter04/insights3.png" alt="Commits del Reporte AV2" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ---
 
 ## Contenido
@@ -94,9 +108,9 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
   - [Startup: ColdTech](#startup-coldtech)
   - [Producto: Frigora](#producto-frigora)
   - [Integrantes](#integrantes)
-    - [Abril 2026](#abril-2026)
+    - [Junio 2026](#junio-2026)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [| 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |](#-20--2026-05-16--coldtech--desarrollo-del-sprint-2-)
+  - [| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.](#-30--2026-06-20--coldtech--desarrollo-del-sprint-3-mejora-de-la-aplicación-web-y-desarrollo-del-back-end-en-spring-boot)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [Contenido](#contenido)
   - [Student Outcome](#student-outcome)
@@ -180,20 +194,63 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
-- [Sprint 2](#sprint-2)
-    - [5.2.2. Aspect Leaders and Collaborators](#522-aspect-leaders-and-collaborators)
+      - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
       - [5.2.2.3.Sprint Backlog 2.](#5223sprint-backlog-2)
-    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6.Services Documentation Evidence for Sprint Review.](#5226services-documentation-evidence-for-sprint-review)
-  - [Logros alcanzados en este Sprint](#logros-alcanzados-en-este-sprint)
-  - [Endpoints documentados](#endpoints-documentados)
       - [5.2.2.7.Software Deployment Evidence for Sprint Review.](#5227software-deployment-evidence-for-sprint-review)
       - [5.2.2.8.Team Collaboration Insights during Sprint.](#5228team-collaboration-insights-during-sprint)
-  - [Conclusiones](#conclusiones)
-- [Anexos](#anexos)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1.Sprint Planning 3.](#5231sprint-planning-3)
+      - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+- [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
+  - [Preguntas Comunes](#preguntas-comunes)
+  - [Segmento 1 — Negocios con Equipos de Refrigeración](#segmento-1--negocios-con-equipos-de-refrigeración)
+  - [Segmento 2 — Técnicos y Empresas de Mantenimiento](#segmento-2--técnicos-y-empresas-de-mantenimiento)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [Segmento #1: Negocios con equipos de refrigeración](#segmento-1-negocios-con-equipos-de-refrigeración-1)
+      - [Segmento #2: Técnicos y Empresas de Mantenimiento](#segmento-2-técnicos-y-empresas-de-mantenimiento-1)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+      - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
+      - [SITE o APP A EVALUAR](#site-o-app-a-evaluar)
+      - [TAREAS A EVALUAR](#tareas-a-evaluar)
+      - [ESCALA DE SEVERIDAD](#escala-de-severidad)
+      - [TABLA RESUMEN](#tabla-resumen)
+      - [DESCRIPCIÓN DE PROBLEMAS](#descripción-de-problemas)
+        - [PROBLEMA #1: El nombre del producto se confunde con el nombre de una persona](#problema-1-el-nombre-del-producto-se-confunde-con-el-nombre-de-una-persona)
+        - [PROBLEMA #2: Cálculo de factura inconsistente con el detalle de la orden](#problema-2-cálculo-de-factura-inconsistente-con-el-detalle-de-la-orden)
+        - [PROBLEMA #3: Estado de pago contradictorio entre vistas del mismo pedido](#problema-3-estado-de-pago-contradictorio-entre-vistas-del-mismo-pedido)
+        - [PROBLEMA #4: Datos de Conductor y Vehículo no visibles para el comprador](#problema-4-datos-de-conductor-y-vehículo-no-visibles-para-el-comprador)
+        - [PROBLEMA #5: Datos de prueba (placeholders) visibles en producción](#problema-5-datos-de-prueba-placeholders-visibles-en-producción)
+        - [PROBLEMA #6: Mezcla de idiomas dentro de la misma pantalla](#problema-6-mezcla-de-idiomas-dentro-de-la-misma-pantalla)
+        - [PROBLEMA #7: Bug de cálculo de tiempo relativo ("NaNmo ago")](#problema-7-bug-de-cálculo-de-tiempo-relativo-nanmo-ago)
+        - [PROBLEMA #8: Unidad de cantidad ilegible en formulario de solicitud (versión español)](#problema-8-unidad-de-cantidad-ilegible-en-formulario-de-solicitud-versión-español)
+        - [PROBLEMA #9: Ambigüedad en el formato numérico de cantidades](#problema-9-ambigüedad-en-el-formato-numérico-de-cantidades)
+        - [PROBLEMA #10: Unidad de volumen inconsistente entre módulos ("MT" vs. "L")](#problema-10-unidad-de-volumen-inconsistente-entre-módulos-mt-vs-l)
+        - [PROBLEMA #11: Cifra de ingresos truncada en el dashboard de reportes](#problema-11-cifra-de-ingresos-truncada-en-el-dashboard-de-reportes)
+        - [PROBLEMA #12: Indicador de estado sin etiqueta de texto en tabla de clientes](#problema-12-indicador-de-estado-sin-etiqueta-de-texto-en-tabla-de-clientes)
+        - [PROBLEMA #13: Dashboard del proveedor no refleja actividad reciente](#problema-13-dashboard-del-proveedor-no-refleja-actividad-reciente)
+        - [PROBLEMA #14: Uso de Yape como método de pago para montos B2B muy elevados](#problema-14-uso-de-yape-como-método-de-pago-para-montos-b2b-muy-elevados)
+        - [PROBLEMA #15: Transacción de ejemplo de un volumen no representativo del modelo B2B](#problema-15-transacción-de-ejemplo-de-un-volumen-no-representativo-del-modelo-b2b)
+        - [PROBLEMA #16: Error ortográfico recurrente "premiun"](#problema-16-error-ortográfico-recurrente-premiun)
+        - [PROBLEMA #17: Falta de indicación de campos obligatorios en el formulario de registro de cuenta](#problema-17-falta-de-indicación-de-campos-obligatorios-en-el-formulario-de-registro-de-cuenta)
+        - [PROBLEMA #18: Gráficos sin valores ni leyenda claros](#problema-18-gráficos-sin-valores-ni-leyenda-claros)
+      - [Conclusión general de la sesión](#conclusión-general-de-la-sesión)
+    - [5.4. Video About-the-Product.](#54-video-about-the-product)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](#video-about-the-team)
+  - [Anexos](#anexos)
 
 ---
 
@@ -207,10 +264,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :--- | :--- | :--- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** Fortaleció la comunicación oral al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, transmitiendo conceptos técnicos de manera clara según el nivel de la audiencia.<br>**TB1:** Desarrolló el módulo de **Service Requests** del frontend, explicando el flujo de solicitudes, las operaciones CRUD y la conexión con `json-server` mediante `db.json`.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Redactó descripciones técnicas para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en lenguaje formal apto para un informe académico.<br>**TB1:** Desarrolló el módulo de **Reports**, presentando el funcionamiento de formularios, filtros dinámicos, vistas de detalle y operaciones CRUD implementadas en Angular con conexión a `db.json`.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** Planteó las user stories y diseñó el sprint de la entrega, planificando el product backlog y proyectando las necesidades de los segmentos en el desarrollo de la aplicación.<br>**TB1:** Implementó el módulo de **Assets Management**, comunicando la organización de activos, visualización de datos y funcionamiento dinámico del frontend conectado mediante `json-server`.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Participó en la elaboración del Capítulo I, el análisis Lean UX y el diseño de la landing page, logrando explicar conceptos técnicos y de negocio de forma efectiva según el contexto.<br>**TB1:** Desarrolló el módulo de **Monitoring**, explicando la visualización de estados, métricas y monitoreo de equipos usando datos simulados desde `db.json`.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Organizó el sprint en base a las user stories generadas y contribuyó a la realización y despliegue de la landing page.<br>**TB1:** Implementó el **Dashboard** principal del frontend, presentando métricas, tarjetas y visualizaciones dinámicas para facilitar la interpretación de información operativa. | **AV1:** El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada, transmitiendo ideas técnicas de manera clara según el tipo de audiencia.<br><br>**TB1:** El equipo fortaleció la comunicación oral mediante la exposición funcional del frontend desarrollado en Angular, explicando el funcionamiento de módulos interactivos, operaciones CRUD y consumo de datos simulados mediante `json-server` y `db.json`. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** La redacción de documentación y la organización de información técnica le permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia.<br>**TB1:** Documentó el funcionamiento del módulo de **Service Requests**, describiendo componentes, endpoints y flujo de datos conectados mediante `db.json`.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Sintetizó procesos técnicos complejos en instrucciones directas, diferenciando claramente los perfiles de Administrador y Proveedor.<br>**TB1:** Documentó la implementación del módulo de **Reports**, incluyendo formularios, filtros, operaciones CRUD y arquitectura frontend desarrollada en Angular.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** El product backlog permitió enfocarse en las tareas más importantes para la entrega, comunicando ideas de forma eficaz.<br>**TB1:** Redactó la documentación funcional del módulo de **Assets Management**, organizando procesos de gestión de activos y comportamiento dinámico del frontend.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Contribuyó en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX y la definición de segmentos, estructurando ideas de forma clara y coherente.<br>**TB1:** Documentó el módulo de **Monitoring**, describiendo la visualización de estados, métricas y consumo de datos desde `json-server`.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Comunicó adecuadamente la división de tiempos del proyecto mediante la metodología SCRUM usando sprints.<br>**TB1:** Elaboró la documentación del **Dashboard**, describiendo la estructura visual, componentes y organización de indicadores en el frontend. | **AV1:** El equipo fortaleció su comunicación escrita mediante documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, wireframes, mockups y diagramas de clases y base de datos.<br><br>**TB1:** El equipo fortaleció la comunicación escrita mediante la documentación del frontend desarrollado en Angular, incluyendo componentes, vistas, formularios, filtros y operaciones CRUD conectadas mediante `json-server` y `db.json`, explicando de manera clara la arquitectura y flujo de datos del sistema. |
-
-
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** Fortaleció la comunicación oral al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, transmitiendo conceptos técnicos de manera clara según el nivel de la audiencia.<br>**TB1:** Desarrolló el módulo de **Service Requests** del frontend, explicando el flujo de solicitudes, las operaciones CRUD y la conexión con `json-server` mediante `db.json`.<br>**AV2:** Fortaleció la comunicación oral al explicar el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, además del despliegue del Front-End, Back-End y base de datos, detallando el proceso de integración y la corrección de errores encontrados de manera clara para distintos niveles de audiencia.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Redactó descripciones técnicas para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en lenguaje formal apto para un informe académico.<br>**TB1:** Desarrolló el módulo de **Reports**, presentando el funcionamiento de formularios, filtros dinámicos, vistas de detalle y operaciones CRUD implementadas en Angular con conexión a `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Reporting**, explicando su implementación tanto en el Front-End como en el Back-End de manera clara y comprensible.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** Planteó las user stories y diseñó el sprint de la entrega, planificando el product backlog y proyectando las necesidades de los segmentos en el desarrollo de la aplicación.<br>**TB1:** Implementó el módulo de **Assets Management**, comunicando la organización de activos, visualización de datos y funcionamiento dinámico del frontend conectado mediante `json-server`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Assets Management** tanto en el Front-End como en el Back-End, explicando su funcionamiento de manera clara.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Participó en la elaboración del Capítulo I, el análisis Lean UX y el diseño de la landing page, logrando explicar conceptos técnicos y de negocio de forma efectiva según el contexto.<br>**TB1:** Desarrolló el módulo de **Monitoring**, explicando la visualización de estados, métricas y monitoreo de equipos usando datos simulados desde `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Monitoring** en el Front-End y el Back-End, explicando su implementación de manera clara.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Organizó el sprint en base a las user stories generadas y contribuyó a la realización y despliegue de la landing page.<br>**TB1:** Implementó el **Dashboard** principal del frontend, presentando métricas, tarjetas y visualizaciones dinámicas para facilitar la interpretación de información operativa.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, explicando su implementación en el Front-End y el Back-End de manera clara para distintos tipos de audiencia. | **AV1:** El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada, transmitiendo ideas técnicas de manera clara según el tipo de audiencia.<br><br>**TB1:** El equipo fortaleció la comunicación oral mediante la exposición funcional del frontend desarrollado en Angular, explicando el funcionamiento de módulos interactivos, operaciones CRUD y consumo de datos simulados mediante `json-server` y `db.json`.<br><br>**AV2:** El equipo fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback**, **Service Requests** y **Proveedores**, así como el despliegue e integración del Front-End, el Back-End y la base de datos, transmitiendo el progreso técnico de manera clara según el tipo de audiencia. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** La redacción de documentación y la organización de información técnica le permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia.<br>**TB1:** Documentó el funcionamiento del módulo de **Service Requests**, describiendo componentes, endpoints y flujo de datos conectados mediante `db.json`.<br>**AV2:** Documentó el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, así como el proceso de despliegue e integración entre el Front-End, el Back-End y la base de datos, describiendo de forma clara la configuración realizada y la resolución de errores encontrados.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Sintetizó procesos técnicos complejos en instrucciones directas, diferenciando claramente los perfiles de Administrador y Proveedor.<br>**TB1:** Documentó la implementación del módulo de **Reports**, incluyendo formularios, filtros, operaciones CRUD y arquitectura frontend desarrollada en Angular.<br>**AV2:** Documentó el desarrollo del bounded context de **Reporting**, describiendo su arquitectura e implementación tanto en el Front-End como en el Back-End.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** El product backlog permitió enfocarse en las tareas más importantes para la entrega, comunicando ideas de forma eficaz.<br>**TB1:** Redactó la documentación funcional del módulo de **Assets Management**, organizando procesos de gestión de activos y comportamiento dinámico del frontend.<br>**AV2:** Documentó el desarrollo del bounded context de **Assets Management**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Contribuyó en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX y la definición de segmentos, estructurando ideas de forma clara y coherente.<br>**TB1:** Documentó el módulo de **Monitoring**, describiendo la visualización de estados, métricas y consumo de datos desde `json-server`.<br>**AV2:** Documentó el desarrollo del bounded context de **Monitoring**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Comunicó adecuadamente la división de tiempos del proyecto mediante la metodología SCRUM usando sprints.<br>**TB1:** Elaboró la documentación del **Dashboard**, describiendo la estructura visual, componentes y organización de indicadores en el frontend.<br>**AV2:** Documentó el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, describiendo su implementación y funcionamiento dentro del sistema. | **AV1:** El equipo fortaleció su comunicación escrita mediante documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, wireframes, mockups y diagramas de clases y base de datos.<br><br>**TB1:** El equipo fortaleció la comunicación escrita mediante la documentación del frontend desarrollado en Angular, incluyendo componentes, vistas, formularios, filtros y operaciones CRUD conectadas mediante `json-server` y `db.json`, explicando de manera clara la arquitectura y flujo de datos del sistema.<br><br>**AV2:** El equipo fortaleció la comunicación escrita mediante la documentación de los bounded contexts implementados en este sprint (**Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback** y **Service Requests**), así como del proceso de despliegue, integración y corrección de errores entre el Front-End, el Back-End y la base de datos. |
 
 ---
 
@@ -352,7 +407,7 @@ Existe una brecha por la falta de una solución integrada que permita centraliza
 <div align="center">
 <img src="assets/chapter01/1-2-2-4.png" alt="Lean UX Canvas" style="max-width: 80%; height: auto;">
 
-[Ver canvas en Miro](https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438)
+[`https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438`](https://miro.com/welcomeonboard/WmZsK25CaFdYd041RFo5ejBKempQYXIveC85TmZaaUlpUGJrUUJ1VU1NUFVJVkp0NHVycks3UEZCK1M2WFV1TlVtazV5QmFNS1pGNllwTHh1bzRVMG0vZThsQTVOL0EwQlJwbEN0Y3NrQWVzSHUwWXk0OFgvTzBMSWJRMHF3eU9hWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=957048471438)
 </div>
 
 ---
@@ -540,7 +595,7 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 24 años |
 | **Distrito** | Magdalena del Mar |
 | **Duración** | 3:54 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQCD75JaCB67Rqbnmgayr_P2AUStbuDTZL4pS3Bs8Pi0i7U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jroC0y) |
 
 <div align="center">
 <img src="assets/chapter02/entrevista-segmento1.png" alt="Entrevista 1 - Segmento 1" width="600">
@@ -558,7 +613,7 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 23 años |
 | **Distrito** | Callao |
 | **Duración** | 4:56 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQDZkODby7uhQan7j_z8SCM2ATeyic0cs-MYQQtCmIvQo_g?e=sTADdU) |
 
 <div align="center">
 <img src="assets/chapter02/EntrevistaLuis.png" alt="Entrevista 2 - Segmento 1" width="600">
@@ -576,7 +631,7 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 23 años |
 | **Distrito** | San Miguel |
 | **Duración** | 3:00 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQC_otKeZKFGSKvVxXwwDgeYAQsNe01VMeNUPILFlSE3bWM?e=E1fSXe) |
 
 <div align="center">
 <img src="assets/chapter02/EntrevistaLeo.png" alt="Entrevista 3 - Segmento 1" width="600">
@@ -596,7 +651,7 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 23 años |
 | **Distrito** | San Miguel |
 | **Duración** | 6:06 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCFgFrdwoegSLowSXkH1f6lAZwWJrUrzUCI62S3ebngTik?e=9m4dHD) |
 
 <div align="center">
 <img src="assets/chapter04/SSRodrigo.png" alt="Entrevista 1 - Segmento 2" width="600">
@@ -614,7 +669,11 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 23 años |
 | **Distrito** | San Miguel |
 | **Duración** | 3:33 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQAQ6wZvP8AVSZd18on9ueNJAUNs6rvILt1vcYaPbctgJUA?e=1bQxpw) |
+
+<div align="center">
+<img src="assets/chapter02/entrevista2-segmento2.png" alt="Entrevista 2 - Segmento 2" width="600">
+</div>
 
 **Resumen:** Mark lidera un equipo de técnicos y se encarga de la captación de clientes y la logística operativa. La entrevista revela una dependencia crítica de procesos manuales y falta de información técnica previa al servicio. Existe alta disposición para adoptar Frigora, valorando especialmente la centralización de órdenes de trabajo y el acceso a datos históricos del equipo como factores clave para transicionar de un modelo reactivo a uno preventivo.
 
@@ -628,7 +687,7 @@ Técnicos y empresas especializadas en instalación, revisión y mantenimiento d
 | **Edad** | 27 años |
 | **Distrito** | Lima |
 | **Duración** | 4:39 min |
-| **Enlace** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6) |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQDLCyieBm7QQbTmgm29OOXnAXAevqOoyC-D_P3kS7gz0QU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0e3js6) |
 
 <div align="center">
 <img src="assets/chapter02/entrevista3-segmento2.png" alt="Entrevista 3 - Segmento 2" width="600">
@@ -1406,11 +1465,9 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 
 ---
 
-#### 5.2.2. Sprint 2
+### 5.2.2. Sprint 2
 
 #### 5.2.2.1.Sprint Planning 2.
-
-# Sprint 2
 
 | Sprint 2 | Sprint 2 |
 |---|---|
@@ -1428,7 +1485,7 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 | **Sum of Story Points** | 51 |
 
 
-### 5.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.2 Aspect Leaders and Collaborators
 
 Durante este segundo sprint, el equipo se enfocó principalmente en el desarrollo, mejora estructural y visual de las aplicaciones del Frontend, asegurando su correcto funcionamiento en distintos dispositivos (diseño responsive), la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
 
@@ -1468,7 +1525,7 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 | **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
 
 
-### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
 
 En este segundo Sprint hemos realizado la implementación del frontend de nuestra solución **Frigora**, desarrollada por la startup **ColdTech**. Durante esta entrega, el equipo se enfocó en construir las principales vistas de la aplicación, considerando el **Dashboard** como una vista global del sistema y el módulo de **Monitoring** como un bounded context independiente orientado al seguimiento de equipos, aparatos y alertas. La siguiente tabla muestra los commits realizados durante el desarrollo.
 
@@ -1491,12 +1548,9 @@ En este segundo Sprint hemos realizado la implementación del frontend de nuestr
 | 1ASI0729-2610-ColdTech/Frigora-Frontend | develop | N/A | merge: integrate frontend sprint changes into develop | Final integration of the frontend views developed during the sprint. | 16/05/2026 |
 
 
-
-
-
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-En el Sprint 2 se desplegó la primera versión de la Web Application de IceTrack, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
+En el Sprint 2 se desplegó la primera versión de la Web Application de Frigora, implementando funcionalidades esenciales como el dashboard del usuario, lugares, equipos que posee el usuario, las solicitudes de servicio de mantenimiento, las alertas y los reportes generados. Estas funcionalidades permiten a los usuarios hacer uso de herramientas que permitan mejorar la gestión de equipos de refrigeración para su posterior mantenimiento y seguimiento. A continuación, se presentan las evidencias:
 
 Dashboard:
 
@@ -1631,14 +1685,14 @@ Reports created:
 
 Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñados para Frigora utilizando OpenAPI. Cabe destacar que, para el backend, estamos usando un `db.json` (JSON Server) desplegado en Render. El objetivo fue asegurar que los endpoints relacionados con el alcance del Sprint estén correctamente descritos, incluyendo acciones soportadas, parámetros, sintaxis de las solicitudes y ejemplos de respuestas. Esta documentación facilita la futura integración con el frontend y servirá como referencia para mantenimiento.
 
-## Logros alcanzados en este Sprint
+ **Logros alcanzados en este Sprint**
 
 * Definición de los principales endpoints del sistema.
 * Especificación de métodos HTTP, ejemplos de request y response, y parámetros de entrada.
 * Generación de la definición OpenAPI (a nivel de diseño) para los endpoints identificados.
 * Preparación de ejemplos de uso de la API con datos de muestra para demostrar el comportamiento esperado.
 
-## Endpoints documentados
+**Endpoints documentados**
 
 | Endpoints |
 | :--- |
@@ -1662,6 +1716,8 @@ Durante este Sprint, nos enfocamos en documentar los servicios web (APIs) diseñ
        alt="Service creation form"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Link del Fake API desplegado en Render: https://fake-api-0233.onrender.com/
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
@@ -1710,30 +1766,1349 @@ Insights del Front-End:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+---
 
-## Conclusiones
+### 5.2.3. Sprint 3
 
-**Objetivo comercial cumplido:**  
-La Landing Page fue completada al 100%, logrando presentar de manera clara la propuesta de valor de **Frigora** y los principales beneficios de la plataforma. Además, el contenido fue organizado pensando en los dos segmentos objetivo del proyecto: empresas que dependen de equipos de refrigeración y técnicos o proveedores de mantenimiento. Esto permite que el usuario comprenda rápidamente qué problema resuelve la solución y cómo puede ayudar en la gestión, monitoreo y atención de servicios.
+#### 5.2.3.1.Sprint Planning 3.
 
-**Organización ágil:**  
-Se aplicó la metodología Scrum de forma adecuada durante el desarrollo del Sprint. El equipo logró organizar el trabajo mediante User Stories y tareas técnicas, diferenciando claramente los objetivos funcionales de las actividades necesarias para implementarlos. Asimismo, el tablero de Trello permitió visualizar el avance del equipo, asignar responsabilidades y mantener un mejor control sobre el estado de cada tarea durante la entrega.
+| Sprint 3                           | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Date**                           | 2026-06-02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                           | 17:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Location**                       | Via Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                    | Alejandro Galindo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Attendees to planning meeting**  | Galindo Montero, Alejandro Manuel; Perez Tuesta, Gabriel; Fajardo Monrroy, Walter Luis; Cumba Rengifo, Leonardo Raul; Cuentas Peña, Joaquin Alberto                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 3 Review Summary**        | Durante este sprint se desarrollaron las principales funcionalidades de Frigora tanto en frontend como en backend. Se implementaron módulos para la gestión de usuarios, técnicos, equipos de refrigeración y solicitudes de mantenimiento, además de mejorar la experiencia de navegación de la plataforma. El equipo logró integrar diversos componentes del sistema y validar los flujos principales de negocio, obteniendo una versión funcional que servirá como base para futuras mejoras. |
+| **Sprint 3 Retrospective Summary** | La retrospectiva permitió identificar oportunidades de mejora relacionadas con la distribución de tareas, la coordinación entre frontend y backend y la planificación de actividades individuales. Asimismo, se concluyó que una definición más detallada de los criterios de aceptación y revisiones periódicas de integración contribuirán a reducir retrabajos y optimizar el avance en los siguientes sprints.                                                                               |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 3 Goal**                  | Implementar las funcionalidades principales de Frigora mediante el desarrollo e integración del frontend y backend de la plataforma. El objetivo fue habilitar la gestión de usuarios, técnicos, equipos de refrigeración y solicitudes de mantenimiento, además de proporcionar una interfaz intuitiva que permita a los usuarios interactuar eficientemente con los servicios ofrecidos por el sistema.                                                                                        |
+| **Sprint 3 Velocity**              | 36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
-**Colaboración técnica:**  
-Se estableció un flujo de trabajo ordenado en GitHub, permitiendo que los integrantes del equipo integren sus avances de manera controlada. El uso de ramas de trabajo y mensajes de commit bajo la convención de **Conventional Commits** ayudó a mantener un historial claro y entendible del desarrollo realizado. Esto facilitó la revisión de cambios y la integración del frontend en la rama principal del proyecto.
 
-**Avance del frontend:**  
-Durante esta entrega, el equipo se enfocó principalmente en la implementación del frontend de la aplicación. Se desarrollaron vistas importantes como sitios, servicios, monitoreo, alertas, reportes y dashboard global. Estas interfaces permiten representar visualmente las funcionalidades principales de Frigora, aunque todavía queda pendiente la integración completa con una API real y el desarrollo del backend para futuras entregas.
+#### 5.2.3.2 Aspect Leaders and Collaborators
 
-**Validación del producto:**  
-El avance realizado permite mostrar una primera versión funcional a nivel visual de la plataforma, lo cual es importante para validar la experiencia de usuario, la navegación y la estructura general del sistema. Gracias a estas pantallas, se puede obtener retroalimentación temprana sobre la claridad de la interfaz y la utilidad de las funcionalidades propuestas.
+Durante este tercer sprint, el equipo se enfocó principalmente en el desarrollo del Backend, asegurando su correcto funcionamiento con la aplicación web, la integración coherente de componentes visuales e interactivos, así como la implementación de funcionalidades dinámicas que mejoran la experiencia del usuario.
 
-**Trabajo pendiente:**  
-Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataforma. En esta entrega se implementó principalmente el **frontend**, por lo que en los siguientes Sprints se deberá trabajar la lógica del servidor, la conexión con la base de datos y la integración de las funcionalidades con datos reales.
+Con el objetivo de optimizar la organización y la colaboración del equipo, se elaboró la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante el Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Implementacion de la gestión de equipos de refrigeracion (Web Services) <br> Leader (L) / Collaborator (C) | Responsive y pruebas en distintos dispositivos <br> Leader (L) / Collaborator (C) | Despliegue del backend <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta,  Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis  | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul  | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto  | JoaCUPE | C | C | C |
+
+
+
+#### 5.2.3.3. Sprint Backlog 3.
+
+El objetivo principal de este Sprint es elaborar el Backend y mejorar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+
+| User Story ID | User Story Título                                  |  Task ID  | Task Título                               | Descripción                                                                                             | Estimación (Horas) | Asignado a          | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :------------------------------------------------- | :-------: | :---------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----------------: | :------------------ | :-----------------------------------------: |
+|   **US-01**   | Registro de usuario                                | **UT-01** | Diseñar formulario de registro            | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales.           |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-02**   | Inicio de sesión                                   | **UT-01** | Implementar pantalla de login             | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma.           |          2         | [Leonardo Cumba]    |                     Done                    |
+|   **US-03**   | Gestionar equipos de refrigeración                 | **UT-01** | Crear módulo de gestión de equipos        | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración.              |          4         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-06**   | Solicitar y gestionar servicios de mantenimiento   | **UT-01** | Crear módulo de solicitudes de servicio   | Diseñar formularios y vistas para registrar, editar y gestionar solicitudes de mantenimiento.           |          4         | [Alejandro Galindo] |                     Done                    |
+|   **US-07**   | Dar seguimiento al progreso del servicio           | **UT-01** | Implementar vista de seguimiento          | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos.             |          3         | [Gabriel Perez]     |                     Done                    |
+|   **US-09**   | Recepción de alertas sobre solicitudes de servicio | **UT-01** | Implementar sistema de alertas            | Crear notificaciones visuales para informar cambios importantes en las solicitudes de servicio.         |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-12**   | Registrar y gestionar técnicos                     | **UT-01** | Crear módulo de técnicos                  | Diseñar formularios y vistas para registrar, editar y administrar técnicos.                             |          4         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-13**   | Consultar el perfil de un técnico                  | **UT-01** | Diseñar perfil de técnico                 | Implementar pantalla con información, métricas y desempeño del técnico.                                 |          2         | [Alejandro Galindo] |                     Done                    |
+|   **US-14**   | Asignar técnicos a servicios                       | **UT-01** | Implementar asignación de técnicos        | Desarrollar la funcionalidad para asignar técnicos a solicitudes de mantenimiento.                      |          3         | [Gabriel Perez]     |                     Done                    |
+|   **US-18**   | Visualizar equipos asignados a clientes            | **UT-01** | Implementar listado de equipos asignados  | Crear una vista donde se visualicen los equipos vinculados a cada cliente.                              |          3         | [Walter Fajardo]    |                     Done                    |
+|   **US-20**   | Visualizar la propuesta de valor principal         | **UT-01** | Diseñar sección principal de Landing Page | Implementar el banner principal destacando la propuesta de valor de Frigora.                            |          1         | [Leonardo Cumba]    |                     Done                    |
+|   **US-21**   | Explorar soluciones específicas para mi rubro      | **UT-01** | Crear sección de soluciones               | Diseñar la sección que presenta las soluciones ofrecidas para diferentes tipos de clientes.             |          2         | [Gabriel Perez]     |                     Done                    |
+|   **US-22**   | Comprender las funcionalidades clave               | **UT-01** | Implementar sección de funcionalidades    | Mostrar las funcionalidades principales de la plataforma mediante tarjetas informativas.                |          2         | [Walter Fajardo]    |                     Done                    |
+|   **US-23**   | Conocer la misión y visión                         | **UT-01** | Diseñar sección institucional             | Crear una sección informativa con la misión y visión de la empresa.                                     |          1         | [Joaquin Cuentas]   |                     Done                    |
+|   **US-24**   | Contactar con el equipo de ventas                  | **UT-01** | Implementar formulario de contacto        | Crear un formulario para que los usuarios puedan comunicarse con el equipo comercial.                   |          3         | [Alejandro Galindo] |                     Done                    |
+|   **US-25**   | Acceder a la plataforma web (Call to Action)       | **UT-01** | Crear Navbar y botón CTA                  | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. |          1         | [Leonardo Cumba]    |                     Done                    |
+|   **TS-02**   | Creación de solicitudes de mantenimiento (API)     | **UT-01** | Implementar endpoint de solicitudes       | Desarrollar los endpoints necesarios para registrar y consultar solicitudes de mantenimiento.           |          3         | [Walter Fajardo]    |                     Done                    |
+|   **TS-04**   | Registrar nuevo usuario a través de API RESTful    | **UT-01** | Implementar endpoint de registro          | Desarrollar el servicio backend para registrar usuarios y validar información de entrada.               |          3         | [Leonardo Cumba]    |                     Done                    |
+|   **TS-05**   | Consulta de estado de servicios por API            | **UT-01** | Implementar endpoint de consulta          | Crear los endpoints para consultar el estado actual de los servicios registrados.                       |          2         | [Alejandro Galindo] |                     Done                    |
+
+<div align="center">
+  <img src="assets/chapter05/sprint-backlog3.png"
+       alt="Sprint Backlog 3"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los ultimos commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+**Backend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `5484848` | update frigora-platform | 03/06/2026 |
+| develop | `b3620a5` | update frigora-platform | 03/06/2026 |
+| develop | `3b67e0a` | update bounded context: Reporting pe | 07/06/2026 |
+| develop | `2c17d55` | feat: add bc assets-management | 11/06/2026 |
+| develop | `467957e` | feat: update assets management | 11/06/2026 |
+| develop | `0314809` | feat: add service-request & IAM bounded contexts | 15/06/2026 |
+| develop | `934cf40` | fix: comments with wrong namespace | 15/06/2026 |
+| develop | `32d4a15` | feat: add delete method to service-requests & update enum Roles to accept any string | 16/06/2026 |
+| develop | `ad9aa48` | fix: show example schema for service-requests & users bc | 16/06/2026 |
+| develop | `a23e44a` | fix: add serialization to enums for frontend filters | 16/06/2026 |
+| develop | `6b33e30` | create bounded context: Technicians | 17/06/2026 |
+| develop | `e8081f3` | feat: update sites | 18/06/2026 |
+| develop | `20de589` | feat: update assets-management bc | 18/06/2026 |
+| develop | `dd29072` | feat: add feedback | 18/06/2026 |
+| develop | `7651bf3` | Merge pull request #1 from ColdTech-Peru/feature/service-requests — Feature/service requests | 18/06/2026 |
+| develop | `a1dbcbe` | Merge pull request #3 from ColdTech-Peru/feature/technicians — create bounded context: Technicians | 18/06/2026 |
+
+**Frontend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `c5028ce` | Initial commit | 04/05/2026 |
+| develop | `d1643d3` | feat: add initial template | 05/05/2026 |
+| develop | `bcfc459` | feat: add monitoring bounded context | 11/05/2026 |
+| develop | `f34b712` | feat: add assets-management bc | 14/05/2026 |
+| develop | `a113b45` | feat: add endpoint site | 14/05/2026 |
+| develop | `0a40a4c` | feat: add domain and infrastructure | 14/05/2026 |
+| develop | `70765a3` | BC Report | 14/05/2026 |
+| develop | `17c17bb` | feat: add application | 14/05/2026 |
+| develop | `3ab7795` | BC Report (cherry picked from commit 70765a3) | 14/05/2026 |
+| develop | `2b6296a` | Revert "BC Report" — reverts commit 70765a3 | 14/05/2026 |
+| develop | `e5d234a` | feat: add components | 14/05/2026 |
+| develop | `79de5c1` | feature: structure project | 14/05/2026 |
+| develop | `16c0af5` | feature: aggregate domain/model section | 14/05/2026 |
+| develop | `705f903` | feature: update domain/model | 14/05/2026 |
+| develop | `66d79ed` | feature: aggregate infrastructure | 14/05/2026 |
+| develop | `a43b822` | feat: implement monitoring bounded context | 14/05/2026 |
+| develop | `4f56ec3` | feature: update domain/model | 14/05/2026 |
+| develop | `0311324` | feature: update infrastructure | 14/05/2026 |
+| develop | `283c3dc` | feat: add service-request bounded context | 14/05/2026 |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Para esta entrega hemos mejorado nuestro Frontend para que el usuario pueda registrarse como dueño de negocio o proveedor de servicios de mantenimiento y luego loguearse para entrar a la aplicación web. Hemos también implementado las vistas para el proveedor y mejorado las vistas que ya habían sido realizadas en el anterior sprint. Se presentará la evidencia de la ejecución del Frontend desplegado y conectado con el backend desplegado a continuación:
+
+**Register**
+
+<div align="center">
+  <img src="assets/chapter05/Register.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Login**
+
+<div align="center">
+  <img src="assets/chapter05/Login.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Dashboard del dueño de negocio**
+
+<div align="center">
+  <img src="assets/chapter05/dashboard-owner.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Sites actualizado con boton de eliminar**
+
+<div align="center">
+  <img src="assets/chapter05/sites2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalles del site actualizado**
+
+<div align="center">
+  <img src="assets/chapter05/sites-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Formulario del site actualizado conectado con Leaflet para añadir ubicación**
+
+<div align="center">
+  <img src="assets/chapter05/sites-new.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Solicitud de servicio actualizado con el tecnico asignado, proveedor, opciones para cancelar servicio y calificar técnico**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-owner.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalle de solicitud de servicio actualizado con intervenciones mostradas al dueño de negocio**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Dashboard para los proveedores de servicios de mantenimiento**
+
+<div align="center">
+  <img src="assets/chapter05/dashboard-provider.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Gestión de tecnicos**
+
+<div align="center">
+  <img src="assets/chapter05/technicians.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Hub de solicitudes de servicio para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/service-hub.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Lista de solicitudes de servicio para proveedores de servicios de mantenimiento**
+
+<div align="center">
+  <img src="assets/chapter05/provider-service-request.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes completadas para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/completed-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes canceladas o denegadas para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/canceled-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de solicitudes en progreso para proveedores**
+
+<div align="center">
+  <img src="assets/chapter05/inprogress-services.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Registro de intervenciones desde la vista del proveedor**
+
+<div align="center">
+  <img src="assets/chapter05/intervention-log.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Detalle de las intervenciones**
+
+<div align="center">
+  <img src="assets/chapter05/intervention-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Cuadro de dialogo para calificar técnico**
+
+<div align="center">
+  <img src="assets/chapter05/review-service.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Vista de la reseña publicada**
+
+<div align="center">
+  <img src="assets/chapter05/review-detail.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se mostrará la evidencia de toda la documentación relacionada a la primera versión de nuestro backend realizado en Spring Boot, que ya se encuentra conectada con nuestra aplicación web y está recibiendo y mostrando toda la data. A continuación se mostrará un cuadro con todos los bounded contexts, sus endpoints y verbos http.
+
+| Verbo HTTP | Endpoint | Descripción |
+|---|---|---|
+| **Autenticación** | | |
+| POST | `/api/v1/authentication/sign-up` | Registro de usuario |
+| POST | `/api/v1/authentication/sign-in` | Inicio de sesión |
+| **Usuarios** | | |
+| GET | `/api/v1/users` | Obtener todos los usuarios |
+| GET | `/api/v1/users/{id}` | Obtener un usuario por su id |
+| GET | `/api/v1/users/role/{role}` | Obtener usuarios por rol |
+| **Técnicos** | | |
+| GET | `/api/v1/technicians/{technicianId}` | Obtener un técnico por ID |
+| PUT | `/api/v1/technicians/{technicianId}` | Actualizar un técnico |
+| DELETE | `/api/v1/technicians/{technicianId}` | Eliminar un técnico |
+| GET | `/api/v1/technicians` | Obtener todos los técnicos |
+| POST | `/api/v1/technicians` | Crear un nuevo técnico |
+| **Sitios** | | |
+| GET | `/api/v1/sites` | Obtener todos los sitios |
+| POST | `/api/v1/sites` | Crear un nuevo sitio |
+| GET | `/api/v1/sites/{id}` | Obtener un sitio por su Id |
+| DELETE | `/api/v1/sites/{id}` | Eliminar un sitio |
+| **Equipos** | | |
+| GET | `/api/v1/equipment` | Obtener todos los equipos |
+| POST | `/api/v1/equipment` | Crear un nuevo equipo |
+| GET | `/api/v1/equipment/{id}` | Obtener un equipo por su Id |
+| DELETE | `/api/v1/equipment/{id}` | Eliminar un equipo |
+| **Solicitudes de Servicio** | | |
+| POST | `/api/v1/service-requests` | Crear una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/reject` | Rechazar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/complete` | Completar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/cancel` | Cancelar una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/assign-technician` | Asignar técnico a una solicitud de servicio |
+| PATCH | `/api/v1/service-requests/{serviceRequestId}/accept` | Aceptar una solicitud de servicio |
+| GET | `/api/v1/service-requests/{serviceRequestId}` | Obtener una solicitud de servicio por Id |
+| DELETE | `/api/v1/service-requests/{serviceRequestId}` | Eliminar una solicitud de servicio |
+| GET | `/api/v1/service-requests/requester/{requesterId}` | Obtener solicitudes de servicio por Id de solicitante |
+| GET | `/api/v1/service-requests/provider/{providerId}` | Obtener solicitudes de servicio por Id de proveedor |
+| **Intervenciones** | | |
+| POST | `/api/v1/interventions` | Registrar una intervención |
+| GET | `/api/v1/interventions/{interventionId}` | Obtener una intervención por Id |
+| GET | `/api/v1/interventions/serviceRequest/{serviceRequestId}` | Obtener intervenciones por Id de solicitud de servicio |
+| **Alertas** | | |
+| GET | `/api/v1/alert` | Obtener todas las alertas o por Tenant/Equipo |
+| POST | `/api/v1/alert` | Crear una nueva alerta |
+| PATCH | `/api/v1/alert/{id}/acknowledge` | Confirmar (acknowledge) una alerta |
+| GET | `/api/v1/alert/{id}` | Obtener una alerta por Id |
+| DELETE | `/api/v1/alert/{id}` | Eliminar una alerta |
+| **Reportes** | | |
+| GET | `/api/v1/reports/{reportId}` | Obtener un reporte por ID |
+| PUT | `/api/v1/reports/{reportId}` | Actualizar un reporte |
+| DELETE | `/api/v1/reports/{reportId}` | Eliminar un reporte |
+| GET | `/api/v1/reports` | Obtener todos los reportes |
+| POST | `/api/v1/reports` | Crear un nuevo reporte |
+| **Reseñas** | | |
+| GET | `/api/v1/reviews` | Obtener todas las reseñas |
+| POST | `/api/v1/reviews` | Crear una reseña |
+| GET | `/api/v1/reviews/{reviewId}` | Obtener una reseña por Id |
+| GET | `/api/v1/reviews/service-request/{serviceRequestId}` | Obtener reseñas por Id de solicitud de servicio |
+
+
+**Intervenciones**
+
+<div align="center">
+  <img src="assets/chapter05/interventions-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-1.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/intervention-3.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Reseñas**
+
+<div align="center">
+  <img src="assets/chapter05/reviews-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+<div align="center">
+  <img src="assets/chapter05/review1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/review2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/review3.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/review4.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+
+**Técnicos**
+
+<div align="center">
+  <img src="assets/chapter05/technicians-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/tec1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/tec2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/tec3.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/tec4.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/tec5.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+**Autenticación**
+
+<div align="center">
+  <img src="assets/chapter05/authentication-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/aut1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/aut2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Alertas**
+
+<div align="center">
+  <img src="assets/chapter05/alert-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/alert1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/alert2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/alert3.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/alert4.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/alert5.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+**Usuarios**
+
+<div align="center">
+  <img src="assets/chapter05/users-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/us1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/us2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Solicitudes de servicio**
+
+<div align="center">
+  <img src="assets/chapter05/service-request-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s3.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s4.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s5.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s6.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s7.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s8.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s9.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/s10.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Sitio**
+
+<div align="center">
+  <img src="assets/chapter05/site-swagger.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/site1.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/site2.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/site3.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/site4.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+**Reportes**
+
+<div align="center">
+  <img src="assets/chapter05/reporting-swagger.png"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/r1.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/r2.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/r3.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/r4.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/r5.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Equipos**
+
+<div align="center">
+  <img src="assets/chapter05/equipment-swagger.png"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/eq1.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/eq2.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/eq3.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/eq4.jpeg"
+       alt="Backend"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el Sprint 3, hemos desplegado nuevamente nuestro Frontend y también nuestra primera versión de nuestra plataforma en Spring Boot y la base de datos. No hemos necesitado del Fake Api, ya que nuestra aplicación web ya está conectada al backend y toda la data se dirige hacia allá.
+
+**Evidencia de despliegue del Frontend en Vercel:**
+
+<div align="center">
+  <img src="assets/chapter05/frontend-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del Frontend desplegado: https://frigora-frontend.vercel.app/
+
+**Evidencia del despliegue del Backend en Render:**
+
+<div align="center">
+  <img src="assets/chapter05/backend-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del backend desplegado: https://frigora-platform.onrender.com/
+
+**Evidencias del despliegue de la base de datos MySQL en Railway:**
+
+<div align="center">
+  <img src="assets/chapter05/database-deploy.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter05/database-deploy2.png"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+**Insights del repositorio donde desarrollamos el Front-end de Frigora:**
+
+<div align="center">
+  <img src="assets/chapter05/commits-front.png"
+       alt="Insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Insights del repositorio donde desarrollamos el Back-end de Frigora:**
+
+<div align="center">
+  <img src="assets/chapter05/commits-back.png"
+       alt="Insights"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+# Guía de Entrevista — Frigora
+
+**Objetivo:** Validar la usabilidad y propuesta de valor de la plataforma según el perfil del entrevistado.
+
+## Preguntas Comunes
+
+1. ¿La landing page te dejó claro para qué sirve Frigora?
+2. ¿El registro e inicio de sesión fueron rápidos y sin errores?
+3. ¿Navegaste el panel principal sin dificultad?
+4. ¿Los cambios de configuración (idioma, tema) se mantuvieron al recargar?
+5. ¿Tuviste algún problema técnico durante la prueba?
+6. ¿Faltó alguna funcionalidad que esperabas encontrar?
 
 ---
 
-# Anexos
+## Segmento 1 — Negocios con Equipos de Refrigeración
+
+**Flujo:** Registrar sitios y equipos → Monitorear alertas → Crear service request → Calificar técnico → Ver dashboard y reportes.
+
+**Sitios y equipos**
+1. ¿Registrar un sitio y agregar equipos fue sencillo e intuitivo?
+2. ¿La información mostrada por equipo (estado, modelo) es relevante para tu operación?
+
+**Monitoreo y alertas**
+
+3. ¿La visualización en tiempo real (temperatura, humedad, consumo) es clara?
+4. ¿Las alertas (alta temperatura, apertura prolongada, falla eléctrica) fueron fáciles de interpretar y llegaron a tiempo?
+
+**Service request**
+
+5. ¿Crear una solicitud de servicio y asociarla a un equipo fue claro?
+6. ¿Pudiste hacer seguimiento del estado de tu solicitud en todo momento?
+
+**Calificación**
+
+7. ¿Encontraste fácilmente la opción para calificar al técnico una vez completado el servicio?
+8. ¿Los criterios de calificación reflejan lo que realmente te importa evaluar?
+
+**Dashboard y reportes**
+
+9. ¿El dashboard te da una visión general útil de tus equipos y sitios?
+10. ¿Los reportes (consumo, temperatura, horas de funcionamiento) son accesibles y fáciles de interpretar?
+
+---
+
+## Segmento 2 — Técnicos y Empresas de Mantenimiento
+
+**Flujo:** Ver solicitudes → Aceptar y asignar técnico → Registrar intervención → Completar servicio → Ver reportes.
+
+**Solicitudes**
+
+1. ¿La información de cada solicitud (equipo, problema, urgencia) fue suficiente para decidir aceptarla?
+2. ¿El proceso para aceptar y asignar un técnico fue intuitivo?
+
+**Intervención y cierre**
+
+3. ¿Registrar la intervención (trabajo realizado, observaciones) fue claro y completo?
+4. ¿Cerrar una solicitud como completada fue sencillo?
+
+**Historial**
+
+5. ¿Accediste fácilmente al historial de intervenciones previas por equipo?
+6. ¿La información del historial es suficiente para planificar la siguiente intervención?
+
+**Dashboard y reportes**
+
+7. ¿El dashboard te da una visión útil del estado de solicitudes y técnicos?
+8. ¿Los reportes de rendimiento por técnico y equipos por cliente son claros y útiles?
+
+
+### 5.3.2. Registro de Entrevistas.
+
+#### Segmento #1: Negocios con equipos de refrigeración
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Luis Tufiño |
+| **Edad** | 23 años |
+| **Distrito** | Callao |
+| **Duración** | 8:52 min |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQAag8hJH5WvQZxc7NZyruusAbKitXv0kuUzK9zCA5NgTWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iSBIvs) |
+
+<div align="center">
+<img width="894" height="469" alt="Luis" src="https://github.com/user-attachments/assets/d466dcfc-066a-41d7-9ce4-fe944af61d82" />
+</div>
+
+
+**Resumen:** 
+
+- El usuario indicó que el proceso para registrar sitios y equipos fue sencillo y fácil de entender. Destacó que la información mostrada de cada equipo le permite llevar un mejor control de sus operaciones.Consideró que la visualización en tiempo real y las alertas son claras y oportunas, lo que le ayuda a reaccionar rápidamente ante posibles fallas.Además, señaló que la creación y seguimiento de solicitudes de servicio es intuitiva y valoró positivamente el dashboard y los reportes, ya que le brindan una visión general del estado de sus equipos y del consumo energético. Como mejora, sugirió incorporar notificaciones adicionales por correo electrónico o teléfono.
+
+---
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Alessandro Aguilar |
+| **Edad** | 25 |
+| **Distrito** | San Martín |
+| **Duración** | 6:43 min |
+| **Enlace** |  [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/IQBqZnNsFq9cQ6SpKRxbGu9rAfLHBPWzNjZA5UtmoUlghT0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eUMvL8)   |
+
+<div align="center">
+<img width="894" height="469" alt="image" src="assets/chapter04/imagen entrevista.jpg" />
+</div>
+
+**Resumen:** 
+
+- El usuario tuvo una experiencia bastante fluida al interactuar con el módulo de registro de instalaciones y dispositivos. Hizo hincapié en que la visibilidad de los datos mejora significativamente su control operativo. De igual forma, percibe un gran valor en las alertas oportunas y la visualización en vivo, ya que son factores clave para una capacidad de respuesta inmediata ante problemas técnicos. La generación de solicitudes de soporte le pareció muy amigable; a la par, validó positivamente los reportes y el dashboard como fuentes de consulta esenciales para el monitoreo energético y de estado. Finalmente, concluyo que nuestro producto le pareció útil para su labor.
+  
+---
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Arturo Axel Saravia Huaricancha |
+| **Edad** | 20 |
+| **Distrito** | Los olivos |
+| **Duración** | 6:31 min |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL) |
+
+
+
+<div align="center">
+<img width="584" height="327" alt="ArturoEntrevista" src="https://github.com/user-attachments/assets/a01d1ba8-8e27-4039-b1fd-bfdc00787909" />
+</div>
+
+
+**Resumen:** 
+
+- El usuario comentó que la plataforma le permitió registrar sitios y equipos de forma sencilla y mantener un mejor control de sus activos. Destacó que la visualización en tiempo real y las alertas facilitan la detección temprana de problemas. Asimismo, indicó que la gestión y seguimiento de las solicitudes de servicio es clara y que los dashboards y reportes proporcionan información útil para la toma de decisiones. Como mejora, sugirió incorporar notificaciones por correo electrónico y la posibilidad de agregar comentarios adicionales al momento de calificar a los técnicos.
+---
+
+#### Segmento #2: Técnicos y Empresas de Mantenimiento
+
+**Entrevista 1**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Mark Josue Febres Reategui  |
+| **Edad** | 25 |
+| **Distrito** | Dueñas |
+| **Duración** | 4:51 |
+| **Enlace** | https://1drv.ms/v/c/6bb6365728706c6d/IQAMI-YwbIJ2R6ONY6Qn38vLAZfOVsGWbz0Gb8XpW0Wyi5A?e=s5yutd |
+
+<div align="center">
+<img width="894" height="469" alt="image" src="assets/chapter05/entrevista-mark.png" />
+</div>
+
+**Resumen:**
+
+La experiencia general fue satisfactoria, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las solicitudes permitió tomar decisiones adecuadas, el registro y cierre de intervenciones fue intuitivo, el historial proporcionó contexto útil para futuras acciones y tanto el dashboard como los reportes ofrecieron información relevante para la gestión y seguimiento de las operaciones de mantenimiento.
+
+---
+
+**Entrevista 2**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Diego Avalos |
+| **Edad** | 23 años |
+| **Distrito** | Asia |
+| **Duración** | 4:25 |
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCDMg6KHU81SobE_H8BDw98ASpGMlljHiqL_muFYdUxBAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PjKFU6`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQCDMg6KHU81SobE_H8BDw98ASpGMlljHiqL_muFYdUxBAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PjKFU6) |
+
+
+<div align="center">
+  <img src="assets/chapter05/diegooo.png"
+       alt="Entrevista Diego"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
+</div>
+
+
+**Resumen:** 
+
+La experiencia general fue exitosa, ya que todas las funcionalidades evaluadas resultaron claras y fáciles de utilizar. La información de las opciones para un técnicos ayudaron al entrevistado a cumplir el flujo que le permite desarrollar todo su trabajo desde inicio a fin. Asimismo el entrevistado señaló el registro y cierre de intervenciones como las opciones más intuitivas en el proceso.
+
+---
+
+**Entrevista 3**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Yañez Santos, Leo Giovany |
+| **Edad** | 23 años |
+| **Distrito** | San Miguel |
+| **Duración** | 5:56 min|
+| **Enlace** | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBfHdHPUuaJTqzoIcxPdmByAdSFfvRImpLn80WstCFmyKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SwOtNt) |
+
+<div align="center">
+<img width="894" height="469" alt="Leo" src="https://github.com/user-attachments/assets/f42616bf-f6a6-4e73-8424-432aed7e40da" />
+</div>
+
+**Resumen:** 
+
+
+- El usuario comentó que la información de las solicitudes es suficiente para comprender el problema y priorizar las atenciones según su urgencia. Mencionó que el proceso para aceptar y asignar servicios es claro y que el registro de las intervenciones resulta completo y sencillo. También destacó la utilidad del historial de mantenimiento para conocer fallas recurrentes y preparar futuras visitas técnicas. Finalmente, señaló que el dashboard y los reportes permiten monitorear el estado de las solicitudes y evaluar el desempeño de los técnicos. Como oportunidad de mejora, sugirió añadir la posibilidad de adjuntar fotografías o documentos en el historial de intervenciones y disponer de filtros por especialidad o disponibilidad de los técnicos.
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+---
+
+#### UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Valor |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | 11959
+| **PROFESORES** | Hugo Allan Mori |
+| **AUDITOR** | ColdTech (Frigora) |
+| **CLIENTE(S)** | PrimeFuel |
+
+
+---
+
+#### SITE o APP A EVALUAR
+
+**FullTank (PrimeFuel)** — Web Application B2B de intermediación de combustible (Proveedor/Distribuidor ↔ Comprador/Solicitante).
+
+---
+
+#### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Creación de una solicitud de combustible (Buyer)
+2. Revisión y aceptación/rechazo de solicitudes pendientes (Provider)
+3. Asignación de conductor y vehículo, y despacho de un pedido (Provider)
+4. Confirmación de recepción de un pedido (Buyer)
+5. Pago de un pedido y visualización de factura (Buyer)
+6. Registro de un nuevo producto en inventario (Provider)
+7. Registro de un nuevo conductor (Provider)
+8. Registro de cuenta nueva (Provider/Buyer)
+9. Revisión de reportes y analítica (Provider/Buyer)
+10. Revisión de notificaciones
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Flujo de login / recuperación de contraseña (no se proveyeron capturas)
+2. Gestión de equipos del comprador (catálogo de equipos) en detalle
+3. Cancelación de pedidos y flujo de rechazo de solicitudes
+4. Versión móvil / responsive (todas las capturas corresponden a escritorio)
+
+---
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|---|---|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+#### TABLA RESUMEN
+
+| # | Problema | Severidad | Heurística/Principio violado(a) |
+|---|---|---|---|
+| 1 | El nombre del producto se confunde con el nombre de una persona ("Franchesco Bernandini") en el selector y resumen de la solicitud de combustible | 4 | Usability: Match entre el sistema y el mundo real |
+| 2 | Cálculo de factura inconsistente: el "Subtotal" se deriva restando el IGV del Total en vez de multiplicar Cantidad × Precio Unitario, generando montos de línea incorrectos | 4 | Usability: Prevención de errores / Consistencia de datos |
+| 3 | Estado de pago contradictorio entre la vista del proveedor ("Pendiente de pago") y la factura del mismo pedido ("PAID") | 4 | Usability: Visibilidad del estado del sistema |
+| 4 | Datos de Conductor y Vehículo "Not assigned" en la vista del comprador mientras la vista del proveedor del mismo pedido sí los muestra asignados | 3 | Usability: Consistencia y estándares |
+| 5 | Datos de prueba (placeholders sin sentido) visibles en producción: descripciones de producto, nombre de conductor "Jose el Carry", placa "AHd-sdgsdg" | 3 | Usability: Estética y diseño minimalista / Profesionalismo |
+| 6 | Mezcla de idiomas dentro de la misma pantalla o lista (notificaciones, badges de sector) | 2 | Usability: Consistencia y estándares |
+| 7 | Bug de fecha relativa: notificaciones muestran "NaNmo ago" en vez del tiempo transcurrido | 3 | Usability: Prevención de errores |
+| 8 | Unidad de cantidad ilegible/rota en el formulario de solicitud en español: "Cantidad (—)" en vez de "Cantidad (L)" | 2 | Usability: Visibilidad del estado del sistema |
+| 9 | Ambigüedad en formato numérico de cantidad solicitada ("23.000" interpretado como 23 000 L) sin separador de miles explícito ni confirmación clara | 3 | Usability: Prevención de errores |
+| 10 | Unidad de volumen inconsistente entre módulos: "Total Volume (MT)" en Reportes vs. Litros (L) en el resto de la aplicación | 2 | Information Architecture: ¿Es comprensible? (Labeling Systems) |
+| 11 | Cifra de ingresos truncada / con error de formato ("S/ 7,735,703.0") en el dashboard de reportes | 2 | Usability: Visibilidad del estado del sistema |
+| 12 | Indicador de "Estado" en tabla de Mejores Clientes mostrado solo como una pastilla de color sin etiqueta de texto | 2 | Usability: Reconocimiento antes que recuerdo |
+| 13 | Dashboard del proveedor muestra "Active Orders: 0" y "Pending Requests: 0" inmediatamente después de que el comprador registró 3 solicitudes activas | 3 | Usability: Visibilidad del estado del sistema |
+| 14 | Método de pago "YAPE" utilizado para transacciones B2B de gran magnitud (S/ 875,000.00), incompatible con los límites reales de esa billetera digital | 2 | Usability: Match entre el sistema y el mundo real |
+| 15 | Transacción de ejemplo de solo 4 litros de Diesel B5 en un contexto de catálogo B2B industrial | 1 | Usability: Match entre el sistema y el mundo real |
+| 16 | Error ortográfico recurrente "premiun" en vez de "premium" en nombre de producto | 1 | Usability: Consistencia y estándares |
+| 17 | Formulario de registro de cuenta no marca campos obligatorios, a diferencia de otros formularios del mismo sistema (p. ej. registro de conductor) que sí usan asterisco | 2 | Usability: Consistencia y estándares / Prevención de errores |
+| 18 | Gráficos de barras y de dona sin valores numéricos visibles ni leyenda clara sobre los datos representados | 2 | Information Architecture: ¿Es comprensible? |
+
+---
+
+#### DESCRIPCIÓN DE PROBLEMAS
+
+##### PROBLEMA #1: El nombre del producto se confunde con el nombre de una persona
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+En el panel "Create Fuel Request" / "Crear Solicitud de Combustible", el selector "Select a product" muestra como opción **"Franchesco Bernandini"**, un nombre propio de persona, en lugar de un nombre de producto de combustible (por ejemplo "Gasohol 84"). Esta misma etiqueta se replica en el "Order Summary" como valor del campo "Product". En el listado de "Products offered" se puede confirmar que el producto correspondiente sí es Gasohol 84, pero su nombre comercial visible está mal asignado y muestra el nombre de una persona, junto con una descripción sin sentido ("aklfjalkjfslkajflakj"). Esto genera confusión grave: el comprador no puede identificar qué combustible está solicitando.
+
+**Recomendación:**
+Verificar el mapeo de datos del catálogo de productos: el campo que alimenta el nombre visible del producto parece estar tomando un campo de "contacto" o "responsable" en lugar del campo "nombre de producto". Reemplazar los datos de prueba (placeholders) por nombres de producto reales y consistentes (p. ej. "Gasohol 84") antes de cualquier entrega o demostración.
+
+---
+
+##### PROBLEMA #2: Cálculo de factura inconsistente con el detalle de la orden
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Prevención de errores / Consistencia de datos
+
+**Problema:**
+En las facturas generadas (`Invoice`), el campo "AMOUNT" de la línea de detalle no corresponde a `Cantidad × Precio unitario`. Por ejemplo, en uno de los pedidos: 25 000 L × S/ 35.00 = S/ 875,000.00, pero el sistema muestra "Amount: S/ 741,525.42" y luego calcula el IGV (18%) sobre esa cifra incorrecta para finalmente llegar al Total correcto (S/ 875,000.00) por una vía de cálculo inversa (como si el Total ya incluyera el IGV y se derivara el subtotal restándolo). El mismo patrón se repite en otro pedido (4 L × S/16.20 debería ser S/64.80, pero se muestra "S/54.92") y en otro más (20 000 L × S/40.00 debería ser S/800,000.00, pero se muestra "S/677,966.10"). Si bien el "Total" final suele coincidir con lo esperado, el desglose intermedio (Subtotal e IGV) es matemáticamente incorrecto y puede generar desconfianza o problemas contables/tributarios reales si esta factura se usa formalmente.
+
+**Recomendación:**
+Corregir la lógica de cálculo de la factura: `Subtotal = Cantidad × Precio Unitario`, `IGV = Subtotal × 18%`, `Total = Subtotal + IGV`. Verificar con pruebas unitarias que el monto de línea (AMOUNT) siempre sea igual a QTY × UNIT PRICE.
+
+---
+
+##### PROBLEMA #3: Estado de pago contradictorio entre vistas del mismo pedido
+
+**Severidad:** 4
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+Para un mismo pedido, la vista de "Detalle de Orden" del proveedor muestra el estado **"Pendiente de pago"** / "Esperando el pago del comprador", mientras que en esa misma instancia de tiempo la factura accesible desde el módulo de Pagos del comprador ya exhibe el badge **"PAID"** en verde. Esta contradicción se repite de forma sistemática en al menos tres pedidos distintos de las capturas, lo que sugiere un problema de sincronización entre el módulo de Pedidos (lado proveedor) y el módulo de Pagos (lado comprador), no un caso aislado.
+
+**Recomendación:**
+Implementar una única fuente de verdad para el estado de pago del pedido (idealmente en el backend), de forma que cualquier vista —proveedor o comprador— consulte el mismo estado actualizado. Considerar actualización en tiempo real (websockets o polling) para reflejar cambios de estado sin requerir recarga manual.
+
+---
+
+##### PROBLEMA #4: Datos de Conductor y Vehículo no visibles para el comprador
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+Una vez que el proveedor asigna conductor y vehículo a un pedido despachado (visible correctamente en su propia vista, p. ej. "Marcos Perez" y "Volvo FH-3000"), la vista equivalente del comprador para el mismo pedido sigue mostrando **"Driver: Not assigned"** y **"Vehicle: Not assigned"**, incluso en distintos idiomas de interfaz. Esto resta confianza al comprador, que no puede verificar quién transporta su pedido ni en qué vehículo, información relevante para el seguimiento de la entrega.
+
+**Recomendación:**
+Revisar el endpoint o la consulta que alimenta el detalle de orden en la vista del comprador, asegurando que incluya los campos `driver` y `vehicle` ya asignados por el proveedor, en lugar de mostrar siempre el valor por defecto "Not assigned".
+
+---
+
+##### PROBLEMA #5: Datos de prueba (placeholders) visibles en producción
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Estética y diseño minimalista / Profesionalismo
+
+**Problema:**
+Se identifican múltiples elementos de datos de relleno (placeholder/lorem-ipsum) que no fueron reemplazados antes de las capturas: la descripción del proveedor "jfaeljfalkfjalsfjaef", la descripción de producto "aklfjalkjfslkajflakj", el conductor con nombre "Jose el Carry" y la placa de vehículo "AHd-sdgsdg". Estos textos no aportan información real y, de aparecer ante un usuario o cliente potencial, comunican falta de cuidado y profesionalismo en el producto.
+
+**Recomendación:**
+Reemplazar todos los datos semilla (seed data) de demostración por información realista y representativa antes de cualquier entrega, demo o despliegue visible a terceros.
+
+---
+
+##### PROBLEMA #6: Mezcla de idiomas dentro de la misma pantalla
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+En el panel de notificaciones con interfaz en español, los textos de las notificaciones individuales aparecen en inglés ("New Request", "Order Delivered", "Payment Received"). De forma inversa, en otra captura con interfaz en inglés, la primera notificación aparece en español ("Solicitud enviada"). En la tabla "Mejores Clientes" en español, el badge de sector se muestra en inglés ("TRANSPORT"). Esta mezcla aleatoria de idiomas, sin relación con el selector EN/ES visible en la barra superior, genera una experiencia inconsistente y poco confiable, especialmente relevante dado que el enunciado del proyecto exige soporte i18n (en_US / es_419) de forma completa.
+
+**Recomendación:**
+Auditar todos los textos generados dinámicamente (notificaciones, etiquetas de catálogo) para asegurar que respeten el idioma seleccionado por el usuario, utilizando claves de traducción (i18n keys) en lugar de cadenas de texto fijas en el código o en los datos semilla.
+
+---
+
+##### PROBLEMA #7: Bug de cálculo de tiempo relativo ("NaNmo ago")
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Prevención de errores
+
+**Problema:**
+En el panel de Notificaciones, la marca de tiempo relativa de cada notificación muestra el texto **"NaNmo ago"** en lugar de un valor legible como "hace 5 minutos" o "2h ago". Esto evidencia un error en el cálculo de diferencia de fechas (probablemente una operación aritmética sobre una fecha indefinida o mal formateada que produce `NaN`, concatenada con el sufijo "mo ago").
+
+**Recomendación:**
+Revisar la función de formateo de fecha relativa; validar que las fechas de origen (timestamp de la notificación) sean válidas antes de calcular la diferencia, y mostrar un valor de respaldo (p. ej. la fecha completa) si el cálculo no puede resolverse.
+
+---
+
+##### PROBLEMA #8: Unidad de cantidad ilegible en formulario de solicitud (versión español)
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+En el formulario "Crear Solicitud de Combustible" en español, la etiqueta del campo de cantidad se muestra como **"Cantidad (—)"**, con un carácter no legible en lugar de la unidad de medida. La versión en inglés del mismo formulario sí muestra correctamente "Quantity (L)". Esto deja al usuario sin saber en qué unidad debe ingresar la cantidad.
+
+**Recomendación:**
+Corregir la cadena de traducción al español para que incluya explícitamente la unidad: "Cantidad (L)".
+
+---
+
+##### PROBLEMA #9: Ambigüedad en el formato numérico de cantidades
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Prevención de errores
+
+**Problema:**
+El campo "Cantidad (L)" muestra el valor **"23.000"**, que en formato latinoamericano podría leerse como 23 (con tres decimales) o como 23 000 según convención de separador de miles. El panel contiguo indica "El equipo necesita: 23000 L", lo que sugiere que el sistema interpreta "23.000" como 23 000 litros. Sin una aclaración visual (separador de miles consistente, o un step/formato explícito en el input), el usuario podría ingresar o interpretar mal una cantidad, con un impacto económico significativo dado que el "Total estimado" depende directamente de este valor (S/ 1,035,000.00 en este caso).
+
+**Recomendación:**
+Aplicar un formato de número consistente con separadores de miles claros (p. ej. "23,000" o "23 000" según configuración regional) y considerar mostrar el valor en palabras o con una unidad clara junto al campo, además de una validación que compare la cantidad solicitada contra el stock disponible y la necesidad del equipo antes de habilitar el envío.
+
+---
+
+##### PROBLEMA #10: Unidad de volumen inconsistente entre módulos ("MT" vs. "L")
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - ¿Es comprensible? (Labeling Systems)
+
+**Problema:**
+En el módulo de "Reports" / "Reportes & Analítica" (Provider), la columna "Total Volume" se etiqueta en toneladas métricas ("142,500.0 MT", "89,340.5 MT"), mientras que en absolutamente todo el resto de la aplicación (catálogo, pedidos, facturas) el combustible se mide y muestra en litros (L). Esta inconsistencia de unidades entre módulos puede llevar a interpretaciones erróneas sobre los volúmenes reales manejados por cada cliente, además de ser una unidad poco habitual para combustibles líquidos minoristas/industriales medidos por volumen.
+
+**Recomendación:**
+Unificar la unidad de medida del volumen de combustible en toda la aplicación (recomendado: Litros, consistente con el resto del producto), o, si se requiere manejar distintas unidades por tipo de cliente/sector, indicarlo explícitamente y permitir su conversión visible.
+
+---
+
+##### PROBLEMA #11: Cifra de ingresos truncada en el dashboard de reportes
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+La tarjeta "TOTAL SALES REVENUE" muestra el valor **"S/ 7,735,703.0"**, que aparenta estar cortado por el ancho de la tarjeta (un dígito decimal faltante o mal renderizado), mientras que la pantalla equivalente en "Your Clients Reports" sí muestra correctamente "S/ 7,735,703" sin decimales. Esta inconsistencia visual entre componentes que muestran el mismo dato sugiere un problema de truncamiento de texto o de formato de número no controlado en una de las dos vistas.
+
+**Recomendación:**
+Revisar el contenedor de la tarjeta de KPI para que el texto no se corte (`overflow`, `font-size` responsivo, o `text-overflow: ellipsis` controlado) y unificar el formato numérico (con o sin decimales) entre ambas pantallas.
+
+---
+
+##### PROBLEMA #12: Indicador de estado sin etiqueta de texto en tabla de clientes
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Reconocimiento antes que recuerdo
+
+**Problema:**
+En la tabla "Mejores Clientes", la columna "Estado" muestra únicamente una pequeña pastilla de color naranja, sin ningún texto que indique qué representa ese estado (p. ej. "Activo", "Pendiente", "Inactivo"). El usuario debe memorizar o inferir el significado del color, lo cual viola el principio de reconocimiento antes que recuerdo y además es problemático en términos de accesibilidad (no debe depender solo del color para transmitir significado).
+
+**Recomendación:**
+Añadir una etiqueta de texto visible junto al indicador de color (como sí ocurre en la tabla equivalente "Client Portfolio", donde el estado se muestra como texto: "ACTIVE", "PENDING", "INACTIVE").
+
+---
+
+##### PROBLEMA #13: Dashboard del proveedor no refleja actividad reciente
+
+**Severidad:** 3
+
+**Heurística violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+Inmediatamente después de que el comprador envía exitosamente 3 solicitudes de combustible (visibles en la columna izquierda de la captura, todas registradas con su Request ID), el "Provider Dashboard" del lado derecho muestra **"PENDING REQUESTS: 0"** y **"ACTIVE ORDERS: 0"**. Esta discrepancia entre la actividad real y el resumen del dashboard podría hacer que el proveedor no se entere de solicitudes pendientes que requieren su atención.
+
+**Recomendación:**
+Verificar que los contadores del dashboard del proveedor consulten datos en tiempo real (o se actualicen automáticamente tras cada solicitud nueva), en lugar de depender de una carga de página obsoleta o de una agregación con retraso (cache desincronizado).
+
+---
+
+##### PROBLEMA #14: Uso de Yape como método de pago para montos B2B muy elevados
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+Las capturas de "Payment History" muestran pagos de **S/ 875,000.00** registrados con el método **"YAPE"**, una billetera digital peruana orientada a pagos entre personas y comercios pequeños, con límites de transacción muy por debajo de esa cifra en la realidad. Esto resulta poco realista para una plataforma B2B industrial que mueve montos de seis cifras, y podría confundir a evaluadores o usuarios sobre los métodos de pago efectivamente soportados o sobre la seriedad del flujo transaccional.
+
+**Recomendación:**
+Para transacciones de este volumen, considerar y mostrar métodos de pago corporativos más realistas (transferencia bancaria, línea de crédito, pago contra factura a 30/60 días, tarjeta corporativa), reservando Yape u otras billeteras móviles para escenarios de menor monto si la plataforma decide soportar pagos mixtos B2B/B2C.
+
+---
+
+##### PROBLEMA #15: Transacción de ejemplo de un volumen no representativo del modelo B2B
+
+**Severidad:** 1
+
+**Heurística violada:** Usability - Match entre el sistema y el mundo real
+
+**Problema:**
+La factura de ejemplo de pago muestra una compra de solo **4 L** de Diesel B5, una cantidad propia de un consumidor final en un grifo minorista y no de una operación B2B entre empresas de transporte/logística/minería, que es el segmento objetivo declarado de la plataforma (según las demás pantallas, donde los pedidos van de 300 L a 25 000 L). Si bien es un único caso aislado de bajo impacto, contrasta con el resto de los datos de la aplicación.
+
+**Recomendación:**
+Ajustar los datos de ejemplo de facturación para que reflejen consistentemente cantidades industriales/comerciales, coherentes con el resto del sistema.
+
+---
+
+##### PROBLEMA #16: Error ortográfico recurrente "premiun"
+
+**Severidad:** 1
+
+**Heurística violada:** Usability - Consistencia y estándares
+
+**Problema:**
+El nombre de producto "Diesel B5 premiun" contiene un error ortográfico recurrente; la palabra correcta en inglés (idioma adoptado para nombres de producto, según otras pantallas) es "premium". Este error se repite consistentemente en todas las pantallas donde aparece el producto, incluyendo el formulario de creación del mismo, lo que indica que el error está en el dato de origen, no es un error de transcripción puntual.
+
+**Recomendación:**
+Corregir el nombre del producto en la base de datos / catálogo a "Diesel B5 Premium".
+
+---
+
+##### PROBLEMA #17: Falta de indicación de campos obligatorios en el formulario de registro de cuenta
+
+**Severidad:** 2
+
+**Heurística violada:** Usability - Consistencia y estándares / Prevención de errores
+
+**Problema:**
+El formulario de registro de cuenta ("Account Type", "Company Information", "User Account") no utiliza ningún indicador visual (como el asterisco rojo) para señalar qué campos son obligatorios, a diferencia del formulario "Register New Driver" del mismo sistema, donde todos los campos sí están marcados con un asterisco rojo junto a la etiqueta. Esta inconsistencia entre formularios puede llevar a que el usuario no sepa de antemano qué información es indispensable antes de enviar el formulario de registro.
+
+**Recomendación:**
+Aplicar el mismo patrón de marcado de campos obligatorios (asterisco rojo) de forma consistente en todos los formularios del sistema, incluyendo el de registro de cuenta.
+
+---
+
+##### PROBLEMA #18: Gráficos sin valores ni leyenda claros
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture - ¿Es comprensible?
+
+**Problema:**
+Varios gráficos del módulo de Reportes (gráfico de barras "Sales trend", gráfico de dona "Gasto por Tipo de Combustible", gráfico de barras "Ingresos por Tipo de Combustible") no muestran valores numéricos directamente sobre las barras/segmentos ni una leyenda detallada visible en la captura, dificultando que el usuario interprete con precisión la magnitud representada sin pasar el cursor sobre cada elemento (cuya interacción no puede confirmarse en una captura estática, pero que de no existir constituye una barrera de comprensión).
+
+**Recomendación:**
+Incluir etiquetas de datos (data labels) visibles sobre los elementos gráficos principales, o al menos un tooltip accesible y persistente, junto con una leyenda clara que indique unidades y períodos representados.
+
+---
+
+#### Conclusión general de la sesión
+
+La aplicación **FullTank (PrimeFuel)** demuestra una arquitectura de flujo de pedidos sólida en su estructura general (solicitud → aceptación → despacho → confirmación → pago → factura), con buena segmentación de roles (Comprador/Solicitante vs. Proveedor/Distribuidor) y vistas duales bien diferenciadas por color e identificación de rol en el header. Sin embargo, se identificaron **problemas de severidad alta (4)** relacionados con la integridad de los datos mostrados —específicamente el mapeo erróneo de nombre de producto y los cálculos incorrectos de facturación— que deben resolverse antes de cualquier entrega o demostración formal, ya que afectan directamente la confianza del usuario en la exactitud económica de la plataforma. Asimismo, se recomienda una limpieza exhaustiva de datos de prueba (seed data) y una revisión de sincronización de estado entre las vistas de comprador y proveedor para un mismo pedido.
+
+
+### 5.4. Video About-the-Product.
+
+En este video se mostraron las principales funcionalidades de la aplicación, así como el propósito de nuestro producto y el alcance que tiene.
+
+<div align="center">
+  <img src="assets/chapter05/abouttheproduct.png"
+       alt="About The Product"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW)
+
+
+## Conclusiones y recomendaciones
+
+- Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
+
+- La integración entre la interfaz de usuario y los servicios backend permitió validar el flujo completo de varias funcionalidades del sistema, reduciendo riesgos de integración y detectando tempranamente posibles inconsistencias entre los modelos de datos y la experiencia de usuario.
+
+- La definición de endpoints REST, junto con la implementación de módulos específicos para cada entidad del sistema, contribuyó a establecer una arquitectura organizada y escalable que facilitará el desarrollo de nuevas funcionalidades en futuras iteraciones.
+
+- El uso de Scrum, Trello y GitHub permitió mantener una adecuada coordinación entre los miembros del equipo, favoreciendo la distribución de tareas, el seguimiento del progreso y la integración continua de los avances realizados durante el Sprint.
+
+- La implementación simultánea de frontend y backend permitió obtener una versión más cercana al producto final, haciendo posible validar procesos completos de negocio en lugar de únicamente aspectos visuales o prototipos de interfaz.
+
+- El Sprint permitió consolidar la base tecnológica de Frigora, dejando preparados los componentes necesarios para incorporar funcionalidades avanzadas como analítica de consumo energético, generación de reportes y sistemas de notificaciones en las siguientes iteraciones.
+
+
+## Video About-the-Team
+
+En este video hemos explicado las actividades y como hemos trabajado en equipo durante el desarrollo de nuestro producto Frigora.
+
+<div align="center">
+  <img src="assets/chapter05/abouttheteam.png"
+       alt="About The Team"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+---
+
+## Anexos
 
 | Recurso | URL |
 | :--- | :--- |
@@ -1741,8 +3116,15 @@ Como trabajo pendiente, queda desarrollar e integrar el **backend** de la plataf
 | Repositorio del reporte | https://github.com/ColdTech-Peru/Report |
 | Repositorio de la Landing Page | https://github.com/ColdTech-Peru/Landing-Page |
 | Repositorio del Frontend |https://github.com/ColdTech-Peru/Frigora-Frontend|
+| Repositorio del Backend | https://github.com/ColdTech-Peru/Frigora-Platform |
 | Frontend desplegado | https://frigora-frontend.vercel.app/ |
+| Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
-| Video de exposición AV1 | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
+| Backend desplegado | https://frigora-platform.onrender.com/ |
+| Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
+| Video AV2 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Video About-The-Product | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Video About-The-Team | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
 
 
