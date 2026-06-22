@@ -2622,18 +2622,22 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Nombre** | |
-| **Edad** | |
-| **Distrito** |  |
-| **Duración** |  |
-| **Enlace** |  |
+| **Nombre** | Arturo Axel Saravia Huaricancha |
+| **Edad** | 20 |
+| **Distrito** | Los olivos |
+| **Duración** | 6:31 min |
+| **Enlace** | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQCTDSP3F5mPTLSUS2D7HEGUAdeZyrlXFi187pTy-q7CD5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T5RvoL|
 
 
-<img src="" alt="Entrevista 3 - Segmento 1" width="600">
+
+<div align="center">
+<img width="584" height="327" alt="ArturoEntrevista" src="https://github.com/user-attachments/assets/a01d1ba8-8e27-4039-b1fd-bfdc00787909" />
+</div>
 
 
 **Resumen:** 
 
+- El usuario comentó que la plataforma le permitió registrar sitios y equipos de forma sencilla y mantener un mejor control de sus activos. Destacó que la visualización en tiempo real y las alertas facilitan la detección temprana de problemas. Asimismo, indicó que la gestión y seguimiento de las solicitudes de servicio es clara y que los dashboards y reportes proporcionan información útil para la toma de decisiones. Como mejora, sugirió incorporar notificaciones por correo electrónico y la posibilidad de agregar comentarios adicionales al momento de calificar a los técnicos.
 ---
 
 #### Segmento #2: Técnicos y Empresas de Mantenimiento
