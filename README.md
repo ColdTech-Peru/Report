@@ -216,6 +216,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.4.1.Sprint Planning 4.](#5241sprint-planning-4)
       - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
       - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review-1)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
 - [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
@@ -2559,6 +2560,38 @@ El objetivo principal de este Sprint es consolidar la plataforma mediante la res
 |   **US-01**   | Registro de usuario                                | **UT-01** |             |            |                  |    |                                         |
 
 (imagen del trello xd)
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los últimos commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+**Backend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `5484848` | update frigora-platform | 03/06/2026 |
+| develop | `b3620a5` | update frigora-platform | 03/06/2026 |
+| develop | `3b67e0a` | update bounded context: Reporting pe | 07/06/2026 |
+| develop | `2c17d55` | feat: add bc assets-management | 11/06/2026 |
+| develop | `467957e` | feat: update assets management | 11/06/2026 |
+| develop | `0314809` | feat: add service-request & IAM bounded contexts | 15/06/2026 |
+| develop | `934cf40` | fix: comments with wrong namespace | 15/06/2026 |
+| develop | `32d4a15` | feat: add delete method to service-requests & update enum Roles to accept any string | 16/06/2026 |
+| develop | `ad9aa48` | fix: show example schema for service-requests & users bc | 16/06/2026 |
+| develop | `a23e44a` | fix: add serialization to enums for frontend filters | 16/06/2026 |
+| develop | `6b33e30` | create bounded context: Technicians | 17/06/2026 |
+| develop | `e8081f3` | feat: update sites | 18/06/2026 |
+| develop | `20de589` | feat: update assets-management bc | 18/06/2026 |
+| develop | `dd29072` | feat: add feedback | 18/06/2026 |
+| develop | `7651bf3` | Merge pull request #1 from ColdTech-Peru/feature/service-requests — Feature/service requests | 18/06/2026 |
+| develop | `a1dbcbe` | Merge pull request #3 from ColdTech-Peru/feature/technicians — create bounded context: Technicians | 18/06/2026 |
+
+
+
+
+**Frontend**
+
+
 
 
 ## 5.3. Validation Interviews.
