@@ -2972,7 +2972,7 @@ In-Progress Services:
 ### Technicians
 
 <div align="center">
-  <img src="assets/chapter05/techniciansswagger.jpeg"
+  <img src="assets/chapter05/techniciansswaggerswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
