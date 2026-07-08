@@ -2956,7 +2956,7 @@ In-Progress Services:
 ### Interventions
 
 <div align="center">
-  <img src="assets/chapter04/interventionsswagger.jpeg"
+  <img src="assets/chapter05/interventionsswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -2964,7 +2964,7 @@ In-Progress Services:
 ### Reviews
 
 <div align="center">
-  <img src="assets/chapter04/reviewsswagger.jpeg"
+  <img src="assets/chapter05/reviewsswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -2972,7 +2972,7 @@ In-Progress Services:
 ### Technicians
 
 <div align="center">
-  <img src="assets/chapter04/techniciansswagger.jpeg"
+  <img src="assets/chapter05/techniciansswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -2980,7 +2980,7 @@ In-Progress Services:
 ### Authentication
 
 <div align="center">
-  <img src="assets/chapter04/authenticationsswagger.jpeg"
+  <img src="assets/chapter05/authenticationsswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -2988,7 +2988,7 @@ In-Progress Services:
 ### Alert
 
 <div align="center">
-  <img src="assets/chapter04/alertswagger.jpeg"
+  <img src="assets/chapter05/alertswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -2996,7 +2996,7 @@ In-Progress Services:
 ### Users
 
 <div align="center">
-  <img src="assets/chapter04/userswagger.jpeg"
+  <img src="assets/chapter05/userswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3004,7 +3004,7 @@ In-Progress Services:
 ### Service Request
 
 <div align="center">
-  <img src="assets/chapter04/servicerequestswagger.jpeg"
+  <img src="assets/chapter05/servicerequestswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3012,7 +3012,7 @@ In-Progress Services:
 ### Site
 
 <div align="center">
-  <img src="assets/chapter04/siteswagger.jpeg"
+  <img src="assets/chapter05/siteswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3020,7 +3020,7 @@ In-Progress Services:
 ### Reporting
 
 <div align="center">
-  <img src="assets/chapter04/reportingswagger.jpeg"
+  <img src="assets/chapter05/reportingswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3028,7 +3028,7 @@ In-Progress Services:
 ### Equipment
 
 <div align="center">
-  <img src="assets/chapter04/equipmentswagger.jpeg"
+  <img src="assets/chapter05/equipmentswagger.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3043,7 +3043,7 @@ Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión
 Frontend:
 
 <div align="center">
-  <img src="assets/chapter04/front.jpeg"
+  <img src="assets/chapter05/front.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
@@ -3051,7 +3051,7 @@ Frontend:
 Backend:
 
 <div align="center">
-  <img src="assets/chapter04/back.jpeg"
+  <img src="assets/chapter05/back.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
