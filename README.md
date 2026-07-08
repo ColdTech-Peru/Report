@@ -213,7 +213,8 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
     - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.3.1.Sprint Planning 4.](#5231sprint-planning-4)
+      - [5.2.4.1.Sprint Planning 4.](#5241sprint-planning-4)
+      - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
 - [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
@@ -2516,7 +2517,7 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 
 ### 5.2.4. Sprint 4
 
-#### 5.2.3.1.Sprint Planning 4.
+#### 5.2.4.1.Sprint Planning 4.
 
 | Sprint 4                           | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2532,6 +2533,21 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 | **Sprint 3 Goal**                  | Mejorar el panel principal con gráficos simulados de sensores, habilitar la subida de fotos en los servicios técnicos y solucionar errores visuales y de carga de datos para ofrecer una plataforma más estable.                                                                                      |
 | **Sprint 3 Velocity**              | 36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+#### 5.2.4.2 Aspect Leaders and Collaborators
+
+Durante este cuarto sprint, el equipo se enfocó principalmente en la consolidación de la plataforma, priorizando la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se actualizó la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante este cuarto Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Resolución de errores de sprints previos <br> Leader (L) / Collaborator (C) | Seguridad, control de accesos y optimización de rendimiento <br> Leader (L) / Collaborator (C) | Refinamiento de funcionalidades y ajustes finales <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta, Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto | JoaCUPE | C | C | C |
 
 ## 5.3. Validation Interviews.
 
