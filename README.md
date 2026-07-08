@@ -2629,9 +2629,12 @@ En el Sprint 4 se desplegó la última versión de la Web Application de Frigora
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Owner View:
+# Owner View:
 
 ## Dashboard
+
+Main Dashboard View:
+
 <div align="center">
   <img src="assets/chapter04/dashboard.jpeg"
        alt="Frontend apps"
@@ -2758,7 +2761,8 @@ Create Report:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Provider View:
+
+# Provider View:
 
 ## Dashboard
 
