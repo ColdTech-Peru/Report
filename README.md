@@ -2616,33 +2616,38 @@ En el Sprint 4 se desplegó la última versión de la Web Application de Frigora
 
 Owner View:
 
-Register:
+## Register
 <div align="center">
   <img src="assets/chapter04/register.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Login:
+## Login
 <div align="center">
   <img src="assets/chapter04/login.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Dashboard:
+## Dashboard
 <div align="center">
   <img src="assets/chapter04/dashboard.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Sites:
+## Sites
+
+Main Sites View:
+
 <div align="center">
   <img src="assets/chapter04/sites.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Site details:
 
 <div align="center">
   <img src="assets/chapter04/sitedetail.jpeg"
@@ -2650,15 +2655,17 @@ Sites:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+New Sites:
+
 <div align="center">
   <img src="assets/chapter04/newsites.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Monitoring:
+## Monitoring
 
--Equipment
+Equipment:
 
 <div align="center">
   <img src="assets/chapter04/monitoriing.jpeg"
@@ -2666,11 +2673,15 @@ Monitoring:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Detail Equipment:
+
 <div align="center">
   <img src="assets/chapter04/viewmonitoring.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Add Equipment:
 
 <div align="center">
   <img src="assets/chapter04/addmonitoring.jpeg"
@@ -2678,7 +2689,7 @@ Monitoring:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
--Alert
+Alert:
 
 <div align="center">
   <img src="assets/chapter04/alert.jpeg"
@@ -2686,7 +2697,9 @@ Monitoring:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Services:
+## Services
+
+Main Service View :
 
 <div align="center">
   <img src="assets/chapter04/service.jpeg"
@@ -2694,19 +2707,25 @@ Services:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Detail Service:
+
 <div align="center">
   <img src="assets/chapter04/viewservice.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+New Service:
+
 <div align="center">
-  <img src="assets/chapter04/newservice.jpeg"
+  <img src="assets/chapter04/newservices.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Report:
+## Report
+
+Main Report View:
 
 <div align="center">
   <img src="assets/chapter04/reporting.jpeg"
@@ -2714,17 +2733,23 @@ Report:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Detail Report:
+
 <div align="center">
   <img src="assets/chapter04/viewreport.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Edit Report:
+
 <div align="center">
   <img src="assets/chapter04/editreport.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Create Report:
 
 <div align="center">
   <img src="assets/chapter04/createreporting.jpeg"
