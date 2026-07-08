@@ -2614,7 +2614,6 @@ En esta sección se presentan los últimos commits realizados en el repositorio 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 En el Sprint 4 se desplegó la última versión de la Web Application de Frigora, implementando mejoras complementarias y esenciales para garantizar la eficiencia de cada una de las secciones de la aplicación. A continuación, se presentan las evidencias:
 
-Owner View:
 
 ## Register
 <div align="center">
@@ -2629,6 +2628,8 @@ Owner View:
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Owner View:
 
 ## Dashboard
 <div align="center">
@@ -2756,6 +2757,12 @@ Create Report:
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
+
+Provider View:
+
+## Dashboard
+
+
 
 ## 5.3. Validation Interviews.
 
