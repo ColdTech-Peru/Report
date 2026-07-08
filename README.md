@@ -2617,7 +2617,17 @@ En el Sprint 4 se desplegó la última versión de la Web Application de Frigora
 Owner View:
 
 Register:
-
+<div align="center">
+  <img src="assets/chapter04/register.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+<br>
+<div align="center">
+  <img src="assets/chapter04/login.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 
 
