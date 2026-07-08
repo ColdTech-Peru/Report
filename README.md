@@ -2769,6 +2769,14 @@ New Service:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Detail Intervention:
+
+<div align="center">
+  <img src="assets/chapter04/detalleintervenciones.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ## Report
 
 Main Report View:
