@@ -2762,7 +2762,75 @@ Provider View:
 
 ## Dashboard
 
+Main Dashboard View:
 
+<div align="center">
+  <img src="assets/chapter04/dashboardp.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Technicians
+
+Main Techicians View:
+
+<div align="center">
+  <img src="assets/chapter04/technicians.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Edit Technicians:
+
+<div align="center">
+  <img src="assets/chapter04/edit technicians.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Service Hub
+
+Main Service Hub View:
+
+<div align="center">
+  <img src="assets/chapter04/services hub.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Services
+
+Services List:
+
+<div align="center">
+  <img src="assets/chapter04/servicelist.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Completed Service:
+
+<div align="center">
+  <img src="assets/chapter04/completeservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Canceled Service:
+
+<div align="center">
+  <img src="assets/chapter04/canceledservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+In-Progress Services:
+
+<div align="center">
+  <img src="assets/chapter04/inprogresservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 ## 5.3. Validation Interviews.
 
