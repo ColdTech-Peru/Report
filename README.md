@@ -2622,14 +2622,115 @@ Register:
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
-<br>
+
+Login:
 <div align="center">
   <img src="assets/chapter04/login.jpeg"
        alt="Frontend apps"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+Dashboard:
+<div align="center">
+  <img src="assets/chapter04/dashboard.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
+Sites:
+<div align="center">
+  <img src="assets/chapter04/sites.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/sitedetail.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/newsites.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Monitoring:
+
+-Equipment
+
+<div align="center">
+  <img src="assets/chapter04/monitoriing.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/viewmonitoring.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/addmonitoring.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+-Alert
+
+<div align="center">
+  <img src="assets/chapter04/alert.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Services:
+
+<div align="center">
+  <img src="assets/chapter04/service.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/viewservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/newservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Report:
+
+<div align="center">
+  <img src="assets/chapter04/reporting.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/viewreport.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/editreport.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+<div align="center">
+  <img src="assets/chapter04/createreporting.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 ## 5.3. Validation Interviews.
 
