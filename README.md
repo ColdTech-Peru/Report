@@ -215,6 +215,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1.Sprint Planning 4.](#5241sprint-planning-4)
       - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
 - [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
@@ -2548,6 +2549,17 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 |Fajardo Monrroy, Walter Luis | WalterFajardo | C | C | C |
 |Cumba Rengifo, Leonardo Raul | LeonardoC72 | C | C | C |
 |Cuentas Peña, Joaquin Alberto | JoaCUPE | C | C | C |
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal de este Sprint es consolidar la plataforma mediante la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la optimización y estabilización de la aplicación web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, del cual se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+| User Story ID | User Story Título                                  |  Task ID  | Task Título                               | Descripción                                                                                             | Estimación (Horas) | Asignado a          | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :------------------------------------------------- | :-------: | :---------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----------------: | :------------------ | :-----------------------------------------: |
+|   **US-01**   | Registro de usuario                                | **UT-01** |             |            |                  |    |                                         |
+
+(imagen del trello xd)
+
 
 ## 5.3. Validation Interviews.
 
