@@ -1,38 +1,46 @@
 <div align="center">
 
-# Universidad Peruana de Ciencias Aplicadas
+<img style="height: 120px" src="assets/chapter01/upc.png" alt="Logo UPC">
 
-<img style="height: 200px" src="assets/chapter01/upc.png" alt="Logo UPC">
+### Universidad Peruana de Ciencias Aplicadas
+### Carrera de Ingeniería de Software
 
-## Carrera: Ingeniería de Software
-## Periodo: 2026-10
+<br>
 
----
+## 1ASI0729
+## Desarrollo de Aplicaciones Open Source
 
-## Curso: Desarrollo de Aplicaciones Open Source
-**Código del Curso:** 1ASI0729 | **NRC:** 11959  
-**Profesor:** Hugo Allan Mori Paiva
-
----
+### NRC
+## 11959
 
 # Informe del Trabajo Final
 
-## Startup: ColdTech
-## Producto: Frigora
+### Docente
+## Mori Paiva, Hugo Allan
 
----
+### Equipo
+## ColdTech
 
-## Integrantes
+<br>
 
-| Alumno | Código |
+### Proyecto
+## Frigora
+
+### Integrantes
+
+| Código | Apellidos y Nombres |
 | :---: | :---: |
-| Galindo Montero, Alejandro Manuel | u202321264 |
-| Perez Tuesta, Gabriel | u202321281 |
-| Fajardo Monrroy, Walter Luis | u202221632 |
-| Cumba Rengifo, Leonardo Raul | u202311912 |
-| Cuentas Peña, Joaquin Alberto | u20201f788 |
+| u202321264 | Galindo Montero, Alejandro Manuel |
+| u202321281 | Perez Tuesta, Gabriel |
+| u202221632 | Fajardo Monrroy, Walter Luis |
+| u202311912 | Cumba Rengifo, Leonardo Raul |
+| u20201f788 | Cuentas Peña, Joaquin Alberto |
 
-### Junio 2026
+<br>
+
+## Período 202610
+
+## Julio 2026
 
 </div>
 
@@ -100,15 +108,16 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 
 ## Contenido
 
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera: Ingeniería de Software](#carrera-ingeniería-de-software)
-  - [Periodo: 2026-10](#periodo-2026-10)
-  - [Curso: Desarrollo de Aplicaciones Open Source](#curso-desarrollo-de-aplicaciones-open-source)
 - [Informe del Trabajo Final](#informe-del-trabajo-final)
-  - [Startup: ColdTech](#startup-coldtech)
-  - [Producto: Frigora](#producto-frigora)
-  - [Integrantes](#integrantes)
-    - [Junio 2026](#junio-2026)
+    - [Docente](#docente)
+  - [Mori Paiva, Hugo Allan](#mori-paiva-hugo-allan)
+    - [Equipo](#equipo)
+  - [ColdTech](#coldtech)
+    - [Proyecto](#proyecto)
+  - [Frigora](#frigora)
+    - [Integrantes](#integrantes)
+  - [Período 202610](#período-202610)
+  - [Julio 2026](#julio-2026)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
   - [| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.](#-30--2026-06-20--coldtech--desarrollo-del-sprint-3-mejora-de-la-aplicación-web-y-desarrollo-del-back-end-en-spring-boot)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -212,6 +221,39 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1.Sprint Planning 4.](#5241sprint-planning-4)
+      - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+- [Sprint Backlog 4](#sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+  - [Register](#register)
+  - [Login](#login)
+- [Owner View:](#owner-view)
+  - [Dashboard](#dashboard)
+  - [Sites](#sites)
+  - [Monitoring](#monitoring)
+  - [Services](#services)
+  - [Report](#report)
+- [Provider View:](#provider-view)
+  - [Dashboard](#dashboard-1)
+  - [Technicians](#technicians)
+  - [Service Hub](#service-hub)
+  - [Services](#services-1)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [Interventions](#interventions)
+    - [Reviews](#reviews)
+    - [Technicians](#technicians-1)
+    - [Authentication](#authentication)
+    - [Alert](#alert)
+    - [Users](#users)
+    - [Service Request](#service-request)
+    - [Site](#site)
+    - [Reporting](#reporting)
+    - [Equipment](#equipment)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
 - [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
