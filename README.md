@@ -2513,6 +2513,114 @@ Link del backend desplegado: https://frigora-platform.onrender.com/
 </div>
 
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint 4                           | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Date**                           | 2026-07-08                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                           | 18:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Location**                       | Via Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                    | Alejandro Galindo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Attendees to planning meeting**  | Galindo Montero, Alejandro Manuel; Perez Tuesta, Gabriel; Fajardo Monrroy, Walter Luis; Cumba Rengifo, Leonardo Raul; Cuentas Peña, Joaquin Alberto                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 4 Review Summary**        | Se realizó el despliegue del Frontend y Backend, implementando funcionalidades orientadas al primer y segundo segmento objetivo. |
+| **Sprint 4 Retrospective Summary** | El equipo acordó encargarse de las tareas asignadas y colaborar con las demás áreas del proyecto del Frontend y Backend para alcanzar nuestro objetivo.                                                                               |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 3 Goal**                  | El objetivo de este sprint es completar la integración principal de Frigora conectando directamente el frontend con el backend. Esto implica enlazar la página con la aplicación de usuario y establecer la comunicación operativa con el sistema de gestión de datos. Con esta conexión final, los usuarios podrán ingresar y navegar sin problemas desde la página de inicio hasta la aplicación central, mientras que el backend proporcionará el soporte necesario para manejar entidades clave como equipos, solicitudes de servicio, técnicos, reportes y alertas. La integración entre la interfaz y el sistema de datos confirmará que ambos lados de la aplicación funcionan juntos, marcando un paso crucial hacia la finalización de la plataforma.                                                                                      |
+| **Sprint 3 Velocity**              | 36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+#### 5.2.4.2 Aspect Leaders and Collaborators
+
+Durante este cuarto sprint, el equipo se enfocó principalmente en la consolidación de la plataforma, priorizando la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se actualizó la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante este cuarto Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Resolución de errores de sprints previos <br> Leader (L) / Collaborator (C) | Seguridad, control de accesos y optimización de rendimiento <br> Leader (L) / Collaborator (C) | Refinamiento de funcionalidades y ajustes finales <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta, Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto | JoaCUPE | C | C | C |
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal de este Sprint es consolidar la plataforma mediante la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la optimización y estabilización de la aplicación web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, del cual se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+# Sprint Backlog 4
+
+| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :---------------- | :-----: | :---------- | :---------- | :----------------: | :--------- | :-----------------------------------------: |
+| **US-04** | Recibir notificaciones de estado del equipo | **UT-01** | Implementar notificaciones de estado | Desarrollar el sistema de notificaciones para informar cambios relevantes en el estado de los equipos de refrigeración. | 5 | Walter Fajardo | Done |
+| **US-05** | Analizar el consumo energético de equipos | **UT-01** | Implementar dashboard energético | Desarrollar gráficos e indicadores para analizar y comparar el consumo energético de los equipos monitoreados. | 8 | Alejandro Galindo | Done |
+| **US-08** | Ver reporte de servicio realizado | **UT-01** | Implementar reporte técnico | Desarrollar la vista que muestra el detalle completo de los servicios de mantenimiento realizados. | 3 | Leonardo Cumba | Done |
+| **US-10** | Ver historial de servicios | **UT-01** | Implementar historial de servicios | Desarrollar el historial cronológico de mantenimientos realizados para cada cliente y equipo. | 3 | Joaquin Cuentas | Done |
+| **US-11** | Realizar seguimiento a solicitudes de servicio | **UT-01** | Implementar seguimiento de solicitudes | Desarrollar la vista que permita consultar el estado y avance de las solicitudes de mantenimiento. | 3 | Gabriel Perez | Done |
+| **US-15** | Generar reporte de desempeño de técnicos | **UT-01** | Implementar reporte de desempeño | Desarrollar reportes con métricas de productividad, tiempos de atención y servicios completados por técnico. | 8 | Alejandro Galindo | Done |
+| **US-16** | Configurar alertas de mantenimiento | **UT-01** | Implementar configuración de alertas | Desarrollar la configuración de alertas preventivas según temperatura, tiempo o estado de los equipos. | 5 | Walter Fajardo | Done |
+| **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Implementar vista de clientes | Desarrollar un listado que relacione clientes con los servicios de mantenimiento asociados. | 3 | Gabriel Perez | Done |
+| **US-19** | Recibir notificaciones de eventos importantes | **UT-01** | Implementar centro de notificaciones | Desarrollar un módulo que muestre eventos importantes relacionados con equipos y servicios. | 5 | Leonardo Cumba | Done |
+| **TS-01** | Gestión de alertas críticas vía API | **UT-01** | Implementar API de alertas | Desarrollar los endpoints REST para registrar y consultar alertas críticas generadas por el sistema IoT. | 5 | Joaquin Cuentas | Done |
+| **TS-03** | Registro de intervenciones técnicas por API RESTful | **UT-01** | Implementar API de intervenciones | Desarrollar los endpoints REST para registrar las intervenciones realizadas por los técnicos durante un servicio. | 3 | Walter Fajardo | Done |
+
+(imagen del trello xd)
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los últimos commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+**Backend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `5484848` | update frigora-platform | 03/06/2026 |
+| develop | `b3620a5` | update frigora-platform | 03/06/2026 |
+| develop | `3b67e0a` | update bounded context: Reporting pe | 07/06/2026 |
+| develop | `2c17d55` | feat: add bc assets-management | 11/06/2026 |
+| develop | `467957e` | feat: update assets management | 11/06/2026 |
+| develop | `0314809` | feat: add service-request & IAM bounded contexts | 15/06/2026 |
+| develop | `934cf40` | fix: comments with wrong namespace | 15/06/2026 |
+| develop | `32d4a15` | feat: add delete method to service-requests & update enum Roles to accept any string | 16/06/2026 |
+| develop | `ad9aa48` | fix: show example schema for service-requests & users bc | 16/06/2026 |
+| develop | `a23e44a` | fix: add serialization to enums for frontend filters | 16/06/2026 |
+| develop | `6b33e30` | create bounded context: Technicians | 17/06/2026 |
+| develop | `e8081f3` | feat: update sites | 18/06/2026 |
+| develop | `20de589` | feat: update assets-management bc | 18/06/2026 |
+| develop | `dd29072` | feat: add feedback | 18/06/2026 |
+| develop | `7651bf3` | Merge pull request #1 from ColdTech-Peru/feature/service-requests — Feature/service requests | 18/06/2026 |
+| develop | `a1dbcbe` | Merge pull request #3 from ColdTech-Peru/feature/technicians — create bounded context: Technicians | 18/06/2026 |
+
+**Frontend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `af065f9` | feat: update sites and equipment API endpoints to get them by ownerId. Update login view and add upload file method for interventions | 06/07/2026 |
+| develop | `c747e17` | fix: update store to load sites and equipments in form | 06/07/2026 |
+| develop | `9e71aee` | fix: add leaflet marker images | 06/07/2026 |
+| develop | `1a994d9` | fix: update dashboard with fake IoT data, fix ack on alerts & add new translations | 07/07/2026 |
+| develop | `0923ee3` | fix: fix trend-chart.ts | 07/07/2026 |
+| develop | `a0fca17` | fix: update trend-chart.ts | 07/07/2026 |
+| develop | `70b7629` | fix: update trend-chart.ts | 07/07/2026 |
+| develop | `903877e` | fix: update trend-chart.ts to show fake IoT data | 07/07/2026 |
+| develop | `bad04c6` | fix: add fake temperature trend to simulate IoT | 07/07/2026 |
+| develop | `286d29d` | feat(equipments): add translation to equipment-detail.component.html | 07/07/2026 |
+| develop | `b5f0499` | fix: add insert photo evidence section for interventions | 07/07/2026 |
+| develop | `a7d0aa7` | fix: improve code quality | 07/07/2026 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En el Sprint 4 se desplegó la última versión de la Web Application de Frigora, implementando mejoras complementarias y esenciales para garantizar la eficiencia de cada una de las secciones de la aplicación. A continuación, se presentan las evidencias:
+
+Owner View:
+
+Register:
+
+
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
