@@ -2953,6 +2953,109 @@ In-Progress Services:
 | DELETE | /api/v1/equipment/{id} | Eliminar equipo |
 | GET | /api/v1/equipment/by-owner/{ownerId} | Obtener equipos por Owner ID |
 
+### Interventions
+
+<div align="center">
+  <img src="assets/chapter04/interventions.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Reviews
+
+<div align="center">
+  <img src="assets/chapter04/reviews.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Technicians
+
+<div align="center">
+  <img src="assets/chapter04/technicians.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Authentication
+
+<div align="center">
+  <img src="assets/chapter04/authentications.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Alert
+
+<div align="center">
+  <img src="assets/chapter04/alert.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Users
+
+<div align="center">
+  <img src="assets/chapter04/user.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Service Request
+
+<div align="center">
+  <img src="assets/chapter04/servicerequest.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Site
+
+<div align="center">
+  <img src="assets/chapter04/site.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Reporting
+
+<div align="center">
+  <img src="assets/chapter04/reporting.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Equipment
+
+<div align="center">
+  <img src="assets/chapter04/equipment.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión del backend y además desplegamos una nueva base de datos para que pueda ser conectada en nuestro backend.
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Frontend:
+
+<div align="center">
+  <img src="assets/chapter04/front.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Backend:
+
+<div align="center">
+  <img src="assets/chapter04/back.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
