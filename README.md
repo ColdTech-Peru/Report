@@ -2836,6 +2836,123 @@ In-Progress Services:
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+**Interventions**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------- | :------------------------------------------- |
+| POST | /api/v1/interventions | Registrar una intervención |
+| GET | /api/v1/interventions/{interventionId} | Obtener intervención por ID |
+| GET | /api/v1/interventions/serviceRequest/{serviceRequestId} | Obtener intervenciones por Service Request ID |
+
+---
+
+**Reviews**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------------- | :--------------------------------------- |
+| GET | /api/v1/reviews | Obtener todas las reseñas |
+| POST | /api/v1/reviews | Crear una reseña |
+| GET | /api/v1/reviews/{reviewId} | Obtener reseña por ID |
+| GET | /api/v1/reviews/service-request/{serviceRequestId} | Obtener reseñas por Service Request ID |
+
+---
+
+**Technicians**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------- | :-------------------------------------- |
+| GET | /api/v1/technicians/{technicianId} | Obtener técnico por ID |
+| PUT | /api/v1/technicians/{technicianId} | Actualizar técnico |
+| DELETE | /api/v1/technicians/{technicianId} | Eliminar técnico |
+| GET | /api/v1/technicians | Obtener todos los técnicos |
+| POST | /api/v1/technicians | Crear un nuevo técnico |
+
+---
+
+**Authentication**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------- | :---------------- |
+| POST | /api/v1/authentication/sign-up | Registrarse |
+| POST | /api/v1/authentication/sign-in | Iniciar sesión |
+
+---
+
+**Alerts**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :----------------------------------------- | :----------------------------------------------------------- |
+| GET | /api/v1/alert | Obtener todas las alertas del usuario actual o filtradas por Equipment ID |
+| POST | /api/v1/alert | Crear una nueva alerta |
+| PATCH | /api/v1/alert/{id}/acknowledge | Marcar una alerta como reconocida |
+| GET | /api/v1/alert/{id} | Obtener alerta por ID |
+| DELETE | /api/v1/alert/{id} | Eliminar alerta |
+
+---
+
+**Users**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :-------------------------------- | :-------------------------------- |
+| GET | /api/v1/users | Obtener todos los usuarios |
+| GET | /api/v1/users/{id} | Obtener usuario por ID |
+| GET | /api/v1/users/role/{role} | Obtener usuarios por rol |
+
+---
+
+**ServiceRequests**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------------------------------- | :----------------------------------------- |
+| POST | /api/v1/service-requests | Crear una solicitud de servicio |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/reject | Rechazar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/complete | Completar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/cancel | Cancelar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/assign-technician | Asignar un técnico a la solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/accept | Aceptar una solicitud |
+| GET | /api/v1/service-requests/{serviceRequestId} | Obtener solicitud por ID |
+| DELETE | /api/v1/service-requests/{serviceRequestId} | Eliminar solicitud |
+| GET | /api/v1/service-requests/requester/{requesterId} | Obtener solicitudes por Requester ID |
+| GET | /api/v1/service-requests/provider/{providerId} | Obtener solicitudes por Provider ID |
+
+---
+
+**Site**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------------ | :-------------------------------- |
+| GET | /api/v1/sites | Obtener todos los sitios del usuario actual |
+| POST | /api/v1/sites | Crear un nuevo sitio |
+| GET | /api/v1/sites/{id} | Obtener sitio por ID |
+| DELETE | /api/v1/sites/{id} | Eliminar sitio |
+| GET | /api/v1/sites/by-owner/{ownerId} | Obtener sitios por Owner ID |
+
+---
+
+**Reporting**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :-------------------------------- | :----------------------------------------- |
+| GET | /api/v1/reports/{reportId} | Obtener reporte por ID |
+| PUT | /api/v1/reports/{reportId} | Actualizar reporte |
+| DELETE | /api/v1/reports/{reportId} | Eliminar reporte |
+| GET | /api/v1/reports | Obtener todos los reportes del usuario actual |
+| POST | /api/v1/reports | Crear un nuevo reporte |
+
+---
+
+**Equipment**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------------- | :--------------------------------------- |
+| GET | /api/v1/equipment | Obtener todos los equipos del usuario actual |
+| POST | /api/v1/equipment | Crear un nuevo equipo |
+| GET | /api/v1/equipment/{id} | Obtener equipo por ID |
+| DELETE | /api/v1/equipment/{id} | Eliminar equipo |
+| GET | /api/v1/equipment/by-owner/{ownerId} | Obtener equipos por Owner ID |
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
