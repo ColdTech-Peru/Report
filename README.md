@@ -2609,7 +2609,12 @@ El objetivo principal de este Sprint es consolidar la plataforma mediante la res
 | **TS-01** | Gestión de alertas críticas vía API | **UT-01** | Implementar API de alertas | Desarrollar los endpoints REST para registrar y consultar alertas críticas generadas por el sistema IoT. | 5 | Joaquin Cuentas | Done |
 | **TS-03** | Registro de intervenciones técnicas por API RESTful | **UT-01** | Implementar API de intervenciones | Desarrollar los endpoints REST para registrar las intervenciones realizadas por los técnicos durante un servicio. | 3 | Walter Fajardo | Done |
 
-(imagen del trello xd)
+<img width="1424" height="799" alt="Sprint4" src="https://github.com/user-attachments/assets/4376992a-1429-4e96-974e-4a29c5b6fa6c" />
+
+link trello:
+https://trello.com/invite/b/6a500d8fb191a398d872829b/ATTI000e5730796bbf45f562e702eb4cca5b2D538505/sprint-4
+
+
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
