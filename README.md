@@ -1261,21 +1261,16 @@ La sección de prototipado muestra un modelo interactivo y funcional que permite
 ### 4.6.3 Software Architecture Container Diagrams
 
 <div align="center">
-<img src="assets/chapter04/c4-container.png" alt="Container Diagram" style="max-width: 90%;">
+<img src="assets/chapter04/improved-container-diagram.png" alt="Container Diagram" style="max-width: 90%;">
 <p><em>Figura 2: Container Diagrams.</em></p>
 </div>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
 <div align="center">
-<img src="assets/chapter04/ApiRestComponentDiagram.png" alt="API REST Component Diagram" style="max-width: 90%;">
-<p><em>Figura 3: API REST Component Diagrams.</em></p>
 
 <img src="assets/chapter04/AssetsManagementComponentDiagram.png" alt="Assets Management Component Diagram" style="max-width: 90%;">
 <p><em>Figura 4: Assets Management BC Component Diagrams.</em></p>
-
-<img src="assets/chapter04/DashboardComponentDiagram.png" alt="Dashboard Component Diagram" style="max-width: 90%;">
-<p><em>Figura 5: Dashboard BC Component Diagrams.</em></p>
 
 <img src="assets/chapter04/MonitoringComponentDiagram.png" alt="Monitoring Component Diagram" style="max-width: 90%;">
 <p><em>Figura 6: Monitoring BC Component Diagrams.</em></p>
@@ -1288,14 +1283,18 @@ La sección de prototipado muestra un modelo interactivo y funcional que permite
 
 <img src="assets/chapter04/TechniciansComponentDiagram.png" alt="Technicians Component Diagram" style="max-width: 90%;">
 <p><em>Figura 9: Technicians BC Component Diagrams.</em></p>
+
+<img src="assets/chapter04/ApiRestComponentDiagram.png" alt="API REST Component Diagram" style="max-width: 90%;">
+<p><em>Figura 3: API REST Component Diagrams.</em></p>
 </div>
+
 
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams
 
 <div align="center">
-<img src="assets/chapter04/frigora-class-diagram.png" alt="Class Diagram" style="max-width: 95%;">
+<img src="assets/chapter04/improved-class-diagram.png" alt="Class Diagram" style="max-width: 95%;">
 <p><em>Figura 1: Class Diagram.</em></p>
 </div>
 
