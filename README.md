@@ -91,7 +91,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter01/report-tb1.jpeg" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-**AV1:** Las tareas asignadas al AV1 estuvieron enfocadas en la revisión, modificación y documentación del informe del Sprint, asegurando que la información reflejara correctamente el trabajo realizado:
+**AV2:** Las tareas asignadas al AV2 estuvieron enfocadas en la revisión, modificación y documentación del informe del Sprint, asegurando que la información reflejara correctamente el trabajo realizado:
 
 - Se revisó y actualizó el contenido del informe, corrigiendo y ampliando las secciones correspondientes al avance del Sprint.
 - Se documentaron las funcionalidades implementadas, incluyendo capturas de pantalla y evidencias visuales del Front-End y Back-End.
@@ -2597,13 +2597,11 @@ El objetivo principal de este Sprint es consolidar la plataforma mediante la res
 
 | User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
 | :-----------: | :---------------- | :-----: | :---------- | :---------- | :----------------: | :--------- | :-----------------------------------------: |
-| **US-04** | Recibir notificaciones de estado del equipo | **UT-01** | Implementar notificaciones de estado | Desarrollar el sistema de notificaciones para informar cambios relevantes en el estado de los equipos de refrigeración. | 5 | Walter Fajardo | Done |
 | **US-05** | Analizar el consumo energético de equipos | **UT-01** | Implementar dashboard energético | Desarrollar gráficos e indicadores para analizar y comparar el consumo energético de los equipos monitoreados. | 8 | Alejandro Galindo | Done |
 | **US-08** | Ver reporte de servicio realizado | **UT-01** | Implementar reporte técnico | Desarrollar la vista que muestra el detalle completo de los servicios de mantenimiento realizados. | 3 | Leonardo Cumba | Done |
 | **US-10** | Ver historial de servicios | **UT-01** | Implementar historial de servicios | Desarrollar el historial cronológico de mantenimientos realizados para cada cliente y equipo. | 3 | Joaquin Cuentas | Done |
 | **US-11** | Realizar seguimiento a solicitudes de servicio | **UT-01** | Implementar seguimiento de solicitudes | Desarrollar la vista que permita consultar el estado y avance de las solicitudes de mantenimiento. | 3 | Gabriel Perez | Done |
 | **US-15** | Generar reporte de desempeño de técnicos | **UT-01** | Implementar reporte de desempeño | Desarrollar reportes con métricas de productividad, tiempos de atención y servicios completados por técnico. | 8 | Alejandro Galindo | Done |
-| **US-16** | Configurar alertas de mantenimiento | **UT-01** | Implementar configuración de alertas | Desarrollar la configuración de alertas preventivas según temperatura, tiempo o estado de los equipos. | 5 | Walter Fajardo | Done |
 | **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Implementar vista de clientes | Desarrollar un listado que relacione clientes con los servicios de mantenimiento asociados. | 3 | Gabriel Perez | Done |
 | **US-19** | Recibir notificaciones de eventos importantes | **UT-01** | Implementar centro de notificaciones | Desarrollar un módulo que muestre eventos importantes relacionados con equipos y servicios. | 5 | Leonardo Cumba | Done |
 | **TS-01** | Gestión de alertas críticas vía API | **UT-01** | Implementar API de alertas | Desarrollar los endpoints REST para registrar y consultar alertas críticas generadas por el sistema IoT. | 5 | Joaquin Cuentas | Done |
@@ -3090,8 +3088,45 @@ In-Progress Services:
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión del backend y además desplegamos una nueva base de datos para que pueda ser conectada en nuestro backend.
+Para esta entrega, desplegamos una la versión final del FrontEnd, ultima versión del backend y nuestra base de datos para que pueda ser conectada en nuestra plataforma.
 
+**Despliegue del FrontEnd en Vercel**
+
+<div align="center">
+  <img src="assets/chapter05/frontend-deployment.png"
+       alt="Frontend deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://frigora-frontend.vercel.app/
+
+**Despliegue del BackEnd en Render**
+
+<div align="center">
+  <img src="assets/chapter05/backend-deployment.png"
+       alt="Backend deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://frigora-platform.onrender.com/swagger-ui/index.html
+
+**Despliegue de la base de datos en Railway**
+
+<div align="center">
+  <img src="assets/chapter05/database-deployment.png"
+       alt="Database deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Despliegue de la landing page en Github Pages**
+
+<div align="center">
+  <img src="assets/chapter05/database-deployment.png"
+       alt="Database deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://coldtech-peru.github.io/Landing-Page/
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
