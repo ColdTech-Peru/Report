@@ -52,7 +52,8 @@
 | :---: | :---: | :---: | :--- |
 | 1.0 | 2026-04-26 | ColdTech | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
 | 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |
-| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.
+| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.|
+| 4.0 | 2026-07-10 | ColdTech | Desarrollo del Sprint 4, correciones de la aplicación web y mejora del Back-end en Spring Boot.|
 ---
 
 ## Project Report Collaboration Insights
