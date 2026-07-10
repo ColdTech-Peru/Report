@@ -1246,7 +1246,7 @@ La sección de prototipado muestra un modelo interactivo y funcional que permite
 ### 4.6.3 Software Architecture Container Diagrams
 
 <div align="center">
-<img src="assets/chapter04/FrigoraContainerDiagram.png" alt="Container Diagram" style="max-width: 90%;">
+<img src="assets/chapter04/c4-container.png" alt="Container Diagram" style="max-width: 90%;">
 <p><em>Figura 2: Container Diagrams.</em></p>
 </div>
 
