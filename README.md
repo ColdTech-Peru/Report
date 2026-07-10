@@ -105,6 +105,19 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter04/insights3.png" alt="Commits del Reporte AV2" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+**TB2:** Las tareas asignadas para la TB2 estuvieron enfocadas en la consolidación y actualización final de los artefactos del proyecto, asegurando que la última versión del desarrollo y la documentación reflejaran correctamente el estado alcanzado durante el Sprint 4:
+
+- Se realizó la actualización final del Back-End, incorporando las últimas modificaciones funcionales y verificando el correcto funcionamiento de los servicios implementados.
+- Se revisó y actualizó el Front-End, integrando los cambios finales de la interfaz y validando la correcta comunicación con los servicios del sistema.
+- Se elaboró la documentación correspondiente al Sprint 4, detallando las actividades realizadas, funcionalidades desarrolladas y avances obtenidos durante el ciclo de trabajo.
+- Se actualizaron los artefactos del proyecto, incluyendo evidencias, capturas de pantalla y descripciones técnicas de las funcionalidades implementadas tanto en Front-End como en Back-End.
+- Se revisó la consistencia entre el código fuente, los commits realizados en GitHub y la información presentada en los documentos finales, garantizando la trazabilidad del desarrollo.
+- Se realizaron ajustes finales de estructura, formato y redacción en el reporte para mejorar la claridad, organización y presentación de la entrega final.
+
+<div align="center">
+<img src="assets/chapter01/insights4.png" alt="Commits del Reporte TB2" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ---
 
 ## Contenido
@@ -120,7 +133,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
   - [Período 202610](#período-202610)
   - [Julio 2026](#julio-2026)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.](#-30--2026-06-20--coldtech--desarrollo-del-sprint-3-mejora-de-la-aplicación-web-y-desarrollo-del-back-end-en-spring-boot)
+  - [| 4.0 | 2026-07-10 | ColdTech | Desarrollo del Sprint 4, correciones de la aplicación web y mejora del Back-end en Spring Boot.|](#-40--2026-07-10--coldtech--desarrollo-del-sprint-4-correciones-de-la-aplicación-web-y-mejora-del-back-end-en-spring-boot)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [Contenido](#contenido)
   - [Student Outcome](#student-outcome)
@@ -291,7 +304,8 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
         - [PROBLEMA #18: Gráficos sin valores ni leyenda claros](#problema-18-gráficos-sin-valores-ni-leyenda-claros)
       - [Conclusión general de la sesión](#conclusión-general-de-la-sesión)
     - [5.4. Video About-the-Product.](#54-video-about-the-product)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Conclusiones](#conclusiones)
+  - [Recomendaciones](#recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
   - [Anexos](#anexos)
 
@@ -3101,15 +3115,15 @@ Para esta entrega, desplegamos una la versión final del FrontEnd, ultima versi�
 
 Link: https://frigora-frontend.vercel.app/
 
-**Despliegue del BackEnd en Render**
+**Despliegue del BackEnd en Railway**
 
 <div align="center">
-  <img src="assets/chapter05/backend-deployment.png"
+  <img src="assets/chapter05/new-deploy-backend.png"
        alt="Backend deployment"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Link: https://frigora-platform.onrender.com/swagger-ui/index.html
+Link: https://frigora-platform-production.up.railway.app/swagger-ui/index.html
 
 **Despliegue de la base de datos en Railway**
 
@@ -3122,8 +3136,8 @@ Link: https://frigora-platform.onrender.com/swagger-ui/index.html
 **Despliegue de la landing page en Github Pages**
 
 <div align="center">
-  <img src="assets/chapter05/database-deployment.png"
-       alt="Database deployment"
+  <img src="assets/chapter05/landingpage-deploy.png"
+       alt="Landing deployment"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
@@ -3705,27 +3719,41 @@ La aplicación **FullTank (PrimeFuel)** demuestra una arquitectura de flujo de p
 En este video se mostraron las principales funcionalidades de la aplicación, así como el propósito de nuestro producto y el alcance que tiene.
 
 <div align="center">
-  <img src="assets/chapter05/abouttheproduct.png"
+  <img src="assets/chapter05/preview-abouttheproduct.png"
        alt="About The Product"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW)
+Link del video: https://youtu.be/xIoqRMtT6DA
 
 
-## Conclusiones y recomendaciones
+## Conclusiones
 
-- Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
+- Durante el desarrollo del Sprint 4 se logró consolidar una versión estable y funcional de Frigora, integrando los principales componentes del sistema tanto a nivel de Front-End como de Back-End. La plataforma actualmente permite gestionar procesos relacionados con usuarios, técnicos, equipos de refrigeración y solicitudes de servicio, estableciendo una base sólida para la evolución del producto.
 
-- La integración entre la interfaz de usuario y los servicios backend permitió validar el flujo completo de varias funcionalidades del sistema, reduciendo riesgos de integración y detectando tempranamente posibles inconsistencias entre los modelos de datos y la experiencia de usuario.
+- La integración entre la interfaz de usuario y los servicios backend permitió validar flujos completos del sistema, asegurando una comunicación adecuada entre las capas de presentación, lógica de negocio y persistencia de datos. Esto permitió identificar y corregir inconsistencias durante el desarrollo, mejorando la confiabilidad y experiencia de uso de la plataforma.
 
-- La definición de endpoints REST, junto con la implementación de módulos específicos para cada entidad del sistema, contribuyó a establecer una arquitectura organizada y escalable que facilitará el desarrollo de nuevas funcionalidades en futuras iteraciones.
+- La implementación de una arquitectura basada en servicios REST permitió organizar correctamente las funcionalidades del sistema mediante módulos independientes y escalables. Esta estructura facilita el mantenimiento del código, la incorporación de nuevas funcionalidades y la futura integración con tecnologías externas, como dispositivos IoT orientados al monitoreo inteligente de equipos de refrigeración.
 
-- El uso de Scrum, Trello y GitHub permitió mantener una adecuada coordinación entre los miembros del equipo, favoreciendo la distribución de tareas, el seguimiento del progreso y la integración continua de los avances realizados durante el Sprint.
+- El desarrollo realizado durante los distintos Sprints permitió transformar la propuesta inicial de Frigora en una solución tecnológica más cercana a un producto real, permitiendo gestionar operaciones de mantenimiento de manera digital y centralizada, reduciendo la dependencia de procesos manuales y mejorando la disponibilidad de información para la toma de decisiones.
 
-- La implementación simultánea de frontend y backend permitió obtener una versión más cercana al producto final, haciendo posible validar procesos completos de negocio en lugar de únicamente aspectos visuales o prototipos de interfaz.
+- La aplicación de metodologías ágiles como Scrum, junto con herramientas de gestión y control de versiones como Trello y GitHub, permitió mantener una organización adecuada del trabajo colaborativo, facilitando el seguimiento de actividades, la distribución de responsabilidades y la trazabilidad de los cambios realizados durante el proyecto.
 
-- El Sprint permitió consolidar la base tecnológica de Frigora, dejando preparados los componentes necesarios para incorporar funcionalidades avanzadas como analítica de consumo energético, generación de reportes y sistemas de notificaciones en las siguientes iteraciones.
+- La versión final alcanzada durante el Sprint 4 establece las bases necesarias para la incorporación de funcionalidades avanzadas en futuras iteraciones, como monitoreo en tiempo real mediante sensores IoT, análisis del comportamiento de los equipos, generación automática de alertas y herramientas de inteligencia para la prevención de fallas.
+
+## Recomendaciones
+
+- Se recomienda implementar una integración progresiva con dispositivos IoT capaces de recopilar información en tiempo real de los equipos de refrigeración, como temperatura, consumo energético, humedad u otros indicadores relevantes. Esto permitiría que Frigora evolucione hacia un sistema de monitoreo predictivo, generando alertas tempranas y reduciendo posibles pérdidas ocasionadas por fallas inesperadas.
+
+- Se recomienda desarrollar un módulo de reportes dentro de la plataforma que permita visualizar información histórica y estadística sobre los equipos, servicios realizados, incidencias registradas y comportamiento operativo. Esta funcionalidad facilitaría la toma de decisiones por parte de los propietarios y empresas encargadas del mantenimiento.
+
+- Se recomienda implementar la generación automática de reportes en formato PDF, permitiendo documentar los servicios de mantenimiento realizados, incluyendo información del equipo intervenido, técnico asignado, actividades ejecutadas, fechas, observaciones y evidencias asociadas. Esto proporcionaría un respaldo formal de las intervenciones realizadas y mejoraría la gestión documental del sistema.
+
+- Se recomienda incorporar un sistema de analítica de datos que permita identificar patrones de funcionamiento, consumo energético y frecuencia de fallas en los equipos. Mediante estos análisis, Frigora podría ofrecer recomendaciones preventivas y optimizar los planes de mantenimiento.
+
+- Se recomienda continuar fortaleciendo la seguridad del sistema mediante mejoras en la gestión de usuarios, control de permisos, auditoría de acciones realizadas y protección de la información almacenada, garantizando un uso confiable de la plataforma en escenarios empresariales.
+
+- Se recomienda mantener una estrategia de mejora continua basada en la retroalimentación de usuarios finales, con el objetivo de identificar nuevas necesidades, optimizar la experiencia de usuario e incorporar funcionalidades que aporten mayor valor al proceso de gestión y mantenimiento de equipos de refrigeración.
 
 
 ## Video About-the-Team
@@ -3754,10 +3782,10 @@ Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_u
 | Frontend desplegado | https://frigora-frontend.vercel.app/ |
 | Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
-| Backend desplegado | https://frigora-platform.onrender.com/ |
+| Backend desplegado | https://frigora-platform-production.up.railway.app/swagger-ui/index.html |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 | Video AV2 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Video About-The-Product | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Video About-The-Product | https://youtu.be/xIoqRMtT6DA |
 | Video About-The-Team | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
