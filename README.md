@@ -1,38 +1,46 @@
 <div align="center">
 
-# Universidad Peruana de Ciencias Aplicadas
+<img style="height: 120px" src="assets/chapter01/upc.png" alt="Logo UPC">
 
-<img style="height: 200px" src="assets/chapter01/upc.png" alt="Logo UPC">
+### Universidad Peruana de Ciencias Aplicadas
+### Carrera de Ingeniería de Software
 
-## Carrera: Ingeniería de Software
-## Periodo: 2026-10
+<br>
 
----
+## 1ASI0729
+## Desarrollo de Aplicaciones Open Source
 
-## Curso: Desarrollo de Aplicaciones Open Source
-**Código del Curso:** 1ASI0729 | **NRC:** 11959  
-**Profesor:** Hugo Allan Mori Paiva
-
----
+### NRC
+## 11959
 
 # Informe del Trabajo Final
 
-## Startup: ColdTech
-## Producto: Frigora
+### Docente
+## Mori Paiva, Hugo Allan
 
----
+### Equipo
+## ColdTech
 
-## Integrantes
+<br>
 
-| Alumno | Código |
+### Proyecto
+## Frigora
+
+### Integrantes
+
+| Código | Apellidos y Nombres |
 | :---: | :---: |
-| Galindo Montero, Alejandro Manuel | u202321264 |
-| Perez Tuesta, Gabriel | u202321281 |
-| Fajardo Monrroy, Walter Luis | u202221632 |
-| Cumba Rengifo, Leonardo Raul | u202311912 |
-| Cuentas Peña, Joaquin Alberto | u20201f788 |
+| u202321264 | Galindo Montero, Alejandro Manuel |
+| u202321281 | Perez Tuesta, Gabriel |
+| u202221632 | Fajardo Monrroy, Walter Luis |
+| u202311912 | Cumba Rengifo, Leonardo Raul |
+| u20201f788 | Cuentas Peña, Joaquin Alberto |
 
-### Junio 2026
+<br>
+
+## Período 202610
+
+## Julio 2026
 
 </div>
 
@@ -44,7 +52,8 @@
 | :---: | :---: | :---: | :--- |
 | 1.0 | 2026-04-26 | ColdTech | Desarrollo del Capítulo I, Capítulo II, Capítulo III, Capítulo IV y el Sprint 1 del Capítulo V |
 | 2.0 | 2026-05-16 | ColdTech | Desarrollo del Sprint 2 |
-| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.
+| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.|
+| 4.0 | 2026-07-10 | ColdTech | Desarrollo del Sprint 4, correciones de la aplicación web y mejora del Back-end en Spring Boot.|
 ---
 
 ## Project Report Collaboration Insights
@@ -83,7 +92,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter01/report-tb1.jpeg" alt="Commits del Front-End TB1" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-**AV1:** Las tareas asignadas al AV1 estuvieron enfocadas en la revisión, modificación y documentación del informe del Sprint, asegurando que la información reflejara correctamente el trabajo realizado:
+**AV2:** Las tareas asignadas al AV2 estuvieron enfocadas en la revisión, modificación y documentación del informe del Sprint, asegurando que la información reflejara correctamente el trabajo realizado:
 
 - Se revisó y actualizó el contenido del informe, corrigiendo y ampliando las secciones correspondientes al avance del Sprint.
 - Se documentaron las funcionalidades implementadas, incluyendo capturas de pantalla y evidencias visuales del Front-End y Back-End.
@@ -96,21 +105,35 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 <img src="assets/chapter04/insights3.png" alt="Commits del Reporte AV2" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
+**TB2:** Las tareas asignadas para la TB2 estuvieron enfocadas en la consolidación y actualización final de los artefactos del proyecto, asegurando que la última versión del desarrollo y la documentación reflejaran correctamente el estado alcanzado durante el Sprint 4:
+
+- Se realizó la actualización final del Back-End, incorporando las últimas modificaciones funcionales y verificando el correcto funcionamiento de los servicios implementados.
+- Se revisó y actualizó el Front-End, integrando los cambios finales de la interfaz y validando la correcta comunicación con los servicios del sistema.
+- Se elaboró la documentación correspondiente al Sprint 4, detallando las actividades realizadas, funcionalidades desarrolladas y avances obtenidos durante el ciclo de trabajo.
+- Se actualizaron los artefactos del proyecto, incluyendo evidencias, capturas de pantalla y descripciones técnicas de las funcionalidades implementadas tanto en Front-End como en Back-End.
+- Se revisó la consistencia entre el código fuente, los commits realizados en GitHub y la información presentada en los documentos finales, garantizando la trazabilidad del desarrollo.
+- Se realizaron ajustes finales de estructura, formato y redacción en el reporte para mejorar la claridad, organización y presentación de la entrega final.
+
+<div align="center">
+<img src="assets/chapter01/insights4.png" alt="Commits del Reporte TB2" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ---
 
 ## Contenido
 
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera: Ingeniería de Software](#carrera-ingeniería-de-software)
-  - [Periodo: 2026-10](#periodo-2026-10)
-  - [Curso: Desarrollo de Aplicaciones Open Source](#curso-desarrollo-de-aplicaciones-open-source)
 - [Informe del Trabajo Final](#informe-del-trabajo-final)
-  - [Startup: ColdTech](#startup-coldtech)
-  - [Producto: Frigora](#producto-frigora)
-  - [Integrantes](#integrantes)
-    - [Junio 2026](#junio-2026)
+    - [Docente](#docente)
+  - [Mori Paiva, Hugo Allan](#mori-paiva-hugo-allan)
+    - [Equipo](#equipo)
+  - [ColdTech](#coldtech)
+    - [Proyecto](#proyecto)
+  - [Frigora](#frigora)
+    - [Integrantes](#integrantes)
+  - [Período 202610](#período-202610)
+  - [Julio 2026](#julio-2026)
   - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-  - [| 3.0 | 2026-06-20 | ColdTech | Desarrollo del Sprint 3, mejora de la aplicación web y desarrollo del Back-end en Spring Boot.](#-30--2026-06-20--coldtech--desarrollo-del-sprint-3-mejora-de-la-aplicación-web-y-desarrollo-del-back-end-en-spring-boot)
+  - [| 4.0 | 2026-07-10 | ColdTech | Desarrollo del Sprint 4, correciones de la aplicación web y mejora del Back-end en Spring Boot.|](#-40--2026-07-10--coldtech--desarrollo-del-sprint-4-correciones-de-la-aplicación-web-y-mejora-del-back-end-en-spring-boot)
   - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [Contenido](#contenido)
   - [Student Outcome](#student-outcome)
@@ -216,7 +239,35 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
       - [5.2.4.1.Sprint Planning 4.](#5241sprint-planning-4)
       - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
       - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
-      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review-1)
+- [Sprint Backlog 4](#sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+  - [Register](#register)
+  - [Login](#login)
+- [Owner View:](#owner-view)
+  - [Dashboard](#dashboard)
+  - [Sites](#sites)
+  - [Monitoring](#monitoring)
+  - [Services](#services)
+  - [Report](#report)
+- [Provider View:](#provider-view)
+  - [Dashboard](#dashboard-1)
+  - [Technicians](#technicians)
+  - [Service Hub](#service-hub)
+  - [Services](#services-1)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [Interventions](#interventions)
+    - [Reviews](#reviews)
+    - [Technicians](#technicians-1)
+    - [Authentication](#authentication)
+    - [Alert](#alert)
+    - [Users](#users)
+    - [Service Request](#service-request)
+    - [Site](#site)
+    - [Reporting](#reporting)
+    - [Equipment](#equipment)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
 - [Guía de Entrevista — Frigora](#guía-de-entrevista--frigora)
@@ -253,7 +304,8 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
         - [PROBLEMA #18: Gráficos sin valores ni leyenda claros](#problema-18-gráficos-sin-valores-ni-leyenda-claros)
       - [Conclusión general de la sesión](#conclusión-general-de-la-sesión)
     - [5.4. Video About-the-Product.](#54-video-about-the-product)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Conclusiones](#conclusiones)
+  - [Recomendaciones](#recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
   - [Anexos](#anexos)
 
@@ -269,8 +321,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | :--- | :--- | :--- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** Fortaleció la comunicación oral al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, transmitiendo conceptos técnicos de manera clara según el nivel de la audiencia.<br>**TB1:** Desarrolló el módulo de **Service Requests** del frontend, explicando el flujo de solicitudes, las operaciones CRUD y la conexión con `json-server` mediante `db.json`.<br>**AV2:** Fortaleció la comunicación oral al explicar el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, además del despliegue del Front-End, Back-End y base de datos, detallando el proceso de integración y la corrección de errores encontrados de manera clara para distintos niveles de audiencia.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Redactó descripciones técnicas para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en lenguaje formal apto para un informe académico.<br>**TB1:** Desarrolló el módulo de **Reports**, presentando el funcionamiento de formularios, filtros dinámicos, vistas de detalle y operaciones CRUD implementadas en Angular con conexión a `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Reporting**, explicando su implementación tanto en el Front-End como en el Back-End de manera clara y comprensible.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** Planteó las user stories y diseñó el sprint de la entrega, planificando el product backlog y proyectando las necesidades de los segmentos en el desarrollo de la aplicación.<br>**TB1:** Implementó el módulo de **Assets Management**, comunicando la organización de activos, visualización de datos y funcionamiento dinámico del frontend conectado mediante `json-server`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Assets Management** tanto en el Front-End como en el Back-End, explicando su funcionamiento de manera clara.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Participó en la elaboración del Capítulo I, el análisis Lean UX y el diseño de la landing page, logrando explicar conceptos técnicos y de negocio de forma efectiva según el contexto.<br>**TB1:** Desarrolló el módulo de **Monitoring**, explicando la visualización de estados, métricas y monitoreo de equipos usando datos simulados desde `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Monitoring** en el Front-End y el Back-End, explicando su implementación de manera clara.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Organizó el sprint en base a las user stories generadas y contribuyó a la realización y despliegue de la landing page.<br>**TB1:** Implementó el **Dashboard** principal del frontend, presentando métricas, tarjetas y visualizaciones dinámicas para facilitar la interpretación de información operativa.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, explicando su implementación en el Front-End y el Back-End de manera clara para distintos tipos de audiencia. | **AV1:** El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada, transmitiendo ideas técnicas de manera clara según el tipo de audiencia.<br><br>**TB1:** El equipo fortaleció la comunicación oral mediante la exposición funcional del frontend desarrollado en Angular, explicando el funcionamiento de módulos interactivos, operaciones CRUD y consumo de datos simulados mediante `json-server` y `db.json`.<br><br>**AV2:** El equipo fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback**, **Service Requests** y **Proveedores**, así como el despliegue e integración del Front-End, el Back-End y la base de datos, transmitiendo el progreso técnico de manera clara según el tipo de audiencia. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** La redacción de documentación y la organización de información técnica le permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia.<br>**TB1:** Documentó el funcionamiento del módulo de **Service Requests**, describiendo componentes, endpoints y flujo de datos conectados mediante `db.json`.<br>**AV2:** Documentó el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, así como el proceso de despliegue e integración entre el Front-End, el Back-End y la base de datos, describiendo de forma clara la configuración realizada y la resolución de errores encontrados.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Sintetizó procesos técnicos complejos en instrucciones directas, diferenciando claramente los perfiles de Administrador y Proveedor.<br>**TB1:** Documentó la implementación del módulo de **Reports**, incluyendo formularios, filtros, operaciones CRUD y arquitectura frontend desarrollada en Angular.<br>**AV2:** Documentó el desarrollo del bounded context de **Reporting**, describiendo su arquitectura e implementación tanto en el Front-End como en el Back-End.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** El product backlog permitió enfocarse en las tareas más importantes para la entrega, comunicando ideas de forma eficaz.<br>**TB1:** Redactó la documentación funcional del módulo de **Assets Management**, organizando procesos de gestión de activos y comportamiento dinámico del frontend.<br>**AV2:** Documentó el desarrollo del bounded context de **Assets Management**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Contribuyó en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX y la definición de segmentos, estructurando ideas de forma clara y coherente.<br>**TB1:** Documentó el módulo de **Monitoring**, describiendo la visualización de estados, métricas y consumo de datos desde `json-server`.<br>**AV2:** Documentó el desarrollo del bounded context de **Monitoring**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Comunicó adecuadamente la división de tiempos del proyecto mediante la metodología SCRUM usando sprints.<br>**TB1:** Elaboró la documentación del **Dashboard**, describiendo la estructura visual, componentes y organización de indicadores en el frontend.<br>**AV2:** Documentó el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, describiendo su implementación y funcionamiento dentro del sistema. | **AV1:** El equipo fortaleció su comunicación escrita mediante documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, wireframes, mockups y diagramas de clases y base de datos.<br><br>**TB1:** El equipo fortaleció la comunicación escrita mediante la documentación del frontend desarrollado en Angular, incluyendo componentes, vistas, formularios, filtros y operaciones CRUD conectadas mediante `json-server` y `db.json`, explicando de manera clara la arquitectura y flujo de datos del sistema.<br><br>**AV2:** El equipo fortaleció la comunicación escrita mediante la documentación de los bounded contexts implementados en este sprint (**Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback** y **Service Requests**), así como del proceso de despliegue, integración y corrección de errores entre el Front-End, el Back-End y la base de datos. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** Fortaleció la comunicación oral al participar en la elaboración del capítulo dos, el diseño del modelo C4 y el apoyo en el desarrollo de la landing page, transmitiendo conceptos técnicos de manera clara según el nivel de la audiencia.<br>**TB1:** Desarrolló el módulo de **Service Requests** del frontend, explicando el flujo de solicitudes, las operaciones CRUD y la conexión con `json-server` mediante `db.json`.<br>**AV2:** Fortaleció la comunicación oral al explicar el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, además del despliegue del Front-End, Back-End y base de datos, detallando el proceso de integración y la corrección de errores encontrados de manera clara para distintos niveles de audiencia.<br>**TB2:** Expuso el proceso de integración entre el Front-End y el Back-End del módulo de **Service Requests**, describiendo el consumo de servicios REST, la validación del flujo de datos, la resolución de errores detectados durante las pruebas y las mejoras implementadas para garantizar la estabilidad y el correcto funcionamiento del sistema.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Redactó descripciones técnicas para los diagramas de Wireflow y Userflow, transformando conceptos de diseño en lenguaje formal apto para un informe académico.<br>**TB1:** Desarrolló el módulo de **Reports**, presentando el funcionamiento de formularios, filtros dinámicos, vistas de detalle y operaciones CRUD implementadas en Angular con conexión a `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Reporting**, explicando su implementación tanto en el Front-End como en el Back-End de manera clara y comprensible.<br>**TB2:** Explicó la integración completa del bounded context de **Reporting**, detallando el consumo de la API, la sincronización entre el Front-End y el Back-End, la validación de respuestas, la corrección de incidencias detectadas durante las pruebas funcionales y las optimizaciones implementadas para mejorar la estabilidad del sistema.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** Planteó las user stories y diseñó el sprint de la entrega, planificando el product backlog y proyectando las necesidades de los segmentos en el desarrollo de la aplicación.<br>**TB1:** Implementó el módulo de **Assets Management**, comunicando la organización de activos, visualización de datos y funcionamiento dinámico del frontend conectado mediante `json-server`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Assets Management** tanto en el Front-End como en el Back-End, explicando su funcionamiento de manera clara.<br>**TB2:** Presentó el proceso de integración del módulo de **Assets Management** con los servicios del Back-End, explicando el intercambio de información, la validación de operaciones CRUD, la identificación y corrección de errores funcionales, así como las mejoras aplicadas para optimizar el desempeño y la experiencia de uso del sistema.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Participó en la elaboración del Capítulo I, el análisis Lean UX y el diseño de la landing page, logrando explicar conceptos técnicos y de negocio de forma efectiva según el contexto.<br>**TB1:** Desarrolló el módulo de **Monitoring**, explicando la visualización de estados, métricas y monitoreo de equipos usando datos simulados desde `db.json`.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo del bounded context de **Monitoring** en el Front-End y el Back-End, explicando su implementación de manera clara.<br>**TB2:** Explicó la integración del módulo de **Monitoring** con el Back-End, describiendo el consumo de servicios, la actualización de información, el proceso de depuración de errores y las mejoras realizadas para garantizar la confiabilidad del monitoreo dentro de la plataforma.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Organizó el sprint en base a las user stories generadas y contribuyó a la realización y despliegue de la landing page.<br>**TB1:** Implementó el **Dashboard** principal del frontend, presentando métricas, tarjetas y visualizaciones dinámicas para facilitar la interpretación de información operativa.<br>**AV2:** Fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, explicando su implementación en el Front-End y el Back-End de manera clara para distintos tipos de audiencia.<br>**TB2:** Expuso la integración del **Dashboard** y **Feedback** con los servicios del Back-End, detallando el consumo de información, la sincronización de componentes, la corrección de errores detectados durante la integración y las mejoras implementadas para asegurar un funcionamiento estable y consistente del sistema. | **AV1:** El equipo logró comunicar oralmente con efectividad al presentar la problemática, el proceso de needfinding y las soluciones propuestas mediante wireframes, mockups y la demostración de la landing page desplegada, transmitiendo ideas técnicas de manera clara según el tipo de audiencia.<br><br>**TB1:** El equipo fortaleció la comunicación oral mediante la exposición funcional del frontend desarrollado en Angular, explicando el funcionamiento de módulos interactivos, operaciones CRUD y consumo de datos simulados mediante `json-server` y `db.json`.<br><br>**AV2:** El equipo fortaleció la comunicación oral al exponer el desarrollo de los bounded contexts de **Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback**, **Service Requests** y **Proveedores**, así como el despliegue e integración del Front-End, el Back-End y la base de datos, transmitiendo el progreso técnico de manera clara según el tipo de audiencia.<br><br>**TB2:** El equipo fortaleció la comunicación oral al presentar el proceso de integración completa entre el Front-End y el Back-End, explicando el consumo de servicios REST, la validación de funcionalidades, la resolución de errores identificados durante las pruebas de integración y las mejoras implementadas para garantizar la estabilidad, consistencia y correcto funcionamiento de toda la plataforma. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Galindo Montero, Alejandro Manuel**<br>**AV1:** La redacción de documentación y la organización de información técnica le permitieron estructurar ideas de forma clara y coherente, adaptando el contenido para distintos tipos de audiencia.<br>**TB1:** Documentó el funcionamiento del módulo de **Service Requests**, describiendo componentes, endpoints y flujo de datos conectados mediante `db.json`.<br>**AV2:** Documentó el desarrollo de la vista de **Proveedores** y del módulo de **Service Requests**, así como el proceso de despliegue e integración entre el Front-End, el Back-End y la base de datos, describiendo de forma clara la configuración realizada y la resolución de errores encontrados.<br>**TB2:** Documentó el proceso de integración del Front-End con el Back-End para el módulo de **Service Requests**, describiendo los endpoints consumidos, el flujo de comunicación entre capas, las validaciones implementadas, las incidencias detectadas durante las pruebas y las soluciones aplicadas para asegurar la estabilidad del sistema.<br><br>**Perez Tuesta, Gabriel**<br>**AV1:** Sintetizó procesos técnicos complejos en instrucciones directas, diferenciando claramente los perfiles de Administrador y Proveedor.<br>**TB1:** Documentó la implementación del módulo de **Reports**, incluyendo formularios, filtros, operaciones CRUD y arquitectura frontend desarrollada en Angular.<br>**AV2:** Documentó el desarrollo del bounded context de **Reporting**, describiendo su arquitectura e implementación tanto en el Front-End como en el Back-End.<br>**TB2:** Elaboró la documentación técnica de la integración del bounded context de **Reporting**, detallando la comunicación entre el Front-End y el Back-End, los servicios REST implementados, la estructura de intercambio de datos, las correcciones realizadas y las mejoras incorporadas durante el proceso de integración.<br><br>**Cuentas Peña, Joaquin**<br>**AV1:** El product backlog permitió enfocarse en las tareas más importantes para la entrega, comunicando ideas de forma eficaz.<br>**TB1:** Redactó la documentación funcional del módulo de **Assets Management**, organizando procesos de gestión de activos y comportamiento dinámico del frontend.<br>**AV2:** Documentó el desarrollo del bounded context de **Assets Management**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br>**TB2:** Documentó la integración del módulo de **Assets Management** con el Back-End, describiendo los servicios implementados, las validaciones efectuadas, el flujo de información entre componentes, la resolución de errores y las mejoras realizadas para optimizar el funcionamiento del sistema.<br><br>**Cumba Rengifo, Leonardo Raúl**<br>**AV1:** Contribuyó en la elaboración del Capítulo I, el Solution Profile, el proceso Lean UX y la definición de segmentos, estructurando ideas de forma clara y coherente.<br>**TB1:** Documentó el módulo de **Monitoring**, describiendo la visualización de estados, métricas y consumo de datos desde `json-server`.<br>**AV2:** Documentó el desarrollo del bounded context de **Monitoring**, describiendo su arquitectura e implementación en el Front-End y el Back-End.<br>**TB2:** Elaboró la documentación de la integración del módulo de **Monitoring**, describiendo el consumo de servicios, la sincronización de datos, las pruebas realizadas, la corrección de incidencias y las mejoras implementadas para garantizar el correcto monitoreo del sistema.<br><br>**Fajardo Monrroy, Walter Luis**<br>**AV1:** Comunicó adecuadamente la división de tiempos del proyecto mediante la metodología SCRUM usando sprints.<br>**TB1:** Elaboró la documentación del **Dashboard**, describiendo la estructura visual, componentes y organización de indicadores en el frontend.<br>**AV2:** Documentó el desarrollo de los bounded contexts de **Dashboard** y **Feedback**, describiendo su implementación y funcionamiento dentro del sistema.<br>**TB2:** Documentó la integración de los módulos **Dashboard** y **Feedback** con el Back-End, describiendo la arquitectura implementada, el consumo de servicios, la corrección de errores detectados durante las pruebas de integración y las mejoras aplicadas para optimizar la estabilidad y el rendimiento de la plataforma. | **AV1:** El equipo fortaleció su comunicación escrita mediante documentación estructurada que incluyó el análisis de la problemática, el proceso de needfinding, wireframes, mockups y diagramas de clases y base de datos.<br><br>**TB1:** El equipo fortaleció la comunicación escrita mediante la documentación del frontend desarrollado en Angular, incluyendo componentes, vistas, formularios, filtros y operaciones CRUD conectadas mediante `json-server` y `db.json`, explicando de manera clara la arquitectura y flujo de datos del sistema.<br><br>**AV2:** El equipo fortaleció la comunicación escrita mediante la documentación de los bounded contexts implementados en este sprint (**Reporting**, **Assets Management**, **Monitoring**, **Dashboard**, **Feedback** y **Service Requests**), así como del proceso de despliegue, integración y corrección de errores entre el Front-End, el Back-End y la base de datos.<br><br>**TB2:** El equipo fortaleció la comunicación escrita mediante la documentación detallada del proceso de integración entre el Front-End y el Back-End, describiendo la arquitectura cliente-servidor implementada, el consumo de APIs REST, la validación de funcionalidades, la resolución de incidencias detectadas durante las pruebas de integración y las mejoras realizadas para incrementar la estabilidad, mantenibilidad y confiabilidad de la solución desarrollada. |
 
 ---
 
@@ -1209,21 +1261,16 @@ La sección de prototipado muestra un modelo interactivo y funcional que permite
 ### 4.6.3 Software Architecture Container Diagrams
 
 <div align="center">
-<img src="assets/chapter04/FrigoraContainerDiagram.png" alt="Container Diagram" style="max-width: 90%;">
+<img src="assets/chapter04/improved-container-diagram.png" alt="Container Diagram" style="max-width: 90%;">
 <p><em>Figura 2: Container Diagrams.</em></p>
 </div>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
 <div align="center">
-<img src="assets/chapter04/ApiRestComponentDiagram.png" alt="API REST Component Diagram" style="max-width: 90%;">
-<p><em>Figura 3: API REST Component Diagrams.</em></p>
 
 <img src="assets/chapter04/AssetsManagementComponentDiagram.png" alt="Assets Management Component Diagram" style="max-width: 90%;">
 <p><em>Figura 4: Assets Management BC Component Diagrams.</em></p>
-
-<img src="assets/chapter04/DashboardComponentDiagram.png" alt="Dashboard Component Diagram" style="max-width: 90%;">
-<p><em>Figura 5: Dashboard BC Component Diagrams.</em></p>
 
 <img src="assets/chapter04/MonitoringComponentDiagram.png" alt="Monitoring Component Diagram" style="max-width: 90%;">
 <p><em>Figura 6: Monitoring BC Component Diagrams.</em></p>
@@ -1236,14 +1283,18 @@ La sección de prototipado muestra un modelo interactivo y funcional que permite
 
 <img src="assets/chapter04/TechniciansComponentDiagram.png" alt="Technicians Component Diagram" style="max-width: 90%;">
 <p><em>Figura 9: Technicians BC Component Diagrams.</em></p>
+
+<img src="assets/chapter04/ApiRestComponentDiagram.png" alt="API REST Component Diagram" style="max-width: 90%;">
+<p><em>Figura 3: API REST Component Diagrams.</em></p>
 </div>
+
 
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams
 
 <div align="center">
-<img src="assets/chapter04/frigora-class-diagram.png" alt="Class Diagram" style="max-width: 95%;">
+<img src="assets/chapter04/improved-class-diagram.png" alt="Class Diagram" style="max-width: 95%;">
 <p><em>Figura 1: Class Diagram.</em></p>
 </div>
 
@@ -1390,13 +1441,13 @@ Para publicar en **GitHub Pages**:
 
 | US ID | US Título | Task ID | Task Título | Descripción | Horas | Asignado | Estado |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US-20 | Visualizar propuesta de valor | UT-01 | Crear sección "Hero" | Diseñar y añadir la sección Hero que comunique el monitoreo inteligente IoT. | 2 | Walter Fajardo | Done |
-| US-21 | Explorar soluciones por rubro | UT-01 | Crear sección "Soluciones" | Redactar y maquetar tarjetas de soluciones para supermercados, laboratorios y sector alimentario. | 3 | Joaquin Cuentas | Done |
-| US-22 | Comprender funcionalidades clave | UT-01 | Crear sección "Características" | Diseñar la sección con telemetría, alertas preventivas y control de temperatura. | 3 | Alejandro Galindo | Done |
-| US-23 | Conocer misión y visión | UT-01 | Crear sección "Nosotros" | Añadir sección visual que refleje la misión y visión de la startup. | 1.5 | Gabriel Perez | Done |
-| US-24 | Contactar equipo de ventas | UT-01 | Diseñar formulario de "Contacto" | Maquetar formulario con Nombre, RUC, Teléfono y Mensaje. | 2 | Leonardo Cumba | Done |
-| US-24 | Contactar equipo de ventas | UT-02 | Definir flujo de validación | Prototipar mensajes de éxito/error al enviar el formulario. | 1.5 | Gabriel Perez | Done |
-| US-25 | Acceder a la plataforma (CTA) | UT-01 | Crear Navbar y botón CTA | Añadir barra de navegación con botón "Ingresar" que redirija al Login. | 1 | Leonardo Cumba | Done |
+| US-20 | Visualizar la propuesta de valor principal | UT-01 | Crear sección "Hero" | Diseñar y añadir la sección Hero que comunique el monitoreo inteligente IoT. | 2 | Walter Fajardo | Done |
+| US-21 | Explorar soluciones específicas para mi rubro | UT-01 | Crear sección "Soluciones" | Redactar y maquetar tarjetas de soluciones para supermercados, laboratorios y sector alimentario. | 3 | Joaquin Cuentas | Done |
+| US-22 | Comprender las funcionalidades clave | UT-01 | Crear sección "Características" | Diseñar la sección con telemetría, alertas preventivas y control de temperatura. | 3 | Alejandro Galindo | Done |
+| US-23 | Conocer la misión y visión | UT-01 | Crear sección "Nosotros" | Añadir una sección visual que refleje la misión y visión de la startup. | 1.5 | Gabriel Perez | Done |
+| US-24 | Contactar con el equipo de ventas | UT-01 | Diseñar formulario de contacto | Maquetar un formulario con los campos Nombre, RUC, Teléfono y Mensaje. | 2 | Leonardo Cumba | Done |
+| US-24 | Contactar con el equipo de ventas | UT-02 | Definir flujo de validación | Prototipar mensajes de éxito y error al enviar el formulario de contacto. | 1.5 | Gabriel Perez | Done |
+| US-25 | Acceder a la plataforma web (Call to Action) | UT-01 | Crear Navbar y botón CTA | Añadir la barra de navegación con el botón "Ingresar" que redirija al Login de la plataforma. | 1 | Leonardo Cumba | Done |
 
 #### 5.2.1.4 Development Evidence for Sprint Review
 
@@ -1486,8 +1537,8 @@ Landing Page desplegada en GitHub Pages: **https://coldtech-peru.github.io/Landi
 | **Sprint 2 Retrospective Summary** | Durante el sprint, a pesar de estar enfocado en el desarrollo técnico, permitió identificar oportunidades para mejorar nuestra dinámica de trabajo en equipo. En la retrospectiva, se destacó la necesidad de ajustar la duración de las reuniones diarias, redistribuir las tareas de acuerdo con las especialidades del equipo e incorporar una planificación individual con hitos verificables. Estas medidas tienen como objetivo incrementar la eficiencia en las próximas iteraciones. |
 | **Sprint Goal & User Stories**  
 | **Sprint 2 Goal** | Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de Frigora, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio. |
-| **Sprint 2 Velocity** | 36 |
-| **Sum of Story Points** | 51 |
+| **Sprint 2 Velocity** | 40 |
+| **Sum of Story Points** | 40 |
 
 
 #### 5.2.2.2 Aspect Leaders and Collaborators
@@ -1516,18 +1567,17 @@ Trello link: https://trello.com/invite/b/6a063f21d0fef018a6fdea7e/ATTI06db177762
 
 | User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| **US-01** | Registro de usuario | **UT-01** | Diseñar formulario de registro | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales. | 3 | [Walter Fajardo] | To do |
-| **US-02** | Inicio de sesión | **UT-01** | Implementar pantalla de login | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma. | 2 | [Leonardo Cumba] | To do |
-| **US-03** | Gestionar equipos de refrigeración | **UT-01** | Crear módulo de gestión de equipos | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración. | 4 | [Joaquin Cuentas] | To do |
-| **US-05** | Analizar el consumo energético de equipos | **UT-01** | Diseñar dashboard energético | Crear gráficos y paneles visuales para comparar el consumo energético de equipos. | 5 | [Alejandro Galindo] | To do |
-| **US-07** | Dar seguimiento al progreso del servicio | **UT-01** | Implementar vista de seguimiento | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos. | 3 | [Gabriel Perez] | To do |
-| **US-08** | Ver reporte de servicio realizado | **UT-01** | Crear vista de reporte técnico | Diseñar la interfaz para mostrar reportes detallados de servicios realizados. | 3 | [Walter Fajardo] | To do |
-| **US-10** | Ver historial de servicios | **UT-01** | Implementar historial de servicios | Crear tabla o listado cronológico de servicios realizados por cliente o equipo. | 3 | [Leonardo Cumba] | To do |
-| **US-12** | Registrar y gestionar técnicos | **UT-01** | Crear módulo de técnicos | Diseñar formularios y vistas para registrar, editar y administrar técnicos. | 4 | [Joaquin Cuentas] | To do |
-| **US-13** | Consultar el perfil de un técnico | **UT-01** | Diseñar perfil de técnico | Implementar pantalla con información, métricas y desempeño del técnico. | 2 | [Alejandro Galindo] | To do |
-| **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Crear vista de clientes y servicios | Diseñar listado de clientes junto con sus servicios asociados y estado actual. | 3 | [Gabriel Perez] | To do |
-| **US-18** | Visualizar equipos asignados a clientes | **UT-01** | Implementar listado de equipos asignados | Crear una vista donde se visualicen los equipos vinculados a cada cliente. | 3 | [Walter Fajardo] | To do |
-| **US-25** | Acceder a la plataforma web (Call to Action) | **UT-01** | Crear Navbar y botón CTA | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. | 1 | [Leonardo Cumba] | Done |
+| **US-01** | Registro de usuario | **UT-01** | Diseñar formulario de registro | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales. | 3 | Walter Fajardo | Done |
+| **US-02** | Inicio de sesión | **UT-01** | Implementar pantalla de login | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma. | 2 | Leonardo Cumba | Done |
+| **US-03** | Gestionar equipos de refrigeración | **UT-01** | Crear módulo de gestión de equipos | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración. | 4 | Joaquin Cuentas | Done |
+| **US-05** | Analizar el consumo energético de equipos | **UT-01** | Diseñar dashboard energético | Crear gráficos y paneles visuales para comparar el consumo energético de equipos. | 5 | Alejandro Galindo | Done |
+| **US-07** | Dar seguimiento al progreso del servicio | **UT-01** | Implementar vista de seguimiento | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos. | 3 | Gabriel Perez | Done |
+| **US-08** | Ver reporte de servicio realizado | **UT-01** | Crear vista de reporte técnico | Diseñar la interfaz para mostrar reportes detallados de servicios realizados. | 3 | Walter Fajardo | Done |
+| **US-10** | Ver historial de servicios | **UT-01** | Implementar historial de servicios | Crear una tabla o listado cronológico de servicios realizados por cliente o equipo. | 3 | Leonardo Cumba | Done |
+| **US-12** | Registrar y gestionar técnicos | **UT-01** | Crear módulo de técnicos | Diseñar formularios y vistas para registrar, editar y administrar técnicos. | 4 | Joaquin Cuentas | Done |
+| **US-13** | Consultar el perfil de un técnico | **UT-01** | Diseñar perfil de técnico | Implementar una pantalla con información, métricas y desempeño del técnico. | 2 | Alejandro Galindo | Done |
+| **US-17** | Visualizar clientes y servicios asociados | **UT-01** | Crear vista de clientes y servicios | Diseñar un listado de clientes junto con sus servicios asociados y estado actual. | 3 | Gabriel Perez | Done |
+| **US-18** | Visualizar equipos asignados a clientes | **UT-01** | Implementar listado de equipos asignados | Crear una vista donde se visualicen los equipos vinculados a cada cliente. | 3 | Walter Fajardo | Done |
 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
@@ -1789,8 +1839,8 @@ Insights del Front-End:
 | **Sprint 3 Retrospective Summary** | La retrospectiva permitió identificar oportunidades de mejora relacionadas con la distribución de tareas, la coordinación entre frontend y backend y la planificación de actividades individuales. Asimismo, se concluyó que una definición más detallada de los criterios de aceptación y revisiones periódicas de integración contribuirán a reducir retrabajos y optimizar el avance en los siguientes sprints.                                                                               |
 | **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Sprint 3 Goal**                  | Implementar las funcionalidades principales de Frigora mediante el desarrollo e integración del frontend y backend de la plataforma. El objetivo fue habilitar la gestión de usuarios, técnicos, equipos de refrigeración y solicitudes de mantenimiento, además de proporcionar una interfaz intuitiva que permita a los usuarios interactuar eficientemente con los servicios ofrecidos por el sistema.                                                                                        |
-| **Sprint 3 Velocity**              | 36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Sum of Story Points**            | 51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sprint 3 Velocity**              | 19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**            | 19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
 #### 5.2.3.2 Aspect Leaders and Collaborators
@@ -1814,27 +1864,14 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 El objetivo principal de este Sprint es elaborar el Backend y mejorar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
 
-| User Story ID | User Story Título                                  |  Task ID  | Task Título                               | Descripción                                                                                             | Estimación (Horas) | Asignado a          | Estado (To do/ In-Process/ To-Review/ Done) |
-| :-----------: | :------------------------------------------------- | :-------: | :---------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----------------: | :------------------ | :-----------------------------------------: |
-|   **US-01**   | Registro de usuario                                | **UT-01** | Diseñar formulario de registro            | Crear la interfaz de registro solicitando datos básicos del usuario y validaciones iniciales.           |          3         | [Walter Fajardo]    |                     Done                    |
-|   **US-02**   | Inicio de sesión                                   | **UT-01** | Implementar pantalla de login             | Diseñar la vista de inicio de sesión con validación de credenciales y acceso a la plataforma.           |          2         | [Leonardo Cumba]    |                     Done                    |
-|   **US-03**   | Gestionar equipos de refrigeración                 | **UT-01** | Crear módulo de gestión de equipos        | Diseñar formularios y tablas para registrar, editar y visualizar equipos de refrigeración.              |          4         | [Joaquin Cuentas]   |                     Done                    |
-|   **US-06**   | Solicitar y gestionar servicios de mantenimiento   | **UT-01** | Crear módulo de solicitudes de servicio   | Diseñar formularios y vistas para registrar, editar y gestionar solicitudes de mantenimiento.           |          4         | [Alejandro Galindo] |                     Done                    |
-|   **US-07**   | Dar seguimiento al progreso del servicio           | **UT-01** | Implementar vista de seguimiento          | Diseñar una pantalla que permita visualizar el estado y progreso de los servicios técnicos.             |          3         | [Gabriel Perez]     |                     Done                    |
-|   **US-09**   | Recepción de alertas sobre solicitudes de servicio | **UT-01** | Implementar sistema de alertas            | Crear notificaciones visuales para informar cambios importantes en las solicitudes de servicio.         |          3         | [Walter Fajardo]    |                     Done                    |
-|   **US-12**   | Registrar y gestionar técnicos                     | **UT-01** | Crear módulo de técnicos                  | Diseñar formularios y vistas para registrar, editar y administrar técnicos.                             |          4         | [Joaquin Cuentas]   |                     Done                    |
-|   **US-13**   | Consultar el perfil de un técnico                  | **UT-01** | Diseñar perfil de técnico                 | Implementar pantalla con información, métricas y desempeño del técnico.                                 |          2         | [Alejandro Galindo] |                     Done                    |
-|   **US-14**   | Asignar técnicos a servicios                       | **UT-01** | Implementar asignación de técnicos        | Desarrollar la funcionalidad para asignar técnicos a solicitudes de mantenimiento.                      |          3         | [Gabriel Perez]     |                     Done                    |
-|   **US-18**   | Visualizar equipos asignados a clientes            | **UT-01** | Implementar listado de equipos asignados  | Crear una vista donde se visualicen los equipos vinculados a cada cliente.                              |          3         | [Walter Fajardo]    |                     Done                    |
-|   **US-20**   | Visualizar la propuesta de valor principal         | **UT-01** | Diseñar sección principal de Landing Page | Implementar el banner principal destacando la propuesta de valor de Frigora.                            |          1         | [Leonardo Cumba]    |                     Done                    |
-|   **US-21**   | Explorar soluciones específicas para mi rubro      | **UT-01** | Crear sección de soluciones               | Diseñar la sección que presenta las soluciones ofrecidas para diferentes tipos de clientes.             |          2         | [Gabriel Perez]     |                     Done                    |
-|   **US-22**   | Comprender las funcionalidades clave               | **UT-01** | Implementar sección de funcionalidades    | Mostrar las funcionalidades principales de la plataforma mediante tarjetas informativas.                |          2         | [Walter Fajardo]    |                     Done                    |
-|   **US-23**   | Conocer la misión y visión                         | **UT-01** | Diseñar sección institucional             | Crear una sección informativa con la misión y visión de la empresa.                                     |          1         | [Joaquin Cuentas]   |                     Done                    |
-|   **US-24**   | Contactar con el equipo de ventas                  | **UT-01** | Implementar formulario de contacto        | Crear un formulario para que los usuarios puedan comunicarse con el equipo comercial.                   |          3         | [Alejandro Galindo] |                     Done                    |
-|   **US-25**   | Acceder a la plataforma web (Call to Action)       | **UT-01** | Crear Navbar y botón CTA                  | Añadir la barra de navegación superior con el botón "Ingresar" que redirija a la futura vista de Login. |          1         | [Leonardo Cumba]    |                     Done                    |
-|   **TS-02**   | Creación de solicitudes de mantenimiento (API)     | **UT-01** | Implementar endpoint de solicitudes       | Desarrollar los endpoints necesarios para registrar y consultar solicitudes de mantenimiento.           |          3         | [Walter Fajardo]    |                     Done                    |
-|   **TS-04**   | Registrar nuevo usuario a través de API RESTful    | **UT-01** | Implementar endpoint de registro          | Desarrollar el servicio backend para registrar usuarios y validar información de entrada.               |          3         | [Leonardo Cumba]    |                     Done                    |
-|   **TS-05**   | Consulta de estado de servicios por API            | **UT-01** | Implementar endpoint de consulta          | Crear los endpoints para consultar el estado actual de los servicios registrados.                       |          2         | [Alejandro Galindo] |                     Done                    |
+| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :---------------- | :-----: | :---------- | :---------- | :----------------: | :--------- | :-----------------------------------------: |
+| **US-06** | Solicitar y gestionar servicios de mantenimiento | **UT-01** | Crear módulo de solicitudes de servicio | Diseñar formularios y vistas para registrar, editar y gestionar solicitudes de mantenimiento. | 4 | Alejandro Galindo | Done |
+| **US-09** | Recepción de alertas sobre solicitudes de servicio | **UT-01** | Implementar sistema de alertas | Crear notificaciones visuales para informar cambios importantes en las solicitudes de servicio. | 3 | Walter Fajardo | Done |
+| **US-14** | Asignar técnicos a servicios | **UT-01** | Implementar asignación de técnicos | Desarrollar la funcionalidad para asignar técnicos disponibles a las solicitudes de mantenimiento registradas. | 3 | Gabriel Perez | Done |
+| **TS-02** | Creación de solicitudes de mantenimiento mediante API | **UT-01** | Implementar endpoint de solicitudes | Desarrollar los endpoints necesarios para registrar, consultar y actualizar solicitudes de mantenimiento. | 3 | Walter Fajardo | Done |
+| **TS-04** | Registrar nuevo usuario a través de API RESTful | **UT-01** | Implementar endpoint de registro | Desarrollar el servicio backend para registrar usuarios y validar la información recibida. | 3 | Leonardo Cumba | Done |
+| **TS-05** | Consulta de estado de servicios por API | **UT-01** | Implementar endpoint de consulta | Crear los endpoints necesarios para consultar el estado actual de los servicios registrados. | 2 | Alejandro Galindo | Done |
 
 <div align="center">
   <img src="assets/chapter05/sprint-backlog3.png"
@@ -2594,6 +2631,595 @@ En esta sección se presentan los últimos commits realizados en el repositorio 
 
 
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint 4                           | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Date**                           | 2026-07-08                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                           | 18:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Location**                       | Via Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                    | Alejandro Galindo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Attendees to planning meeting**  | Galindo Montero, Alejandro Manuel; Perez Tuesta, Gabriel; Fajardo Monrroy, Walter Luis; Cumba Rengifo, Leonardo Raul; Cuentas Peña, Joaquin Alberto                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 4 Review Summary**        | Se realizó el despliegue del Frontend y Backend, implementando funcionalidades orientadas al primer y segundo segmento objetivo. |
+| **Sprint 4 Retrospective Summary** | El equipo acordó encargarse de las tareas asignadas y colaborar con las demás áreas del proyecto del Frontend y Backend para alcanzar nuestro objetivo.                                                                               |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 4 Goal**                  | El objetivo de este sprint es completar la integración principal de Frigora conectando directamente el frontend con el backend. Esto implica enlazar la página con la aplicación de usuario y establecer la comunicación operativa con el sistema de gestión de datos. Con esta conexión final, los usuarios podrán ingresar y navegar sin problemas desde la página de inicio hasta la aplicación central, mientras que el backend proporcionará el soporte necesario para manejar entidades clave como equipos, solicitudes de servicio, técnicos, reportes y alertas. La integración entre la interfaz y el sistema de datos confirmará que ambos lados de la aplicación funcionan juntos, marcando un paso crucial hacia la finalización de la plataforma.                                                                                      |
+| **Sprint 4 Velocity**              | 34                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**            | 34                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+#### 5.2.4.2 Aspect Leaders and Collaborators
+
+Durante este cuarto sprint, el equipo se enfocó principalmente en la consolidación de la plataforma, priorizando la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable.
+
+Con el objetivo de optimizar la organización y la colaboración del equipo, se actualizó la matriz de Liderazgo y Colaboración (LACX), la cual asigna responsabilidades y roles específicos a cada miembro del equipo en relación con los aspectos clave abordados durante este cuarto Sprint.
+
+| Team Member <br> (Last Name, First Name) | Github Username | Resolución de errores de sprints previos <br> Leader (L) / Collaborator (C) | Seguridad, control de accesos y optimización de rendimiento <br> Leader (L) / Collaborator (C) | Refinamiento de funcionalidades y ajustes finales <br> Leader (L) / Collaborator (C) |
+|---|---|---|---|---|
+|Galindo Montero, Alejandro Manuel |AlejandroG12970 | L | L | L |
+|Perez Tuesta, Gabriel| Gabyoko | C | C | C |
+|Fajardo Monrroy, Walter Luis | WalterFajardo | C | C | C |
+|Cumba Rengifo, Leonardo Raul | LeonardoC72 | C | C | C |
+|Cuentas Peña, Joaquin Alberto | JoaCUPE | C | C | C |
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal de este Sprint es consolidar la plataforma mediante la resolución de errores detectados en sprints previos, el reforzamiento de la seguridad mediante el control de accesos y el refinamiento general de las funcionalidades para asegurar un sistema estable. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la optimización y estabilización de la aplicación web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, del cual se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+# Sprint Backlog 4
+
+| User Story ID | User Story Título | Task ID | Task Título | Descripción | Estimación (Horas) | Asignado a | Estado (To do/ In-Process/ To-Review/ Done) |
+| :-----------: | :---------------- | :-----: | :---------- | :---------- | :----------------: | :--------- | :-----------------------------------------: |
+| **US-04** | Recibir notificaciones de estado del equipo | **UT-01** | Implementar notificaciones de equipos | Desarrollar notificaciones que informen al usuario sobre cambios de estado, fallas o eventos importantes relacionados con los equipos de refrigeración. | 5 | Walter Fajardo | Done |
+| **US-11** | Realizar seguimiento a solicitudes de servicio | **UT-01** | Implementar seguimiento de solicitudes | Desarrollar la vista que permita consultar el estado, avance y técnico asignado a las solicitudes de mantenimiento. | 3 | Gabriel Perez | Done |
+| **US-15** | Generar reporte de desempeño de técnicos | **UT-01** | Implementar reporte de desempeño | Desarrollar reportes con métricas de productividad, tiempos de atención y servicios completados por cada técnico. | 8 | Alejandro Galindo | Done |
+| **US-16** | Configurar alertas de mantenimiento | **UT-01** | Implementar configuración de alertas | Desarrollar una interfaz que permita configurar alertas preventivas según fechas, temperaturas, estados y necesidades de mantenimiento. | 5 | Joaquin Cuentas | Done |
+| **US-19** | Recibir notificaciones de eventos importantes | **UT-01** | Implementar centro de notificaciones | Desarrollar un módulo que muestre eventos importantes relacionados con equipos, alertas y solicitudes de servicio. | 5 | Leonardo Cumba | Done |
+| **TS-01** | Gestión de alertas críticas vía API | **UT-01** | Implementar API de alertas | Desarrollar los endpoints REST para registrar, consultar y gestionar alertas críticas generadas por el sistema IoT. | 5 | Joaquin Cuentas | Done |
+| **TS-03** | Registro de intervenciones técnicas por API RESTful | **UT-01** | Implementar API de intervenciones | Desarrollar los endpoints REST para registrar las intervenciones realizadas por los técnicos durante un servicio. | 3 | Walter Fajardo | Done |
+
+<img width="1424" height="799" alt="Sprint4" src="https://github.com/user-attachments/assets/4376992a-1429-4e96-974e-4a29c5b6fa6c" />
+
+link trello:
+https://trello.com/invite/b/6a500d8fb191a398d872829b/ATTI000e5730796bbf45f562e702eb4cca5b2D538505/sprint-4
+
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los últimos commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+**Backend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `5484848` | update frigora-platform | 03/06/2026 |
+| develop | `b3620a5` | update frigora-platform | 03/06/2026 |
+| develop | `3b67e0a` | update bounded context: Reporting pe | 07/06/2026 |
+| develop | `2c17d55` | feat: add bc assets-management | 11/06/2026 |
+| develop | `467957e` | feat: update assets management | 11/06/2026 |
+| develop | `0314809` | feat: add service-request & IAM bounded contexts | 15/06/2026 |
+| develop | `934cf40` | fix: comments with wrong namespace | 15/06/2026 |
+| develop | `32d4a15` | feat: add delete method to service-requests & update enum Roles to accept any string | 16/06/2026 |
+| develop | `ad9aa48` | fix: show example schema for service-requests & users bc | 16/06/2026 |
+| develop | `a23e44a` | fix: add serialization to enums for frontend filters | 16/06/2026 |
+| develop | `6b33e30` | create bounded context: Technicians | 17/06/2026 |
+| develop | `e8081f3` | feat: update sites | 18/06/2026 |
+| develop | `20de589` | feat: update assets-management bc | 18/06/2026 |
+| develop | `dd29072` | feat: add feedback | 18/06/2026 |
+| develop | `7651bf3` | Merge pull request #1 from ColdTech-Peru/feature/service-requests — Feature/service requests | 18/06/2026 |
+| develop | `a1dbcbe` | Merge pull request #3 from ColdTech-Peru/feature/technicians — create bounded context: Technicians | 18/06/2026 |
+
+**Frontend**
+
+| Rama | Commit Hash | Mensaje | Fecha |
+|---|---|---|---|
+| develop | `af065f9` | feat: update sites and equipment API endpoints to get them by ownerId. Update login view and add upload file method for interventions | 06/07/2026 |
+| develop | `c747e17` | fix: update store to load sites and equipments in form | 06/07/2026 |
+| develop | `9e71aee` | fix: add leaflet marker images | 06/07/2026 |
+| develop | `1a994d9` | fix: update dashboard with fake IoT data, fix ack on alerts & add new translations | 07/07/2026 |
+| develop | `0923ee3` | fix: fix trend-chart.ts | 07/07/2026 |
+| develop | `a0fca17` | fix: update trend-chart.ts | 07/07/2026 |
+| develop | `70b7629` | fix: update trend-chart.ts | 07/07/2026 |
+| develop | `903877e` | fix: update trend-chart.ts to show fake IoT data | 07/07/2026 |
+| develop | `bad04c6` | fix: add fake temperature trend to simulate IoT | 07/07/2026 |
+| develop | `286d29d` | feat(equipments): add translation to equipment-detail.component.html | 07/07/2026 |
+| develop | `b5f0499` | fix: add insert photo evidence section for interventions | 07/07/2026 |
+| develop | `a7d0aa7` | fix: improve code quality | 07/07/2026 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En el Sprint 4 se desplegó la última versión de la Web Application de Frigora, implementando mejoras complementarias y esenciales para garantizar la eficiencia de cada una de las secciones de la aplicación. A continuación, se presentan las evidencias:
+
+
+## Register
+<div align="center">
+  <img src="assets/chapter04/register.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Login
+<div align="center">
+  <img src="assets/chapter04/login.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+# Owner View:
+
+## Dashboard
+
+Main Dashboard View:
+
+<div align="center">
+  <img src="assets/chapter04/dashboard.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Sites
+
+Main Sites View:
+
+<div align="center">
+  <img src="assets/chapter04/sites.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Site details:
+
+<div align="center">
+  <img src="assets/chapter04/sitedetail.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+New Sites:
+
+<div align="center">
+  <img src="assets/chapter04/newsites.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Monitoring
+
+Equipment:
+
+<div align="center">
+  <img src="assets/chapter04/monitoriing.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Detail Equipment:
+
+<div align="center">
+  <img src="assets/chapter04/viewmonitoring.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Add Equipment:
+
+<div align="center">
+  <img src="assets/chapter04/addmonitoring.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Alert:
+
+<div align="center">
+  <img src="assets/chapter04/alert.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Services
+
+Main Service View :
+
+<div align="center">
+  <img src="assets/chapter04/service.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Detail Service:
+
+<div align="center">
+  <img src="assets/chapter04/viewservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+New Service:
+
+<div align="center">
+  <img src="assets/chapter04/newservices.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Detail Intervention:
+
+<div align="center">
+  <img src="assets/chapter05/detalleintervenciones.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Report
+
+Main Report View:
+
+<div align="center">
+  <img src="assets/chapter04/reporting.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Detail Report:
+
+<div align="center">
+  <img src="assets/chapter04/viewreport.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Edit Report:
+
+<div align="center">
+  <img src="assets/chapter04/editreport.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Create Report:
+
+<div align="center">
+  <img src="assets/chapter04/createreporting.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+
+# Provider View:
+
+## Dashboard
+
+Main Dashboard View:
+
+<div align="center">
+  <img src="assets/chapter04/dashboardp.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Technicians
+
+Main Techicians View:
+
+<div align="center">
+  <img src="assets/chapter04/technicians.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Edit Technicians:
+
+<div align="center">
+  <img src="assets/chapter04/edit technicians.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Service Hub
+
+Main Service Hub View:
+
+<div align="center">
+  <img src="assets/chapter04/services hub.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+## Services
+
+Services List:
+
+<div align="center">
+  <img src="assets/chapter04/servicelist.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Completed Service:
+
+<div align="center">
+  <img src="assets/chapter04/completeservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Canceled Service:
+
+<div align="center">
+  <img src="assets/chapter04/canceledservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+In-Progress Services:
+
+<div align="center">
+  <img src="assets/chapter04/inprogresservice.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+**Interventions**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------- | :------------------------------------------- |
+| POST | /api/v1/interventions | Registrar una intervención |
+| GET | /api/v1/interventions/{interventionId} | Obtener intervención por ID |
+| GET | /api/v1/interventions/serviceRequest/{serviceRequestId} | Obtener intervenciones por Service Request ID |
+
+---
+
+**Reviews**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------------- | :--------------------------------------- |
+| GET | /api/v1/reviews | Obtener todas las reseñas |
+| POST | /api/v1/reviews | Crear una reseña |
+| GET | /api/v1/reviews/{reviewId} | Obtener reseña por ID |
+| GET | /api/v1/reviews/service-request/{serviceRequestId} | Obtener reseñas por Service Request ID |
+
+---
+
+**Technicians**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------- | :-------------------------------------- |
+| GET | /api/v1/technicians/{technicianId} | Obtener técnico por ID |
+| PUT | /api/v1/technicians/{technicianId} | Actualizar técnico |
+| DELETE | /api/v1/technicians/{technicianId} | Eliminar técnico |
+| GET | /api/v1/technicians | Obtener todos los técnicos |
+| POST | /api/v1/technicians | Crear un nuevo técnico |
+
+---
+
+**Authentication**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------- | :---------------- |
+| POST | /api/v1/authentication/sign-up | Registrarse |
+| POST | /api/v1/authentication/sign-in | Iniciar sesión |
+
+---
+
+**Alerts**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :----------------------------------------- | :----------------------------------------------------------- |
+| GET | /api/v1/alert | Obtener todas las alertas del usuario actual o filtradas por Equipment ID |
+| POST | /api/v1/alert | Crear una nueva alerta |
+| PATCH | /api/v1/alert/{id}/acknowledge | Marcar una alerta como reconocida |
+| GET | /api/v1/alert/{id} | Obtener alerta por ID |
+| DELETE | /api/v1/alert/{id} | Eliminar alerta |
+
+---
+
+**Users**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :-------------------------------- | :-------------------------------- |
+| GET | /api/v1/users | Obtener todos los usuarios |
+| GET | /api/v1/users/{id} | Obtener usuario por ID |
+| GET | /api/v1/users/role/{role} | Obtener usuarios por rol |
+
+---
+
+**ServiceRequests**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :---------------------------------------------------------------- | :----------------------------------------- |
+| POST | /api/v1/service-requests | Crear una solicitud de servicio |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/reject | Rechazar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/complete | Completar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/cancel | Cancelar una solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/assign-technician | Asignar un técnico a la solicitud |
+| PATCH | /api/v1/service-requests/{serviceRequestId}/accept | Aceptar una solicitud |
+| GET | /api/v1/service-requests/{serviceRequestId} | Obtener solicitud por ID |
+| DELETE | /api/v1/service-requests/{serviceRequestId} | Eliminar solicitud |
+| GET | /api/v1/service-requests/requester/{requesterId} | Obtener solicitudes por Requester ID |
+| GET | /api/v1/service-requests/provider/{providerId} | Obtener solicitudes por Provider ID |
+
+---
+
+**Site**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------------ | :-------------------------------- |
+| GET | /api/v1/sites | Obtener todos los sitios del usuario actual |
+| POST | /api/v1/sites | Crear un nuevo sitio |
+| GET | /api/v1/sites/{id} | Obtener sitio por ID |
+| DELETE | /api/v1/sites/{id} | Eliminar sitio |
+| GET | /api/v1/sites/by-owner/{ownerId} | Obtener sitios por Owner ID |
+
+---
+
+**Reporting**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :-------------------------------- | :----------------------------------------- |
+| GET | /api/v1/reports/{reportId} | Obtener reporte por ID |
+| PUT | /api/v1/reports/{reportId} | Actualizar reporte |
+| DELETE | /api/v1/reports/{reportId} | Eliminar reporte |
+| GET | /api/v1/reports | Obtener todos los reportes del usuario actual |
+| POST | /api/v1/reports | Crear un nuevo reporte |
+
+---
+
+**Equipment**
+
+| Verbo HTTP | Endpoint | Descripción |
+| :--------: | :------------------------------------- | :--------------------------------------- |
+| GET | /api/v1/equipment | Obtener todos los equipos del usuario actual |
+| POST | /api/v1/equipment | Crear un nuevo equipo |
+| GET | /api/v1/equipment/{id} | Obtener equipo por ID |
+| DELETE | /api/v1/equipment/{id} | Eliminar equipo |
+| GET | /api/v1/equipment/by-owner/{ownerId} | Obtener equipos por Owner ID |
+
+### Interventions
+
+<div align="center">
+  <img src="assets/chapter05/interventionsswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Reviews
+
+<div align="center">
+  <img src="assets/chapter05/reviewsswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Technicians
+
+<div align="center">
+  <img src="assets/chapter05/techniciansswaggerswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Authentication
+
+<div align="center">
+  <img src="assets/chapter05/authenticationsswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Alert
+
+<div align="center">
+  <img src="assets/chapter05/alertswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Users
+
+<div align="center">
+  <img src="assets/chapter05/userswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Service Request
+
+<div align="center">
+  <img src="assets/chapter05/servicerequestswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Site
+
+<div align="center">
+  <img src="assets/chapter05/siteswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Reporting
+
+<div align="center">
+  <img src="assets/chapter05/reportingswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+### Equipment
+
+<div align="center">
+  <img src="assets/chapter05/equipmentswagger.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para esta entrega, desplegamos una la versión final del FrontEnd, ultima versión del backend y nuestra base de datos para que pueda ser conectada en nuestra plataforma.
+
+**Despliegue del FrontEnd en Vercel**
+
+<div align="center">
+  <img src="assets/chapter05/frontend-deployment.png"
+       alt="Frontend deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://frigora-frontend.vercel.app/
+
+**Despliegue del BackEnd en Railway**
+
+<div align="center">
+  <img src="assets/chapter05/new-deploy-backend.png"
+       alt="Backend deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://frigora-platform-production.up.railway.app/swagger-ui/index.html
+
+**Despliegue de la base de datos en Railway**
+
+<div align="center">
+  <img src="assets/chapter05/database-deployment.png"
+       alt="Database deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+**Despliegue de la landing page en Github Pages**
+
+<div align="center">
+  <img src="assets/chapter05/landingpage-deploy.png"
+       alt="Landing deployment"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Link: https://coldtech-peru.github.io/Landing-Page/
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Frontend:
+
+<div align="center">
+  <img src="assets/chapter05/front.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
+Backend:
+
+<div align="center">
+  <img src="assets/chapter05/back.jpeg"
+       alt="Frontend apps"
+       style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -3152,27 +3778,41 @@ La aplicación **FullTank (PrimeFuel)** demuestra una arquitectura de flujo de p
 En este video se mostraron las principales funcionalidades de la aplicación, así como el propósito de nuestro producto y el alcance que tiene.
 
 <div align="center">
-  <img src="assets/chapter05/abouttheproduct.png"
+  <img src="assets/chapter05/preview-abouttheproduct.png"
        alt="About The Product"
        style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8rpPcW)
+Link del video: https://youtu.be/xIoqRMtT6DA
 
 
-## Conclusiones y recomendaciones
+## Conclusiones
 
-- Durante el Sprint se logró implementar las funcionalidades principales de Frigora tanto a nivel de frontend como de backend, permitiendo contar con una versión funcional de la plataforma capaz de gestionar información relacionada con usuarios, técnicos, equipos y servicios de mantenimiento.
+- Durante el desarrollo del Sprint 4 se logró consolidar una versión estable y funcional de Frigora, integrando los principales componentes del sistema tanto a nivel de Front-End como de Back-End. La plataforma actualmente permite gestionar procesos relacionados con usuarios, técnicos, equipos de refrigeración y solicitudes de servicio, estableciendo una base sólida para la evolución del producto.
 
-- La integración entre la interfaz de usuario y los servicios backend permitió validar el flujo completo de varias funcionalidades del sistema, reduciendo riesgos de integración y detectando tempranamente posibles inconsistencias entre los modelos de datos y la experiencia de usuario.
+- La integración entre la interfaz de usuario y los servicios backend permitió validar flujos completos del sistema, asegurando una comunicación adecuada entre las capas de presentación, lógica de negocio y persistencia de datos. Esto permitió identificar y corregir inconsistencias durante el desarrollo, mejorando la confiabilidad y experiencia de uso de la plataforma.
 
-- La definición de endpoints REST, junto con la implementación de módulos específicos para cada entidad del sistema, contribuyó a establecer una arquitectura organizada y escalable que facilitará el desarrollo de nuevas funcionalidades en futuras iteraciones.
+- La implementación de una arquitectura basada en servicios REST permitió organizar correctamente las funcionalidades del sistema mediante módulos independientes y escalables. Esta estructura facilita el mantenimiento del código, la incorporación de nuevas funcionalidades y la futura integración con tecnologías externas, como dispositivos IoT orientados al monitoreo inteligente de equipos de refrigeración.
 
-- El uso de Scrum, Trello y GitHub permitió mantener una adecuada coordinación entre los miembros del equipo, favoreciendo la distribución de tareas, el seguimiento del progreso y la integración continua de los avances realizados durante el Sprint.
+- El desarrollo realizado durante los distintos Sprints permitió transformar la propuesta inicial de Frigora en una solución tecnológica más cercana a un producto real, permitiendo gestionar operaciones de mantenimiento de manera digital y centralizada, reduciendo la dependencia de procesos manuales y mejorando la disponibilidad de información para la toma de decisiones.
 
-- La implementación simultánea de frontend y backend permitió obtener una versión más cercana al producto final, haciendo posible validar procesos completos de negocio en lugar de únicamente aspectos visuales o prototipos de interfaz.
+- La aplicación de metodologías ágiles como Scrum, junto con herramientas de gestión y control de versiones como Trello y GitHub, permitió mantener una organización adecuada del trabajo colaborativo, facilitando el seguimiento de actividades, la distribución de responsabilidades y la trazabilidad de los cambios realizados durante el proyecto.
 
-- El Sprint permitió consolidar la base tecnológica de Frigora, dejando preparados los componentes necesarios para incorporar funcionalidades avanzadas como analítica de consumo energético, generación de reportes y sistemas de notificaciones en las siguientes iteraciones.
+- La versión final alcanzada durante el Sprint 4 establece las bases necesarias para la incorporación de funcionalidades avanzadas en futuras iteraciones, como monitoreo en tiempo real mediante sensores IoT, análisis del comportamiento de los equipos, generación automática de alertas y herramientas de inteligencia para la prevención de fallas.
+
+## Recomendaciones
+
+- Se recomienda implementar una integración progresiva con dispositivos IoT capaces de recopilar información en tiempo real de los equipos de refrigeración, como temperatura, consumo energético, humedad u otros indicadores relevantes. Esto permitiría que Frigora evolucione hacia un sistema de monitoreo predictivo, generando alertas tempranas y reduciendo posibles pérdidas ocasionadas por fallas inesperadas.
+
+- Se recomienda desarrollar un módulo de reportes dentro de la plataforma que permita visualizar información histórica y estadística sobre los equipos, servicios realizados, incidencias registradas y comportamiento operativo. Esta funcionalidad facilitaría la toma de decisiones por parte de los propietarios y empresas encargadas del mantenimiento.
+
+- Se recomienda implementar la generación automática de reportes en formato PDF, permitiendo documentar los servicios de mantenimiento realizados, incluyendo información del equipo intervenido, técnico asignado, actividades ejecutadas, fechas, observaciones y evidencias asociadas. Esto proporcionaría un respaldo formal de las intervenciones realizadas y mejoraría la gestión documental del sistema.
+
+- Se recomienda incorporar un sistema de analítica de datos que permita identificar patrones de funcionamiento, consumo energético y frecuencia de fallas en los equipos. Mediante estos análisis, Frigora podría ofrecer recomendaciones preventivas y optimizar los planes de mantenimiento.
+
+- Se recomienda continuar fortaleciendo la seguridad del sistema mediante mejoras en la gestión de usuarios, control de permisos, auditoría de acciones realizadas y protección de la información almacenada, garantizando un uso confiable de la plataforma en escenarios empresariales.
+
+- Se recomienda mantener una estrategia de mejora continua basada en la retroalimentación de usuarios finales, con el objetivo de identificar nuevas necesidades, optimizar la experiencia de usuario e incorporar funcionalidades que aporten mayor valor al proceso de gestión y mantenimiento de equipos de refrigeración.
 
 
 ## Video About-the-Team
@@ -3201,10 +3841,12 @@ Link del video: [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_u
 | Frontend desplegado | https://frigora-frontend.vercel.app/ |
 | Fake API desplegado | https://fake-api-0233.onrender.com/ |
 | Landing Page desplegada | https://coldtech-peru.github.io/Landing-Page/ |
-| Backend desplegado | https://frigora-platform.onrender.com/ |
+| Backend desplegado | https://frigora-platform-production.up.railway.app/swagger-ui/index.html |
 | Video de exposición AV1 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/IQAwVSq8fQjySJapi2zSl6heAXLBV3ex_fNvqulDDFLlPh8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9sTbw) |
 | Video AV2 | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBVRZ0G1whGSqBKDTGPR81pASFd9HwcxJW7oGQpl_YesdM?e=4xgzuP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Video About-The-Product | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQDGDLnIK8O6RZj35jZ6adW0AWDV_x76LAIZBgrpXqgmH60?e=eLGBJH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Video TB1 | https://youtu.be/elN3Dfo3Wfk |
+| Video TB2 | [https://youtu.be/xIoqRMtT6DA](https://youtu.be/FYSt59eWfb0) |
+| Video About-The-Product | https://youtu.be/xIoqRMtT6DA |
 | Video About-The-Team | [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321264_upc_edu_pe/IQBBugoy_-XnQ6jwLUoHZ-YWAYTfKVYWk_x891LYGv_WTjg?e=D1S3Q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
